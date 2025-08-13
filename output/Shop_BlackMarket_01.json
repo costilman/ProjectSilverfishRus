@@ -1,0 +1,65 @@
+[
+  {
+    "Namespace": "",
+    "Key": "861E974846776E35A39A0E98CB5B1921",
+    "Hash": 1880546416,
+    "SourceString": "Black Market Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "05311DB540AEB25FD25AB08CB62EFAC9",
+    "Hash": 3632673243,
+    "SourceString": "Broker's Task",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DDED086745951D718A9222A298AF89B7",
+    "Hash": 3576510175,
+    "SourceString": "The Broker is willing to pay off massive portions of your debt if you bring him rare and unique treasures of the Zone. \r\n\r\nReturn to the Broker with leads of where to find these treasures, and he'll work out a deal with more details...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A585AF744A83B7BFC5FA82A1C225AC52",
+    "Hash": 16066862,
+    "SourceString": "SHOP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EE283BAE477938E2B69BFD81D737AB93",
+    "Hash": 4032171384,
+    "SourceString": "EXIT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DA216FE34E8B899D79E4CD85F0DEC2D3",
+    "Hash": 660861463,
+    "SourceString": "Black Market Shop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4C1FC1204DAEB0F7AA3BCFA04893C1CE",
+    "Hash": 660861463,
+    "SourceString": "Black Market Shop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A585AF744A83B7BFC5FA82A1C225AC52",
+    "Hash": 16066862,
+    "SourceString": "SHOP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EE283BAE477938E2B69BFD81D737AB93",
+    "Hash": 4032171384,
+    "SourceString": "EXIT",
+    "LocalizedString": ""
+  }
+]

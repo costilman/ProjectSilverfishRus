@@ -1,0 +1,58 @@
+[
+  {
+    "Namespace": "",
+    "Key": "763BFEE34ACA8448808A9EB2429C8A69",
+    "Hash": 1948404912,
+    "SourceString": "CANCEL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "96C5286547721EEEF04527BBC25AE026",
+    "Hash": 2822785959,
+    "SourceString": "CONFIRM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7D54695C4836428AA91BF3A74364D865",
+    "Hash": 2742382427,
+    "SourceString": "TITLE TEXT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AB4D11E54C8BD8DFEE713FA65301B0EE",
+    "Hash": 1874763060,
+    "SourceString": "Are You Sure?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C558FA534F35CB37946DCA99B539A7CE",
+    "Hash": 1948404912,
+    "SourceString": "CANCEL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DC1C9DB84C8DB60967FD75A40E6CDDBC",
+    "Hash": 2822785959,
+    "SourceString": "CONFIRM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ACBA63004560F7290A96A383ECF3BC9E",
+    "Hash": 2607740292,
+    "SourceString": "Are you sure that you wish to preform this action?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "064BB5634CA10EF4EB0C7195508D7816",
+    "Hash": 2535468871,
+    "SourceString": "TITILE TEXT",
+    "LocalizedString": ""
+  }
+]

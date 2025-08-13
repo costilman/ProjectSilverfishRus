@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "8A9D089B4D3C362BF796978BB7FD511A",
+    "Hash": 1579821081,
+    "SourceString": "TRADE ITEMS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C099E0F64F22D5F9315CCDAF81DD30A0",
+    "Hash": 3588205848,
+    "SourceString": "$100",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7AB7FDFF44DA0EF347894CA48CCFD03D",
+    "Hash": 3588205848,
+    "SourceString": "$100",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "14A6DD34485D9449DD7E098544B2718D",
+    "Hash": 1898187111,
+    "SourceString": "TRADE",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "Namespace": "",
+    "Key": "6E4D547448A69D1949A8448DAA276630",
+    "Hash": 692856776,
+    "SourceString": "CLOSE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B1DF2BCB4C999676FD835993E3EFE406",
+    "Hash": 2140056844,
+    "SourceString": "GIVE $1000",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "29DAB023457F95A545AA22AF143D9BBD",
+    "Hash": 2822785959,
+    "SourceString": "CONFIRM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E5C1A4894351CF6C834BD89CAABF3C42",
+    "Hash": 1550694582,
+    "SourceString": "FREE CAM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E2A0C97E4619E2257EA041AFB21199B5",
+    "Hash": 1534775515,
+    "SourceString": "GIVE BASIC GEAR",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "051F7F1E4B30D24FD2DD3EB254F020A1",
+    "Hash": 396834629,
+    "SourceString": "∞ AMMO [OFF]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "58B7E30743AA694024FE11B5C0C89843",
+    "Hash": 1421082397,
+    "SourceString": "FORWARD TIME",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C48F01A743A93C7EA0C3ACBE20FBBF71",
+    "Hash": 3072226293,
+    "SourceString": "KILL ALL NPCs",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "91EE1B2744B656614546DA9AE616F7FA",
+    "Hash": 1729239195,
+    "SourceString": "TEST MAP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BE9CE1A7480BCA7FFE7180816AF3A7A0",
+    "Hash": 1572545594,
+    "SourceString": "GIVE STARTING GEAR",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DA61E96F46D98A3F53E75E8B3DFCC92C",
+    "Hash": 1948404912,
+    "SourceString": "CANCEL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1D69F76D488D736F79E6778471B97AA3",
+    "Hash": 2521254185,
+    "SourceString": "CONTRACTS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "75D45E1042C0E615AABFDFA88BB0C96B",
+    "Hash": 1393248818,
+    "SourceString": "SET FLAG",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FDA9EE0741FEA3D102A86A9E5081B784",
+    "Hash": 1840595404,
+    "SourceString": "SHOW FPS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "030A637F44B0BBE2F753A692562BF456",
+    "Hash": 1657251633,
+    "SourceString": "GOD MODE [OFF]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8CE091D7434DFF120E1689AD2779AA11",
+    "Hash": 774998359,
+    "SourceString": "MAX REP ALL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5F1969B44871F909A8E088B0C1BC0C3F",
+    "Hash": 2132207230,
+    "SourceString": "EDIT PASSIVES",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E69F1F6B4F953355A0B6ED992294214F",
+    "Hash": 3130363201,
+    "SourceString": "CHEAT SHOP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B77C59D9469FCAC39358D8BFBA97DB25",
+    "Hash": 3867694406,
+    "SourceString": "TOGGLE WATERMARK",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B64DCDB9486EA51E30F493BF8BBF4BFD",
+    "Hash": 509501680,
+    "SourceString": "Flag Name",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7BBEFC354967BCA1F08448AC2A4D8236",
+    "Hash": 2805549248,
+    "SourceString": "Flag Value",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2E9E3E94D5FC514016D22A777F288D6",
+    "Hash": 1681328133,
+    "SourceString": "ALPHA 0.1.0",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A75500AB44C7FD35A000C2A96B2085FE",
+    "Hash": 4263930740,
+    "SourceString": "CHEATS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6678B3C3499B97C0AE4106B8D7C37D1D",
+    "Hash": 3895806820,
+    "SourceString": "$0",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E77A7EC841013DC2B945748B0731B8CC",
+    "Hash": 3928428167,
+    "SourceString": "USING THIS MENU IN ANY WAY\r\nIS CHEATING!\r\n\r\nTHERE IS NO LORE HERE!\r\n\r\nDO NOT REPORT ANY \"BUGS\"\r\nYOU SEE IN THIS MENU!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DA9F4712497678120C16D6876B092395",
+    "Hash": 2754051535,
+    "SourceString": "[ESC TO EXIT]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4E7D03084EB1D011472ACB86FCF170C3",
+    "Hash": 1396452044,
+    "SourceString": "FLAGS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5E834C704084772D78FE588750A0AAB5",
+    "Hash": 1251345815,
+    "SourceString": "Flag: 1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5D099DB540DF276BE7B170963B098B10",
+    "Hash": 4265884649,
+    "SourceString": "PASSIVES",
+    "LocalizedString": ""
+  }
+]

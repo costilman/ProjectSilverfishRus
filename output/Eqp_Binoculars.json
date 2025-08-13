@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "305C03F84CA350BFB2290D8CF12A57B7",
+    "Hash": 2753217922,
+    "SourceString": "View things from a greater distance.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "17417F4E414796583D16C58A629FDC4B",
+    "Hash": 3118479580,
+    "SourceString": "Tap :primary: to change zoom level.\r\n\r\nTap :reload: to mark and identify a target.",
+    "LocalizedString": ""
+  }
+]

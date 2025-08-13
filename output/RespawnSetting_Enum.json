@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "F22A85F34DE74DE7403669815DA4E68C",
+    "Hash": 868795173,
+    "SourceString": "Never Save",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "22EE915C48B4431C6B0503A42ED8ABCF",
+    "Hash": 2748412423,
+    "SourceString": "Save to Temp File",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B7B253AC4F074A2EBD61DABB58412A83",
+    "Hash": 3426572288,
+    "SourceString": "Save to Perm File",
+    "LocalizedString": ""
+  }
+]

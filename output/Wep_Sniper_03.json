@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "A0CE51A5407E716E33C9E0AB4BA5D301",
+    "Hash": 736366590,
+    "SourceString": "Heavy, modern, bolt-action Sniper rifle with shortened barrel and red-dot scope.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51CE13634669A256C6705398320FA06C",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": ""
+  }
+]

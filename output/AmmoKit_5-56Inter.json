@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "192953644486754822F2E08D8857BF0E",
+    "Hash": 2257300369,
+    "SourceString": "Ammo Kit:\r\n\r\n42 Rounds 5.56 FMJ\r\n24 Rounds 5.56 AP\r\n24 Rounds 5.56 Incendiary",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9B41B9CD4E968D22F55E3B80A41EF892",
+    "Hash": 731346318,
+    "SourceString": "Open",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "08717D514F972E24A652E792DF7C0843",
+    "Hash": 2484905851,
+    "SourceString": "Open to access ammo.",
+    "LocalizedString": ""
+  }
+]

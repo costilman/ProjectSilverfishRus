@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "E0D51769410202B86389CEBB864DA860",
+    "Hash": 829792470,
+    "SourceString": "New Game",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B59B4EC747AF04B73B709BB29629DCC6",
+    "Hash": 3541357052,
+    "SourceString": "Load Game",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7B9880744F51768B2E56848B4C095301",
+    "Hash": 711804200,
+    "SourceString": "Save Game",
+    "LocalizedString": ""
+  }
+]

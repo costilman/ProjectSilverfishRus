@@ -1,0 +1,86 @@
+[
+  {
+    "Namespace": "",
+    "Key": "6F6AE87C4D59164B3D4063BA66D7DB67",
+    "Hash": 674116147,
+    "SourceString": "Custom",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B4B5505C45E5CE80342074A0B4AABEB5",
+    "Hash": 1644490735,
+    "SourceString": "Customize your difficulty settings:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "405F0945400CF3863E0419A666EE909C",
+    "Hash": 1330002562,
+    "SourceString": "Mercy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36310F3E4593CD77DF4FE88D6EF7303B",
+    "Hash": 1067427730,
+    "SourceString": "On Death: \r\n-You respawn at your last bed.\r\n-All unsaved progress is lost.\r\n-You keep whatever was in your inventory at time of last save.\r\n\r\nAdditionally:\r\n-World Loot is replenished when you return to your home base.\r\n-The game Auto-saves after every level transition.\r\n-You can also save at beds.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6D872E844B073E086E1679A5BCB64BA7",
+    "Hash": 1285849701,
+    "SourceString": "Expedition",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1F38F7724CB6FC3157AFE0B6D45920FD",
+    "Hash": 42836168,
+    "SourceString": "On Death: \r\n-You fail your active contracts. \r\n-You choose 5 items from your inventory to keep, the rest are lost. \r\n-You respawn at your home base. \r\n-Otherwise your progress is saved. \r\n\r\nAdditionally:\r\n-World Loot is replenished when you return to your home base.\r\n-The game Auto-saves after every level transition.\r\n-You can also save at beds.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "08C6DB024D5E1771B230EABC102015A4",
+    "Hash": 262891634,
+    "SourceString": "Scavenger",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AA261CB54D8B7DAA7484F2BCFF8CB435",
+    "Hash": 334471727,
+    "SourceString": "On Death: \r\n-You fail your active contracts. \r\n-You choose 10 items from your inventory to keep, the rest are lost. \r\n-Each time you die, the number of items you can keep on death is reduced by one...\r\n-You respawn at your home base. \r\n-Otherwise your progress is saved. \r\n\r\nAdditionally:\r\n-World Loot is never replenished.\r\n-The game Auto-saves after every level transition.\r\n-You can also save at beds.\r\n-If you die more than 10 times, the game does not end...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5880A1634D6125935D36959C1A388DB7",
+    "Hash": 2002679051,
+    "SourceString": "9 Lives",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AA261CB54D8B7DAA7484F2BCFF8CB435",
+    "Hash": 334471727,
+    "SourceString": "On Death: \r\n-You fail your active contracts. \r\n-You choose 10 items from your inventory to keep, the rest are lost. \r\n-Each time you die, the number of items you can keep on death is reduced by one...\r\n-You respawn at your home base. \r\n-Otherwise your progress is saved. \r\n\r\nAdditionally:\r\n-World Loot is never replenished.\r\n-The game Auto-saves after every level transition.\r\n-You can also save at beds.\r\n-If you die more than 10 times, the game does not end...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "33E811D248A43F3D3839619FB73C413F",
+    "Hash": 993630798,
+    "SourceString": "Perma-Death",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4D130A9848CF3055400D02B67FC21942",
+    "Hash": 461356977,
+    "SourceString": "On Death: \r\n-You are returned to the main menu. \r\n-Your save file is deleted. \r\n\r\nAdditionally:\r\n-World Loot is never replenished.\r\n-The game Auto-saves after every level transition.\r\n-You can still save at beds as well. ",
+    "LocalizedString": ""
+  }
+]

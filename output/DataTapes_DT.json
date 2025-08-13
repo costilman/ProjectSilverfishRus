@@ -1,0 +1,422 @@
+[
+  {
+    "Namespace": "",
+    "Key": "0FCB22814C543A91C67C7B92140DD620",
+    "Hash": 4052163818,
+    "SourceString": "Empty Tape",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7A26275C46FAF21B640EA1ACAEE21DE8",
+    "Hash": 2559798578,
+    "SourceString": "NO DATA FOUND",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9D95725C4C2C6F8502B90C8CDD709A82",
+    "Hash": 3593126286,
+    "SourceString": "Test Tape",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6BA19E2A4861E90873D07D8E43365528",
+    "Hash": 1703171862,
+    "SourceString": "TEST TAPE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "54F4D77246FBFD3651C04E96B3A0B17B",
+    "Hash": 2697706657,
+    "SourceString": "This is a test of the Data Tape format.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4AF1F3A54FEECC035CE385ACF451EAE3",
+    "Hash": 971652623,
+    "SourceString": "Testing: Text Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8A41599B43EF01F5B34A698DA764535B",
+    "Hash": 565720553,
+    "SourceString": "Color Test",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E4B5B346416A2EEFB8809B8824965826",
+    "Hash": 1216068623,
+    "SourceString": "Testing: Sound",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4D735DA5409AC3F509AC499B83125C21",
+    "Hash": 338409840,
+    "SourceString": "Sound Test",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6B6B10EC47AC4BBB656A98B35776F99F",
+    "Hash": 2778931141,
+    "SourceString": "Testing: Images",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9DEC45904DF0DACD1C027192DDA5530D",
+    "Hash": 2124447531,
+    "SourceString": "PictureTest",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6B6B10EC47AC4BBB656A98B35776F99F",
+    "Hash": 2778931141,
+    "SourceString": "Testing: Images",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9DEC45904DF0DACD1C027192DDA5530D",
+    "Hash": 2124447531,
+    "SourceString": "PictureTest",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6D9C8C7E4F63C7948ABA7988B4805C3B",
+    "Hash": 2983237407,
+    "SourceString": "Testing: Animations",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F362B62B4AB39ECCF596408CDDCD3BEF",
+    "Hash": 3653437913,
+    "SourceString": "Animation Test",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE6C2572403449FD47078880BA3CC8C1",
+    "Hash": 709251289,
+    "SourceString": "TEST VIDEO",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE6C2572403449FD47078880BA3CC8C1",
+    "Hash": 709251289,
+    "SourceString": "TEST VIDEO",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "14A2D9A3416C226F713206BA081F9712",
+    "Hash": 2249062746,
+    "SourceString": "You may now eject this tape.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D9EF4CD24494886845F70ABF77EEF2E3",
+    "Hash": 2461264843,
+    "SourceString": "Test Complete",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "568510FE45DECA82E023738A85E66650",
+    "Hash": 1365996310,
+    "SourceString": "Object No. 0071: Discovery",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1BB1D1284367F97DA54D4EB0AC75CCB2",
+    "Hash": 623440780,
+    "SourceString": "“RED ROOT”",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "59BADF64425E41C4498C19A3FC21B7C5",
+    "Hash": 1997862344,
+    "SourceString": "Object No. 0071:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A9A205C646FE558ED15008AB7828674F",
+    "Hash": 2621564046,
+    "SourceString": "Initial discovery was made during an expansion of local drainage infrastructure…",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E1CE6594472170406E4ABB8D74CA4E4F",
+    "Hash": 787973586,
+    "SourceString": "Work was halted when the crew broke through into a natural cave formation.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "384B806F457585D50C05FBA57A0727CE",
+    "Hash": 1227083108,
+    "SourceString": "The workers ventured deeper before reporting their discovery to local authorities. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "16D870F34C55EEAE686AEA912942371B",
+    "Hash": 3607185625,
+    "SourceString": "Our research team was sent in to respond…",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "273B812A4A854C2ECC09459368930CC2",
+    "Hash": 3230767344,
+    "SourceString": "A large, natural cavity housed the structure: ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "894934574C6DCB3B769433BACF9078F0",
+    "Hash": 809275954,
+    "SourceString": "The structure is composed of a shiny red, seemingly organic material. The consistency is solid, dense and “waxy” to the touch…",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "644CB44644F140C2E73B009BE85C5A54",
+    "Hash": 2035660700,
+    "SourceString": "Our team collected a small sample from the structure to send back to Lab E-206 for further analysis… ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "85B429BA412E948FDE56A3B2A2D3618B",
+    "Hash": 4071978551,
+    "SourceString": "Further details pending…",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "854427D24930DBBDF028578F4E1A1A80",
+    "Hash": 1046283953,
+    "SourceString": "8613",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "56DB27E047E0C008B0D633B06729A45B",
+    "Hash": 1459348346,
+    "SourceString": "END OF TAPE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1C532C0241B74E243CD8B5B5E6EDA0DC",
+    "Hash": 164374478,
+    "SourceString": "DATA ENCRYPTED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9421B98C4ED41DA074330F9055B062AC",
+    "Hash": 164374478,
+    "SourceString": "DATA ENCRYPTED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0FCB22814C543A91C67C7B92140DD620",
+    "Hash": 4052163818,
+    "SourceString": "Empty Tape",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E50806C34B10819EA36156A109518210",
+    "Hash": 3004888090,
+    "SourceString": "::DISTRESS SIGNAL::",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E3B8A1346714339B4ED40BA1C24098A",
+    "Hash": 3045677574,
+    "SourceString": "::MAYDAY MAYDAY::",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "05EB0D0243F67AF0A802A182EEA43FE2",
+    "Hash": 354626740,
+    "SourceString": "::FLIGHT AF-902 DOWN::",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E3B8A1346714339B4ED40BA1C24098A",
+    "Hash": 3045677574,
+    "SourceString": "::MAYDAY MAYDAY::",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6D3068F84D94E0B20F881BAC26E87A72",
+    "Hash": 1745541306,
+    "SourceString": "::CRASH LANDING ON CLIFF OVERLOOKING NORTH SHORE OF LAKE BELLOWS::",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E3B8A1346714339B4ED40BA1C24098A",
+    "Hash": 3045677574,
+    "SourceString": "::MAYDAY MAYDAY::",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F9DAC97B4A4F320A62C36B94A8161BF5",
+    "Hash": 3977140469,
+    "SourceString": "::SOUTH-EAST OF OBSERVATORY::",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E3B8A1346714339B4ED40BA1C24098A",
+    "Hash": 3045677574,
+    "SourceString": "::MAYDAY MAYDAY::",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "70DD1EA0498DB0A84A1E0CA225FE26E0",
+    "Hash": 668214861,
+    "SourceString": "::REQUESTING CAS-EVAC::",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DDED534E465B4424B2AB18A9001B522E",
+    "Hash": 3045677574,
+    "SourceString": "::MAYDAY MAYDAY::",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DEB9625945A07D2EF6FC4BB8F6332011",
+    "Hash": 1693821009,
+    "SourceString": "Stone Maze Ground Survey",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D992F87E4A479CAD4B2979BA38481DE0",
+    "Hash": 207476996,
+    "SourceString": "9 Week Study",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "209CDEE640F54B1C8E1313B0992BD73E",
+    "Hash": 4266767785,
+    "SourceString": "Eather Ground Saturation:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5E83ADF2476C53186D3F549A8EE5A69D",
+    "Hash": 1688445004,
+    "SourceString": "For the first several weeks we saw nominal growth in saturation rates...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7C3D1D15445C841806ABD2B5408935D5",
+    "Hash": 801675876,
+    "SourceString": "It was at week 5 when we realized saturation was accelerating.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "04BA79D3479B3E88DC25C486BFE58CB6",
+    "Hash": 3037933923,
+    "SourceString": "By week 7 the local readings had crossed the critical boundary.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E67B92504184A668A8C468B3EAB26A4E",
+    "Hash": 770102817,
+    "SourceString": "This was alarming, but not unexpected...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9F12B8EB42C260286882E7819C073996",
+    "Hash": 1931922673,
+    "SourceString": "However, by week 9 it was clear that this acceleration was climbing exponentially.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "69C508864D4D120E2F292D8C5749D606",
+    "Hash": 3460082353,
+    "SourceString": "It is clear now that Dr. Mosby's fears were founded.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CA27DF7540ECD8B50C41FDADA7FC33B1",
+    "Hash": 3576806221,
+    "SourceString": "The Eather drill is active and increasing its production.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C8FAB3FD48C3C8F294C854BC0FCC33CA",
+    "Hash": 1459348346,
+    "SourceString": "END OF TAPE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A9D5E594473A3B703E459AA731C0260F",
+    "Hash": 1198706367,
+    "SourceString": "Data:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E1BC355E4FF4C37CA7B091ACECE796D4",
+    "Hash": 983617791,
+    "SourceString": "   ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "57212D31410B102260AD22BA65C3371B",
+    "Hash": 983617791,
+    "SourceString": "   ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FD139B8D47746D13F9DC28B71E335809",
+    "Hash": 3299409657,
+    "SourceString": "Telemetry Data",
+    "LocalizedString": ""
+  }
+]

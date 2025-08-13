@@ -1,0 +1,72 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B6D5AC48465EAB95C69C58A2F8F7CD14",
+    "Hash": 945924566,
+    "SourceString": "LoadOut",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "860E5D504ACD2A3CDA0CA08B9481A717",
+    "Hash": 1515193146,
+    "SourceString": "BackPack",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3782AB9C48F616427C233994736FA861",
+    "Hash": 3453940564,
+    "SourceString": "In Stash",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B35F2A48453ACBB2B7BF1CA513E10517",
+    "Hash": 595325593,
+    "SourceString": "Shop Buy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "93C83D7E4F79D8F867717D83EB44BB5C",
+    "Hash": 1897401797,
+    "SourceString": "None",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "95AB6F1F4A92A57E32D28AA81A6AFA00",
+    "Hash": 1768559847,
+    "SourceString": "GenericContainer",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "73D120794D55F6349A3E0FBD49917517",
+    "Hash": 2739758149,
+    "SourceString": "Spawner",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "43384B904DB580D73201B384E829C127",
+    "Hash": 2004162139,
+    "SourceString": "World",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "91D8C76946B2E0FE489A359FDEE3D793",
+    "Hash": 941372100,
+    "SourceString": "Shop Sell",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4C0451FC4E0AA9A2133C5E9A99D13822",
+    "Hash": 2793053128,
+    "SourceString": "Inventory to Stash",
+    "LocalizedString": ""
+  }
+]

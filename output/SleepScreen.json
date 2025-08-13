@@ -1,0 +1,37 @@
+[
+  {
+    "Namespace": "",
+    "Key": "BAAFCF7F425DDA2F7F925EB5A355B454",
+    "Hash": 1948404912,
+    "SourceString": "CANCEL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A1B1F92843F73C2B99D204B51407F2D8",
+    "Hash": 1622802920,
+    "SourceString": "5 Hours",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7E798681482F8F7CF961518465AD156A",
+    "Hash": 319783309,
+    "SourceString": "SLEEP FOR",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A1B81FA442EC02DB80A57CA04EDFF2D8",
+    "Hash": 518062113,
+    "SourceString": "00:00 Day 0",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6171CFE74F644087C8D120A2505C24D6",
+    "Hash": 2614152944,
+    "SourceString": "Wake Up",
+    "LocalizedString": ""
+  }
+]

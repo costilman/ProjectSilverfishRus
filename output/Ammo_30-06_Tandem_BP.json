@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "7E4FA95240F49286577648A8C21106EB",
+    "Hash": 4248015365,
+    "SourceString": "Used in Heavy Rifles, DMRs and LMGs.\r\n\r\nThree bullets stacked in-line within each cartridge. Trades accuracy and muzzle velocity for triple the hit chance. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD60297244C196D0B7C5FCBA58E078D0",
+    "Hash": 3463824463,
+    "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
+    "LocalizedString": ""
+  }
+]

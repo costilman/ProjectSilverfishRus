@@ -1,0 +1,93 @@
+[
+  {
+    "Namespace": "",
+    "Key": "14DB30F843B60816E37C6C88042C5A60",
+    "Hash": 3510886150,
+    "SourceString": "PRE-LOAD SHADERS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "52CC30024671C243F904EE8CB232ED5D",
+    "Hash": 1639295335,
+    "SourceString": "Pre-Compiles Shaders to your hard-drive.\r\n\r\nThis can allow for a smoother experience with better frame rates, less shuddering or chances of crashes. \r\n\r\nYou only need to do this operation before your first session or after updates or installing new graphics drivers. \r\n\r\nIf this operation crashes consistently, please report it to the developer!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "096D40684DFE3678F3F23F9FEA5703FF",
+    "Hash": 780035180,
+    "SourceString": "CREDITS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "69B300CB4DE84A54E7DB799B20C2F5AD",
+    "Hash": 93659615,
+    "SourceString": "START GAME",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2EC207A440A1504A9E8905A8C72FDA0C",
+    "Hash": 1974237037,
+    "SourceString": "Start Game;Start a new game or load an existing file.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "90BECCB84CFCBCD85A3611B2115F05E3",
+    "Hash": 1559199375,
+    "SourceString": "QUIT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5EF1AE5744D2EFDD5EF0B39A78E64108",
+    "Hash": 3314844521,
+    "SourceString": "Quit;Quit to Desktop.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9D0353F740DC56EC0165DA9F53B7D9C3",
+    "Hash": 2850147001,
+    "SourceString": "SETTINGS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "103A57BC49F8FBBC2B2BFD8D08E6FB7A",
+    "Hash": 735959433,
+    "SourceString": "Settings;Configure game and display settings...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0E70E46846B7A982261EE4BB1C7D0E2A",
+    "Hash": 1729239195,
+    "SourceString": "TEST MAP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "25DA27CE4B456AFA6884F0AA5079E734",
+    "Hash": 607935439,
+    "SourceString": "Test Map;Spawns you in the Test Level.\r\n\r\n[WARNING: Saving your game in the Test Level may cause issues with that save file!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CFE76AF4438A805391B409BD8D3ECC03",
+    "Hash": 1681328133,
+    "SourceString": "ALPHA 0.1.0",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E5EA611444FBD4DDF7D3EB8062D90B0E",
+    "Hash": 3586211510,
+    "SourceString": "PROJECT\r\nSILVERFISH",
+    "LocalizedString": ""
+  }
+]

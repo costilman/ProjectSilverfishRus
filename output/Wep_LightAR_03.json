@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "D6EFE39347E1A6EF41F4C19436C38ECF",
+    "Hash": 1114833943,
+    "SourceString": "Variant of the Type 18 rifle with Holo-sight and laser.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BF717CA94549A1AC63FBD083635D2B55",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": ""
+  }
+]

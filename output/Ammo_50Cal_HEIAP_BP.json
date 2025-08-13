@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "9066CCDC4CAE5BBFC1184EA52D7E0341",
+    "Hash": 3011889029,
+    "SourceString": "Used in Heavy Snipers and Anti-Materiel Weapons.\r\n\r\nHigh explosive, incendiary, armor piercing.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "872DC8A94784F587E2E1DC8A2B2BCB12",
+    "Hash": 3463824463,
+    "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "BB01B62440A89DBEBA14E28F549CB92C",
+    "Hash": 3680470484,
+    "SourceString": "Fully featured combat helm with gasmask, bright tac-light and Scouter goggles. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "65366397412B47BD108E818DB1FA61EF",
+    "Hash": 924957729,
+    "SourceString": "Press :HelmLight: to toggle on and off your Flashlight.",
+    "LocalizedString": ""
+  }
+]

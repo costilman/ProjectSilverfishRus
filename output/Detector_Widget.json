@@ -1,0 +1,44 @@
+[
+  {
+    "Namespace": "",
+    "Key": "2796116443DC65B6A9A0FDAD893190F5",
+    "Hash": 4278992284,
+    "SourceString": "0000mWB",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B51D915B4C4E6C6D4E04AC999D5DA6D1",
+    "Hash": 68115600,
+    "SourceString": "0000mSv",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E6AD15334861871360F46A9FBBB7321C",
+    "Hash": 3154673302,
+    "SourceString": "SENS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3FAA8B114743789AC8F080854B026619",
+    "Hash": 3882475830,
+    "SourceString": "RADS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3B1BEC2B4ECD0EB3BC60C184501CF3D4",
+    "Hash": 3716539027,
+    "SourceString": "READ:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "76AADF30487F7678DB5BA28677D25A8E",
+    "Hash": 4152292048,
+    "SourceString": "50mWB",
+    "LocalizedString": ""
+  }
+]

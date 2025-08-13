@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "097E3FF54E32E703E46FA98EC3F1854C",
+    "Hash": 1399434173,
+    "SourceString": "Blueprint: EMP Device",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "83FE414D427660F88943C897DC283D3C",
+    "Hash": 877165817,
+    "SourceString": "A set of Blueprints describing how to craft an EMP Device.",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Namespace": "",
+    "Key": "2025E01F475D16F4F4249AB90B0CB907",
+    "Hash": 692856776,
+    "SourceString": "CLOSE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "327E59D24ED93AF7252FA0B59958754A",
+    "Hash": 1898187111,
+    "SourceString": "TRADE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3C0855964734E3A72068C5AD76D29D68",
+    "Hash": 3538769832,
+    "SourceString": "CASH: $10000",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AC520A8E4137A4FCBD8D268774D1AD4A",
+    "Hash": 1119353602,
+    "SourceString": "NO TRADES AVAILABLE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "85AF9AA54FE6B4DADBAB3897E1F47F68",
+    "Hash": 3598429424,
+    "SourceString": "SHOP NAME",
+    "LocalizedString": ""
+  }
+]

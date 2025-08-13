@@ -1,0 +1,93 @@
+[
+  {
+    "Namespace": "",
+    "Key": "98DDBD404282FA3E419405B0FA262F6B",
+    "Hash": 3176650753,
+    "SourceString": "Agro",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F76057B141923E1C806A688713A7D7EA",
+    "Hash": 2079384748,
+    "SourceString": "Alert",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A1A39DF549702FBFEE050190D9C5D7E5",
+    "Hash": 1497939275,
+    "SourceString": "Search",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8D51AAE447DDC5CC8E15438E26F1B968",
+    "Hash": 3210106563,
+    "SourceString": "Idle",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "53CF7897426DD7A82D8E54BFA0B440B7",
+    "Hash": 1788268739,
+    "SourceString": "Panic",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9972285F413FB4D12F3244B95F6E1FC5",
+    "Hash": 1370520234,
+    "SourceString": "Victory",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8C02709B44E88A489958F8BCF65FF7C2",
+    "Hash": 118977826,
+    "SourceString": "Hurt",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6E2ABC4A45827E0FBC125C823DAD22DD",
+    "Hash": 1386733746,
+    "SourceString": "Death",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E67F9A6B43C6CADED38D77B26F27F722",
+    "Hash": 2679958319,
+    "SourceString": "ThrowNade",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CCA9DA874355441CAC6469913D30977C",
+    "Hash": 2631423341,
+    "SourceString": "Reloading",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D2418C79420C12FF7485BAABDBA22EA2",
+    "Hash": 2824505515,
+    "SourceString": "MiscAttack",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AB08220B47703215894881843EB58DA4",
+    "Hash": 1325959550,
+    "SourceString": "Greet",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6E8C302F4216C3136FB008BEAB14DE1E",
+    "Hash": 1600146942,
+    "SourceString": "Warn",
+    "LocalizedString": ""
+  }
+]

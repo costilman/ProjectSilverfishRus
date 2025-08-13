@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "38515CD24788D2E97BDFD881B7A0BB43",
+    "Hash": 3741978967,
+    "SourceString": "Military infantry helmet used by squad-leaders. Features a tac-light and Scouter. \r\n\r\nIt bears the color patterns of the military while obscuring the wearer's face... ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "143399F94B2EB4F43C10B49FB15EA0C9",
+    "Hash": 924957729,
+    "SourceString": "Press :HelmLight: to toggle on and off your Flashlight.",
+    "LocalizedString": ""
+  }
+]

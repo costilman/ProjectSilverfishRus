@@ -1,0 +1,44 @@
+[
+  {
+    "Namespace": "",
+    "Key": "CF3D41ED4C63300872DFA489365CDA01",
+    "Hash": 3538065736,
+    "SourceString": "Healing",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5E8B785A4ADBF80518A211A0B061D69E",
+    "Hash": 1981674865,
+    "SourceString": "Food",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A868F26A4ED59221FCEE0C8B68DBFCC2",
+    "Hash": 3486759128,
+    "SourceString": "Firepower",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A80D03A54483639CB089BBB0C2ABC421",
+    "Hash": 2039226689,
+    "SourceString": "Armor",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "617F240D4AA2DE00493D2CB375703A5C",
+    "Hash": 217163825,
+    "SourceString": "Value",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9B8F931341C58EB26C4CB3BB680973C1",
+    "Hash": 2469211174,
+    "SourceString": "A - Z",
+    "LocalizedString": ""
+  }
+]

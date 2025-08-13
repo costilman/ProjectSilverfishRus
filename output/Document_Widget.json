@@ -1,0 +1,44 @@
+[
+  {
+    "Namespace": "",
+    "Key": "BFEBA9CF4E77FC947AB5F3877EFCE8D8",
+    "Hash": 902901660,
+    "SourceString": "Add page to Journal Notes.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "UMG",
+    "Key": "TextBlockDefaultValue",
+    "Hash": 2937330400,
+    "SourceString": "Text Block",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "UMG",
+    "Key": "TextBlockDefaultValue",
+    "Hash": 2937330400,
+    "SourceString": "Text Block",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A54260564144CE44AB2F82A884ED1AB9",
+    "Hash": 2612631557,
+    "SourceString": "<",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "39F38BE44D320CCF03DBAE84924D42ED",
+    "Hash": 833638542,
+    "SourceString": ">",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "74CB2F974DA22929DFA1508933A1FE4B",
+    "Hash": 2826441680,
+    "SourceString": "01",
+    "LocalizedString": ""
+  }
+]

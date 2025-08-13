@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "4FDB763D4B429DE0183EF6B5B52A1600",
+    "Hash": 2183765240,
+    "SourceString": "Illuminates a tiny area around you. \r\n\r\nCan make you slightly more visible to enemies when they are looking directly at you.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "398B1BA844880B499B295FB541147006",
+    "Hash": 1399274088,
+    "SourceString": "Hold :secondary: to light things on fire.",
+    "LocalizedString": ""
+  }
+]

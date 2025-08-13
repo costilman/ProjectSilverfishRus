@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "814D77B74445738E19F758991000DB3F",
+    "Hash": 3768304816,
+    "SourceString": "World Quest",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B664C5404846CEB7D361F7804AB5FD48",
+    "Hash": 1984050450,
+    "SourceString": "Story Quest",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "02354B1242847B9B2087B7B3AEDB1334",
+    "Hash": 2634802467,
+    "SourceString": "Contract",
+    "LocalizedString": ""
+  }
+]

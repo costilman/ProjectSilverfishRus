@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "76FF188A4E051B2BB8569CB479020300",
+    "Hash": 423855009,
+    "SourceString": "Modified variant with Flashlight, Holo Sight, and Compensator for reducing recoil. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0FF841C34F51BBFF4500779D13DC5CED",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": ""
+  }
+]

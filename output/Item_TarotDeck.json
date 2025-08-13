@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "E10FDDC34E753F4C90CA38B554238BD7",
+    "Hash": 3484013266,
+    "SourceString": "Document:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51A4629A436F16D734BA3FB228937608",
+    "Hash": 944980531,
+    "SourceString": "This document holds nothing important...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1B86FC5746FC0A563044F3B02BDA3137",
+    "Hash": 1143058275,
+    "SourceString": "A deck of Tarot Cards: Some humans would draw cards from these decks to tell fortunes...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2E48EA0647E9E3B622A596A130B24275",
+    "Hash": 2154065159,
+    "SourceString": "DRAW CARD",
+    "LocalizedString": ""
+  }
+]

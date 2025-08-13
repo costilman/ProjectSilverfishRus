@@ -1,0 +1,44 @@
+[
+  {
+    "Namespace": "",
+    "Key": "60B8C9A5461660A9098D70B7968A0BD1",
+    "Hash": 2696345315,
+    "SourceString": "Search...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1E5AE6BD471AB23D20813AB42584B836",
+    "Hash": 3700736715,
+    "SourceString": "BUY BACK",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1540410B470DE407B8E1059AF5008A6B",
+    "Hash": 3245309902,
+    "SourceString": "INFINITE STOCK",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "04FD3B8C413BF70E70AFFFB3142D776D",
+    "Hash": 3616999128,
+    "SourceString": "LIMITED INVENTORY",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E9273A014B13A9C5F8F471B553E48053",
+    "Hash": 3598429424,
+    "SourceString": "SHOP NAME",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BF7F040149B514051DE76CB14053E04B",
+    "Hash": 3598429424,
+    "SourceString": "SHOP NAME",
+    "LocalizedString": ""
+  }
+]

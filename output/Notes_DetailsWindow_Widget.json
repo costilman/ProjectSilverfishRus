@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "44CAF28F4A5DFA2FA63B5A893A38E7A3",
+    "Hash": 2459308437,
+    "SourceString": "ADD NOTE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E01F222C4D9811D0DA095B918317FE6C",
+    "Hash": 692856776,
+    "SourceString": "CLOSE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "34660DDF4DD1DFD0B87AA787B1523464",
+    "Hash": 2924703266,
+    "SourceString": "DELETE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "40FBD7ED4F5CACD4DFEF249F2E3A070F",
+    "Hash": 4160053587,
+    "SourceString": "Note Title",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2E52A9F34FC10CE3A43899A995AF49E5",
+    "Hash": 2539743800,
+    "SourceString": "Type here to add a title...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B50E293E4FB2C9DCE29D0FA8E3AA7B16",
+    "Hash": 3008444660,
+    "SourceString": "Type here to add notes...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F7BC251C45F0F596FFFF79B36E02B19B",
+    "Hash": 1866750451,
+    "SourceString": "-Notes...\r\n-Notes...\r\n-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...-Notes...\r\n-Notes...",
+    "LocalizedString": ""
+  }
+]

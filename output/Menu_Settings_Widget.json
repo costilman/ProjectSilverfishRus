@@ -1,0 +1,933 @@
+[
+  {
+    "Namespace": "",
+    "Key": "9BF42D4D4BDF73F1EB9D5D90B90E6534",
+    "Hash": 424124070,
+    "SourceString": "APPLY AND EXIT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3BCE959D42CBDD5E9B8FD1A011920F1B",
+    "Hash": 3121399847,
+    "SourceString": "Apply and save all changes to settings, then exits menu.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "09D3CB1349CC64DA72FC258DCDC0121A",
+    "Hash": 1044069324,
+    "SourceString": "DEFAULTS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3C57A7FB4AC4D93B0445239ADE124843",
+    "Hash": 3416148904,
+    "SourceString": "Restore all settings to their defaults.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7475697443106A934DC2EFBB7C0CE20A",
+    "Hash": 347257845,
+    "SourceString": "GAMEPLAY",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE35F12C4BB44E4E485979983F6971ED",
+    "Hash": 1568376065,
+    "SourceString": "GRAPHICS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "44182BDF42199A36E3023F8A8E1EE32D",
+    "Hash": 2646999751,
+    "SourceString": "KEY BINDS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B233245D45D9D3BFF1227BAC643A258B",
+    "Hash": 1500479005,
+    "SourceString": "SOUND",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F7D9186B409D313BB6378DB504BB5150",
+    "Hash": 3065044747,
+    "SourceString": "When Checked: If a valid equip slot is empty, equipment will automatically become equipped after being picked up by the player.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2B926FAC459B151D863AB8ADC80A0122",
+    "Hash": 1872697562,
+    "SourceString": "Dynamic Particle Effects;Toggles on or off dynamic visual effects that may incur a high performance cost when enabled. \r\n\r\nThese effects are purely cosmetic and do not effect gameplay.\r\n\r\nRe-enabling these effects will not take place until a loading screen is traversed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F1B843834226ED38BC6201ACB59A6694",
+    "Hash": 287334584,
+    "SourceString": "Dynamic Resolution;Checked: Dynamically scales resolution for better frame rate.\r\n\r\nUnchecked: Runs at 100% native resolution.\r\n\r\nNOTICE: This setting's effect on performance can very between hardware!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AC1865534E9F6BFF33B4C688CC28320C",
+    "Hash": 3971435547,
+    "SourceString": "Enables Volumetric Fog.\r\n\r\nNOTICE: This feature is experimental and may cause minor visual bugs in some locations.\r\n\r\nThis setting is turned off by default as it can be very resource intensive on older hardware.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "694722E3488B8F9753DDD99FE8A7353C",
+    "Hash": 2576736904,
+    "SourceString": "Toggle Vertical Sync: This can sometimes help reduce screen tearing on certain hardware.\r\n\r\nNOTICE: The effects of this setting on performance can vary based on hardware! \r\nTest each mode to verify the best results for your machine.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9D20D8144F2F9345484B09A815728541",
+    "Hash": 3509407181,
+    "SourceString": "Enables Virtual Shadow Maps: \r\nCreates sharper, more detailed real-time shadows.\r\n\r\nNOTICE: This feature is experimental and may cause poor performance, especially in proximity to dense foliage. These issues may vary with hardware.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F3A02D804529DE47106962BC0A4ED685",
+    "Hash": 3906722628,
+    "SourceString": "LOW",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FDC4B23B431445DA39CA6B9572DD8BE8",
+    "Hash": 2685563794,
+    "SourceString": "MED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8AC2E2F43F1D727220422B16DEE5658",
+    "Hash": 1642337447,
+    "SourceString": "HIGH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F1C0CE3947A07209B2775BABE05467A7",
+    "Hash": 999560352,
+    "SourceString": "EPIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2FE9E6644A0AB6725B2ACAA7B463E76",
+    "Hash": 3986249648,
+    "SourceString": "UNREAL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8954551342FCB19DD2D945AF84EB2252",
+    "Hash": 3304888273,
+    "SourceString": "ANTI-ALIASING QUALITY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C490F17E4D231F2B2BF62A99C4F654EC",
+    "Hash": 1382218861,
+    "SourceString": "Lowering this setting can greatly improve performance on some hardware!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "83A77B3541BCC0C8A4439F80A13A49A8",
+    "Hash": 1756308069,
+    "SourceString": "OFF",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1B21C30C4DF867D84144388A7950CC16",
+    "Hash": 1841038738,
+    "SourceString": "FXAA",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F9897C8344EA25BCD70E4C8BE960602C",
+    "Hash": 2184665655,
+    "SourceString": "TAA",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4E24B2F14157BB81738BDC8BC314FFE8",
+    "Hash": 4261778448,
+    "SourceString": "TSR",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DB3213924C6256D49E52E0956155C8D9",
+    "Hash": 163472095,
+    "SourceString": "ANTI-ALIASING METHOD:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "599E73BE457AB44415F052B190B0392B",
+    "Hash": 1193239194,
+    "SourceString": "OFF: Deactivates Anti-Aliasing entirely. \r\n\r\nFXAA: A fast but low fidelity approximation. \r\n\r\nTAA: Standard method for UE5.\r\n\r\nTSR: Uses Upscaling instead of Anti-Aliasing. Recommended that you use a lower AA Quality level, especially on resolutions above 1080.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6D1E79224DF2348033C2D3B5CDC0B9A2",
+    "Hash": 3906722628,
+    "SourceString": "LOW",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AA0A961F4D70C4AA981608BB10E6E029",
+    "Hash": 2685563794,
+    "SourceString": "MED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4B4A08924294B25C31E321AAD5FC6B9C",
+    "Hash": 1642337447,
+    "SourceString": "HIGH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9C16A33347EB814C466635BCEA254E36",
+    "Hash": 999560352,
+    "SourceString": "EPIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EBFBC56C4DD2908D2DB05A959AE93938",
+    "Hash": 2704239190,
+    "SourceString": "Unreal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6F782841479D44ADA1C69DAEAED709D5",
+    "Hash": 3873141415,
+    "SourceString": "Effects QUALITY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "637357FF424AA4607B3C48A2EA17BC40",
+    "Hash": 3906722628,
+    "SourceString": "LOW",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EB151B2D4E24760C6A46A1A1062A755B",
+    "Hash": 2685563794,
+    "SourceString": "MED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FF6086754F116F3F6C463FBDC0FECA3C",
+    "Hash": 1642337447,
+    "SourceString": "HIGH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "68EC30AD4108443256FF67B711635558",
+    "Hash": 999560352,
+    "SourceString": "EPIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EBFBC56C4DD2908D2DB05A959AE93938",
+    "Hash": 2704239190,
+    "SourceString": "Unreal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "457C001B407A641129799E9CB7251C36",
+    "Hash": 3202300785,
+    "SourceString": "Foliage QUALITY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EE389CB5433A56C903503F9CB95AFE9A",
+    "Hash": 1382218861,
+    "SourceString": "Lowering this setting can greatly improve performance on some hardware!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9EA0F63F42E423F48966A3B047CC7389",
+    "Hash": 812456789,
+    "SourceString": "NONE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "62763203452119CF89FA8EB668B1B7BA",
+    "Hash": 2655744854,
+    "SourceString": "30",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A5FCF7474284D768592DEE9CDF96CC34",
+    "Hash": 3601562930,
+    "SourceString": "60",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "68AFBA2643302766C016FF903C4CC7F4",
+    "Hash": 769625502,
+    "SourceString": "75",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "52970B3A46CDA17B45FEFA911E6A4807",
+    "Hash": 3281653925,
+    "SourceString": "120",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CC80603B458D789BF7F05398EF3FF4F9",
+    "Hash": 2325188213,
+    "SourceString": "144",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "88B0EC5449162721323944A35C7EF14E",
+    "Hash": 1919667154,
+    "SourceString": "240",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1102F8044D80DCF8B2FD3B8B44237F1A",
+    "Hash": 2884337856,
+    "SourceString": "360",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B75008604089540C2DD765972F8DBB56",
+    "Hash": 138809258,
+    "SourceString": "FPS LIMIT:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1C79968E4A568E41E26DF4B58B326A13",
+    "Hash": 1602736049,
+    "SourceString": "Set a maximum frame-rate: This can sometimes help reduce screen tearing on certain hardware.\r\n\r\nNOTICE: The effects of this setting on performance can vary based on hardware! \r\nTest each mode to verify the best results for your machine.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "95BD65DD41E22C0F300AD68E617E3902",
+    "Hash": 3906722628,
+    "SourceString": "LOW",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "87364586459E82AC32C7449B7EEE2A9F",
+    "Hash": 2685563794,
+    "SourceString": "MED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C0436EDC43DA9CD67C8893AA2B17EDAC",
+    "Hash": 1642337447,
+    "SourceString": "HIGH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ECDFA18E408B0E771EB031A0DD5C2B9A",
+    "Hash": 999560352,
+    "SourceString": "EPIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2FE9E6644A0AB6725B2ACAA7B463E76",
+    "Hash": 3986249648,
+    "SourceString": "UNREAL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7BC9EF9A4A98E1D3FBFD87936C6E37D1",
+    "Hash": 3965021078,
+    "SourceString": "POST-PROCESSING QUALITY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "56E9065E4C67988352557FBEE8E571F1",
+    "Hash": 3906722628,
+    "SourceString": "LOW",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7A32872C4D2AF8276C64B799E1CE6B85",
+    "Hash": 2685563794,
+    "SourceString": "MED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AFACC56041BEC365B6BE8DA7CBE2F6FC",
+    "Hash": 1642337447,
+    "SourceString": "HIGH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8BFAE3BD46989275EE4FF5BBEF881148",
+    "Hash": 999560352,
+    "SourceString": "EPIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2FE9E6644A0AB6725B2ACAA7B463E76",
+    "Hash": 3986249648,
+    "SourceString": "UNREAL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0EC016C643A57123C163AF99FB257C76",
+    "Hash": 1399387557,
+    "SourceString": "REFLECTION QUALITY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "63A7E3CE4B82ABBB8BE1868356F38C80",
+    "Hash": 2080209551,
+    "SourceString": "Resolution:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "82BB37634CCD416FBC0BF1B1A7BBF0CD",
+    "Hash": 926731589,
+    "SourceString": "Normal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "34E642424B1CF5C643631A9F8E78D6C6",
+    "Hash": 92186970,
+    "SourceString": "Hidden",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "447737644CC21713CB2D4782EF5B3F9C",
+    "Hash": 1855793715,
+    "SourceString": "Always Show",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "73771BCD42C34903C8EDD08E2A19AFDA",
+    "Hash": 2692802224,
+    "SourceString": "Reticle Mode",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8A8D3F2B441840C51F91D8A794634D2F",
+    "Hash": 3942058948,
+    "SourceString": "Normal: Reticle will appear when you are looking at an up close surface.\r\n\r\nHidden: Reticle will always be hidden.\r\n\r\nAlways Show: Reticle will always be visible, however it will not account for weapon sway or recoil when firing from the hip.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2B8944F3496740D3E30845A8FCA8D058",
+    "Hash": 3906722628,
+    "SourceString": "LOW",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9B729AFC4B79DE94A6E07B8DA54CC280",
+    "Hash": 2685563794,
+    "SourceString": "MED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5AA871E341E15716359C888670DC72F3",
+    "Hash": 1642337447,
+    "SourceString": "HIGH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "519A150D493AF8CA3215508FA32A7220",
+    "Hash": 999560352,
+    "SourceString": "EPIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EBFBC56C4DD2908D2DB05A959AE93938",
+    "Hash": 2704239190,
+    "SourceString": "Unreal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A3A90FB844C0457202DD6FA5E7A5D88A",
+    "Hash": 2652333820,
+    "SourceString": "Shading QUALITY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F0F8967A48EE82D2B2CB91B9DF404AF8",
+    "Hash": 3906722628,
+    "SourceString": "LOW",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FE10EAD44F1AADEFF65277805EB42E97",
+    "Hash": 2685563794,
+    "SourceString": "MED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "17D1DBCD4BD25EC76E015DA47C79F002",
+    "Hash": 1642337447,
+    "SourceString": "HIGH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1A01FC114AAE837A1A637FA5F09AF941",
+    "Hash": 999560352,
+    "SourceString": "EPIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2FE9E6644A0AB6725B2ACAA7B463E76",
+    "Hash": 3986249648,
+    "SourceString": "UNREAL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DC3DA75E4D744F1009B43FA6486EB114",
+    "Hash": 1576700486,
+    "SourceString": "SHADOW QUALITY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8CDD02A34485440756D7369F4BF952D4",
+    "Hash": 1382218861,
+    "SourceString": "Lowering this setting can greatly improve performance on some hardware!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4E912BB8433C260C4D977081E0FC3992",
+    "Hash": 3906722628,
+    "SourceString": "LOW",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A57069AC401E9D233523ECBD2A8E3908",
+    "Hash": 2685563794,
+    "SourceString": "MED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "750BF84A4F64D4521910E9A5BA9BB375",
+    "Hash": 1642337447,
+    "SourceString": "HIGH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0E4778DD4BD3BF74FFA277B29A890267",
+    "Hash": 999560352,
+    "SourceString": "EPIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "82344EDC41EDE464646F5E9EB9B76BEA",
+    "Hash": 2190969431,
+    "SourceString": "SOURCE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9560185C4710E420E8BBA18EDDB1BFD5",
+    "Hash": 3378275919,
+    "SourceString": "texture QUALITY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CBD8F1994B10D2CDE15A2DAE56F73557",
+    "Hash": 3508407810,
+    "SourceString": "NOTICE: The effects of this setting on performance can vary based on hardware! \r\nLowering this setting may not necessarily improve frame-rates!\r\n\r\nOn some hardware, setting this to \"SOURCE\" may actually give the best performance. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5AAE28DA4FF754D174979D99740EF917",
+    "Hash": 3467939518,
+    "SourceString": "NEAR",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0506E08E4046C16B45B53E92729B67CB",
+    "Hash": 2685563794,
+    "SourceString": "MED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CF4CAA984E2CCDC74534489D9A252ABA",
+    "Hash": 548983077,
+    "SourceString": "FAR",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "22211F02476DB5F3856AC6B167E04668",
+    "Hash": 999560352,
+    "SourceString": "EPIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51C555D044EE1BE01A7CDF811DFA1270",
+    "Hash": 1706148980,
+    "SourceString": "VIEW DISTANCE:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "628238A24CCB352C3983E589B86906D3",
+    "Hash": 669013107,
+    "SourceString": "NOTICE: The effects of this setting on performance can vary based on hardware! \r\nLowering this setting may not necessarily improve frame-rates!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7A486A5A44C017B5AFF4D183BB3A1B53",
+    "Hash": 2392612424,
+    "SourceString": "Windowed",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B63DB5B94DCC12FFA469B49596ACD5E1",
+    "Hash": 2026951171,
+    "SourceString": "Borderless",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F30185EF413A56A84E935281EEB3CFC3",
+    "Hash": 2319740703,
+    "SourceString": "Full Screen",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BC63E1AE42DE8052A0235F812B155A39",
+    "Hash": 4032365121,
+    "SourceString": "Window Mode:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8FD6114040BE21DAE8F72FBA197FD143",
+    "Hash": 4055493792,
+    "SourceString": "NOTICE: The effects of this setting on performance can vary based on hardware! \r\nTest each mode to verify the best results for your machine.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "37C708B643BD66F458F1A086D6458DC9",
+    "Hash": 2650042649,
+    "SourceString": "MAX DECALS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AAA9DE9745F19EB4D17AC18F0D91F26B",
+    "Hash": 3822368993,
+    "SourceString": "Maximum number of dynamically spawned decals that can accumulate in the game world before they start getting culled. This includes things like bullet holes, blood splatter, scorch marks, ect.\r\n\r\nThis setting's impact on performance varies based on hardware as well as time spent on a particular map. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "099F32454B0DA1E21619E193EBA67B18",
+    "Hash": 2130766987,
+    "SourceString": "FIELD OF VIEW:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3B90F2DE46A5C1B506900BA32621F34B",
+    "Hash": 398673081,
+    "SourceString": "GAMMA:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "495F1E6B4140AC28CE71219743B49916",
+    "Hash": 775025181,
+    "SourceString": "Post-Process brightness multiplier.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "73779CAD432349D5087FE7887AFCFF7C",
+    "Hash": 3006550180,
+    "SourceString": "RESOLUTION QUALITY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "47A976D641C0B14ADC12EAA97DD90DB7",
+    "Hash": 1123291624,
+    "SourceString": "Percentage level of quality of render resolution:\r\n\r\n100% is raw resolution.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9D3465F440164966E710E8B19385CC05",
+    "Hash": 3157856603,
+    "SourceString": "Scope Sensitivity:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "193C3A9242DCC8E74CDDFDA4EF346CE2",
+    "Hash": 1396683566,
+    "SourceString": "Modifies mouse sensitivity while aiming a scoped weapon.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "208825B249D7F36DF9A252ADA981EE6E",
+    "Hash": 1740849452,
+    "SourceString": "MOUSE SENSITIVITY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D5F1951C4188F6402D9B58A5920B03E3",
+    "Hash": 883778382,
+    "SourceString": "UI Distortion:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "90034A584BF690C13308EA8B703F92EF",
+    "Hash": 2072858596,
+    "SourceString": "Adjusts intensity of distortion effect on all UI elements and text. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "491D5D954025BDEEBF2613AE7FBA44E5",
+    "Hash": 315556767,
+    "SourceString": "UI TEXTURE:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "785079C942972EF8E547298E079B3FD1",
+    "Hash": 2661215452,
+    "SourceString": "Adjusts intensity of pixilation filter on all UI elements and text. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E9B819074E7E8F9C08DF7C9B3D463DE8",
+    "Hash": 2907675564,
+    "SourceString": "View-Bob Amount:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B7D37A124F34CF81CC5A7B9CABA0475F",
+    "Hash": 2785719626,
+    "SourceString": "Adjusts intensity of view-bob effect while moving the character. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A3C15D1A40A6E9BACC1DE4B1E800B7A3",
+    "Hash": 1586952270,
+    "SourceString": "DIALOGUE VOL:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "860D7D79467EFB5B851B899DEBAAADC1",
+    "Hash": 2885719648,
+    "SourceString": "MASTER VOL:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6A340A41411A0E841B07FFB849BCE9D6",
+    "Hash": 1782697911,
+    "SourceString": "MUSIC VOL:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "801222544D0EFA7CBB4D39B75581ECD7",
+    "Hash": 1655685530,
+    "SourceString": "EFFECTS VOL:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0E4AB6754923499E0AC036B2EB703847",
+    "Hash": 347257845,
+    "SourceString": "GAMEPLAY",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B7F4262F400CBF918C1BB9B4F85F327B",
+    "Hash": 2850147001,
+    "SourceString": "SETTINGS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0389E20B478A36FDC13FCBB05C9AF5F8",
+    "Hash": 3111645165,
+    "SourceString": "V-SYNC:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AB3358A7466D2040A42D13B5144D3CB2",
+    "Hash": 2491511608,
+    "SourceString": "AUTO EQUIP:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "52910D4141775CA5D58E2DA498593B21",
+    "Hash": 4194640213,
+    "SourceString": "AUTO SORT INVENTORY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8089A4DA4BA6C7FAFB90DD9DB0CE1D34",
+    "Hash": 2995890018,
+    "SourceString": "DYNAMIC FX:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EF2876D04CBAA5CEC1C0C28D0C05783E",
+    "Hash": 316376657,
+    "SourceString": "INVERT Y AXIS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3DA776884A846393FA4962A397A67B56",
+    "Hash": 1459775408,
+    "SourceString": "VOLUMETRIC FOG:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0DBD588A44480148901A929AC337FB7F",
+    "Hash": 326007628,
+    "SourceString": "INVERT X AXIS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F66DE16343961CD1B22E629292809572",
+    "Hash": 3842650881,
+    "SourceString": "TOGGLE CROUCH:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D7C3684C4EE2732CA3855CB34949CB5A",
+    "Hash": 3747457800,
+    "SourceString": "TOGGLE AIMING:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BF4D4BC542808B3F5366478C3937856B",
+    "Hash": 2236042122,
+    "SourceString": "TOGGLE SPRINT:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8D802F1C4A2C1B190C1902A4A7EA2635",
+    "Hash": 1890318578,
+    "SourceString": "DYNAMIC RESOLUTION:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4F50A08241A4187CAE6DA1ACE1A3B123",
+    "Hash": 3193964963,
+    "SourceString": "VIRTUAL SHADOWMAPS:",
+    "LocalizedString": ""
+  }
+]

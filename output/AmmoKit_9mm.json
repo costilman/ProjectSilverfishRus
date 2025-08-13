@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "18E566264760ED95F3FF5A8DF60E4580",
+    "Hash": 448864730,
+    "SourceString": "Ammo Kit:\r\n\r\n54 Rounds 9mm Parabellum\r\n48 Rounds 9mm AP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3BCA5EC3492CBB54DC2679B8B8967980",
+    "Hash": 731346318,
+    "SourceString": "Open",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A952127C44163801C473588BB00956CA",
+    "Hash": 2484905851,
+    "SourceString": "Open to access ammo.",
+    "LocalizedString": ""
+  }
+]

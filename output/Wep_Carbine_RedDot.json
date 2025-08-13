@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "6F371D134238379B7B2BA6ABA1EF48FC",
+    "Hash": 2234730730,
+    "SourceString": "A balanced and fast firing bullpup. This one is fitted with a large Tac-Light, Extended Mag and Red Dot Sight.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "65591DD84296F7035C15FF8E352B084C",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": ""
+  }
+]

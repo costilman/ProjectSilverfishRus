@@ -1,0 +1,65 @@
+[
+  {
+    "Namespace": "",
+    "Key": "354C9E0B4331C70DD8FC81B7238440A8",
+    "Hash": 4244957784,
+    "SourceString": "DROP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9C3067024F1327D2CB7F058C63C2B526",
+    "Hash": 781273353,
+    "SourceString": "EQUIP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E423BAC84512FA6D3DF139B7116BF064",
+    "Hash": 1552589441,
+    "SourceString": "INSPECT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0FB684714685932E8FA9FFB7C9806312",
+    "Hash": 2814288316,
+    "SourceString": "PICKUP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E2FAAAD947436EB07B9BDCBEE6997134",
+    "Hash": 1288634279,
+    "SourceString": "QUICK MOVE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C63131534B13A3F8DD3AE6977C182EAF",
+    "Hash": 2648098027,
+    "SourceString": "SPLIT STACK",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9337466549AE767A21811085927598C7",
+    "Hash": 2493165263,
+    "SourceString": "UNEQUIP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3052D2CE456D333A405F23AB083E3782",
+    "Hash": 2825828185,
+    "SourceString": "USE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3A6AB60D428B509CC434588098C8DD24",
+    "Hash": 1576459893,
+    "SourceString": "ACTIONS",
+    "LocalizedString": ""
+  }
+]

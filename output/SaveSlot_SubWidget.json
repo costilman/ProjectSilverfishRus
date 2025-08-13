@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "8109540049E5DFDAD1BB54A1BB6F97AA",
+    "Hash": 1933060622,
+    "SourceString": "--:--",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C9C96DDC440228EE1867A28014AAF55E",
+    "Hash": 1708630403,
+    "SourceString": "Level Name",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1A1AB36B4F1FC7925217499632C4344F",
+    "Hash": 492333049,
+    "SourceString": "Mode Name",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5453D4AA4241920CA302DD8FBD77C582",
+    "Hash": 3913153951,
+    "SourceString": "SLOT 01",
+    "LocalizedString": ""
+  }
+]

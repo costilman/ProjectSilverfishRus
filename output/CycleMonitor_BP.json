@@ -1,0 +1,44 @@
+[
+  {
+    "Namespace": "",
+    "Key": "1A562ADB4E4F7C8071D112A6DAFFF285",
+    "Hash": 988337955,
+    "SourceString": "HEAT EXCH.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "112E61C64E859260C622449EA0667430",
+    "Hash": 963441406,
+    "SourceString": "DRILL PULSE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "18C362654914280F5A7525BB045DF518",
+    "Hash": 1321101995,
+    "SourceString": "EXHAUST SYS.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "762AF26A4C7B7E6D1AE5B49514EC342F",
+    "Hash": 1146047750,
+    "SourceString": "COOLING SYS.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51EA37E04ECECD3577A16DA4776C3BB2",
+    "Hash": 3407472801,
+    "SourceString": "PRIME CMD.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE9946914E142A3328BEB79C657D42F6",
+    "Hash": 2701648265,
+    "SourceString": "PUMP PRDT.",
+    "LocalizedString": ""
+  }
+]

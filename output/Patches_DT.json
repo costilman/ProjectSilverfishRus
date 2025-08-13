@@ -1,0 +1,331 @@
+[
+  {
+    "Namespace": "",
+    "Key": "4D441B7443FCF7ECA4091DB217D06AF1",
+    "Hash": 940523119,
+    "SourceString": "Default",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "368C2F1F4F38F91192475A9FD06E5CFC",
+    "Hash": 3668046867,
+    "SourceString": "Use the Class's default patch. \r\n\r\n(For the Castaway, this will be whatever patch came with the armor...)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C6EA2B03406F38B983D8ECAAC6FE29A2",
+    "Hash": 2325671312,
+    "SourceString": "Lone Wolf",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5B9B28224E1F99C9B4A59CB25DCA0495",
+    "Hash": 4054528738,
+    "SourceString": "Lonely is the path...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FDBEC8B4482EBB7079A9A7AE0F3F1098",
+    "Hash": 2190450073,
+    "SourceString": "Ace",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F02911824A34D4BF714910830A011D7C",
+    "Hash": 548330282,
+    "SourceString": "Always have one up your sleeve. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4A500B4F49A7DCD0686ADA8F2D9EF0F0",
+    "Hash": 248516692,
+    "SourceString": "Anarchy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2BB5D3764E6BFC0401B348AB17C30097",
+    "Hash": 395612914,
+    "SourceString": "Anomaly",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "94E464E2415993FF15C9EA9941E44D30",
+    "Hash": 3624637462,
+    "SourceString": "Polaris",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AC279EE2499958B19E9468BB228CC633",
+    "Hash": 3071033968,
+    "SourceString": "Revolutionary",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "743FB71D4C6DAB6A20180EA65B241249",
+    "Hash": 3005654542,
+    "SourceString": "Lab Tech",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CB2C99E846138FF31C72A2B4DA7822FF",
+    "Hash": 1180381169,
+    "SourceString": "Freelancer",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FD25F0AE40F86BCABD6BFB83A95B1BE5",
+    "Hash": 559737319,
+    "SourceString": "Red Dragon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5BBD4ED343672167EC6CAF8F7DC6B7C1",
+    "Hash": 2769003720,
+    "SourceString": "Red Star",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "773778A44F8A7D4DF4A3869DA81A1003",
+    "Hash": 2661844273,
+    "SourceString": "Bloody Hand",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3006BE9B46FA936D35EF2EBF6879256C",
+    "Hash": 3884417791,
+    "SourceString": "lion Bleu",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2BFD80E244A57BEF4D033BA102E660FC",
+    "Hash": 3749429339,
+    "SourceString": "Chimera",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FDB5A1394DBA3F792533B9A6822B038D",
+    "Hash": 1394073490,
+    "SourceString": "Demon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6C2EE854433AC85F56E076912609BFCB",
+    "Hash": 2874151644,
+    "SourceString": "Summoner",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "061EB7FE4337BAF55335F094B68017F4",
+    "Hash": 2036709583,
+    "SourceString": "Free Scrapper",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0E7ACE784AFA5B40D4EA5C8D0B4AA655",
+    "Hash": 2238922995,
+    "SourceString": "Inverted Oak",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "56938C9A45C2E152C02BECB1B7A623F3",
+    "Hash": 2553165577,
+    "SourceString": "Jackdaw",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DE095D964833E2D2678826B0991054DC",
+    "Hash": 3445547147,
+    "SourceString": "Kiwi",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "652BC6344E1CA4E5CC1177956AD517D6",
+    "Hash": 3223076230,
+    "SourceString": "Market Time",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "878E89C64934DFF491C99F91E0AA3894",
+    "Hash": 745993935,
+    "SourceString": "Minotaur",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EB00570C4B7A514FF26E59A2714AA719",
+    "Hash": 1375639508,
+    "SourceString": "Pegasus",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "328CC6A1455B436D868587BDC8F340CD",
+    "Hash": 1475973826,
+    "SourceString": "Puppy Love",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "97ACFC4D4AB8BB701679959F4E97E6ED",
+    "Hash": 1943822196,
+    "SourceString": "Royal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F7E854F546864D21DC1728A6907E649A",
+    "Hash": 3441276887,
+    "SourceString": "Savlo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "15F2BAAD4D1EE46C2F48E0A1D600BAE6",
+    "Hash": 2394229044,
+    "SourceString": "Shark",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F6EC18CF45A19EB5833078BA436B0EBC",
+    "Hash": 2299681938,
+    "SourceString": "Sky Buster",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4E56200746BAD4B3128ED6BDF29E2430",
+    "Hash": 3488830764,
+    "SourceString": "Weeping",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "58DEC69C4DED3BA0D4536599D595DEEA",
+    "Hash": 3975135832,
+    "SourceString": "Wrench",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A7E58AE04D575C0E483E2795D51B757D",
+    "Hash": 2887501080,
+    "SourceString": "Wolf Cog",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "799B6BA9418552221F05B8A8F8FD51C2",
+    "Hash": 3617834089,
+    "SourceString": "Rose",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0251DB274C28B748BB68A4B127C26702",
+    "Hash": 208362689,
+    "SourceString": "Rodent",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C1962E4F443361017352F48FE92EB72C",
+    "Hash": 607108882,
+    "SourceString": "Unit 13",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "743D5E134A3801AAADA1C081D7A03504",
+    "Hash": 4088928274,
+    "SourceString": "Angel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0C1F86C84E8F95748CB82AAF97909CCB",
+    "Hash": 917993087,
+    "SourceString": "Honey Bee",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A6A4381441A305EDBACF85906C45F289",
+    "Hash": 3189562004,
+    "SourceString": "Black Dragon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F0AFD0844F13C4ABC7BD3B9C586A3AE6",
+    "Hash": 671163930,
+    "SourceString": "East Carcosa",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1950BE364C2B0BDEA088F79D0D726FB8",
+    "Hash": 2520702824,
+    "SourceString": "West Carcosa",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "230FD299408266B49ABAAE8D31CC28BA",
+    "Hash": 1893915587,
+    "SourceString": "Night Koi",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9EFA7DDB4FCFB580516AD39B28395247",
+    "Hash": 4013689730,
+    "SourceString": "Gold Lantern",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "326F71C14ED4F4CB72D5D39369B070FE",
+    "Hash": 1316124300,
+    "SourceString": "Red Rook",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9422B9D040C3F126C42F90B57E466E10",
+    "Hash": 1976286193,
+    "SourceString": "Tiger",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E5B44CF14D93FAB646D73E8399B5F13B",
+    "Hash": 1871706413,
+    "SourceString": "Pride",
+    "LocalizedString": ""
+  }
+]

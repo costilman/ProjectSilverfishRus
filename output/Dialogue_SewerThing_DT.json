@@ -1,0 +1,58 @@
+[
+  {
+    "Namespace": "",
+    "Key": "8B09B2D34D25D5E50F521BA3641FB45E",
+    "Hash": 2083139205,
+    "SourceString": "You come back? You trade?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7729782D43D7379089C802AADB607B6A",
+    "Hash": 661745458,
+    "SourceString": "Let's trade.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51C4EEEC44CAF529F6A04DB1E865D8FD",
+    "Hash": 2850291499,
+    "SourceString": "Sorry, no trading today...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6F5BD5CE4D3008CAEACC77A160944609",
+    "Hash": 3197986744,
+    "SourceString": "Hello! New Friend? ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "02E7339F48F82E12BB94BB83131AF956",
+    "Hash": 2273101459,
+    "SourceString": "Trade with new friend?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B8E0F426401772126AF629A4E4C1D5C5",
+    "Hash": 1855244570,
+    "SourceString": "I have many good things to trade! And secrets too...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F2BFEAD84CDBAB053BC1E99B04653EAE",
+    "Hash": 733986893,
+    "SourceString": "Um, yeah. We can trade...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5387ED354A12285CC95ACEA74081A0C8",
+    "Hash": 650405600,
+    "SourceString": "...",
+    "LocalizedString": ""
+  }
+]

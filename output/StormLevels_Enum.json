@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "3009748946DE29316A0BF4BBEEB3C8D2",
+    "Hash": 4283930101,
+    "SourceString": "FullStorms",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "512B2EED4C2B85A0D0BA09A5C2490158",
+    "Hash": 658286154,
+    "SourceString": "NoHazards",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C6FCB9A54A7A80D5651EE7B9FD7AF2F1",
+    "Hash": 3394202017,
+    "SourceString": "UnderGround",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0335388445DD7B248DD51EAA0AC09257",
+    "Hash": 1500176694,
+    "SourceString": "NoStorms",
+    "LocalizedString": ""
+  }
+]

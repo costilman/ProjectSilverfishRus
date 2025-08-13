@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "E65320B442B3A9A9950F5399F52C4D47",
+    "Hash": 3690995436,
+    "SourceString": "Used in various Shotguns.\r\n\r\nFires a small fragmentation grenade round with stabilizing fins. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0416D12C4B9DB1362EF53A9D0BF7BA1E",
+    "Hash": 3463824463,
+    "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
+    "LocalizedString": ""
+  }
+]

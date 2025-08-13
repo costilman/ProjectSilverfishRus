@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B3C12A544B439771A8854B954AEBEBA4",
+    "Hash": 449738453,
+    "SourceString": "Shortened variant of the DRAK-V with a mounted tac-light.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7A2444894C31A7B4F5CAC48B8018DE43",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": ""
+  }
+]

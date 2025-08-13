@@ -1,0 +1,44 @@
+[
+  {
+    "Namespace": "",
+    "Key": "420CC3FE45880E5EE9DB7093B8ADE480",
+    "Hash": 1436588446,
+    "SourceString": "Esc TO EXIT.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0BF4B2324D9BD3C57F57B29321837F9E",
+    "Hash": 3419867617,
+    "SourceString": "Description",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "96708DAA409D32A077BD38AC4DF7E9CF",
+    "Hash": 4177297232,
+    "SourceString": "S",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C3E02B5F4CB73ECB5D82B08A8DB4BC37",
+    "Hash": 3654514487,
+    "SourceString": "Item NAme",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0BF4B2324D9BD3C57F57B29321837F9E",
+    "Hash": 3419867617,
+    "SourceString": "Description",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A9AFE30A4A726159B86E2583F30166ED",
+    "Hash": 3618391865,
+    "SourceString": "w",
+    "LocalizedString": ""
+  }
+]

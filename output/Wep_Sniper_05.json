@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "59BB8F824B3BCACEEBA085878FA1F684",
+    "Hash": 2302464325,
+    "SourceString": "Heavy, modern, bolt-action Combat Sniper with laser sight. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E42A55D24237D24E0A71588F54399EFE",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B185D03F49B7BEA696D0DB90DD5058D0",
+    "Hash": 2655789942,
+    "SourceString": "Simmi's Jobs",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CDCFFA7F4C73CC4CA0358DB96E138654",
+    "Hash": 1350527701,
+    "SourceString": "Observatory",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6A79B3FB4E69A50BB183B7AD2B33408B",
+    "Hash": 1364164403,
+    "SourceString": "Suspicious Vending Machine",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4A0E586C4452C2E9DAEF63B426967395",
+    "Hash": 1322150284,
+    "SourceString": "Observatory Shop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "943C73FE4A39B221D02174BC0539DE8F",
+    "Hash": 464314634,
+    "SourceString": "This is a SAFE ZONE:\r\n\r\nYou can lower your weapon by holding down the :Grab: Key",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "48E04187479CD525974AFCABD342A71A",
+    "Hash": 174916455,
+    "SourceString": "Crossroads >",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "48E04187479CD525974AFCABD342A71A",
+    "Hash": 174916455,
+    "SourceString": "Crossroads >",
+    "LocalizedString": ""
+  }
+]

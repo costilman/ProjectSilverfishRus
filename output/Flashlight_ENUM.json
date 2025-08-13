@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "0508D8C84143F59AA032AA9FF85106BC",
+    "Hash": 1897401797,
+    "SourceString": "None",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CC92386846268B0A7CBFB6A4D42B41D3",
+    "Hash": 3650980137,
+    "SourceString": "Tac-Light Small",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3DDC437E4B0B3C5888D780BEE4D0D382",
+    "Hash": 3103976757,
+    "SourceString": "Tac-Light Large",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BAF11B9B41BB5378972A39BD0CAAAF58",
+    "Hash": 2731542174,
+    "SourceString": "Torch Small",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2B84F4B4B86474F32A6EC87CB8CBBDF",
+    "Hash": 119437515,
+    "SourceString": "Night Vision",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0305234D42C78B135847CCA460FCDE7C",
+    "Hash": 3259982466,
+    "SourceString": "Torch Large",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E79F65074061DBBAEA531595B2C7694A",
+    "Hash": 12149834,
+    "SourceString": "Flood Light",
+    "LocalizedString": ""
+  }
+]

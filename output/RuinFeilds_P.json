@@ -1,0 +1,149 @@
+[
+  {
+    "Namespace": "",
+    "Key": "667EE2CB4172254D05D632953FED3EE5",
+    "Hash": 2288451090,
+    "SourceString": "RG-01",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A0C671E34A3141D5F55A4DA50913CDF3",
+    "Hash": 2597540348,
+    "SourceString": "RG-02",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5EED26C54839F84DFD69E6A75EF50A27",
+    "Hash": 577713817,
+    "SourceString": "RG-03",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "04BDCB424CC0CC0BD37CF1BE7AC797EA",
+    "Hash": 3216510496,
+    "SourceString": "RG-04",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "80FDF6834D77AE925583E0B2965CDFD5",
+    "Hash": 117729605,
+    "SourceString": "RG-05",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "22FE2F5C49AABFEC2E214FB042D1EA9F",
+    "Hash": 363972267,
+    "SourceString": "RG-06",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0719636B4CB958A63FA429B411F44297",
+    "Hash": 2903351758,
+    "SourceString": "RG-07",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EC9D598549F84F72D6FC6E9AE5AD756D",
+    "Hash": 2552511017,
+    "SourceString": "RG EAST",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BF877D2547354ADB0A689D8936753C7C",
+    "Hash": 4205124267,
+    "SourceString": "RG WEST",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "979F8FF3403407FA7E03C8969432BB79",
+    "Hash": 471538577,
+    "SourceString": "Flood Plains",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F2E17986472F1F6932448B8C9BD8FCA7",
+    "Hash": 1172970073,
+    "SourceString": "BEAULY VILLAGE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "667EE2CB4172254D05D632953FED3EE5",
+    "Hash": 2288451090,
+    "SourceString": "RG-01",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A0C671E34A3141D5F55A4DA50913CDF3",
+    "Hash": 2597540348,
+    "SourceString": "RG-02",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5EED26C54839F84DFD69E6A75EF50A27",
+    "Hash": 577713817,
+    "SourceString": "RG-03",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "04BDCB424CC0CC0BD37CF1BE7AC797EA",
+    "Hash": 3216510496,
+    "SourceString": "RG-04",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "80FDF6834D77AE925583E0B2965CDFD5",
+    "Hash": 117729605,
+    "SourceString": "RG-05",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "22FE2F5C49AABFEC2E214FB042D1EA9F",
+    "Hash": 363972267,
+    "SourceString": "RG-06",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0719636B4CB958A63FA429B411F44297",
+    "Hash": 2903351758,
+    "SourceString": "RG-07",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EC9D598549F84F72D6FC6E9AE5AD756D",
+    "Hash": 2552511017,
+    "SourceString": "RG EAST",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BF877D2547354ADB0A689D8936753C7C",
+    "Hash": 4205124267,
+    "SourceString": "RG WEST",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F2E17986472F1F6932448B8C9BD8FCA7",
+    "Hash": 1172970073,
+    "SourceString": "BEAULY VILLAGE",
+    "LocalizedString": ""
+  }
+]

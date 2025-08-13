@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B828807E4DA9882E0B2FFB98BDFAAD1B",
+    "Hash": 2595352028,
+    "SourceString": "A powerful but unwieldy heavy machine pistol. Fires 4-round bursts.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DED1642A4F7D1F0CA61535B5F9DC707D",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": ""
+  }
+]

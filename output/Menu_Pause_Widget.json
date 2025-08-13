@@ -1,0 +1,100 @@
+[
+  {
+    "Namespace": "",
+    "Key": "577F2FDD48C3E94D834A81A0DF38821C",
+    "Hash": 2244806427,
+    "SourceString": "CONTINUE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ECDEC86F49D788B76655EA8D3DCA5AF2",
+    "Hash": 1939016346,
+    "SourceString": "Continue;Close this menu and continue your game.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "75BB5BD144E7DDFCC9352C999437BE92",
+    "Hash": 1125510225,
+    "SourceString": "\\\\\\ REPORT A BUG ///",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2537C8444608B98ABDBD0AA6864EF28",
+    "Hash": 3827648302,
+    "SourceString": "Report Bug;Opens Bug-Report Portal in your web-browser.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4D7BF1FD4B4B4433BE01DC8B6C0DBCFB",
+    "Hash": 1622820708,
+    "SourceString": "LOAD GAME",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "626330F54BC8A31AEA137CB1D8956E9D",
+    "Hash": 3822337009,
+    "SourceString": "Load Game;Reload your game from a previous save. \r\n\r\n[Warning: any unsaved progress WILL BE LOST!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51395FB1430954C1702B82B4343247B4",
+    "Hash": 1559199375,
+    "SourceString": "QUIT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "29BF62604B2692829AA17DB1EC78B068",
+    "Hash": 24838511,
+    "SourceString": "Quit;Quit to the Main Menu. \r\n\r\n[Warning: any unsaved progress WILL BE LOST!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "106ED39C46431BA85B0B3A87AD22FA9B",
+    "Hash": 1316606535,
+    "SourceString": "SAVE & QUIT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "755F0A5748990542EE5FEAB3AC05EA0C",
+    "Hash": 3452561494,
+    "SourceString": "Save and Quit;Save Game and return to the Main Menu. \r\n\r\n[Only available in safe areas.]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "38B9988F43122B5DB89BA7AD5B1FBD6C",
+    "Hash": 2850147001,
+    "SourceString": "SETTINGS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C3FEB1DF4800CF52A53573A8546CEB7A",
+    "Hash": 735959433,
+    "SourceString": "Settings;Configure game and display settings...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F0AEB91447538E2FFF4D4687FEFBFCB9",
+    "Hash": 1681328133,
+    "SourceString": "ALPHA 0.1.0",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "412100584890D82D7673E79D2A853AA4",
+    "Hash": 3175964398,
+    "SourceString": "GAME PAUSED",
+    "LocalizedString": ""
+  }
+]

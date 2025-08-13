@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "19C455BD4218B278AF7836803A915A97",
+    "Hash": 538792733,
+    "SourceString": "A high-power and versatile rifle. Fitted with a reflex sight and laser.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "44F8D1F5480B9B096D0F5B8DDB06E255",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": ""
+  }
+]

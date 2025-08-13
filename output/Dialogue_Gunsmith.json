@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "1A1BE9C6411C040B5243DA83E71888C8",
+    "Hash": 427346177,
+    "SourceString": "What'cha need?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1B90199D489BE5263F5233B4E19DF104",
+    "Hash": 4201598352,
+    "SourceString": "I need to buy some ammo. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DEFBFFAA47144AFCFE5DE0A8A17CC512",
+    "Hash": 2670199433,
+    "SourceString": "Can you upgrade a weapon for me?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "41C4BAC24432CA23F048229E34A1BCA9",
+    "Hash": 4239802242,
+    "SourceString": "Nothing right now.",
+    "LocalizedString": ""
+  }
+]

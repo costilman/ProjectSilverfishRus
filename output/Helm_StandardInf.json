@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "BC2B66B140909A1BE2829A8E9EA15188",
+    "Hash": 3459606646,
+    "SourceString": "Standard-issue military helmet and gasmask set used by infantry riflemen. Also includes a tac-light. \r\n\r\nIt bears the color patterns of the military while obscuring the wearer's face... ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "02D8D01A46FB45937547289AFFC645BD",
+    "Hash": 924957729,
+    "SourceString": "Press :HelmLight: to toggle on and off your Flashlight.",
+    "LocalizedString": ""
+  }
+]

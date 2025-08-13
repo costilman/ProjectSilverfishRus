@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "34F0679E4BB9968E4CAA088F729EA44B",
+    "Hash": 3739149216,
+    "SourceString": "Sort Inventory",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D96CF0FD41296E538E4AAD9947E926CF",
+    "Hash": 2696345315,
+    "SourceString": "Search...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "83928A684F4685F1F4F93FB926F22A84",
+    "Hash": 222666944,
+    "SourceString": "INVENTORY",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "986979E04C6A83E8F125A699D7A8E60A",
+    "Hash": 222666944,
+    "SourceString": "INVENTORY",
+    "LocalizedString": ""
+  }
+]

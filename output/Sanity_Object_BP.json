@@ -1,0 +1,86 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B01DFB0145FBC8CB5D8BFFBDFB1E83C5",
+    "Hash": 587437002,
+    "SourceString": "RUN!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B388EE0A439F007A366837A8EFB958C5",
+    "Hash": 22285175,
+    "SourceString": "BEHIND YOU!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7FA7D7114B6F6AB81B8D7BA32F21D886",
+    "Hash": 626971596,
+    "SourceString": "not safe",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F6F2F3D4CB0869DE7068B94B8AFEEEB",
+    "Hash": 2849533117,
+    "SourceString": "go home",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A8330F2F4A0CECABCAEA1AABEF8034B8",
+    "Hash": 3927907828,
+    "SourceString": "it sees you",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5EEDF3074066607C122EEFB69899FB16",
+    "Hash": 316192328,
+    "SourceString": "dont turn around",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "63FBBE1444B7B8A5E01C2A9F1BDD0016",
+    "Hash": 577647775,
+    "SourceString": "the ocean rises",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BFAEEFA843345D2CCCF8649C0089D433",
+    "Hash": 2994000288,
+    "SourceString": "south",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9EC1FB994CF66C79F89D5AB1EB21F437",
+    "Hash": 344855990,
+    "SourceString": "go to the water",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CF0AF10B4E6433DE2AE4E9B6CDD03E40",
+    "Hash": 2022177991,
+    "SourceString": "look under that rock",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51BFAB064A761DC96E96CB9F147D6969",
+    "Hash": 196858078,
+    "SourceString": "don't open that locker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3C3E0FE84450250EAFC1899AF58A03C4",
+    "Hash": 2424018343,
+    "SourceString": "north",
+    "LocalizedString": ""
+  }
+]

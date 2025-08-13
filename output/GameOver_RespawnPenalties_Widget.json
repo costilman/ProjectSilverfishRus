@@ -1,0 +1,58 @@
+[
+  {
+    "Namespace": "",
+    "Key": "4C9814B74633477DD76B1FB6BFAF8272",
+    "Hash": 2244806427,
+    "SourceString": "CONTINUE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6B828ECA4CDA356448A514B121D935C6",
+    "Hash": 1132679797,
+    "SourceString": "DEBUG CAM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C67F627C4030CFF5CB824B9CB5E80C82",
+    "Hash": 1956344873,
+    "SourceString": "[FOR PLAYTESTING ONLY]\r\n\r\nEnter Free-Cam mode.\r\n\r\nWARNING: Your death may not apply correctly to your save! Only use this option for debug purposes!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "00A6C58E4884422CD662568A61A58F8B",
+    "Hash": 3372267224,
+    "SourceString": "FAILED CONTRACTS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F46C90A746A9E88C14B16C94F6C68647",
+    "Hash": 1562718309,
+    "SourceString": "LOST TO THE ZONE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D6EF1C804ED128D8B89D41A689F19213",
+    "Hash": 195708235,
+    "SourceString": "-NAME\r\n  -$50",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "18B2877D4171E64DEECF7F9F703F7F26",
+    "Hash": 1965476491,
+    "SourceString": "SELECT ITEMS TO KEEP:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B7E0DB0B45B3F3F6B78C098D95BBFB3B",
+    "Hash": 3058381070,
+    "SourceString": "KEPT ITEMS",
+    "LocalizedString": ""
+  }
+]

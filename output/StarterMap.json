@@ -1,0 +1,275 @@
+[
+  {
+    "Namespace": "",
+    "Key": "38D774124718D501074E67B63BDFA531",
+    "Hash": 4198664929,
+    "SourceString": "Concrete, Grime",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "92BF808F419CFC86361DBEA5DF0B95F2",
+    "Hash": 2687395301,
+    "SourceString": "Concrete, Panels",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "40003A444A5F919E59AA34AC84F199FF",
+    "Hash": 3743009091,
+    "SourceString": "Cobblestone, Smooth",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C7BE34DF4B976E6D653AEC9D6B6D8E52",
+    "Hash": 2938850271,
+    "SourceString": "Concrete, Poured",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "060AD8364E7BBBB8D1E92DB0511E8FD6",
+    "Hash": 3390870926,
+    "SourceString": "Moss",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0CC9863546E64AC6B74E30A32D607376",
+    "Hash": 1602351974,
+    "SourceString": "Stone Brick, Cut",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "24C489A34592BED58A3A7CB71F18EEB5",
+    "Hash": 1796059668,
+    "SourceString": "Grass",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "57DCAD71427BAE0D4D2709BA45E4CB57",
+    "Hash": 656400278,
+    "SourceString": "Steel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BEF4E8B743D60917FE0C7E96572FA69A",
+    "Hash": 937762251,
+    "SourceString": "Concrete, Tiles",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0617410D48DDD822A4B659B6905706A3",
+    "Hash": 1459249923,
+    "SourceString": "Gold",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1685EE6F4E7E8AFF229191BF97456889",
+    "Hash": 1383210679,
+    "SourceString": "Stone Brick, Hewn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FE4D72B74727D68EE900269512ADBD13",
+    "Hash": 3019639775,
+    "SourceString": "Burnished Steel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7B53C2BC43A5480E61F00C9FDF468560",
+    "Hash": 78443568,
+    "SourceString": "Gravel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EBF5D09C4756D0B7B5CB348568DEFA86",
+    "Hash": 747236772,
+    "SourceString": "Copper",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "18DC5E9443A5BB3A2B90F7B162ACF84B",
+    "Hash": 443841109,
+    "SourceString": "Brushed Nickel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FEEBA05E427D3BC99C25A4AD6E9F934F",
+    "Hash": 2611930036,
+    "SourceString": "Polished Marble",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "38D8584F40423B7E408A29A248AAC4A5",
+    "Hash": 3643404558,
+    "SourceString": "Rust",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A51630AD4072309AF482CDADB8AF5C58",
+    "Hash": 2017557026,
+    "SourceString": "Sandstone",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "009556AF48CE6937BF572F8EFB679827",
+    "Hash": 2083797767,
+    "SourceString": "Slate",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6C8005D34C59B52AF1D555A08F8BA1CB",
+    "Hash": 3869261642,
+    "SourceString": "Hex Tiles",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D8E693054E8EC046F143C3985127A19A",
+    "Hash": 717908042,
+    "SourceString": "Chrome",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A5B92A6F489E6BDD33F59DA42E55D476",
+    "Hash": 1504812115,
+    "SourceString": "Clay Brick, Old",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "00A0A79A4F31FC1919043D8AA52B0070",
+    "Hash": 1700451802,
+    "SourceString": "Panel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BC8152834213B5D1A460AE967CA1F09F",
+    "Hash": 2091601530,
+    "SourceString": "Pulse",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "39544187479738D17D7BA8B5A5527C0D",
+    "Hash": 2207181806,
+    "SourceString": "Lake Water",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "39A9DF0C417D6D6ADB8616B8BF5F6AAF",
+    "Hash": 1628380734,
+    "SourceString": "Ocean Water",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DB2D98644AE2106EC187AE916E124736",
+    "Hash": 805671538,
+    "SourceString": "Basalt",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D67372D04B388B707D841996FA22838F",
+    "Hash": 3739286242,
+    "SourceString": "Walnut",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F1B4647C4F088A14EDBD99AE31D83F23",
+    "Hash": 1484808208,
+    "SourceString": "Pine",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CBD93432421B0C6B48A8AE9587579BA4",
+    "Hash": 1495343393,
+    "SourceString": "Walnut, Worn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F80060F044605E4D0FC1D99B3043C1EE",
+    "Hash": 177444539,
+    "SourceString": "Walnut, Polished",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9B3B2B8849D4AE1E15A3988C6174FFCE",
+    "Hash": 2097216372,
+    "SourceString": "Checker/Dot",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F4CE2CAE439B929F7A803B819685F312",
+    "Hash": 2683777894,
+    "SourceString": "Clay Brick, New",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E440F3DE45BA4B2C5D8050A73EE833FB",
+    "Hash": 3376692937,
+    "SourceString": "Oak",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3262ABFE423BC5EBAD106AA09BEB06B1",
+    "Hash": 1215126600,
+    "SourceString": "Clay Brick, Beveled",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3FD9F5ED495B69292191DF990216AE9E",
+    "Hash": 3482643799,
+    "SourceString": "Ceramic Tile",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EE646BB14DE4C7BB8D374F9CF223B43D",
+    "Hash": 618732616,
+    "SourceString": "Click The Simulate Toolbar Button",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FC576AD54EB2C44A8F725D924751F6E3",
+    "Hash": 1296698420,
+    "SourceString": "Cobblestone, Rough",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "44FF04AF47DB16E7B44F93AFE53D5FC8",
+    "Hash": 3490514733,
+    "SourceString": "Cobblestone, Pebble",
+    "LocalizedString": ""
+  }
+]

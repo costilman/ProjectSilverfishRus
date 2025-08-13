@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "78A2834E44CA4CC5EBFF78BE0C59BC9E",
+    "Hash": 2140348212,
+    "SourceString": "Enchanted Shotgun Ammo:\r\n\r\nFires 3 heavy slugs with dramatically increased ricochet.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F1CA0FE74389EFAE0DAACEABD519DD29",
+    "Hash": 3463824463,
+    "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
+    "LocalizedString": ""
+  }
+]

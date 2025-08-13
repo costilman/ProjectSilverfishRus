@@ -1,0 +1,86 @@
+[
+  {
+    "Namespace": "",
+    "Key": "C027A8A141F9091B5D34AE9AB34E6A86",
+    "Hash": 2190289840,
+    "SourceString": "Generic",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "863127DB464FAF1305CCADA1AB84D6A6",
+    "Hash": 151783035,
+    "SourceString": "Consumable",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CA3BC3E44C746077FB40C5ABC55F876D",
+    "Hash": 1993336256,
+    "SourceString": "Melee",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C34058BC4687C8CD572EC0A12E479AE2",
+    "Hash": 3381881225,
+    "SourceString": "Sidearm",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "406599C44D0129434424BEABBF21F86B",
+    "Hash": 2930898712,
+    "SourceString": "Weapon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "93EC05554DDA915B31AAC68EC7D2DE91",
+    "Hash": 4250429694,
+    "SourceString": "Utility",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "46A80D644B30D51F46FE9B9C07931C6D",
+    "Hash": 123111060,
+    "SourceString": "Helmet",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C677803A40BEE7D336966A991AF2906B",
+    "Hash": 2039226689,
+    "SourceString": "Armor",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7E5104E54A9FA6F710B46EB9B9D0D721",
+    "Hash": 4076540903,
+    "SourceString": "Ammo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CDCEAAA14A404212D8F139944D875861",
+    "Hash": 1112549031,
+    "SourceString": "SimpleUse",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2C53CEC54F4F6DE78B9DFD9065F35890",
+    "Hash": 2270184271,
+    "SourceString": "EatherContainer",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "426151D34D1951422E43B585E14FB529",
+    "Hash": 2445804031,
+    "SourceString": "Treasure",
+    "LocalizedString": ""
+  }
+]

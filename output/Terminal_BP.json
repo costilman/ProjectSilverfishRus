@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "D4A4F52A4D4ED4D42AFCF091869D5BCB",
+    "Hash": 1864277811,
+    "SourceString": "Secure Terminal:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "53F1CBE24DA29FA328736FBA31A90ECA",
+    "Hash": 812456789,
+    "SourceString": "NONE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AB851F7247DCBF4C4063E19329E109BA",
+    "Hash": 506987876,
+    "SourceString": "Type \"HELP\" to view a list of actions...",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "AD96A6044AFE2FB2356A9193B7428E3F",
+    "Hash": 3484013266,
+    "SourceString": "Document:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5303429647F0666CCC70B7BDC14455DA",
+    "Hash": 944980531,
+    "SourceString": "This document holds nothing important...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A25F587B46BE8A266520D6ACE9FCCB51",
+    "Hash": 129382523,
+    "SourceString": "A Document that you can read...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7EFA6C404939F3DC9F3DF4A58112BBB7",
+    "Hash": 4207111083,
+    "SourceString": "READ",
+    "LocalizedString": ""
+  }
+]

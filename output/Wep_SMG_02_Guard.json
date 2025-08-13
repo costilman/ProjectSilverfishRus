@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B9C0B3684376191AAC02B796DA9FD59B",
+    "Hash": 942045013,
+    "SourceString": "An old and outdated SMG fitted with an upgraded sight, tac-light and removed stock.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0A7D770A4E36E700C4DE55A8D91075AA",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "D870F65E448E0C821FA93AB4E4601A8C",
+    "Hash": 423855009,
+    "SourceString": "Modified variant with Flashlight, Holo Sight, and Compensator for reducing recoil. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "42196DBF40A0AAAC5BB9E49BB952B64D",
+    "Hash": 3866799382,
+    "SourceString": "Type 12 Army Pistol",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C870BD4948A47237D3B908BC32C55211",
+    "Hash": 216971820,
+    "SourceString": "Resistances\r\n10% Armor Piercing",
+    "LocalizedString": ""
+  }
+]

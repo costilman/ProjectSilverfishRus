@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "0EF935C44BA7F464FE0906A9E1A8F380",
+    "Hash": 1754628050,
+    "SourceString": "Modern light assault-carbine. Fitted with a red-dot sight and tac light.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0ACD532F4E1A0E50F53F63A90D444C83",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": ""
+  }
+]

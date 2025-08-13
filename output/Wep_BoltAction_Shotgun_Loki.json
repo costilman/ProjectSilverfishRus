@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "1019461240653B38A7A7A99926834AA4",
+    "Hash": 461766933,
+    "SourceString": "Bolt-action shotgun with under-barrel Loki.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CA86928F4BE29FDA8BD6E09256D76430",
+    "Hash": 1031046665,
+    "SourceString": "Press :WepToggle: to switch between fire modes.",
+    "LocalizedString": ""
+  }
+]

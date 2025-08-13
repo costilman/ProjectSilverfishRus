@@ -1,0 +1,65 @@
+[
+  {
+    "Namespace": "",
+    "Key": "EBAAF4B14EBDE0D83A3E24917D937703",
+    "Hash": 3906722628,
+    "SourceString": "LOW",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AD53BFD94B8D63B38E0D0CB8880FD1D7",
+    "Hash": 2685563794,
+    "SourceString": "MED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "018020CE44F3A1E1785265AEFE36D318",
+    "Hash": 1642337447,
+    "SourceString": "HIGH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4C76987342AF99FAC618BAB3361F816F",
+    "Hash": 999560352,
+    "SourceString": "EPIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "78A2CEB347E3701DE3DE4C804C9392FC",
+    "Hash": 3408051506,
+    "SourceString": "Setting:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "32AE780B4910D06C82D1D2AE40724BF0",
+    "Hash": 2612631557,
+    "SourceString": "<",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "211F20F940DDDE612C7CFD916828BD6D",
+    "Hash": 2612631557,
+    "SourceString": "<",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "04E92E0F4901720A8F3AB2ADD7939CEA",
+    "Hash": 1473499048,
+    "SourceString": "NAME",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "699D111E41B23E1872F99BA80DA849F0",
+    "Hash": 2596241360,
+    "SourceString": "TEXT",
+    "LocalizedString": ""
+  }
+]

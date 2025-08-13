@@ -1,0 +1,149 @@
+[
+  {
+    "Namespace": "",
+    "Key": "C32F07014032A67A879CDEB4629C23EF",
+    "Hash": 1890046022,
+    "SourceString": "ADD MONEY",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8964CF724B5B5A3C143B40BDF351679B",
+    "Hash": 692856776,
+    "SourceString": "CLOSE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E32D17284929E49B6E153295B002A3B9",
+    "Hash": 1898187111,
+    "SourceString": "TRADE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1CA7CFE04405D001432875AB2473F56B",
+    "Hash": 312358074,
+    "SourceString": "Inventory Controls;Left Click: Take/Place Item\r\n\r\nRight Click: Item Context Menu\r\n\r\nMiddle Click: Split Item Stack\r\n\r\nShift+Left Click: Transfer Item",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3B712D3948245007AEFFFE8A03363C4D",
+    "Hash": 3383761019,
+    "SourceString": "BACKPACK",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "893B51F9469B3CA25E11CC8D558DE55C",
+    "Hash": 988493756,
+    "SourceString": "YOUR OFFER",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FF1C1FDA418EFA9B2E9C8B94047801AC",
+    "Hash": 1066028044,
+    "SourceString": "TRADER",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6B7CDC3546FF58C9C81F479879364EF7",
+    "Hash": 1079717362,
+    "SourceString": "TRADER OFFER",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "19695DF14C64A3AED0D7B4B74CE6AEDF",
+    "Hash": 2070343478,
+    "SourceString": "2",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4AD9D7C941EFDECE9D16AF9F1B3A7637",
+    "Hash": 3285878867,
+    "SourceString": "3",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E3283C44D739D3FFEF798AE93646620",
+    "Hash": 1577955562,
+    "SourceString": "4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B42B927B4EAFA05CC4732EA873365F30",
+    "Hash": 3870414735,
+    "SourceString": "5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A4BAE7544BB5DCB5D89997AD8CCE1D06",
+    "Hash": 4093933665,
+    "SourceString": "6",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E4D552CE41076B19EE5F21BD52B6FEC2",
+    "Hash": 1287134980,
+    "SourceString": "7",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D64FCC624B0154B1554C9083F640DEB5",
+    "Hash": 349900626,
+    "SourceString": "8",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F3D050FB480341E23B2E76BC0146130D",
+    "Hash": 274288554,
+    "SourceString": "B",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "14C21AEF44D252DE5CF7299FDCEF6266",
+    "Hash": 2145693646,
+    "SourceString": "H",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E10F62AC41BEF9622F9BD787EF490ED4",
+    "Hash": 54008001,
+    "SourceString": "WEAPONS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4B87A0C948BA6E537AE1C2B04C3C9F1B",
+    "Hash": 1329113954,
+    "SourceString": "UTILITY",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CF5C676D48E2FAC14916149E46AFFFCF",
+    "Hash": 801524908,
+    "SourceString": "ARMOR",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6E97CD4540FCDE603360BBABCAE40D0E",
+    "Hash": 2680420048,
+    "SourceString": "Trader Needs Suitable Weapon.",
+    "LocalizedString": ""
+  }
+]

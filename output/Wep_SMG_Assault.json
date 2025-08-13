@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "8C18E1A74FA2A855FC92DBB5E4DA288D",
+    "Hash": 89483346,
+    "SourceString": "SMG fitted with reflex sight and tac light.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A4C9D7F8435E82D329FECAB44EB832C5",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": ""
+  }
+]

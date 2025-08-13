@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "0384682742406396F43028BD49EB042A",
+    "Hash": 1483801039,
+    "SourceString": "Experimental Eather weapon: Fires a dense metallic sphere charged with unstable electrical energy.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8715CD943301612E30753A6A8F0553C",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": ""
+  }
+]

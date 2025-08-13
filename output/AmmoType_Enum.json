@@ -1,0 +1,79 @@
+[
+  {
+    "Namespace": "",
+    "Key": "8B0F3365431F3D18FF7A9A87123DA230",
+    "Hash": 2650372058,
+    "SourceString": "9mm ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9585EEF445874FE21061E4AFB23AEF96",
+    "Hash": 3131371557,
+    "SourceString": ".45 Cal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EF2892F349658825BA84BE9159618799",
+    "Hash": 1239660740,
+    "SourceString": "5.56 Intermediate",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7A0A84EA4CB5357CEAD1978684770980",
+    "Hash": 337457521,
+    "SourceString": ".30-06 Full Rifle",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B6B464B34E67C11EC5AC038DAECF697A",
+    "Hash": 2724504674,
+    "SourceString": "12-Gauge Shell",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ED1A970847EC02C885958AA9449E4F4B",
+    "Hash": 269174045,
+    "SourceString": ".50 Cal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5B771F8C403161E22C64F5896F56A929",
+    "Hash": 1184167109,
+    "SourceString": "40mm Grenade",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BAAAA97C49076A0E0DC7A3998D0B93E4",
+    "Hash": 947671950,
+    "SourceString": "60mm Rocket",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5903BB1A40C2D71738648AA0CF6B3F4B",
+    "Hash": 1533616918,
+    "SourceString": "Eather",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6D84098240D001495A28F0A498A82959",
+    "Hash": 1291119679,
+    "SourceString": ".338 Magnum",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AFFAB0B54ED4F87FEF8EA089A3B8C02A",
+    "Hash": 2092624266,
+    "SourceString": "Bolt",
+    "LocalizedString": ""
+  }
+]

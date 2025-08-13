@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "5EC07844447E09E478B0659C398B7F69",
+    "Hash": 1677775070,
+    "SourceString": "How may I help you?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0DA69C9B4A0DBD7F999BED8FDCE57025",
+    "Hash": 3344002344,
+    "SourceString": "Nothing right now...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C94BBDE941DC255D7BF6AEB1A74240C8",
+    "Hash": 2216074423,
+    "SourceString": "Can you craft a weapon for me?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7EB46F8747FC927EC0A7DDAE722F61C6",
+    "Hash": 3632089639,
+    "SourceString": "I need to buy some supplies...",
+    "LocalizedString": ""
+  }
+]

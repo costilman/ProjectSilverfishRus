@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "6F964A3241F3018AC44AE4B5EDEFBB7E",
+    "Hash": 1323188370,
+    "SourceString": "A modified BR-61 fitted with a scope, laser sight, and suppressor.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A4C4785E4D247CDD4C893CA56836691B",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": ""
+  }
+]
