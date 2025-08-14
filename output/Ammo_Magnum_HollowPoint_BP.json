@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "FE8F21F04444C98AD6FB16B095461C41",
-    "Hash": 1539089539,
+    "Hash": 1980836171,
     "SourceString": "Used in Revolvers, Heavy Pistols and other Unorthodox Weapons.\r\n\r\nTrades armor penetration for significantly increased kinetic damage.  Highly effective against unarmored targets. ",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "0F88679C436C261BDE23F0A277DB77CE",
     "Hash": 3463824463,
     "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
-    "LocalizedString": ""
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
   }
 ]

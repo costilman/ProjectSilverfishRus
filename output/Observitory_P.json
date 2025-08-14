@@ -4,7 +4,7 @@
     "Key": "B185D03F49B7BEA696D0DB90DD5058D0",
     "Hash": 2655789942,
     "SourceString": "Simmi's Jobs",
-    "LocalizedString": ""
+    "LocalizedString": "Задания Симми"
   },
   {
     "Namespace": "",
@@ -30,9 +30,9 @@
   {
     "Namespace": "",
     "Key": "943C73FE4A39B221D02174BC0539DE8F",
-    "Hash": 464314634,
+    "Hash": 979607551,
     "SourceString": "This is a SAFE ZONE:\r\n\r\nYou can lower your weapon by holding down the :Grab: Key",
-    "LocalizedString": ""
+    "LocalizedString": "Это БЕЗОПАСНАЯ ЗОНА:\r\n\r\nВы можете опустить оружие, удерживая клавишу :Grab:"
   },
   {
     "Namespace": "",

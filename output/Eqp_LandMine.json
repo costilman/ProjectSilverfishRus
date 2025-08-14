@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "9CB4DE954636C93D08222FAD4FB24A23",
-    "Hash": 697129593,
+    "Hash": 1777444541,
     "SourceString": "Deployable explosive trap:\r\n\r\nWill arm itself 1 second after deployment. \r\nWill detonate if stepped on!\r\n\r\nIs disarmed when picked up.",
     "LocalizedString": ""
   }

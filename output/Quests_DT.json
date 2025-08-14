@@ -30,7 +30,7 @@
   {
     "Namespace": "",
     "Key": "286F9C9140D2A6CE4E88968BE4857124",
-    "Hash": 3922733979,
+    "Hash": 4096729121,
     "SourceString": "Hey, we're looking for new mercs to run some odd jobs out here. We got plenty of clients paying good, gooood hard cash for some \"hands on\" work. \r\n\r\nAnyone who stops by our place of business to show they're serious may receive a complimentary reward as a show of good faith...\r\n\r\nWe're set up at Dock A on Black Lake. Warehouse on the lower deck.\r\n\r\nSerious applicants only!",
     "LocalizedString": ""
   },
@@ -121,7 +121,7 @@
   {
     "Namespace": "",
     "Key": "612B22D34554B1BDDE21749F28EC532C",
-    "Hash": 3945262060,
+    "Hash": 2856193540,
     "SourceString": "That son-of-a-bitch Lenny joined up with the Insurrection just long enough to make off with one of their LMGs and a heavy set of armor. Now he's shacked up in some bombed-out shithole, armed to the teeth. \r\n\r\nRaid his hideout and make off with the goods before his \"old friends\" find him. Put the bastard down while you're at it. \r\n\r\nHe might be in his safe-house, one of the old worker dorms at the West end of the Depot...",
     "LocalizedString": ""
   },
@@ -163,14 +163,14 @@
   {
     "Namespace": "",
     "Key": "4A41E19340182542E43A45BF3429E0B2",
-    "Hash": 576174663,
+    "Hash": 828558534,
     "SourceString": "Got a dead-drop being left for me in the flooded village. (I think it used to be called Beauly.)\r\n\r\nThe Drop can be found in an old Cafe.\r\n\r\nSmall reward for whoever brings the bag back here to Dock A at Black Lake.\r\n\r\nI'll KNOW if you open it.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "DAA118BC40A6C071AAEDADAD28598805",
-    "Hash": 2469897269,
+    "Hash": 3191072831,
     "SourceString": "(The bag doesn't get placed until someone accepts the contract.)\r\n",
     "LocalizedString": ""
   },
@@ -205,14 +205,14 @@
   {
     "Namespace": "",
     "Key": "D8AE98214C17DAC19549C5813317EB8E",
-    "Hash": 2709279335,
+    "Hash": 3424330949,
     "SourceString": "Got another dead-drop being left for me in the Police Station in Metropol.\r\n\r\nSmall reward for whoever brings the bag back here to Dock A at Black Lake.\r\n\r\nI'll KNOW if you open it.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "8EDC1D9F4BE3648B806586BABF4BB3CD",
-    "Hash": 2469897269,
+    "Hash": 3191072831,
     "SourceString": "(The bag doesn't get placed until someone accepts the contract.)\r\n",
     "LocalizedString": ""
   },
@@ -247,14 +247,14 @@
   {
     "Namespace": "",
     "Key": "387D4BE84C78441A934194A7997C59F2",
-    "Hash": 2102782637,
+    "Hash": 525586617,
     "SourceString": "I have a dead-drop left for me in Crossroads. My guy hid it near the water lock in the south-east.\r\n\r\nSmall reward for whoever brings the bag back here to Dock A at Black Lake.\r\n\r\nI'll KNOW if you open it.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "8EDC1D9F4BE3648B806586BABF4BB3CD",
-    "Hash": 2469897269,
+    "Hash": 3191072831,
     "SourceString": "(The bag doesn't get placed until someone accepts the contract.)\r\n",
     "LocalizedString": ""
   },
@@ -450,7 +450,7 @@
   {
     "Namespace": "",
     "Key": "F5FB29624E5ACAA029A81FA14B191482",
-    "Hash": 3367145329,
+    "Hash": 345943076,
     "SourceString": "This little shit-heel going by the name 'Spratt' has been stirring up all kinds of trouble.\r\n\r\nSome contacts of mine will pay a good little penny to see him dead.\r\n\r\nWe have no idea where he is, but he's been seen going in and out of the old hotel in the Slums; might be able to find a lead there.\r\n\r\nYou'll know him by the ballistic face mask and cut-down shotgun he runs with...",
     "LocalizedString": ""
   },
@@ -485,14 +485,14 @@
   {
     "Namespace": "",
     "Key": "A4ABBC014D9DDE165E6B84B686ECCF0D",
-    "Hash": 3198441141,
+    "Hash": 1649659382,
     "SourceString": "Hello, yes this is Dr. Mosby:\r\nWe're having some computer issues and believe them to be hardware related.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "6798B0724D3642E952CDAB8E7E23B3F2",
-    "Hash": 1292530765,
+    "Hash": 1286475141,
     "SourceString": "Anyone who can stop by with a working computer board, please, we'll pay you double what its worth.\r\n\r\nThe sooner the better. You can find my lab in the facility in the south-west corner of the Flood Plains. Door labeled \"RG WEST\".",
     "LocalizedString": ""
   },
@@ -527,7 +527,7 @@
   {
     "Namespace": "",
     "Key": "E06856504708EE39AD5855B8D9E39FF7",
-    "Hash": 1813501671,
+    "Hash": 3586029522,
     "SourceString": "Oh you want to do jobs for me now?\r\n\r\nFine, go get me groceries; I'm out of Molasses.\r\n\r\nDo not disappoint me! ",
     "LocalizedString": ""
   },
@@ -585,7 +585,7 @@
     "Key": "935A1035411E692441B549A81F433073",
     "Hash": 709180968,
     "SourceString": "Simmi",
-    "LocalizedString": ""
+    "LocalizedString": "Симми"
   },
   {
     "Namespace": "",
@@ -611,7 +611,7 @@
   {
     "Namespace": "",
     "Key": "427387AC412EDD8D2770F690A32B241F",
-    "Hash": 2430961726,
+    "Hash": 3067903900,
     "SourceString": "Someone's set up a signal jammer somewhere in Crossroads. It's blocking my comms. \r\n\r\nIt seems to be somewhere near the scrap depot...\r\n\r\nI bet they set it some place high up in the air...",
     "LocalizedString": ""
   },
@@ -653,7 +653,7 @@
   {
     "Namespace": "",
     "Key": "AB6C37BE454DA32E0AC846A6DBA99B4B",
-    "Hash": 2356792402,
+    "Hash": 1484987973,
     "SourceString": "My comms have been jammed too!\r\n\r\nSee if you can find where they set up their jammer! It should be somewhere high up near the entrance of my lab...",
     "LocalizedString": ""
   },
@@ -695,7 +695,7 @@
   {
     "Namespace": "",
     "Key": "40E491804A4F5EE667EA68A1348BE7E8",
-    "Hash": 2339938787,
+    "Hash": 1206841816,
     "SourceString": "My comms are getting jammed. \r\n\r\nNo idea where they set up their toy, but it can't be far from us.\r\n\r\nI need it taken out ASAP!",
     "LocalizedString": ""
   },
@@ -737,7 +737,7 @@
   {
     "Namespace": "",
     "Key": "3A7E18FB4A5EF23C083E9D942A8BBB31",
-    "Hash": 2505328772,
+    "Hash": 3287828742,
     "SourceString": "A main sewer line is leaking toxic water into the subway tunnels under Metropol. \r\n\r\nWe desperately need someone to go down there, find the flow-control valve and shut it off!",
     "LocalizedString": ""
   },
@@ -795,7 +795,7 @@
     "Key": "2E6C335149A13122E41AB5812980A530",
     "Hash": 709180968,
     "SourceString": "Simmi",
-    "LocalizedString": ""
+    "LocalizedString": "Симми"
   },
   {
     "Namespace": "",
@@ -814,7 +814,7 @@
   {
     "Namespace": "",
     "Key": "391A14A74119DA8A44E0DAA4A40E7AA7",
-    "Hash": 1357253070,
+    "Hash": 212171132,
     "SourceString": "Not long ago I caught the tail end of a strange encrypted radio transmission coming from the Zone.\r\n\r\nThere's a small radio station on M35. It's still operational, so it might have caught a transcript. \r\n\r\nSee if you can download the transmission onto a Data Tape and bring it back to me. ",
     "LocalizedString": ""
   },
@@ -856,7 +856,7 @@
   {
     "Namespace": "",
     "Key": "E2EEBB79466CE265BB81AE8D6415FCAC",
-    "Hash": 2803233101,
+    "Hash": 2647756562,
     "SourceString": "A band of Insurrectionists have shacked up in one of our old safe-houses; the floating cabin on the east shore of Black Lake.\r\n\r\nI'm not ceding my territory to those jack-boot dipshits.\r\n\r\nWhoever murks these fuckers is free to use the safe-house to their own ends. Plus a small reward... ",
     "LocalizedString": ""
   },
@@ -872,7 +872,7 @@
     "Key": "B806F6B44A42C4763D18A0BE2DA501BF",
     "Hash": 709180968,
     "SourceString": "Simmi",
-    "LocalizedString": ""
+    "LocalizedString": "Симми"
   },
   {
     "Namespace": "",
@@ -891,7 +891,7 @@
   {
     "Namespace": "",
     "Key": "C44EE03D42F901390133DE88D0E40BC8",
-    "Hash": 1896745019,
+    "Hash": 235171968,
     "SourceString": "Shit, my wrench broke.  Can someone fetch me a replacement?\r\n\r\nLook around the large warehouse in the middle of Crossroads. There's bound to be one there.\r\n\r\nI'll pay you with a Med-Kit and a can of Beans...",
     "LocalizedString": ""
   },
@@ -933,7 +933,7 @@
   {
     "Namespace": "",
     "Key": "71D69D974AD98CD81B166F903A132990",
-    "Hash": 3053705135,
+    "Hash": 1574879648,
     "SourceString": "There's this local guy, goes by the name Egg-Head.\r\n\r\nHe made a bad deal with some associates of mine. He was due to produce some artifacts, but they never materialized. \r\n\r\nMy associates have exhausted their patience with him.\r\n\r\n8K on his round, pale, dome.\r\n\r\nHe was last seen snooping around \"RG-East\", the abandoned labs next to Doc Mo's place...",
     "LocalizedString": ""
   },
@@ -975,7 +975,7 @@
   {
     "Namespace": "",
     "Key": "3F1D4A4340DFDA9546A6CFAA06F02999",
-    "Hash": 2007681020,
+    "Hash": 1853796358,
     "SourceString": "Hey, I spotted a Hell-Hound prowling around in the valley at the North-East end of M35.\r\n\r\nDon't usually see these monsters this far south.  Looks like an alpha too.\r\n\r\nIts already killed two guys, I'll pay to have someone braver than me come and take care of it. ",
     "LocalizedString": ""
   },
@@ -1010,14 +1010,14 @@
   {
     "Namespace": "",
     "Key": "121C607E4D01D24D7FA686A7D34D4BBF",
-    "Hash": 2400660107,
+    "Hash": 2477956668,
     "SourceString": "I sent a small research team up to Stone Maze to measure the ground saturation of Eather in the northern zone.\r\n\r\nThey were only meant to be out for a few weeks; but I've yet to hear any word back from them.\r\n\r\nSee if you can find any readings they may have gathered and record it onto a Data Tape.\r\n\r\n",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "83495AD24DAFEF061FE7D7B016FE04DE",
-    "Hash": 3769728732,
+    "Hash": 1658452491,
     "SourceString": "The Northern Zone is not an easy place to access. You will need to find a suitable route through the military perimeter; the best one may not be obvious. \r\n\r\nYou should also ensure you are prepared and well equipped for the dangers you will face there...",
     "LocalizedString": ""
   },
@@ -1059,7 +1059,7 @@
   {
     "Namespace": "",
     "Key": "B8343DEC4DD1F9A35BA768AA959620A8",
-    "Hash": 839641276,
+    "Hash": 602916330,
     "SourceString": "A high-ranking officer of the Insurrection has been identified.\r\n\r\nHe currently commands a small FOB in the south east sector of the exclusion zone.\r\n\r\nFind and eliminate the target!",
     "LocalizedString": ""
   },
@@ -1094,7 +1094,7 @@
   {
     "Namespace": "",
     "Key": "D2FEBCD24D2B2E3684E488917B87336D",
-    "Hash": 2411955512,
+    "Hash": 1596762048,
     "SourceString": "Don't get it twisted, the only reason I stopped doing business with the Insurrection is because they keep ripping me off. \r\nI guess all that talk about \"supporting domestic enterprise\" doesn't extend to us Fae.\r\n\r\nThey're still holding on to my last shipment. Green duffle bag with a Yellow Stag patch.\r\n\r\nFind it and bring it back to me; any blood you spill along the way is considered 'interest'.",
     "LocalizedString": ""
   },
@@ -1136,7 +1136,7 @@
   {
     "Namespace": "",
     "Key": "D7FBB78844037B546B5C648ACC788DC4",
-    "Hash": 1694864702,
+    "Hash": 3487718172,
     "SourceString": "A high value target known as \"The Broker\" has been reported to be operating an illegal black market in the exclusion zone.\r\n\r\nHis exact location is currently unknown, however intel suggests he's operating somewhere in the southern Zone.\r\n\r\nFind and eliminate the target!",
     "LocalizedString": ""
   },
@@ -1171,7 +1171,7 @@
   {
     "Namespace": "",
     "Key": "25B6CC194934416F6E8333B88824BA3B",
-    "Hash": 3716030923,
+    "Hash": 1123434343,
     "SourceString": "Intel suggests that a pre-threshold laboratory known as E-206 may have data referring to early anomalies in the Exclusion Zone. \r\n\r\nThis installation is believed to be housed within disused railway tunnels below the outskirts of Port Rale.\r\n\r\nInfiltrate the lab and retrieve any relevant data you may discover.",
     "LocalizedString": ""
   },
@@ -1206,7 +1206,7 @@
   {
     "Namespace": "",
     "Key": "12CF5AED4E6C190A15BDE9BD2856E013",
-    "Hash": 1645891067,
+    "Hash": 2927521441,
     "SourceString": "The leader of the Insurrection, Dillard Kempt, has scrubbed all of his public financial records during his previous term as NFTA Chairmen.\r\n\r\nIntel suggests that the bank offices in Port Rale may still hold some copies of his financial record. They may even elucidate as to where the Insurrection is securing their funding...\r\n\r\nSearch the bank offices and recover any intel relevant to Dillard Kempt.",
     "LocalizedString": ""
   },
@@ -1241,7 +1241,7 @@
   {
     "Namespace": "",
     "Key": "47FE5BB440DE483E3A6EBBB80325359A",
-    "Hash": 70944541,
+    "Hash": 871676757,
     "SourceString": "Person of interest, Dr. Mosby, is known to be cooperating with left-wing terrorists in the southern zone.\r\n\r\nIntel reports that he has sent a research team to Stone Maze to conduct some sort of recon mission. \r\n\r\nFind and eliminate this team, and retrieve any data they may have collected.",
     "LocalizedString": ""
   },
@@ -1283,7 +1283,7 @@
   {
     "Namespace": "",
     "Key": "823B32EA400F6D8C9DDF8892CD24D620",
-    "Hash": 2927994756,
+    "Hash": 3632410934,
     "SourceString": "The NFTA Military's main objective in the Zone is to secure and maintain Eather mining and refinement infrastructure.\r\nOur objective is to stop them.\r\n\r\nRecently, NFTA has been working to bring the West Pier Refinery back to working order, implying that they possess a working Eather reification core.\r\n\r\nThese are rare and irreplaceable pieces of pre-threshold equipment; each one we destroy is a permanent death-knell to their regime.\r\n\r\nYour mission: Raid the West Pier Eather Refinery and destroy that core by whatever means necessary!",
     "LocalizedString": ""
   },
@@ -1318,7 +1318,7 @@
   {
     "Namespace": "",
     "Key": "4389B7A04E5C12A18E640F87E2A5CCF8",
-    "Hash": 2757374784,
+    "Hash": 1433289489,
     "SourceString": "Another one of my artifact shipments went missing, no sign of the courier in weeks. \r\n\r\nI've known him to shack up in the slums when shit goes south; he has a safe-room in \"The Blue House\".\r\nThis is the center of scav territory. \r\nHe says he has an \"understanding\" with the scavs, but if they knew what he was carrying I'm sure they wouldn't hesitate. \r\n\r\nI don't really care what happened to this idiot; find my artifacts and bring them to me.",
     "LocalizedString": ""
   },
@@ -1360,7 +1360,7 @@
   {
     "Namespace": "",
     "Key": "4D952ED04C484966E2A004BF687976B5",
-    "Hash": 4106972894,
+    "Hash": 3761642086,
     "SourceString": "Currently my laboratory is only working at partial capacity. I need someone to re-install the Turbo Encabulator in RG East.\r\n\r\nA working Encabulator has been left at the entrance from my lab in RG East. Someone needs to bring it to the main machine room and install it into the control socket. ",
     "LocalizedString": ""
   },
@@ -1388,7 +1388,7 @@
   {
     "Namespace": "",
     "Key": "34CAB1CD442C2C87CB45E39995D84D94",
-    "Hash": 2434098121,
+    "Hash": 1620155925,
     "SourceString": "Destroy at least 6 Fuel Tanks in GoldWood Forest.\r\n0/6 Fuel Tanks Destroyed. ",
     "LocalizedString": ""
   },
@@ -1437,7 +1437,7 @@
   {
     "Namespace": "",
     "Key": "0C491CC44986E573FFEBB183D2F4C17D",
-    "Hash": 590968829,
+    "Hash": 3370550157,
     "SourceString": "The Insurrection has two major fuel reserves hidden in GoldWood Forest. \r\n\r\nSabotaging this supply line could set their plans back by weeks.\r\n\r\nDestroy at least 6 fuel tanks and we'll make it worth your trouble...",
     "LocalizedString": ""
   },
@@ -1472,7 +1472,7 @@
   {
     "Namespace": "",
     "Key": "98DDD5824883F9F3AACC63A46149C74D",
-    "Hash": 2788213775,
+    "Hash": 762003949,
     "SourceString": "My memory from before the Threshold is fuzzy, but I know for a fact my lab wasn't the only place near Port Rale that was testing prototype drills. \r\n\r\nExplore any other research installations you can pry your way into; find a lead...",
     "LocalizedString": ""
   },
@@ -1514,21 +1514,21 @@
   {
     "Namespace": "",
     "Key": "151CC07D4DB765750FEE5BABF7513324",
-    "Hash": 2209636520,
+    "Hash": 2343103028,
     "SourceString": "It doesn't matter how, the Eather Drill must be reversed one way or another. \r\n",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "EF5B7E2448A5AC1F150DD7BC71334753",
-    "Hash": 3891959132,
+    "Hash": 814620115,
     "SourceString": "I've uploaded our experiment results to the public terminal. Use a data tape to load them into a powerful computer to generate the reverse instructions for the drill.\r\n",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "29D272D54DE65349E304EC8C2F64947F",
-    "Hash": 3902858237,
+    "Hash": 3303047663,
     "SourceString": "If you can't find a computer powerful enough, you may still be able to reverse the drill manually, but that's incredibly risky...\r\n",
     "LocalizedString": ""
   },
@@ -1570,7 +1570,7 @@
   {
     "Namespace": "",
     "Key": "6F761D23401B5B0C19339F93EEE7779C",
-    "Hash": 3949148218,
+    "Hash": 1674286573,
     "SourceString": "Secure me that prototype drill-head and I will pay off $2,000,000 of your debts.\r\n\r\n[Warning: Completing this quest will be seen as a betrayal to the Revolution!]",
     "LocalizedString": ""
   },
@@ -1605,7 +1605,7 @@
   {
     "Namespace": "",
     "Key": "A69BC4714C20DB2427AE219E1493B56D",
-    "Hash": 1122868232,
+    "Hash": 4175636107,
     "SourceString": "Rumor tells of strange humanoids being spotted wielding Eather-based weapons that shoot twirling bolts of flame.\r\n\r\nBring me back one of these 'Scorcher' guns and I'll make it worth the effort. \r\n\r\nMost recently they've been spotted in some sort of heavy industrial facility off M35...",
     "LocalizedString": ""
   }

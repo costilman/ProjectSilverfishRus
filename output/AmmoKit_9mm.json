@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "18E566264760ED95F3FF5A8DF60E4580",
-    "Hash": 448864730,
+    "Hash": 1725589250,
     "SourceString": "Ammo Kit:\r\n\r\n54 Rounds 9mm Parabellum\r\n48 Rounds 9mm AP",
     "LocalizedString": ""
   },
@@ -18,6 +18,6 @@
     "Key": "A952127C44163801C473588BB00956CA",
     "Hash": 2484905851,
     "SourceString": "Open to access ammo.",
-    "LocalizedString": ""
+    "LocalizedString": "Откройте, чтобы получить боеприпасы."
   }
 ]

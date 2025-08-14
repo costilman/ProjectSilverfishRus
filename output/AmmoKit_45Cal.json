@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "6BC866574D1EFB274DAEA3A802B791FD",
-    "Hash": 3138194144,
+    "Hash": 38425024,
     "SourceString": "Ammo Kit:\r\n\r\n48 Rounds 45 RPC\r\n36 Rounds 45 Hollow Point",
     "LocalizedString": ""
   },
@@ -18,6 +18,6 @@
     "Key": "48AE0EBC4D98076C4FF34FB205D77F6E",
     "Hash": 2484905851,
     "SourceString": "Open to access ammo.",
-    "LocalizedString": ""
+    "LocalizedString": "Откройте, чтобы получить боеприпасы."
   }
 ]

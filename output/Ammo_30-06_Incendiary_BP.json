@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "E67FD7594D59EDBE767A75870AE843CD",
-    "Hash": 1824608765,
+    "Hash": 3450979647,
     "SourceString": "Used in Heavy Rifles, DMRs and LMGs.\r\n\r\nTrades armor penetration for Incendiary effect on target. ",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "4605D9F24B959B6B18926398382AFDBB",
     "Hash": 3463824463,
     "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
-    "LocalizedString": ""
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
   }
 ]

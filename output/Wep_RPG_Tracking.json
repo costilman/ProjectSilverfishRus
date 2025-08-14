@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "1C9649934C06483D19668197D7985D9B",
-    "Hash": 2407019023,
+    "Hash": 939783722,
     "SourceString": "60mm Rocket Launcher platform. \r\nPossesses Target-Seeking capabilities.",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "DF954E46489B43511D6144BF3CE78E84",
     "Hash": 2413172976,
     "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
   }
 ]

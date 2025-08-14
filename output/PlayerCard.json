@@ -30,9 +30,9 @@
   {
     "Namespace": "",
     "Key": "0BA2A7C34409A23F2EE32DA0F55E8F64",
-    "Hash": 3356322914,
+    "Hash": 1631216696,
     "SourceString": "Staying well fed maintains a higher sprint speed and gives faster health regeneration. \r\n\r\n(You will not starve if this number reaches zero)",
-    "LocalizedString": ""
+    "LocalizedString": "Хорошее питание поддерживает высокую скорость бега и ускоряет регенерацию здоровья. \r\n\r\n(Вы не умрёте от голода, если этот показатель достигнет нуля)"
   },
   {
     "Namespace": "",
@@ -46,7 +46,7 @@
     "Key": "C5A484BF43EA2784D8AFB18D4BD2383C",
     "Hash": 2553886929,
     "SourceString": "Your Health will slowly regenerate to the value of your Regen Limit. Using healing items will raise your Regen Limit up to 100%",
-    "LocalizedString": ""
+    "LocalizedString": "Ваше здоровье будет медленно восстанавливаться до значения предела регенерации. Использование лечебных предметов повышает предел регенерации до 100%"
   },
   {
     "Namespace": "",

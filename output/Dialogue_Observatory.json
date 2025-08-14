@@ -4,342 +4,342 @@
     "Key": "AE78C1ED46D49625835064887886E395",
     "Hash": 2909491192,
     "SourceString": "Well, what do we have here; another rookie looking to make their fortune in this wasteland? ",
-    "LocalizedString": ""
+    "LocalizedString": "А что у нас тут? Ещё один новичок, который решил сорвать куш в этой зоне?"
   },
   {
     "Namespace": "",
     "Key": "859187174450EF59C56FD38017AA4ECC",
     "Hash": 3859418185,
     "SourceString": "Yeah, something like that..",
-    "LocalizedString": ""
+    "LocalizedString": "Ну… можно и так сказать."
   },
   {
     "Namespace": "",
     "Key": "4E61FE204458A203767C578A642BD674",
     "Hash": 3604545348,
     "SourceString": "I’m no rookie; spare me the introduction.",
-    "LocalizedString": ""
+    "LocalizedString": "Я не новичок. Давай без лишних вступлений."
   },
   {
     "Namespace": "",
     "Key": "2334D6384321041E0C87BBAF87406F3F",
     "Hash": 4181278399,
     "SourceString": "What ya' need?",
-    "LocalizedString": ""
+    "LocalizedString": "Что тебе нужно?"
   },
   {
     "Namespace": "",
     "Key": "04C2DEC342C756104DF03BBE8389ADF0",
     "Hash": 61690637,
     "SourceString": "Nothing for now. Bye.",
-    "LocalizedString": ""
+    "LocalizedString": "Сейчас ничего. Пока."
   },
   {
     "Namespace": "",
     "Key": "A3B720594636645298E6E6A9BC01C8BE",
     "Hash": 1678809497,
     "SourceString": "Let's talk about work...",
-    "LocalizedString": ""
+    "LocalizedString": "Давай поговорим о работе…"
   },
   {
     "Namespace": "",
     "Key": "EBA71682424307BF56FE2E9FAF311770",
     "Hash": 3581000012,
     "SourceString": "Can I ask a question?",
-    "LocalizedString": ""
+    "LocalizedString": "Можно задать вопрос?"
   },
   {
     "Namespace": "",
     "Key": "515DF8C944DD586B39EC948312AC79D1",
     "Hash": 3892030288,
     "SourceString": "Anything I can help you find?",
-    "LocalizedString": ""
+    "LocalizedString": "Что-нибудь помочь найти?"
   },
   {
     "Namespace": "",
     "Key": "115DAD134EF4214151468B847913D678",
     "Hash": 2217335198,
     "SourceString": "Welcome to the Observatory, I’m Simmi.",
-    "LocalizedString": ""
+    "LocalizedString": "Добро пожаловать в Обсерваторию, я — Симми."
   },
   {
     "Namespace": "",
     "Key": "855671494F8E21D60B36938C84AC8E73",
     "Hash": 4195208212,
     "SourceString": "This place is a sort of refuge for freelance stalkers out here.",
-    "LocalizedString": ""
+    "LocalizedString": "Это что-то вроде убежища для вольных сталкеров в этих краях."
   },
   {
     "Namespace": "",
     "Key": "A2E193694C674F1D54A6899A9E842779",
     "Hash": 2662685580,
     "SourceString": " If you’re looking for anything in particular, I might be able to help.",
-    "LocalizedString": ""
+    "LocalizedString": "Если ищешь что-то особенное — глядишь, смогу подсобить."
   },
   {
     "Namespace": "",
     "Key": "16C9FBD946DB3000576C368C5E106780",
     "Hash": 3827209843,
     "SourceString": "Yeah, I could use a little direction..",
-    "LocalizedString": ""
+    "LocalizedString": "Ага, не отказался бы от пары подсказок."
   },
   {
     "Namespace": "",
     "Key": "D8AF857F4FEB2016264F4B8DE6D8B5AD",
     "Hash": 3353010589,
     "SourceString": "Thanks, I can handle myself for now..",
-    "LocalizedString": ""
+    "LocalizedString": "Спасибо, пока справлюсь сам."
   },
   {
     "Namespace": "",
     "Key": "59DDD68E4C01B6A494563B9264AE8C89",
     "Hash": 2700419896,
     "SourceString": "What do you want to know?",
-    "LocalizedString": ""
+    "LocalizedString": "Что хочешь узнать?"
   },
   {
     "Namespace": "",
     "Key": "3F7B37F640E73D126611E1989A0A9D8E",
     "Hash": 2687993142,
     "SourceString": "Is there somewhere I can rest and stash my gear?",
-    "LocalizedString": ""
+    "LocalizedString": "Подскажи, где тут можно отдохнуть и сложить свой хабар?"
   },
   {
     "Namespace": "",
     "Key": "7A06986941DAC2A0C344B680AE218BE9",
     "Hash": 573500150,
     "SourceString": "Actually, I needed something else.",
-    "LocalizedString": ""
+    "LocalizedString": "Если честно, я по другому делу."
   },
   {
     "Namespace": "",
     "Key": "E9D2B90B4EB6F469E05F90A9D32A8EA5",
     "Hash": 147302951,
     "SourceString": "I need to buy some gear.",
-    "LocalizedString": ""
+    "LocalizedString": "Хочу затариться снарягой."
   },
   {
     "Namespace": "",
     "Key": "AAF679804E3F7C1FF1967DA57664DC85",
     "Hash": 1287289049,
     "SourceString": "I have a huge debt to pay, I need some bigger contracts...",
-    "LocalizedString": ""
+    "LocalizedString": "Мне нужно закрыть огромный долг. Подкинешь контракты посерьёзнее?"
   },
   {
     "Namespace": "",
     "Key": "DC192CB645CDC074995FC68A651323DE",
     "Hash": 1902405534,
     "SourceString": "Who are those assholes with the orange arm-bands?",
-    "LocalizedString": ""
+    "LocalizedString": "Эти в оранжевых повязках — что за ублюдки такие?"
   },
   {
     "Namespace": "",
     "Key": "0317833643D22862C0807386819DA144",
     "Hash": 1291858652,
     "SourceString": "What’s the military doing here in the zone?",
-    "LocalizedString": ""
+    "LocalizedString": "Чем военные тут в Зоне занимаются?"
   },
   {
     "Namespace": "",
     "Key": "45A693354F3106BDB682E19B9FC312B3",
     "Hash": 1557084586,
     "SourceString": "Who are the guys in the red camo?",
-    "LocalizedString": ""
+    "LocalizedString": "Кто эти парни в красном камуфляже?"
   },
   {
     "Namespace": "",
     "Key": "4596B8F840A8E8EB2671A7BBA47F62A3",
     "Hash": 3801742227,
     "SourceString": "Talk to Eddy, over in the green shed. He’ll fix you up.",
-    "LocalizedString": ""
+    "LocalizedString": "Поговори с Эдди в зелёном ангаре. Он торгует снарягой."
   },
   {
     "Namespace": "",
     "Key": "D2880D824783602E367B228EEAC04751",
     "Hash": 3167775932,
     "SourceString": "If you’re looking for higher caliber stuff there’s other traders and shops dotted all throughout the zone.",
-    "LocalizedString": ""
+    "LocalizedString": "Если ищешь что-то посерьёзнее, в Зоне полно других торговцев, где это можно достать."
   },
   {
     "Namespace": "",
     "Key": "B25483BD44C5F7FC4F3CEC8ABE260A88",
     "Hash": 4195099423,
     "SourceString": "Right, must have missed him.",
-    "LocalizedString": ""
+    "LocalizedString": "Ясно, видимо, проглядел его."
   },
   {
     "Namespace": "",
     "Key": "7BA7E15D4C1754788653B4933814CCD2",
     "Hash": 533375847,
     "SourceString": "You’ll want to look for a guy called the Broker then.",
-    "LocalizedString": ""
+    "LocalizedString": "Тебе нужен человек по кличке Брокер."
   },
   {
     "Namespace": "",
     "Key": "CC5F3EA345653AAFC621018874B0C98E",
     "Hash": 3132411849,
     "SourceString": "He runs the local black market over on the docks by the lake.",
-    "LocalizedString": ""
+    "LocalizedString": "Он заведует чёрным рынком на причале, прямо у озера."
   },
   {
     "Namespace": "",
     "Key": "FB4D9CD149991CBA405B189C7F861AED",
     "Hash": 2457087854,
     "SourceString": "It's a bit north-west of here; he can set you up. Take one of his flyers.",
-    "LocalizedString": ""
+    "LocalizedString": "Чуть на северо-запад — и ты на месте. Он поможет с тем, что тебе нужно. Вот, держи листовку."
   },
   {
     "Namespace": "",
     "Key": "3AFFA16A4CFCA80C463075B285F1E84E",
     "Hash": 2277506380,
     "SourceString": "Thanks, I’ll hit him up.",
-    "LocalizedString": ""
+    "LocalizedString": "Спасибо, загляну к нему."
   },
   {
     "Namespace": "",
     "Key": "E10A841B4AC614F7FB32D189055BED09",
     "Hash": 2857595770,
     "SourceString": "Eh, them? Just some fascists up to their bullshit.",
-    "LocalizedString": ""
+    "LocalizedString": "А, эти? Обычные фашисты, занятые своим дерьмом."
   },
   {
     "Namespace": "",
     "Key": "35066FCC4EA07A615FBE0F9BC921B3B4",
     "Hash": 4243573615,
     "SourceString": "I don’t really keep up with politics; but whatever they’re after out here probably isn’t good news.",
-    "LocalizedString": ""
+    "LocalizedString": "Честно говоря, я за политикой не слежу, но то, что им здесь нужно, явно не сулит ничего хорошего."
   },
   {
     "Namespace": "",
     "Key": "9309938F44C03D92D70D81B504AB0DA6",
     "Hash": 3932406333,
     "SourceString": "My advice is avoid them when possible. If they do give you trouble, feel free to stuff ‘em with lead.",
-    "LocalizedString": ""
+    "LocalizedString": "Мой совет — по возможности держись от них подальше. А если начнут лезть — смело корми их свинцом."
   },
   {
     "Namespace": "",
     "Key": "B116F8994CB15D392F1FEFB3C05A8BFD",
     "Hash": 3630703727,
     "SourceString": "Understood…",
-    "LocalizedString": ""
+    "LocalizedString": "Понял..."
   },
   {
     "Namespace": "",
     "Key": "75A86E1D4D1DF9CE60CA08994C83CC82",
     "Hash": 2528727809,
     "SourceString": "They’re calling it a ‘Police Action’, but I don’t buy it.",
-    "LocalizedString": ""
+    "LocalizedString": "Они называют это «полицейской операцией», но я на это не куплюсь."
   },
   {
     "Namespace": "",
     "Key": "9DB5E2264F3E9659E45C7C9A1369628F",
     "Hash": 744969502,
     "SourceString": "The military set up a perimeter at Dead Bridge; shooting anyone not wearing blue on sight. ",
-    "LocalizedString": ""
+    "LocalizedString": "Военные обустроили периметр у Моста Мертвых и стреляют на месте во всех, кто не в синем."
   },
   {
     "Namespace": "",
     "Key": "669C5913405EE7D5D95C2587227112D1",
     "Hash": 3440794238,
     "SourceString": "There’s something in the north of the zone; and everyone’s after it.",
-    "LocalizedString": ""
+    "LocalizedString": "На севере Зоны есть что-то, и за этим охотятся все."
   },
   {
     "Namespace": "",
     "Key": "A8F9068E4FF533C8C360C2A72D1BA9D6",
     "Hash": 3325840282,
     "SourceString": "I don’t know what though…",
-    "LocalizedString": ""
+    "LocalizedString": "Я, правда, не знаю что именно…"
   },
   {
     "Namespace": "",
     "Key": "F79A810043FF65ADD3F585817AB89F69",
     "Hash": 2945006889,
     "SourceString": "I see…",
-    "LocalizedString": ""
+    "LocalizedString": "Ясно…"
   },
   {
     "Namespace": "",
     "Key": "FB292C034AE001520AC0D899D722A05A",
     "Hash": 2814108560,
     "SourceString": "The ‘Revolutionary Army’, they’re left-wing militants with a blood feud against the NFTA.",
-    "LocalizedString": ""
+    "LocalizedString": "«Революционная армия» — левоэкстремистские боевики, у которых кровная вражда с NFTA."
   },
   {
     "Namespace": "",
     "Key": "933617DF4DB0D6F39902219F62118A5A",
     "Hash": 2904604777,
     "SourceString": "They’ve been striking infrastructure all over Carcosa for years now. ",
-    "LocalizedString": ""
+    "LocalizedString": "Уже не первый год они выводят из строя инфраструктуру по всей Каркозе."
   },
   {
     "Namespace": "",
     "Key": "66A54CD24C39D4930A1353830D2F4BBD",
     "Hash": 2670994158,
     "SourceString": "They’re after some sort of big fish here in the zone, and they aren’t afraid to get their paws dirty over it.",
-    "LocalizedString": ""
+    "LocalizedString": "Тут, в Зоне, у них на примете что-то серьёзное, и они не стесняются действовать грязными методами, чтобы это заполучить."
   },
   {
     "Namespace": "",
     "Key": "A104B65845570F5D5932859CF5639868",
     "Hash": 613335661,
     "SourceString": "We Freelancers are on neutral terms with them, for now at least. They won’t bother you if you don’t bother them…",
-    "LocalizedString": ""
+    "LocalizedString": "Пока что у нас, фрилансеров, с ними нейтралитет. Не будешь лезть к ним — и они к тебе тоже…"
   },
   {
     "Namespace": "",
     "Key": "ED1424B04C11E093CAF216952D0D45F1",
     "Hash": 2824051657,
     "SourceString": "Good to know.",
-    "LocalizedString": ""
+    "LocalizedString": "Понял, полезная информация."
   },
   {
     "Namespace": "",
     "Key": "2BADE6C7498D730301DC66A873AEE133",
     "Hash": 793109640,
     "SourceString": "Fresh off the boat, huh?",
-    "LocalizedString": ""
+    "LocalizedString": "Только что прибыл, да?"
   },
   {
     "Namespace": "",
     "Key": "1E6772E24C17D39EA10BAA9D1208F050",
     "Hash": 3333491027,
     "SourceString": "If you're looking for work, go talk to Simmi. She's in the main building there...",
-    "LocalizedString": ""
+    "LocalizedString": "Хочешь подзаработать — ступай к Симми, она в основном здании."
   },
   {
     "Namespace": "",
     "Key": "06EFA9084CBAF7ABA21AC0B89DFAA4A2",
     "Hash": 4245099643,
     "SourceString": "It's also a safe place to rest and store your gear.",
-    "LocalizedString": ""
+    "LocalizedString": "Тут безопасно, можно перевести дух и сложить своё снаряжение."
   },
   {
     "Namespace": "",
     "Key": "D85A6F4641C9E7AB54DC718ADD6F76FA",
     "Hash": 650405600,
     "SourceString": "...",
-    "LocalizedString": ""
+    "LocalizedString": "..."
   },
   {
     "Namespace": "",
     "Key": "F61C33FB45F75655492D09842F7836B3",
     "Hash": 2102131459,
     "SourceString": "Just up those stairs there's a bed and storage lockers. You can crash there if you need.",
-    "LocalizedString": ""
+    "LocalizedString": "Прямо вверх по лестнице — кровать и шкафчики для снаряжения. Если нужно, можешь там переночевать."
   },
   {
     "Namespace": "",
     "Key": "5335F2F5405856321EA554AB7B345A44",
     "Hash": 1954822395,
     "SourceString": "So long as you make yourself useful... ",
-    "LocalizedString": ""
+    "LocalizedString": "Можешь пользоваться нашим гостеприимством, пока от тебя есть прок…"
   },
   {
     "Namespace": "",
     "Key": "20B7C3D5428C44F885BD57A5BE3B6BA9",
     "Hash": 2463243123,
     "SourceString": "Thanks.",
-    "LocalizedString": ""
+    "LocalizedString": "Спасибо."
   }
 ]

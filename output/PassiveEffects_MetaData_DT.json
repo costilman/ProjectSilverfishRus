@@ -186,14 +186,14 @@
     "Key": "2F112F2C47BEB8482C3D0B9B4EAEFE97",
     "Hash": 2359761432,
     "SourceString": "Brawler",
-    "LocalizedString": ""
+    "LocalizedString": "Дебошир"
   },
   {
     "Namespace": "",
     "Key": "4707569D4CF473E88EC1A0B5BCB740EE",
     "Hash": 3364880532,
     "SourceString": "You deal increased Melee damage.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы наносите увеличенный урон в ближнем бою."
   },
   {
     "Namespace": "",
@@ -242,14 +242,14 @@
     "Key": "0C67141B4E3B82E26D7D879BFF1A3C6B",
     "Hash": 2680296127,
     "SourceString": "Hemophilia",
-    "LocalizedString": ""
+    "LocalizedString": "Гемофилия"
   },
   {
     "Namespace": "",
     "Key": "E76554A943EF2EB997DE959B1AA67C3C",
     "Hash": 4237976794,
     "SourceString": "Health items are less effective.",
-    "LocalizedString": ""
+    "LocalizedString": "Предметы для здоровья менее эффективны."
   },
   {
     "Namespace": "",
@@ -270,26 +270,26 @@
     "Key": "A35E9B76490F31C87436C499F7FEADF0",
     "Hash": 4291657463,
     "SourceString": "Sneaky",
-    "LocalizedString": ""
+    "LocalizedString": "Скрытный"
   },
   {
     "Namespace": "",
     "Key": "25F93FFB4659794D65B94F91BD977F48",
     "Hash": 2768153322,
     "SourceString": "You gain an additional bonus to stealth when crouched.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы получаете дополнительный бонус к скрытности когда крадётесь."
   },
   {
     "Namespace": "",
     "Key": "1BB609DE4EBF955B221D3F957E601602",
     "Hash": 932664318,
     "SourceString": "Weird Luck",
-    "LocalizedString": ""
+    "LocalizedString": "Странная удача"
   },
   {
     "Namespace": "",
     "Key": "D08A50A144B2CD76DE4859A5A6260300",
-    "Hash": 1123786050,
+    "Hash": 2122410614,
     "SourceString": "Everything happens so much...\r\nAll probability curves are made flatter.",
     "LocalizedString": ""
   },
@@ -485,7 +485,7 @@
   {
     "Namespace": "",
     "Key": "F9B97F514FA815B0166DA6856AEDD976",
-    "Hash": 3010476429,
+    "Hash": 4113213348,
     "SourceString": "Hot food feeds you more.\r\n\r\nCold food feeds you less.",
     "LocalizedString": ""
   },

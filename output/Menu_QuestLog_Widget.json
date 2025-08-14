@@ -4,21 +4,21 @@
     "Key": "254B4F87490351C13B7D3894CB6DD525",
     "Hash": 3544558282,
     "SourceString": "ADD ENTRY",
-    "LocalizedString": ""
+    "LocalizedString": "ДОБАВИТЬ ЗАПИСЬ"
   },
   {
     "Namespace": "",
     "Key": "3875F288461D5C5F701A2F953C9819A5",
     "Hash": 3383761019,
     "SourceString": "BACKPACK",
-    "LocalizedString": ""
+    "LocalizedString": "РЮКЗАК"
   },
   {
     "Namespace": "",
     "Key": "A67D5FE74A55DEBC0B3FB881671D60B8",
     "Hash": 692856776,
     "SourceString": "CLOSE",
-    "LocalizedString": ""
+    "LocalizedString": "ЗАКРЫТЬ"
   },
   {
     "Namespace": "",
@@ -60,14 +60,14 @@
     "Key": "92D2F72F4FC1EBB4394E43AF078EAEB2",
     "Hash": 150209364,
     "SourceString": "ACTIVE CONTRACTS",
-    "LocalizedString": ""
+    "LocalizedString": "АКТИВНЫЕ КОНТРАКТЫ"
   },
   {
     "Namespace": "",
     "Key": "38DF67144D2527DD2C3F619C9C72E775",
     "Hash": 4171649194,
     "SourceString": "FACTIONS",
-    "LocalizedString": ""
+    "LocalizedString": "ФРАКЦИИ"
   },
   {
     "Namespace": "",
@@ -81,14 +81,14 @@
     "Key": "97AF3D2A460536085001209184F63BD4",
     "Hash": 83487882,
     "SourceString": "NOTES",
-    "LocalizedString": ""
+    "LocalizedString": "ЗАМЕТКИ"
   },
   {
     "Namespace": "",
     "Key": "18B5768C4FA4260A0DB6D1BE8FB68AE1",
     "Hash": 183602797,
     "SourceString": "AVAILABLE CONTRACTS:",
-    "LocalizedString": ""
+    "LocalizedString": "ДОСТУПНЫЕ КОНТРАКТЫ:"
   },
   {
     "Namespace": "",
@@ -109,13 +109,13 @@
     "Key": "421B1E874F39084E7DD9A2887974C249",
     "Hash": 2990880696,
     "SourceString": "DEBT:",
-    "LocalizedString": ""
+    "LocalizedString": "ДОЛГ:"
   },
   {
     "Namespace": "",
     "Key": "365A1A3A4A96633E7E0584A57D4F5AF9",
     "Hash": 2062066740,
     "SourceString": "JOURNAL",
-    "LocalizedString": ""
+    "LocalizedString": "ЖУРНАЛ"
   }
 ]

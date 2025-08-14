@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "5C6C41E443341F5800471782DD455260",
-    "Hash": 1213964527,
+    "Hash": 3508898560,
     "SourceString": "Full face cover gasmask fitted with Night-Vision Goggles. Features HUD.\r\n\r\nIt completely obscures the face...",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "98E7745748887A2DEC3D05AB09B93CB2",
     "Hash": 408878696,
     "SourceString": "Press :HelmLight: to toggle on and off your Night Vision.",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :HelmLight:, чтобы включить или выключить ПНВ."
   }
 ]

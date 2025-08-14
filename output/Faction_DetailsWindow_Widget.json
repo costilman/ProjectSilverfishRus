@@ -4,7 +4,7 @@
     "Key": "EF4B82D64578F8F8EF22C8896BADB7F4",
     "Hash": 692856776,
     "SourceString": "CLOSE",
-    "LocalizedString": ""
+    "LocalizedString": "ЗАКРЫТЬ"
   },
   {
     "Namespace": "",
@@ -23,30 +23,30 @@
   {
     "Namespace": "",
     "Key": "B392AAA44D8990929D48F5AB35757812",
-    "Hash": 1931229751,
+    "Hash": 163487953,
     "SourceString": "Advantage represents this faction's current influence and strategic capabilities. \r\n\r\nIf one faction holds a significantly higher advantage over its enemies, it may try to make a move to fulfil its final objectives...",
-    "LocalizedString": ""
+    "LocalizedString": "Преимущество отражает текущее влияние и стратегические возможности этой фракции. \r\n\r\nЕсли одна фракция имеет значительно большее преимущество над своими врагами, она может попытаться сделать ход для достижения своих конечных целей..."
   },
   {
     "Namespace": "",
     "Key": "6F46F9E74F6B350B0E8F7B94CC81080E",
-    "Hash": 1727095660,
+    "Hash": 3203062635,
     "SourceString": "Reputation represents this faction's relationship with you. \r\n\r\nHelping this faction increases your Rep. \r\nKilling members of a faction decreases it. ",
-    "LocalizedString": ""
+    "LocalizedString": "Репутация отражает отношение этой фракции к вам. \r\n\r\nПомощь этой фракции повышает вашу репутацию. \r\nУбийство членов фракции понижает её."
   },
   {
     "Namespace": "",
     "Key": "492966B44FAB17D00622EF83929F6116",
     "Hash": 550382324,
     "SourceString": "REPUTATION",
-    "LocalizedString": ""
+    "LocalizedString": "РЕПУТАЦИЯ"
   },
   {
     "Namespace": "",
     "Key": "90DBE5854B13F1B616480BA5029AEBD0",
     "Hash": 144159366,
     "SourceString": "ADVANTAGE",
-    "LocalizedString": ""
+    "LocalizedString": "ПРЕИМУЩЕСТВО"
   },
   {
     "Namespace": "",
@@ -65,7 +65,7 @@
   {
     "Namespace": "",
     "Key": "4A807FD74EB0AC0EE944C9938A95921D",
-    "Hash": 3825206647,
+    "Hash": 1251917433,
     "SourceString": "Notes go here.}\r\n",
     "LocalizedString": ""
   },

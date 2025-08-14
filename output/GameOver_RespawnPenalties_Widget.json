@@ -4,7 +4,7 @@
     "Key": "4C9814B74633477DD76B1FB6BFAF8272",
     "Hash": 2244806427,
     "SourceString": "CONTINUE",
-    "LocalizedString": ""
+    "LocalizedString": "ПРОДОЛЖИТЬ"
   },
   {
     "Namespace": "",
@@ -16,7 +16,7 @@
   {
     "Namespace": "",
     "Key": "C67F627C4030CFF5CB824B9CB5E80C82",
-    "Hash": 1956344873,
+    "Hash": 3666064218,
     "SourceString": "[FOR PLAYTESTING ONLY]\r\n\r\nEnter Free-Cam mode.\r\n\r\nWARNING: Your death may not apply correctly to your save! Only use this option for debug purposes!",
     "LocalizedString": ""
   },
@@ -37,7 +37,7 @@
   {
     "Namespace": "",
     "Key": "D6EF1C804ED128D8B89D41A689F19213",
-    "Hash": 195708235,
+    "Hash": 1298459077,
     "SourceString": "-NAME\r\n  -$50",
     "LocalizedString": ""
   },

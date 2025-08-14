@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "FB7C37D04B0141B59D860E8FC3910766",
-    "Hash": 3688525877,
+    "Hash": 4288314178,
     "SourceString": "Ammo Kit:\r\n\r\n40 Buckshot Shells\r\n20 12-Gauge Slugs",
     "LocalizedString": ""
   },
@@ -18,6 +18,6 @@
     "Key": "27B6F4E442AC5E38B468F0ADB6B3E28A",
     "Hash": 2484905851,
     "SourceString": "Open to access ammo.",
-    "LocalizedString": ""
+    "LocalizedString": "Откройте, чтобы получить боеприпасы."
   }
 ]

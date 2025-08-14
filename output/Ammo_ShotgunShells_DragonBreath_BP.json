@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "02F3EC2F4D1863121AE8EC83DB56A82B",
-    "Hash": 1554264064,
+    "Hash": 2578223942,
     "SourceString": "Used in various Shotguns.\r\n\r\nFires a shower of burning molten metal slag.",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "A7182D924F0AE65622DC7194BC1E70A6",
     "Hash": 3463824463,
     "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
-    "LocalizedString": ""
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
   }
 ]

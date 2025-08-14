@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "A107294C42C810AE9527B69784DF2967",
-    "Hash": 3861942163,
+    "Hash": 3501369356,
     "SourceString": "Ushanka with HUD, gasmask and head-lamp.\r\n\r\nA similar setup is known to be worn by EDP Recon forces...",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "1E448DE44D4B2C164438BFA54DDC3E0F",
     "Hash": 924957729,
     "SourceString": "Press :HelmLight: to toggle on and off your Flashlight.",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :HelmLight:, чтобы включить или выключить фонарик."
   }
 ]

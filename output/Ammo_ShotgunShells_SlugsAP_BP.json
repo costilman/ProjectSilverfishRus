@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "7B81ECE44EC4DCC9D133EB98D1444C42",
-    "Hash": 4174535083,
+    "Hash": 1037761261,
     "SourceString": "Used in various Shotguns.\r\n\r\nFires an armor-penetrating, incendiary slug.",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "22B4E2D94BA80DBC7B19579673CC1259",
     "Hash": 3463824463,
     "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
-    "LocalizedString": ""
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
   }
 ]

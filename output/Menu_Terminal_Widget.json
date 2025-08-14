@@ -11,7 +11,7 @@
     "Key": "232714DE41D1080A2B224C9BA37948C7",
     "Hash": 692856776,
     "SourceString": "CLOSE",
-    "LocalizedString": ""
+    "LocalizedString": "ЗАКРЫТЬ"
   },
   {
     "Namespace": "",
@@ -37,7 +37,7 @@
   {
     "Namespace": "",
     "Key": "014CFEF14CC2C0B08045B287A79D20FA",
-    "Hash": 1424462382,
+    "Hash": 2700740377,
     "SourceString": "Type \"HELP\" to view a list of actions...\r\n",
     "LocalizedString": ""
   },

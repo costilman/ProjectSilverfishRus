@@ -23,7 +23,7 @@
   {
     "Namespace": "",
     "Key": "36310F3E4593CD77DF4FE88D6EF7303B",
-    "Hash": 1067427730,
+    "Hash": 1534420887,
     "SourceString": "On Death: \r\n-You respawn at your last bed.\r\n-All unsaved progress is lost.\r\n-You keep whatever was in your inventory at time of last save.\r\n\r\nAdditionally:\r\n-World Loot is replenished when you return to your home base.\r\n-The game Auto-saves after every level transition.\r\n-You can also save at beds.",
     "LocalizedString": ""
   },
@@ -32,12 +32,12 @@
     "Key": "6D872E844B073E086E1679A5BCB64BA7",
     "Hash": 1285849701,
     "SourceString": "Expedition",
-    "LocalizedString": ""
+    "LocalizedString": "Экспедиция"
   },
   {
     "Namespace": "",
     "Key": "1F38F7724CB6FC3157AFE0B6D45920FD",
-    "Hash": 42836168,
+    "Hash": 124807308,
     "SourceString": "On Death: \r\n-You fail your active contracts. \r\n-You choose 5 items from your inventory to keep, the rest are lost. \r\n-You respawn at your home base. \r\n-Otherwise your progress is saved. \r\n\r\nAdditionally:\r\n-World Loot is replenished when you return to your home base.\r\n-The game Auto-saves after every level transition.\r\n-You can also save at beds.",
     "LocalizedString": ""
   },
@@ -51,7 +51,7 @@
   {
     "Namespace": "",
     "Key": "AA261CB54D8B7DAA7484F2BCFF8CB435",
-    "Hash": 334471727,
+    "Hash": 1385736442,
     "SourceString": "On Death: \r\n-You fail your active contracts. \r\n-You choose 10 items from your inventory to keep, the rest are lost. \r\n-Each time you die, the number of items you can keep on death is reduced by one...\r\n-You respawn at your home base. \r\n-Otherwise your progress is saved. \r\n\r\nAdditionally:\r\n-World Loot is never replenished.\r\n-The game Auto-saves after every level transition.\r\n-You can also save at beds.\r\n-If you die more than 10 times, the game does not end...",
     "LocalizedString": ""
   },
@@ -60,12 +60,12 @@
     "Key": "5880A1634D6125935D36959C1A388DB7",
     "Hash": 2002679051,
     "SourceString": "9 Lives",
-    "LocalizedString": ""
+    "LocalizedString": "9 Жизней"
   },
   {
     "Namespace": "",
     "Key": "AA261CB54D8B7DAA7484F2BCFF8CB435",
-    "Hash": 334471727,
+    "Hash": 1385736442,
     "SourceString": "On Death: \r\n-You fail your active contracts. \r\n-You choose 10 items from your inventory to keep, the rest are lost. \r\n-Each time you die, the number of items you can keep on death is reduced by one...\r\n-You respawn at your home base. \r\n-Otherwise your progress is saved. \r\n\r\nAdditionally:\r\n-World Loot is never replenished.\r\n-The game Auto-saves after every level transition.\r\n-You can also save at beds.\r\n-If you die more than 10 times, the game does not end...",
     "LocalizedString": ""
   },
@@ -79,7 +79,7 @@
   {
     "Namespace": "",
     "Key": "4D130A9848CF3055400D02B67FC21942",
-    "Hash": 461356977,
+    "Hash": 3800710710,
     "SourceString": "On Death: \r\n-You are returned to the main menu. \r\n-Your save file is deleted. \r\n\r\nAdditionally:\r\n-World Loot is never replenished.\r\n-The game Auto-saves after every level transition.\r\n-You can still save at beds as well. ",
     "LocalizedString": ""
   }

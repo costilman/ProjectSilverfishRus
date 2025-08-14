@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "9853B295411870660703CC8344DC0B2A",
-    "Hash": 949953026,
+    "Hash": 2356121105,
     "SourceString": "A compact, bullpup AR that fires a 2 round burst at extreme fire rates.\r\n\r\nThis model is equipped with a suppressor, laser sight and foregrip. ",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "6DFD594346CDAC408AE1F8AE9E7BB637",
     "Hash": 2413172976,
     "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
   }
 ]

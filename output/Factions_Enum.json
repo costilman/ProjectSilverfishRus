@@ -11,7 +11,7 @@
     "Key": "72DEA645460B5F08FB4FE8ABCD1BFF78",
     "Hash": 3597405662,
     "SourceString": "Stranger",
-    "LocalizedString": ""
+    "LocalizedString": "Незнакомец"
   },
   {
     "Namespace": "",
@@ -74,28 +74,28 @@
     "Key": "018F379B4594082053EE6EA92FC55208",
     "Hash": 2537052732,
     "SourceString": "Trusted",
-    "LocalizedString": ""
+    "LocalizedString": "Доверенный"
   },
   {
     "Namespace": "",
     "Key": "C35B528844F5F276DEC5A68EB344267C",
     "Hash": 699519473,
     "SourceString": "Distrusted",
-    "LocalizedString": ""
+    "LocalizedString": "Ненадежный"
   },
   {
     "Namespace": "",
     "Key": "EF67281A4926D3BB1F72ECA7315E0F5B",
     "Hash": 3220913113,
     "SourceString": "Pariah",
-    "LocalizedString": ""
+    "LocalizedString": "Изгой"
   },
   {
     "Namespace": "",
     "Key": "6BEB4D4B4A420A9773A2D584BF618D49",
     "Hash": 3931868830,
     "SourceString": "Despised",
-    "LocalizedString": ""
+    "LocalizedString": "Презираемый"
   },
   {
     "Namespace": "",

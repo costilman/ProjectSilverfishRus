@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "26D4E835493DCA9B2587FA9E5659E4A4",
-    "Hash": 988640512,
+    "Hash": 530286540,
     "SourceString": "Used in various Shotguns.\r\n\r\nA single large heavy slug: Deals massive kinetic damage on target with some effectiveness against armor. ",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "908A439C4C0A5DF077F572A144506767",
     "Hash": 3463824463,
     "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
-    "LocalizedString": ""
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
   }
 ]

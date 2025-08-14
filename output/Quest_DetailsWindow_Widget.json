@@ -4,7 +4,7 @@
     "Key": "DA89AE7A477CE0BFCB071F91DBC51D95",
     "Hash": 4113372111,
     "SourceString": "ABANDON",
-    "LocalizedString": ""
+    "LocalizedString": "ОТКАЗАТЬСЯ"
   },
   {
     "Namespace": "",
@@ -18,7 +18,7 @@
     "Key": "D4ECA52D44507001885725852A298E2F",
     "Hash": 692856776,
     "SourceString": "CLOSE",
-    "LocalizedString": ""
+    "LocalizedString": "ЗАКРЫТЬ"
   },
   {
     "Namespace": "",

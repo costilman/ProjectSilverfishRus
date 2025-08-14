@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "6062AC1C4D08B31B3FE873BE650FA9FB",
-    "Hash": 2852206893,
+    "Hash": 4157455998,
     "SourceString": "Used in Carbines and Light Rifles.\r\n\r\nTrades armor penetration for Incendiary effect on target.",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "DDDA18104FD5ECB13C0E9BA2C5C10464",
     "Hash": 3463824463,
     "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
-    "LocalizedString": ""
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
   }
 ]

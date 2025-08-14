@@ -4,28 +4,28 @@
     "Key": "60B8C9A5461660A9098D70B7968A0BD1",
     "Hash": 2696345315,
     "SourceString": "Search...",
-    "LocalizedString": ""
+    "LocalizedString": "Поиск..."
   },
   {
     "Namespace": "",
     "Key": "1E5AE6BD471AB23D20813AB42584B836",
     "Hash": 3700736715,
     "SourceString": "BUY BACK",
-    "LocalizedString": ""
+    "LocalizedString": "ВЫКУПИТЬ"
   },
   {
     "Namespace": "",
     "Key": "1540410B470DE407B8E1059AF5008A6B",
     "Hash": 3245309902,
     "SourceString": "INFINITE STOCK",
-    "LocalizedString": ""
+    "LocalizedString": "БЕСКОНЕЧНЫЙ ЗАПАС"
   },
   {
     "Namespace": "",
     "Key": "04FD3B8C413BF70E70AFFFB3142D776D",
     "Hash": 3616999128,
     "SourceString": "LIMITED INVENTORY",
-    "LocalizedString": ""
+    "LocalizedString": "ОГРАНИЧЕННЫЙ ЗАПАС"
   },
   {
     "Namespace": "",

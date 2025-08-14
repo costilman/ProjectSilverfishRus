@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "24BAB68A44F9CA61BB7211B5FD5809B1",
-    "Hash": 3125411743,
+    "Hash": 3494394247,
     "SourceString": "MATCH\r\nHUD",
     "LocalizedString": ""
   },
@@ -11,13 +11,13 @@
     "Key": "87C0A92F466ED4B82CC752B3200D2A0F",
     "Hash": 4039156394,
     "SourceString": "UI COLOR",
-    "LocalizedString": ""
+    "LocalizedString": "ЦВЕТ ИНТЕРФЕЙСА"
   },
   {
     "Namespace": "",
     "Key": "C415138A42A1AFB17599CFAC72965926",
     "Hash": 690698737,
     "SourceString": "PRESETS",
-    "LocalizedString": ""
+    "LocalizedString": "ШАБЛОНЫ"
   }
 ]

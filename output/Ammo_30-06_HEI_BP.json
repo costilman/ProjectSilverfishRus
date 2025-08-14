@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "93D0CD3D4256390830324F9AF26BA102",
-    "Hash": 501735939,
+    "Hash": 3011781478,
     "SourceString": "Used in Heavy Rifles, DMRs and LMGs.\r\n\r\nBullet contains a small explosive payload that detonates on impact.",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "0CD632884832F7A622D6F8B80C0B99AC",
     "Hash": 3463824463,
     "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
-    "LocalizedString": ""
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
   }
 ]

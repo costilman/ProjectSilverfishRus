@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "9BD0EA3E4244CAC4930826807B550671",
-    "Hash": 1228909839,
+    "Hash": 1455733855,
     "SourceString": "Full face mask fitted with Tac-Light, covered in arcane runes. \r\n\r\nLooks like the sort of thing worn by Cultists. It also completely obscures the face...",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "957A650349F50E5ABE2118AB8B227796",
     "Hash": 924957729,
     "SourceString": "Press :HelmLight: to toggle on and off your Flashlight.",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :HelmLight:, чтобы включить или выключить фонарик."
   }
 ]

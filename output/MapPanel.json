@@ -123,7 +123,7 @@
     "Key": "69015DD84D57CACA7B0035B7500C32BA",
     "Hash": 1350527701,
     "SourceString": "Observatory",
-    "LocalizedString": ""
+    "LocalizedString": "Обсерватория"
   },
   {
     "Namespace": "",
@@ -135,28 +135,28 @@
   {
     "Namespace": "",
     "Key": "640365ED41ADDB7AC95A09BBA4963350",
-    "Hash": 448272453,
+    "Hash": 2335420377,
     "SourceString": "Black Market Dock A\r\n\r\n-Broker\r\n-Black Market Shop",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "FE37432142E6AE8C4555E69767BD02AB",
-    "Hash": 4074678192,
+    "Hash": 2383410434,
     "SourceString": "The Borough\r\n\r\n-Mamma Roach\r\n-Borough Shop\r\n-Trade with Revolutionaries ",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "7DB8C67E45704016F9E0E59D0CA515AB",
-    "Hash": 2439237890,
+    "Hash": 1903771296,
     "SourceString": "RG-West Lab\r\n\r\n-Dr. Mosby\r\n-Requisitions Shop ",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "5FD4484A4A683C51D67232AD849EEC24",
-    "Hash": 1146810365,
+    "Hash": 4138621375,
     "SourceString": "Strange Junk Shop\r\n\r\n-Shop Keep\r\n-Bounty Board",
     "LocalizedString": ""
   },
@@ -170,35 +170,35 @@
   {
     "Namespace": "",
     "Key": "8B8E6F1E477815834DBA49B1354EABF3",
-    "Hash": 1528807680,
+    "Hash": 2600062176,
     "SourceString": "Observatory\r\n\r\n-Simmi\r\n-Observatory Shop",
-    "LocalizedString": ""
+    "LocalizedString": "Обсерватория\r\n\r\n-Симми\r\n-Магазин обсерватории"
   },
   {
     "Namespace": "",
     "Key": "260D30724F99925F5ECCEB81EC3620E3",
-    "Hash": 3685219775,
+    "Hash": 2062478473,
     "SourceString": "Craftsman's Shop\r\n\r\n-Craftsman",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "1FD84B8A4577DFA83360C6BEB93EEDC9",
-    "Hash": 1284390661,
+    "Hash": 1038560465,
     "SourceString": "Lone Wolf Saloon\r\n\r\n-Bed for rent\r\n-Shop\r\n-Bounty Board",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "38B202CA40369E39A663F5ADA8214E50",
-    "Hash": 1677639950,
+    "Hash": 709954329,
     "SourceString": "Big Iron's Armory\r\n\r\n-Gunsmith Upgrades\r\n-Ammo Shop",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "6D7DADFD4D2FCA561B1378A75ED3D113",
-    "Hash": 2318581071,
+    "Hash": 564873058,
     "SourceString": "Hidden Junction:\r\n\r\n-Revolution Outpost\r\n-Trade Post\r\n-Bounty Board",
     "LocalizedString": ""
   },
@@ -256,7 +256,7 @@
     "Key": "73E481A440000BB6C39AA1A3C0728C51",
     "Hash": 1350527701,
     "SourceString": "Observatory",
-    "LocalizedString": ""
+    "LocalizedString": "Обсерватория"
   },
   {
     "Namespace": "",

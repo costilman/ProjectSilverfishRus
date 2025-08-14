@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "2E8FACDA486A4BF169D7CD89A5B6AB0B",
-    "Hash": 1592476859,
+    "Hash": 1140542791,
     "SourceString": "Hat and facemask attached to a headset that features a tac-light and Scouter. \r\n\r\nLooks like the sort of thing worn by the Insurrection. It also completely obscures the face...",
     "LocalizedString": ""
   },
@@ -11,6 +11,6 @@
     "Key": "64FE41654D6BD9BCF3C5869C89400C43",
     "Hash": 924957729,
     "SourceString": "Press :HelmLight: to toggle on and off your Flashlight.",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :HelmLight:, чтобы включить или выключить фонарик."
   }
 ]

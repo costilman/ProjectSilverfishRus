@@ -2,51 +2,51 @@
   {
     "Namespace": "",
     "Key": "3132990F44FB9D2E044DD3B585D00FD9",
-    "Hash": 3356322914,
+    "Hash": 1631216696,
     "SourceString": "Staying well fed maintains a higher sprint speed and gives faster health regeneration. \r\n\r\n(You will not starve if this number reaches zero)",
-    "LocalizedString": ""
+    "LocalizedString": "Хорошее питание поддерживает высокую скорость бега и ускоряет регенерацию здоровья. \r\n\r\n(Вы не умрёте от голода, если этот показатель достигнет нуля)"
   },
   {
     "Namespace": "",
     "Key": "C7F963774C0F2543B75D7EBD52842AAB",
     "Hash": 744730075,
     "SourceString": "Available cash that can be spent buying items at shops. ",
-    "LocalizedString": ""
+    "LocalizedString": "Наличные, которые можно потратить на покупку предметов в магазинах."
   },
   {
     "Namespace": "",
     "Key": "F95F87A94F5395F0472BE9955A56BCF7",
     "Hash": 3064053425,
     "SourceString": "Your over-all movement speed is affected by the amount of weight you're carrying, as well as any speed related passive effects.",
-    "LocalizedString": ""
+    "LocalizedString": "На вашу общую скорость передвижения влияет вес, который вы несёте, а также любые пассивные эффекты, связанные со скоростью."
   },
   {
     "Namespace": "",
     "Key": "80F76B8A4B35CCF83D0BF9B53A378032",
-    "Hash": 3647217912,
+    "Hash": 4229156300,
     "SourceString": "Being over encumbered can reduce your movement speed.\r\nEquipped armor only adds half of its normal weight.",
-    "LocalizedString": ""
+    "LocalizedString": "Перегрузка может снизить вашу скорость передвижения.\r\nЭкипированная броня добавляет только половину своего обычного веса."
   },
   {
     "Namespace": "",
     "Key": "C00AB8BD4AC761DC2B10F9856E7BD475",
     "Hash": 2877696637,
     "SourceString": "Appearance:",
-    "LocalizedString": ""
+    "LocalizedString": "Внешний вид:"
   },
   {
     "Namespace": "",
     "Key": "C0ECD8FF4B6C1B0F48EBE3A1169C777E",
     "Hash": 2492658822,
     "SourceString": "PATCH:",
-    "LocalizedString": ""
+    "LocalizedString": "НАШИВКА:"
   },
   {
     "Namespace": "",
     "Key": "51A9A73340B49D31EF4A73B203C32AF5",
     "Hash": 262948168,
     "SourceString": "SKIN:",
-    "LocalizedString": ""
+    "LocalizedString": "КАМУФЛЯЖ:"
   },
   {
     "Namespace": "",
@@ -60,21 +60,21 @@
     "Key": "ED108A464BF8C76B013AC8804697B828",
     "Hash": 1955080532,
     "SourceString": "Money",
-    "LocalizedString": ""
+    "LocalizedString": "Деньги"
   },
   {
     "Namespace": "",
     "Key": "2852678244BE5744E32DDBA89D3139C0",
     "Hash": 1684453054,
     "SourceString": "Carry Weight",
-    "LocalizedString": ""
+    "LocalizedString": "Переносимый вес"
   },
   {
     "Namespace": "",
     "Key": "9D0FA0DA49337CC9937332A64E22BF55",
     "Hash": 2659068878,
     "SourceString": "CHARACTER INFO",
-    "LocalizedString": ""
+    "LocalizedString": "ИНФОРМАЦИЯ О ПЕРСОНАЖЕ"
   },
   {
     "Namespace": "",
@@ -88,7 +88,7 @@
     "Key": "EA7FFDF749769CAA4BEAB0860AD888EB",
     "Hash": 887637141,
     "SourceString": "Movement Speed",
-    "LocalizedString": ""
+    "LocalizedString": "Скорость передвижения"
   },
   {
     "Namespace": "",

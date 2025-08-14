@@ -4,147 +4,147 @@
     "Key": "51B26C234A1D273D6FBA7CB40A0DA647",
     "Hash": 94665057,
     "SourceString": "BACK",
-    "LocalizedString": ""
+    "LocalizedString": "НАЗАД"
   },
   {
     "Namespace": "",
     "Key": "BEE527D0480388F6CD1F4691098C04B3",
     "Hash": 94665057,
     "SourceString": "BACK",
-    "LocalizedString": ""
+    "LocalizedString": "НАЗАД"
   },
   {
     "Namespace": "",
     "Key": "C713D72A4791245A5FFBB9A586D090DB",
     "Hash": 94665057,
     "SourceString": "BACK",
-    "LocalizedString": ""
+    "LocalizedString": "НАЗАД"
   },
   {
     "Namespace": "",
     "Key": "51B26C234A1D273D6FBA7CB40A0DA647",
     "Hash": 94665057,
     "SourceString": "BACK",
-    "LocalizedString": ""
+    "LocalizedString": "НАЗАД"
   },
   {
     "Namespace": "",
     "Key": "3DF8FEB34BD0A7DF4C5C0BA1D96C7DB0",
     "Hash": 1933897193,
     "SourceString": "CHARACTER CLASS",
-    "LocalizedString": ""
+    "LocalizedString": "КЛАСС ПЕРСОНАЖА"
   },
   {
     "Namespace": "",
     "Key": "F6D886544E5B0128551F6196966AEF34",
     "Hash": 3343098872,
     "SourceString": "CUSTOM CHARACTER",
-    "LocalizedString": ""
+    "LocalizedString": "ПОЛЬЗОВАТЕЛЬСКИЙ ПЕРСОНАЖ"
   },
   {
     "Namespace": "",
     "Key": "CFC5530B4E77E0CE9CFB0A82CCA192BF",
     "Hash": 704683620,
     "SourceString": "RETURN TO MENU",
-    "LocalizedString": ""
+    "LocalizedString": "ВЕРНУТЬСЯ В МЕНЮ"
   },
   {
     "Namespace": "",
     "Key": "A636317C4E54464C548C5BB99172FF30",
     "Hash": 2822785959,
     "SourceString": "CONFIRM",
-    "LocalizedString": ""
+    "LocalizedString": "ПОДТВЕРДИТЬ"
   },
   {
     "Namespace": "",
     "Key": "163016A945F81C589D7407986D2DF7E0",
     "Hash": 2284583778,
     "SourceString": "NEXT",
-    "LocalizedString": ""
+    "LocalizedString": "ДАЛЕЕ"
   },
   {
     "Namespace": "",
     "Key": "5E0CEB4945D9C1664695009C85E158D0",
     "Hash": 2284583778,
     "SourceString": "NEXT",
-    "LocalizedString": ""
+    "LocalizedString": "ДАЛЕЕ"
   },
   {
     "Namespace": "",
     "Key": "2B6F39AB46DC2262162A4E9AA0D4BF6B",
     "Hash": 2284583778,
     "SourceString": "NEXT",
-    "LocalizedString": ""
+    "LocalizedString": "ДАЛЕЕ"
   },
   {
     "Namespace": "",
     "Key": "4D3E1B7F45853BD533D5E58C8A62D822",
     "Hash": 249399080,
     "SourceString": "QUICK-PLAY",
-    "LocalizedString": ""
+    "LocalizedString": "БЫСТРАЯ ИГРА"
   },
   {
     "Namespace": "",
     "Key": "762B5A2B416A3993443E58BBC2C793B7",
     "Hash": 1279012838,
     "SourceString": "RANDOMIZE",
-    "LocalizedString": ""
+    "LocalizedString": "СЛУЧАЙНЫЙ ВЫБОР"
   },
   {
     "Namespace": "",
     "Key": "C3B6D0A140F10B363FCF91B82E5C3DC0",
     "Hash": 574889934,
     "SourceString": "NAME;Click to randomize.",
-    "LocalizedString": ""
+    "LocalizedString": "ИМЯ;Нажмите для случайного выбора."
   },
   {
     "Namespace": "",
     "Key": "851AF9CC4B05F62958294293F66F41D9",
     "Hash": 1279012838,
     "SourceString": "RANDOMIZE",
-    "LocalizedString": ""
+    "LocalizedString": "СЛУЧАЙНЫЙ ВЫБОР"
   },
   {
     "Namespace": "",
     "Key": "3AE113C0468D8A7EC1229C95D10EEE14",
     "Hash": 1068880915,
     "SourceString": "DESCRIPTION;Click to randomize.",
-    "LocalizedString": ""
+    "LocalizedString": "ОПИСАНИЕ;Нажмите для случайного выбора."
   },
   {
     "Namespace": "",
     "Key": "2C86B3CE41665A81DF90ED918EFBE612",
     "Hash": 1106115230,
     "SourceString": "RANDOMIZE APPEARANCE",
-    "LocalizedString": ""
+    "LocalizedString": "СЛУЧАЙНАЯ ВНЕШНОСТЬ"
   },
   {
     "Namespace": "",
     "Key": "5AA52CA749A7D0ED60F271A7366EB301",
     "Hash": 17369632,
     "SourceString": "PREVIEW VOICE",
-    "LocalizedString": ""
+    "LocalizedString": "ПРОСЛУШАТЬ"
   },
   {
     "Namespace": "",
     "Key": "E3B61E164B2C4F656F306086B340542B",
     "Hash": 2220719808,
     "SourceString": "EYE COLOR",
-    "LocalizedString": ""
+    "LocalizedString": "ЦВЕТ ГЛАЗ"
   },
   {
     "Namespace": "",
     "Key": "EACBA94D463A020C48D244979D096007",
     "Hash": 797308020,
     "SourceString": "FEATHER COLOR",
-    "LocalizedString": ""
+    "LocalizedString": "ЦВЕТ ВОЛОС"
   },
   {
     "Namespace": "",
     "Key": "2337BA2E498934E77F023BA0F87A89B7",
     "Hash": 3164392270,
     "SourceString": "SCALE COLOR",
-    "LocalizedString": ""
+    "LocalizedString": "ЦВЕТ КОЖИ"
   },
   {
     "Namespace": "",
@@ -954,77 +954,77 @@
   {
     "Namespace": "",
     "Key": "178F93D5455AED1814DF908B9E1F2CC4",
-    "Hash": 2614550329,
+    "Hash": 800417006,
     "SourceString": "If True: \r\nAll shops will be replaced with the barter system. \r\n[This overrides game mode's shop stock setting.]",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "8B256F9E4FB37A5C79DA09A71104759D",
-    "Hash": 333719151,
+    "Hash": 2691712212,
     "SourceString": "If True: \r\nIn 'Extraction' mode, any items you do not select to respawn with will be left in a backpack in the location you died. If you die again before reaching this backpack, its contents and location will be overwritten. \r\n\r\nIf False:\r\nAll remaining items not selected to respawn with will be lost forever.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "6BDDAE2449588C53890C699DBF78736E",
-    "Hash": 905166110,
+    "Hash": 1106816398,
     "SourceString": "If True: \r\nAll stash containers will use the same inventory.\r\n\r\nIf False:\r\nEach stash container will have a unique inventory.",
-    "LocalizedString": ""
+    "LocalizedString": "Если включено: \nВсе тайники будут использовать один и тот же инвентарь.\n\nЕсли выключено:\nКаждый тайник будет иметь уникальный инвентарь."
   },
   {
     "Namespace": "",
     "Key": "81242BC64DED4AB8CA666CA4AD5D021B",
-    "Hash": 1619345748,
+    "Hash": 2127106313,
     "SourceString": "If True: \r\nCertain contracts will count as being failed if you die while they are active. Some will even penalize you for failure.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "7CAD135D495FE21BC34F788BB0A7BE14",
-    "Hash": 2302968043,
+    "Hash": 3873397567,
     "SourceString": "If True: \r\nYou will always save to the save slot you originally began your save file on.\r\n\r\nIf False: \r\nWhile saving at beds, you will be given the option to save your progress to any save slot.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "36EE7B6F493B53BE9EB7D5A077F86255",
-    "Hash": 4285396187,
+    "Hash": 2688305325,
     "SourceString": "If True: \r\nEvery time you die, you will lose one Item Slot for the next time you respawn in 'Extraction' mode.\r\n\r\nIf False: \r\nYou will retain the same number of slots no matter how many times you die.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "BCDE956A4283BF411124C09E8DD1ADB5",
-    "Hash": 1566637299,
+    "Hash": 2353742052,
     "SourceString": "If True: \r\nLootable containers will be replenished slowly over time.\r\n\r\nIf False: \r\nNo loot will ever replenish. \r\n\r\n[Note: certain loot spawns will never replenish under any circumstance.]",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "B5E7841E4C43E3734119EB9859CDEB34",
-    "Hash": 2252586003,
+    "Hash": 1956219025,
     "SourceString": "If True in 'Load Save' mode: \r\nYour save file is immediately wiped upon death.\r\n\r\nIf True in 'Extraction' mode: \r\nIf your number of 'Kept Items on Death' is zero, your save file is immediately wiped upon death. \r\n\r\nNOTE: For this feature to work in 'Extraction' mode, either 'Keep items on Death' must be set to Zero, or 'Lose Item Slot Each Death' must be set to True!",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "6A87798546439EE80478EEA6934534D5",
-    "Hash": 301031163,
+    "Hash": 1308905976,
     "SourceString": "If True: \r\nThe game will auto-save every time you transition between levels. \r\n\r\nIf False: \r\nYou can only save your progress by sleeping in a bed.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "AD84625D489529D5DC1CF29302047B55",
-    "Hash": 4168966522,
+    "Hash": 3022911026,
     "SourceString": "If True: \r\nShops will have limited inventories for all items. (These refresh each in-game day.)\r\n\r\nIf False: \r\nShops will have infinite stock for certain common items.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "ADA7A9164A707AD20CE9DA9D103E6F01",
-    "Hash": 4144159114,
+    "Hash": 3644079660,
     "SourceString": "If True: \r\nLate game Contracts can be accepted sooner. \r\nEarly game NPCs can spawn with late game weapons.\r\n\r\nIf False:\r\nContracts and NPCs will abide by normal progression curves.",
     "LocalizedString": ""
   },
@@ -1033,70 +1033,70 @@
     "Key": "C270DFA64F98C0C048299E8BCD3ABD2E",
     "Hash": 1645275882,
     "SourceString": "ADVANCED OPTIONS",
-    "LocalizedString": ""
+    "LocalizedString": "РАСШИРЕННЫЕ НАСТРОЙКИ"
   },
   {
     "Namespace": "",
     "Key": "AC4D20194C6B0AA359EA2CB77942F4E7",
     "Hash": 2440302798,
     "SourceString": "COLORS",
-    "LocalizedString": ""
+    "LocalizedString": "ЦВЕТА"
   },
   {
     "Namespace": "",
     "Key": "F0FB7C754B8331466CF127892D94878E",
     "Hash": 1267949645,
     "SourceString": "EQUIPMENT",
-    "LocalizedString": ""
+    "LocalizedString": "СНАРЯЖЕНИЕ"
   },
   {
     "Namespace": "",
     "Key": "B39FF174482440ADC9DCE4A052986CB6",
     "Hash": 473971826,
     "SourceString": "BODY",
-    "LocalizedString": ""
+    "LocalizedString": "ТЕЛО"
   },
   {
     "Namespace": "",
     "Key": "7432C32248081E8498BF70927C87DF45",
     "Hash": 557658857,
     "SourceString": "IDENTITY",
-    "LocalizedString": ""
+    "LocalizedString": "ЛИЧНОСТЬ"
   },
   {
     "Namespace": "",
     "Key": "C0F2AA5C4A622A7572FE3A81FEA1AE01",
     "Hash": 691484592,
     "SourceString": "OUTFIT",
-    "LocalizedString": ""
+    "LocalizedString": "ОДЕЖДА"
   },
   {
     "Namespace": "",
     "Key": "0E79EC5045866D4EB96C0F91F3E617FC",
     "Hash": 447208714,
     "SourceString": "ATTRIBUTES",
-    "LocalizedString": ""
+    "LocalizedString": "АТРИБУТЫ"
   },
   {
     "Namespace": "",
     "Key": "E3FFD4C947983FB6EAAFCF82C8A9706E",
     "Hash": 1481538763,
     "SourceString": "VOICE",
-    "LocalizedString": ""
+    "LocalizedString": "ГОЛОС"
   },
   {
     "Namespace": "",
     "Key": "E02D218248B343975228198FDE00F12A",
     "Hash": 1135883037,
     "SourceString": "TYPE:",
-    "LocalizedString": ""
+    "LocalizedString": "ТИП:"
   },
   {
     "Namespace": "",
     "Key": "BA54F32244B27B8715379DB09C7A4FC1",
     "Hash": 4137572433,
     "SourceString": "ARMOR:",
-    "LocalizedString": ""
+    "LocalizedString": "БРОНЯ:"
   },
   {
     "Namespace": "",
@@ -1145,7 +1145,7 @@
     "Key": "DE012B5A477E53513DDC79BC8E02B8D9",
     "Hash": 3069026416,
     "SourceString": "BODY:",
-    "LocalizedString": ""
+    "LocalizedString": "ТЕЛО:"
   },
   {
     "Namespace": "",
@@ -1194,7 +1194,7 @@
     "Key": "1FCA339D46EE7CB1E66C00BD126ED7F4",
     "Hash": 3564466080,
     "SourceString": "CAMO:",
-    "LocalizedString": ""
+    "LocalizedString": "КАМУФЛЯЖ:"
   },
   {
     "Namespace": "",
@@ -1222,7 +1222,7 @@
     "Key": "D70921794E081FC05192418732547BB5",
     "Hash": 1485149679,
     "SourceString": "Class:",
-    "LocalizedString": ""
+    "LocalizedString": "Класс:"
   },
   {
     "Namespace": "",
@@ -1271,105 +1271,105 @@
     "Key": "2B458BDF4D174B1894DD8593501A16E1",
     "Hash": 3970423277,
     "SourceString": "EYE SHAPE:",
-    "LocalizedString": ""
+    "LocalizedString": "ФОРМА ГЛАЗ:"
   },
   {
     "Namespace": "",
     "Key": "A5367BAF4A6AA92EC4A056BB78C82813",
     "Hash": 2426730750,
     "SourceString": "LONER",
-    "LocalizedString": ""
+    "LocalizedString": "ОДИНОЧКА"
   },
   {
     "Namespace": "",
     "Key": "E431EF13467378F5174A5E93573BF077",
     "Hash": 3787804902,
     "SourceString": "FREELANCER",
-    "LocalizedString": ""
+    "LocalizedString": "ФРИЛАНСЕРЫ"
   },
   {
     "Namespace": "",
     "Key": "615B02C74CE5C4BBAAE00DBF6B917660",
     "Hash": 2136472886,
     "SourceString": "REVOLUTION",
-    "LocalizedString": ""
+    "LocalizedString": "РЕВОЛЮЦИОНЕРЫ"
   },
   {
     "Namespace": "",
     "Key": "0F7176F14BF85890C23FCDA70A84514A",
     "Hash": 1971874582,
     "SourceString": "CULT",
-    "LocalizedString": ""
+    "LocalizedString": "КУЛЬТИСТЫ"
   },
   {
     "Namespace": "",
     "Key": "76B9F1E54CEB10593C5976A545B6D0E3",
     "Hash": 3863880252,
     "SourceString": "INSURRECTION",
-    "LocalizedString": ""
+    "LocalizedString": "ПОВСТАНЦЫ"
   },
   {
     "Namespace": "",
     "Key": "BF8739A144D2DC1DFDB92283E2974819",
     "Hash": 678775089,
     "SourceString": "MILITARY",
-    "LocalizedString": ""
+    "LocalizedString": "ВОЕННЫЕ"
   },
   {
     "Namespace": "",
     "Key": "9915F098460457D9EB56F0B5180D5343",
     "Hash": 2265870441,
     "SourceString": "FACE:",
-    "LocalizedString": ""
+    "LocalizedString": "ЛИЦО:"
   },
   {
     "Namespace": "",
     "Key": "BE0AD91C474E0865331F40A3A43F1B72",
     "Hash": 764045672,
     "SourceString": "NEUTRAL",
-    "LocalizedString": ""
+    "LocalizedString": "НЕЙТРАЛЫ"
   },
   {
     "Namespace": "",
     "Key": "E431EF13467378F5174A5E93573BF077",
     "Hash": 3787804902,
     "SourceString": "FREELANCER",
-    "LocalizedString": ""
+    "LocalizedString": "ФРИЛАНСЕРЫ"
   },
   {
     "Namespace": "",
     "Key": "615B02C74CE5C4BBAAE00DBF6B917660",
     "Hash": 2136472886,
     "SourceString": "REVOLUTION",
-    "LocalizedString": ""
+    "LocalizedString": "РЕВОЛЮЦИОНЕРЫ"
   },
   {
     "Namespace": "",
     "Key": "0F7176F14BF85890C23FCDA70A84514A",
     "Hash": 1971874582,
     "SourceString": "CULT",
-    "LocalizedString": ""
+    "LocalizedString": "КУЛЬТИСТЫ"
   },
   {
     "Namespace": "",
     "Key": "76B9F1E54CEB10593C5976A545B6D0E3",
     "Hash": 3863880252,
     "SourceString": "INSURRECTION",
-    "LocalizedString": ""
+    "LocalizedString": "ПОВСТАНЦЫ"
   },
   {
     "Namespace": "",
     "Key": "BF8739A144D2DC1DFDB92283E2974819",
     "Hash": 678775089,
     "SourceString": "MILITARY",
-    "LocalizedString": ""
+    "LocalizedString": "ВОЕННЫЕ"
   },
   {
     "Namespace": "",
     "Key": "BE5C8A1843B2D507DD870D9F34BD11AF",
     "Hash": 2426730750,
     "SourceString": "LONER",
-    "LocalizedString": ""
+    "LocalizedString": "ОДИНОЧКА"
   },
   {
     "Namespace": "",
@@ -1383,14 +1383,14 @@
     "Key": "0357B5684AE9FC98ADE03BB71713907F",
     "Hash": 2590320417,
     "SourceString": "Faction:",
-    "LocalizedString": ""
+    "LocalizedString": "Фракция:"
   },
   {
     "Namespace": "",
     "Key": "72DBD97B4C9539494DC9B5A3EC2695CE",
-    "Hash": 1189017242,
+    "Hash": 1405285742,
     "SourceString": "Starting Faction;WARNING: Alt faction starts are an experimental work in progress! \r\nIt is highly recommended you play as NEUTRAL in your first playthrough!\r\n\r\nNEUTRAL: Standard starting reputation with each faction. Play the game normally.\r\n\r\nFREELANCER: Allied with the Freelancers. Play the game normally.\r\n\r\nREVOLUTION: Allied with the Revolution. Play the game normally.\r\n\r\nCULT: [Not yet supported by sandbox]\r\n\r\nINSURRECTION: [Not yet supported by sandbox]\r\n\r\nMILITARY: [WIP] Aligned with NFTA forces, complete missions to earn Requisitions for better gear.\r\n\r\nLONER: Hostile to all factions. Limited questing options. \r\n\r\nRANDOM REP: Randomizes all reputations. Limited questing options. ",
-    "LocalizedString": ""
+    "LocalizedString": "Стартовая фракция;ВНИМАНИЕ: игра за другие фракции — экспериментальная функция, в разработке! \r\nНастоятельно рекомендуется в первом прохождении выбрать НЕЙТРАЛЫ!\r\n\r\nНЕЙТРАЛЫ: Стандартная стартовая репутация с каждой фракцией. Обычный режим игры.\r\n\r\nФРИЛАНСЕРЫ: Союз с фрилансерами. Обычный режим игры.\r\n\r\nРЕВОЛЮЦИОНЕРЫ: Союз с революционерами. Обычный режим игры.\r\n\r\nКУЛЬТИСТЫ: [Пока не поддерживается в песочнице]\r\n\r\nПОВСТАНЦЫ: [Пока не поддерживается в песочнице]\r\n\r\nВОЕННЫЕ: [В разработке] Выполняйте миссии для вооружённых сил NFTA, чтобы получить доступ к лучшему снаряжению.\r\n\r\nОДИНОЧКА: Враждебен ко всем фракциям. Ограниченные возможности для заданий. \r\n\r\nСЛУЧАЙНАЯ РЕПУТАЦИЯ: Случайным образом определяет репутацию у всех фракций. Ограниченные возможности для заданий."
   },
   {
     "Namespace": "",
@@ -1488,49 +1488,49 @@
     "Key": "6EAEFC354CB2DFE9858C029F03DF891D",
     "Hash": 1903530902,
     "SourceString": "NOTHING",
-    "LocalizedString": ""
+    "LocalizedString": "НИЧЕГО"
   },
   {
     "Namespace": "",
     "Key": "D69FF49A46E65D3B608F93801371A563",
     "Hash": 2925125820,
     "SourceString": "ESSENTIALS",
-    "LocalizedString": ""
+    "LocalizedString": "САМОЕ НЕОБХОДИМОЕ"
   },
   {
     "Namespace": "",
     "Key": "AA559BC34E9A53317E13F5A4EA8F461C",
     "Hash": 2679507424,
     "SourceString": "BASIC BAG",
-    "LocalizedString": ""
+    "LocalizedString": "ОБЫЧНАЯ СУМКА"
   },
   {
     "Namespace": "",
     "Key": "29A84FC94C02F69E18049EABA6261BF9",
     "Hash": 2751099566,
     "SourceString": "WEIRD BAG",
-    "LocalizedString": ""
+    "LocalizedString": "СТРАННАЯ СУМКА"
   },
   {
     "Namespace": "",
     "Key": "3E0D651A4EB540A5E118C0BC2F991A7C",
     "Hash": 3020163191,
     "SourceString": "FACTION GEAR",
-    "LocalizedString": ""
+    "LocalizedString": "СНАРЯЖЕНИЕ ФРАКЦИИ"
   },
   {
     "Namespace": "",
     "Key": "943288774E234E3E98E3C58CC978D1B5",
     "Hash": 3290645161,
     "SourceString": "STARTING KIT:",
-    "LocalizedString": ""
+    "LocalizedString": "СТАРТОВЫЙ НАБОР:"
   },
   {
     "Namespace": "",
     "Key": "AFB4255A44ACAB4A8CD4F7A117C035CB",
-    "Hash": 3933802928,
+    "Hash": 649729979,
     "SourceString": "Starting Kit;None: You start with an empty inventory.\r\n\r\nEssentials: You start with a small amount of basic gear.\r\n\r\nBasic Bag: You start with a duffle bag full of random basic gear. \r\n\r\nWeird Bag: You start with a duffle bag full of very random gear that can range wildly in quality. \r\n\r\nFaction Gear: You start with a loadout specific to your chosen faction. ",
-    "LocalizedString": ""
+    "LocalizedString": "Стартовый набор;Ничего: Вы начинаете с пустым инвентарём.\r\n\r\nСамое необходимое: Вы начинаете с небольшим количеством базового снаряжения.\r\n\r\nОбычная сумка: Вы начинаете с вещмешком, полным случайного базового снаряжения. \r\n\r\nСтранная сумка: Вы начинаете с вещмешком, полным случайного снаряжения, качество которого может сильно варьироваться. \r\n\r\nСнаряжение фракции: Вы начинаете со снаряжением, специфичным для вашей выбранной фракции."
   },
   {
     "Namespace": "",
@@ -1579,7 +1579,7 @@
     "Key": "1BE9425240081DC7679389BBD12E2CD6",
     "Hash": 446056608,
     "SourceString": "MARKINGS:",
-    "LocalizedString": ""
+    "LocalizedString": "ОТМЕТИНЫ:"
   },
   {
     "Namespace": "",
@@ -1593,7 +1593,7 @@
     "Key": "6BC653D341E05BA34AEC17886893B2C7",
     "Hash": 1279012838,
     "SourceString": "RANDOMIZE",
-    "LocalizedString": ""
+    "LocalizedString": "СЛУЧАЙНЫЙ ВЫБОР"
   },
   {
     "Namespace": "",
@@ -1612,9 +1612,9 @@
   {
     "Namespace": "",
     "Key": "89CF78B74CEA09DF950156B585EC2F17",
-    "Hash": 3224122073,
+    "Hash": 1594827277,
     "SourceString": "Attributes;None: You start as a blank slate with no passive attributes. \r\n\r\nRandomize: Randomly role up to 5 Passive Attributes. Balance must be less than or equal to 0.\r\n\r\nCustom: Select up to 4 Passive Attributes. To use positive Attributes, you must balance them out with negative ones. ",
-    "LocalizedString": ""
+    "LocalizedString": "Атрибуты;Нет: Вы начинаете как чистый лист без пассивных атрибутов. \r\n\r\nСлучайный выбор: Случайно выберите до 5 пассивных атрибутов. Баланс должен быть меньше или равен 0.\r\n\r\nПользовательский: Выберите до 4 пассивных атрибутов. Чтобы использовать положительные атрибуты, вы должны сбалансировать их отрицательными."
   },
   {
     "Namespace": "",
@@ -1663,7 +1663,7 @@
     "Key": "4EABC7BE407D86F9C81864948CC3C04F",
     "Hash": 2492658822,
     "SourceString": "PATCH:",
-    "LocalizedString": ""
+    "LocalizedString": "НАШИВКА:"
   },
   {
     "Namespace": "",
@@ -1712,7 +1712,7 @@
     "Key": "3ACC74CA468DDD66A8A6E8B255D22C33",
     "Hash": 520810031,
     "SourceString": "PLUMAGE:",
-    "LocalizedString": ""
+    "LocalizedString": "ПРИЧЁСКА:"
   },
   {
     "Namespace": "",
@@ -1738,7 +1738,7 @@
   {
     "Namespace": "",
     "Key": "3277976443E9DAFD4362BB9B2892E804",
-    "Hash": 1369900410,
+    "Hash": 438492620,
     "SourceString": "What happens when you die:\r\n\r\nLoad Save: \r\nImmediately Respawn at your last save point.\r\n\r\nExtraction: \r\nSelect a predetermined number of items you can respawn with.",
     "LocalizedString": ""
   },
@@ -1747,49 +1747,49 @@
     "Key": "AE89C64C4DFA28A35324B88C23E3307F",
     "Hash": 592107460,
     "SourceString": "STANCE:",
-    "LocalizedString": ""
+    "LocalizedString": "ПОЗА:"
   },
   {
     "Namespace": "",
     "Key": "1C4E8A2F407BDA597FAB55ACCAC3BC4B",
     "Hash": 660867997,
     "SourceString": "INTRO",
-    "LocalizedString": ""
+    "LocalizedString": "ВСТУПЛЕНИЕ"
   },
   {
     "Namespace": "",
     "Key": "1C89B25948227635AD7E35827DECB925",
     "Hash": 3311277183,
     "SourceString": "OBSERVATORY",
-    "LocalizedString": ""
+    "LocalizedString": "ОБСЕРВАТОРИЯ"
   },
   {
     "Namespace": "",
     "Key": "FBAF6FC94AFC62CCBD468B906FBA57EB",
     "Hash": 3616064648,
     "SourceString": "RANDOM",
-    "LocalizedString": ""
+    "LocalizedString": "СЛУЧАЙНАЯ"
   },
   {
     "Namespace": "",
     "Key": "8902ACB147669446643FB5B93E1FA81D",
     "Hash": 1040955246,
     "SourceString": "FACTION BASE",
-    "LocalizedString": ""
+    "LocalizedString": "БАЗА ФРАКЦИИ"
   },
   {
     "Namespace": "",
     "Key": "A10C0CAA481AB8FA292326AC8B2245E6",
-    "Hash": 2458659879,
+    "Hash": 2984948377,
     "SourceString": "STARTING\r\nLOCATION:",
-    "LocalizedString": ""
+    "LocalizedString": "СТАРТОВАЯ\r\nЛОКАЦИЯ:"
   },
   {
     "Namespace": "",
     "Key": "BA0440C34383D5EA02EC9098C9B089B3",
-    "Hash": 2956684194,
+    "Hash": 384325812,
     "SourceString": "Intro:\r\nYou start at the story Intro Level. Highly recommended for your first play-through. \r\n\r\nObservatory:\r\nYou start at the Observatory, your first port-of-call in the main story.\r\n\r\nRandom:\r\nYou start in a semi-safe location on a random location in the southern zone.\r\n\r\nFaction Base:\r\nYou start at whatever location is most appropriate for your chosen faction. ",
-    "LocalizedString": ""
+    "LocalizedString": "Вступление:\r\nВы начинаете на уровне сюжетного вступления. Настоятельно рекомендуется для вашего первого прохождения. \r\n\r\nОбсерватория:\r\nВы начинаете в обсерватории, вашей первой точке в основной сюжетной линии.\r\n\r\nСлучайная:\r\nВы начинаете в относительно безопасном месте в случайной локации в южной зоне.\r\n\r\nБаза фракции:\r\nВы начинаете в наиболее подходящем для вашей выбранной фракции месте."
   },
   {
     "Namespace": "",
@@ -1838,7 +1838,7 @@
     "Key": "351167114D7989557532EDBDEEE9D1BA",
     "Hash": 1484676746,
     "SourceString": "TAIL:",
-    "LocalizedString": ""
+    "LocalizedString": "ХВОСТ:"
   },
   {
     "Namespace": "",
@@ -1866,63 +1866,63 @@
     "Key": "83E256B942C93068FF775691083D4B23",
     "Hash": 3781620789,
     "SourceString": "MODE:",
-    "LocalizedString": ""
+    "LocalizedString": "РЕЖИМ:"
   },
   {
     "Namespace": "",
     "Key": "790DE62445F26E7F8473A192C75322E5",
     "Hash": 809344625,
     "SourceString": "ANGLE:",
-    "LocalizedString": ""
+    "LocalizedString": "УГОЛ:"
   },
   {
     "Namespace": "",
     "Key": "9A697CB04081ECEC3D3174B5A13BE03A",
     "Hash": 1116948024,
     "SourceString": "ZOOM:",
-    "LocalizedString": ""
+    "LocalizedString": "ЗУМ:"
   },
   {
     "Namespace": "",
     "Key": "C13229C142FA3B0A7A8EC4B2CE2D1DF3",
     "Hash": 3855462636,
     "SourceString": "Pitch:",
-    "LocalizedString": ""
+    "LocalizedString": "Тон:"
   },
   {
     "Namespace": "",
     "Key": "B283C2B14EBC1A0CB0F3C3BC2C136170",
     "Hash": 2097775390,
     "SourceString": "Attributes:",
-    "LocalizedString": ""
+    "LocalizedString": "Атрибуты:"
   },
   {
     "Namespace": "",
     "Key": "34554E124EE8FAABCFAE5BB4D191998A",
     "Hash": 3454114440,
     "SourceString": "Cash:",
-    "LocalizedString": ""
+    "LocalizedString": "Наличные:"
   },
   {
     "Namespace": "",
     "Key": "6399C6854298214096E1D39B12E1F7C6",
     "Hash": 3368911954,
     "SourceString": "DESCRIPTION: ",
-    "LocalizedString": ""
+    "LocalizedString": "ОПИСАНИЕ: "
   },
   {
     "Namespace": "",
     "Key": "5BAFC54D40CA18B1F6E1A390E6F887FC",
     "Hash": 2356761059,
     "SourceString": "NAME: ",
-    "LocalizedString": ""
+    "LocalizedString": "ИМЯ: "
   },
   {
     "Namespace": "",
     "Key": "B5B15C1146703D44D5E8CBA34A6D4943",
     "Hash": 1144911211,
     "SourceString": "Debt:",
-    "LocalizedString": ""
+    "LocalizedString": "Долг:"
   },
   {
     "Namespace": "",
@@ -1936,26 +1936,26 @@
     "Key": "E188387C4B6608ED8A0391897675E27B",
     "Hash": 1384376093,
     "SourceString": "Choose one of six canonical character classes to play as, each offering a unique experience.",
-    "LocalizedString": ""
+    "LocalizedString": "Выберите один из шести канонических классов персонажей, каждый из которых предлагает уникальный игровой опыт."
   },
   {
     "Namespace": "",
     "Key": "781699184A7875F351B3F0B379F269E1",
     "Hash": 1061978847,
     "SourceString": "Create a custom character from scratch. Author their appearance and starting attributes, or randomize them for a more unpredictable experience!",
-    "LocalizedString": ""
+    "LocalizedString": "Создайте персонажа с нуля. Определите его внешность и стартовые атрибуты или выберите их случайно для более непредсказуемого опыта!"
   },
   {
     "Namespace": "",
     "Key": "69E9FF4B49D95376A3770181F2208632",
-    "Hash": 286621108,
+    "Hash": 3751491249,
     "SourceString": "Instantly start a new perma-death save with a randomly generated character.\r\n[Not recommended for first play-through.]",
-    "LocalizedString": ""
+    "LocalizedString": "Мгновенно начните новую игру в режиме мгновенной смерти со случайно сгенерированным персонажем.\r\n[Не рекомендуется для первого прохождения.]"
   },
   {
     "Namespace": "",
     "Key": "2BF9653F49FB2AD3CDBAD19875C7C4F8",
-    "Hash": 257835419,
+    "Hash": 136533077,
     "SourceString": "Description\r\nDescription\r\nDescription",
     "LocalizedString": ""
   },
@@ -1978,14 +1978,14 @@
     "Key": "618FF3DE4ACB1716E215FEB4423ADB46",
     "Hash": 2048304135,
     "SourceString": "GLOBAL STASH:",
-    "LocalizedString": ""
+    "LocalizedString": "ОБЩИЙ ТАЙНИК:"
   },
   {
     "Namespace": "",
     "Key": "E3BF8494415B86FB83DC38AEF47B53C3",
     "Hash": 1658003377,
     "SourceString": "BARTER ONLY:",
-    "LocalizedString": ""
+    "LocalizedString": "ТОЛЬКО БАРТЕР:"
   },
   {
     "Namespace": "",

@@ -2,7 +2,7 @@
   {
     "Namespace": "",
     "Key": "192953644486754822F2E08D8857BF0E",
-    "Hash": 2257300369,
+    "Hash": 1835986461,
     "SourceString": "Ammo Kit:\r\n\r\n42 Rounds 5.56 FMJ\r\n24 Rounds 5.56 AP\r\n24 Rounds 5.56 Incendiary",
     "LocalizedString": ""
   },
@@ -18,6 +18,6 @@
     "Key": "08717D514F972E24A652E792DF7C0843",
     "Hash": 2484905851,
     "SourceString": "Open to access ammo.",
-    "LocalizedString": ""
+    "LocalizedString": "Откройте, чтобы получить боеприпасы."
   }
 ]

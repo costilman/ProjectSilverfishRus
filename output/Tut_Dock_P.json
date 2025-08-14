@@ -9,106 +9,106 @@
   {
     "Namespace": "",
     "Key": "706F341148442CAE54621596BBEA56F6",
-    "Hash": 3017924881,
+    "Hash": 1582734701,
     "SourceString": "Staying well fed helps you regenerate health faster after using a bandage.\r\n\r\n:Inventory: to open your Inventory.",
-    "LocalizedString": ""
+    "LocalizedString": "Когда вы сыты, вы быстрее восстанавливаете здоровье после использования бинта.\n\nНажмите :Inventory:, чтобы открыть инвентарь."
   },
   {
     "Namespace": "",
     "Key": "612967004938D59E6DA877A43B38CCC9",
-    "Hash": 4053554360,
+    "Hash": 879691470,
     "SourceString": "Look around by Moving your Mouse.\r\n\r\nUse \"W, A, S, & D\" to Walk...",
-    "LocalizedString": ""
+    "LocalizedString": "Осмотритесь, двигая мышью.\r\n\r\nИспользуйте \"W, A, S, & D\", чтобы идти..."
   },
   {
     "Namespace": "",
     "Key": "A03B522A42CD3F6F29B81BA5DBE8B4CD",
     "Hash": 2626331459,
     "SourceString": "Use :Use: to interact/pick up items...",
-    "LocalizedString": ""
+    "LocalizedString": "Используйте :Use:, чтобы взаимодействовать с предметами или подбирать их..."
   },
   {
     "Namespace": "",
     "Key": "BED392AA4F3AF1B20AD3F6B7B7FAE7E9",
-    "Hash": 3157696079,
+    "Hash": 2577128759,
     "SourceString": "You can also use :Use: to pick up loose objects.\r\n\r\nTap again to drop, or use :Primary: to throw.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы также можете использовать :Use:, чтобы поднимать незакрепленные предметы.\r\n\r\nНажмите еще раз, чтобы бросить, или используйте :Primary:, чтобы метнуть."
   },
   {
     "Namespace": "",
     "Key": "B8F4939645B38D818D858A9B300A108D",
     "Hash": 3399632027,
     "SourceString": ":Inventory: to open your Inventory...",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :Inventory:, чтобы открыть инвентарь..."
   },
   {
     "Namespace": "",
     "Key": "958D2C284BEA2CCDDD69CD994B74B1E2",
-    "Hash": 977024388,
+    "Hash": 3210941459,
     "SourceString": "Firearms:\r\nTap :Primary: to Fire weapon.\r\nHold :Secondary: to Aim Weapon.\r\nTap :Reload: to Reload weapon.",
-    "LocalizedString": ""
+    "LocalizedString": "Огнестрельное оружие:\r\nНажмите :Primary:, чтобы выстрелить.\r\nУдерживайте :Secondary:, чтобы прицелиться.\r\nНажмите :Reload:, чтобы перезарядить."
   },
   {
     "Namespace": "",
     "Key": "4FDDF912474047F1D846868E5B0E4D84",
     "Hash": 2241181446,
     "SourceString": "Use :EquipPrev: & :EquipNext: to cycle through your equipped Weapons and Utilities...",
-    "LocalizedString": ""
+    "LocalizedString": "Используйте :EquipPrev: и :EquipNext:, чтобы переключаться между оружием и снаряжением..."
   },
   {
     "Namespace": "",
     "Key": "0CFEBCEC4AD0E674EC7ABE8B76EB90BC",
     "Hash": 568517006,
     "SourceString": "Tap :Jump: to Jump.",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :Jump:, чтобы прыгнуть."
   },
   {
     "Namespace": "",
     "Key": "083053AB4724979F567911929FDE0913",
     "Hash": 1935642618,
     "SourceString": "Stay low, move slowly and keep quietly to the shadows to avoid enemies seeing or hearing you...",
-    "LocalizedString": ""
+    "LocalizedString": "Пригнитесь, двигайтесь медленно и тихо в тени, чтобы враги вас не увидели и не услышали..."
   },
   {
     "Namespace": "",
     "Key": "B76B3B154DF76BA3C695BFBE931D7C47",
     "Hash": 3908495173,
     "SourceString": "Tap :Crouch: to toggle Crouch.",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :Crouch:, чтобы присесть/встать."
   },
   {
     "Namespace": "",
     "Key": "3FFC2C7D4BDEE898A522EB965F95D654",
-    "Hash": 3339819036,
+    "Hash": 388779711,
     "SourceString": "With your Melee Weapon:\r\nTap :Primary: for a Quick Strike.\r\nHold :Primary: to charge a Heavy Attack.\r\nHold :Secondary: to Block enemy swings.",
-    "LocalizedString": ""
+    "LocalizedString": "Оружие ближнего боя:\r\nНажмите :Primary: для быстрого удара.\r\nУдерживайте :Primary:, чтобы зарядить сильную атаку.\r\nУдерживайте :Secondary:, чтобы блокировать удары врага."
   },
   {
     "Namespace": "",
     "Key": "A1C935D443A6FEF408F863A0D9721B99",
     "Hash": 30030042,
     "SourceString": "Crouch at the apex of your Jump to climb up onto ledges...",
-    "LocalizedString": ""
+    "LocalizedString": "Присядьте в высшей точке прыжка, чтобы взобраться на уступы..."
   },
   {
     "Namespace": "",
     "Key": "5BFD0981485862E0960D9CBFCD95B6D3",
-    "Hash": 773429345,
+    "Hash": 847220246,
     "SourceString": "Your Journal features a map and holds important information about factions and missions!\r\n\r\nTap :Journal: to open your Journal. You can also click on the Faction Tabs in your journal to learn more.",
-    "LocalizedString": ""
+    "LocalizedString": "В вашем журнале есть карта и важная информация о фракциях и миссиях!\r\n\r\nНажмите :Journal:, чтобы открыть журнал. Вы также можете нажимать на вкладки фракций в журнале, чтобы узнать больше."
   },
   {
     "Namespace": "",
     "Key": "4A1BAA8A450F5C446E52648ACE3FEB82",
     "Hash": 1857413837,
     "SourceString": "Hold :Sprint: to Sprint.",
-    "LocalizedString": ""
+    "LocalizedString": "Удерживайте :Sprint: для бега."
   },
   {
     "Namespace": "",
     "Key": "F1E9A57D4E95D2AF23269584E664B9A8",
     "Hash": 1275428490,
     "SourceString": "Use :LeanLeft: and :LeanRight: to peek around corners...",
-    "LocalizedString": ""
+    "LocalizedString": "Используйте :LeanLeft: и :LeanRight:, чтобы выглядывать из-за углов..."
   }
 ]
