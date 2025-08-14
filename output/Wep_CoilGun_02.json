@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "222B449A4707BC0A66B8CBA54B548B2F",
+    "Hash": 3593825588,
+    "SourceString": "Upgraded electro-kinetic weapon. Features laser sight, digital scope and improved coil timing for better max muzzle velocity.\r\n\r\nHold down trigger to charge a more powerful shot.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DFE66F5A484D2D5F250879B3BB89F0BE",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

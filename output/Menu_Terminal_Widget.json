@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "01B40D4640B0A43A9538349DFB8B166D",
+    "Hash": 2890283775,
+    "SourceString": "Add Text Entry to Journal Notes.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "232714DE41D1080A2B224C9BA37948C7",
+    "Hash": 692856776,
+    "SourceString": "CLOSE",
+    "LocalizedString": "ЗАКРЫТЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "91B87E12448E7CC446C30BA02538C9B8",
+    "Hash": 2161996883,
+    "SourceString": "FILE NAME:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F5ABC87443860B81E45E24A0DCF96B5F",
+    "Hash": 859468830,
+    "SourceString": "FILE TEXT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D044DF0B40A12396791692BFFE5A7C33",
+    "Hash": 835540936,
+    "SourceString": "TERMINAL NAME:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "014CFEF14CC2C0B08045B287A79D20FA",
+    "Hash": 2700740377,
+    "SourceString": "Type \"HELP\" to view a list of actions...\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6EDC6FE94252848D78121BA35D7C4809",
+    "Hash": 1431777560,
+    "SourceString": "> ",
+    "LocalizedString": ""
+  }
+]

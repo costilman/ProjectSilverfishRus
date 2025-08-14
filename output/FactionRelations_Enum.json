@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "791EC33348454C2981CA479EBAD521AB",
+    "Hash": 2682956532,
+    "SourceString": "Neutral",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EF47FBD4416F1153EEAA72AEC03A6BA8",
+    "Hash": 1410887580,
+    "SourceString": "Friednly",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "226228D34DEA5953C0C754851579F483",
+    "Hash": 1657935483,
+    "SourceString": "Same Faction",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C5C0012342A6684FCBF0139A163A31AF",
+    "Hash": 4241622881,
+    "SourceString": "Fear",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "153CC04C404E0C53CF457C8FF84A4958",
+    "Hash": 2913704318,
+    "SourceString": "Hostile And Avoidant",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B0ADFDE14857CD5A2C8127A8E887209A",
+    "Hash": 2484360214,
+    "SourceString": "Aggressive",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "508640794492B6BADB73A8A9F9ECAF52",
+    "Hash": 1768700664,
+    "SourceString": "Hostile When Approached",
+    "LocalizedString": ""
+  }
+]

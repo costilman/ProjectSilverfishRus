@@ -1,0 +1,121 @@
+[
+  {
+    "Namespace": "",
+    "Key": "254B4F87490351C13B7D3894CB6DD525",
+    "Hash": 3544558282,
+    "SourceString": "ADD ENTRY",
+    "LocalizedString": "ДОБАВИТЬ ЗАПИСЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "3875F288461D5C5F701A2F953C9819A5",
+    "Hash": 3383761019,
+    "SourceString": "BACKPACK",
+    "LocalizedString": "РЮКЗАК"
+  },
+  {
+    "Namespace": "",
+    "Key": "A67D5FE74A55DEBC0B3FB881671D60B8",
+    "Hash": 692856776,
+    "SourceString": "CLOSE",
+    "LocalizedString": "ЗАКРЫТЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "12E1E0944C90DF54F03108A0F0000348",
+    "Hash": 1549430470,
+    "SourceString": "Revolution;Commonly seen wearing red and black camo, red bandanas or red barrettes.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2B9D82DC4ABE78D9319998826ABE0458",
+    "Hash": 3037217751,
+    "SourceString": "Freelancers;Often seen in green/tan camo or heavy coats. Usually wearing a green ski-mask and the 'Yellow Stag' patch.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C58EBA40456F715145C19BB94A7FBD94",
+    "Hash": 621663429,
+    "SourceString": "Cult;Often seen wearing purple tones with their armor decorated with runes and charms. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C0CBC5D041290A1DE5202196A0E49BBC",
+    "Hash": 3577433393,
+    "SourceString": "Insurrection;Often seen wearing brown camo with orange arm-bands.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E9029C924CE88F732DEF21BACF3ACA48",
+    "Hash": 4188441578,
+    "SourceString": "Military;Often seen wearing blue and grey uniforms.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "92D2F72F4FC1EBB4394E43AF078EAEB2",
+    "Hash": 150209364,
+    "SourceString": "ACTIVE CONTRACTS",
+    "LocalizedString": "АКТИВНЫЕ КОНТРАКТЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "38DF67144D2527DD2C3F619C9C72E775",
+    "Hash": 4171649194,
+    "SourceString": "FACTIONS",
+    "LocalizedString": "ФРАКЦИИ"
+  },
+  {
+    "Namespace": "",
+    "Key": "0866D1394A05CD2438F1AA8389FFB5D7",
+    "Hash": 1093491975,
+    "SourceString": "MISSIONS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "97AF3D2A460536085001209184F63BD4",
+    "Hash": 83487882,
+    "SourceString": "NOTES",
+    "LocalizedString": "ЗАМЕТКИ"
+  },
+  {
+    "Namespace": "",
+    "Key": "18B5768C4FA4260A0DB6D1BE8FB68AE1",
+    "Hash": 183602797,
+    "SourceString": "AVAILABLE CONTRACTS:",
+    "LocalizedString": "ДОСТУПНЫЕ КОНТРАКТЫ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "EF8619F8419FA7818ED6DC9A2F7F881E",
+    "Hash": 1480538053,
+    "SourceString": "COMPLETED CONTRACTS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C42706914547973130121F8100C17397",
+    "Hash": 2988837133,
+    "SourceString": "DEBT: 10000",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "421B1E874F39084E7DD9A2887974C249",
+    "Hash": 2990880696,
+    "SourceString": "DEBT:",
+    "LocalizedString": "ДОЛГ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "365A1A3A4A96633E7E0584A57D4F5AF9",
+    "Hash": 2062066740,
+    "SourceString": "JOURNAL",
+    "LocalizedString": "ЖУРНАЛ"
+  }
+]

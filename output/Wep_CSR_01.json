@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "9F51AD0841BDEF6C656D2BA7DA238958",
+    "Hash": 2562454162,
+    "SourceString": "Lightweight Combat Sniper in a bullpup configuration. Features an integrated laser sight and DMR scope.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2F4885BD470551A01E23F6AC7CC3BE12",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "F4A69F224CE15B437ADE39B0AEEE0E2B",
+    "Hash": 3890669089,
+    "SourceString": "A light-weight and user-friendly infantry weapon retro-fitted from old scout rifles. They're sometimes seen in the hands of NFTA Recon forces.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8E208F464A58623DBA1528B7C535024A",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить тактический фонарь."
+  }
+]

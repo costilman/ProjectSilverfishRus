@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "F868789E45FEF48EFECE929332840B42",
+    "Hash": 692856776,
+    "SourceString": "CLOSE",
+    "LocalizedString": "ЗАКРЫТЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "B5A422BD4AA2824D5AD6289E16D9DE20",
+    "Hash": 2818065715,
+    "SourceString": "ANOMALIES",
+    "LocalizedString": "АНОМАЛИИ"
+  },
+  {
+    "Namespace": "",
+    "Key": "3E4EB9C742E4A708F54EABB3A04145A8",
+    "Hash": 2140689475,
+    "SourceString": "SQUADS",
+    "LocalizedString": "ОТРЯДЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "8BD0B7084933348EEA6FDEB30429E880",
+    "Hash": 2751034099,
+    "SourceString": "SINGLE NPC",
+    "LocalizedString": "ОДИНОЧНЫЙ NPC"
+  }
+]

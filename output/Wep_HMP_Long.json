@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "A4A0AFFA42F1238D43632784CE448468",
+    "Hash": 1046751538,
+    "SourceString": "HMP fitted with a longer barrel, scope and laser sight. Fires quick 2-round bursts. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E6ED3F4B4D750BB6EA2226A610E12F0D",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

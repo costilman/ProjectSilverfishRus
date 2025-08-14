@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "2AC9B52E41B26229A2D29896850994C6",
+    "Hash": 1990936918,
+    "SourceString": "Heavy bullpup rifle with reflex sight and under barrel grenade launcher.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "48304595409C7AA1D7CA69907EDB1526",
+    "Hash": 1031046665,
+    "SourceString": "Press :WepToggle: to switch between fire modes.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы переключить режим огня."
+  }
+]

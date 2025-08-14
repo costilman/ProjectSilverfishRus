@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "070CE22143378CE84D3FF78C2E67ADCE",
+    "Hash": 4122230308,
+    "SourceString": "A variant of the KRM 54 featuring a reflex sight and tac-light.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8DF79A4740FAC150B5DBDBA6676C39A5",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить тактический фонарь."
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "Namespace": "",
+    "Key": "0FC4130842C14780A802918FA77BBD43",
+    "Hash": 4269939249,
+    "SourceString": "TrueNeutral",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "72DEA645460B5F08FB4FE8ABCD1BFF78",
+    "Hash": 3597405662,
+    "SourceString": "Stranger",
+    "LocalizedString": "Незнакомец"
+  },
+  {
+    "Namespace": "",
+    "Key": "18F2F02B4B2A48124214649C87600139",
+    "Hash": 637517498,
+    "SourceString": "SemiNeutral",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9401FA364A9BEAA83F8CEFAE4FBEF8D1",
+    "Hash": 3337524499,
+    "SourceString": "Loner",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3419F38346D4C6888255719601DDFDB6",
+    "Hash": 3909130966,
+    "SourceString": "State",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DD4683274C69F71C2813F9BA4D856E31",
+    "Hash": 1044694348,
+    "SourceString": "Coup",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "27F8B7434E8559385493FFB5F8BB5417",
+    "Hash": 2957333965,
+    "SourceString": "Zombies",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "79142CA5419393564B460481F691AEAB",
+    "Hash": 3023205227,
+    "SourceString": "Fae",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F07B185E4750EAD980D4A295EF7BF7CD",
+    "Hash": 148914874,
+    "SourceString": "Commune",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B19E89E345FA0F55A34DDA8C83F79A09",
+    "Hash": 1180381169,
+    "SourceString": "Freelancer",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "018F379B4594082053EE6EA92FC55208",
+    "Hash": 2537052732,
+    "SourceString": "Trusted",
+    "LocalizedString": "Доверенный"
+  },
+  {
+    "Namespace": "",
+    "Key": "C35B528844F5F276DEC5A68EB344267C",
+    "Hash": 699519473,
+    "SourceString": "Distrusted",
+    "LocalizedString": "Ненадежный"
+  },
+  {
+    "Namespace": "",
+    "Key": "EF67281A4926D3BB1F72ECA7315E0F5B",
+    "Hash": 3220913113,
+    "SourceString": "Pariah",
+    "LocalizedString": "Изгой"
+  },
+  {
+    "Namespace": "",
+    "Key": "6BEB4D4B4A420A9773A2D584BF618D49",
+    "Hash": 3931868830,
+    "SourceString": "Despised",
+    "LocalizedString": "Презираемый"
+  },
+  {
+    "Namespace": "",
+    "Key": "FF77645041E33EBC61776B936CE573EF",
+    "Hash": 2350336064,
+    "SourceString": "Hero",
+    "LocalizedString": ""
+  }
+]

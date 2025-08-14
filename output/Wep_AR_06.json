@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "3E0A32E64EAD5BC82F0393BE082D702C",
+    "Hash": 2267040839,
+    "SourceString": "A variant of the KRM 54 featuring a red-dot scope and laser sight. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BCB1E1724DC78619F92E31B9F9BBB51C",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

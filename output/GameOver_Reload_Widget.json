@@ -1,0 +1,37 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B03712344FDE155ABE75979271D66318",
+    "Hash": 1132679797,
+    "SourceString": "DEBUG CAM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "757E348B4FE7DD3C5DEC199347378FAD",
+    "Hash": 3666064218,
+    "SourceString": "[FOR PLAYTESTING ONLY]\r\n\r\nEnter Free-Cam mode.\r\n\r\nWARNING: Your death may not apply correctly to your save! Only use this option for debug purposes!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "03573DE14E67D2804E16DC93990993F2",
+    "Hash": 1937577984,
+    "SourceString": "LOAD SAVE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "32B02A47400D1D396CCBED9D6671E5EC",
+    "Hash": 2306874867,
+    "SourceString": "QUIT TO MENU",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "87DA31BF4183163FB6E617970EF72937",
+    "Hash": 1562718309,
+    "SourceString": "LOST TO THE ZONE",
+    "LocalizedString": ""
+  }
+]

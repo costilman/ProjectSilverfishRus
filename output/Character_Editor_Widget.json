@@ -1,0 +1,2067 @@
+[
+  {
+    "Namespace": "",
+    "Key": "51B26C234A1D273D6FBA7CB40A0DA647",
+    "Hash": 94665057,
+    "SourceString": "BACK",
+    "LocalizedString": "НАЗАД"
+  },
+  {
+    "Namespace": "",
+    "Key": "BEE527D0480388F6CD1F4691098C04B3",
+    "Hash": 94665057,
+    "SourceString": "BACK",
+    "LocalizedString": "НАЗАД"
+  },
+  {
+    "Namespace": "",
+    "Key": "C713D72A4791245A5FFBB9A586D090DB",
+    "Hash": 94665057,
+    "SourceString": "BACK",
+    "LocalizedString": "НАЗАД"
+  },
+  {
+    "Namespace": "",
+    "Key": "51B26C234A1D273D6FBA7CB40A0DA647",
+    "Hash": 94665057,
+    "SourceString": "BACK",
+    "LocalizedString": "НАЗАД"
+  },
+  {
+    "Namespace": "",
+    "Key": "3DF8FEB34BD0A7DF4C5C0BA1D96C7DB0",
+    "Hash": 1933897193,
+    "SourceString": "CHARACTER CLASS",
+    "LocalizedString": "КЛАСС ПЕРСОНАЖА"
+  },
+  {
+    "Namespace": "",
+    "Key": "F6D886544E5B0128551F6196966AEF34",
+    "Hash": 3343098872,
+    "SourceString": "CUSTOM CHARACTER",
+    "LocalizedString": "ПОЛЬЗОВАТЕЛЬСКИЙ ПЕРСОНАЖ"
+  },
+  {
+    "Namespace": "",
+    "Key": "CFC5530B4E77E0CE9CFB0A82CCA192BF",
+    "Hash": 704683620,
+    "SourceString": "RETURN TO MENU",
+    "LocalizedString": "ВЕРНУТЬСЯ В МЕНЮ"
+  },
+  {
+    "Namespace": "",
+    "Key": "A636317C4E54464C548C5BB99172FF30",
+    "Hash": 2822785959,
+    "SourceString": "CONFIRM",
+    "LocalizedString": "ПОДТВЕРДИТЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "163016A945F81C589D7407986D2DF7E0",
+    "Hash": 2284583778,
+    "SourceString": "NEXT",
+    "LocalizedString": "ДАЛЕЕ"
+  },
+  {
+    "Namespace": "",
+    "Key": "5E0CEB4945D9C1664695009C85E158D0",
+    "Hash": 2284583778,
+    "SourceString": "NEXT",
+    "LocalizedString": "ДАЛЕЕ"
+  },
+  {
+    "Namespace": "",
+    "Key": "2B6F39AB46DC2262162A4E9AA0D4BF6B",
+    "Hash": 2284583778,
+    "SourceString": "NEXT",
+    "LocalizedString": "ДАЛЕЕ"
+  },
+  {
+    "Namespace": "",
+    "Key": "4D3E1B7F45853BD533D5E58C8A62D822",
+    "Hash": 249399080,
+    "SourceString": "QUICK-PLAY",
+    "LocalizedString": "БЫСТРАЯ ИГРА"
+  },
+  {
+    "Namespace": "",
+    "Key": "762B5A2B416A3993443E58BBC2C793B7",
+    "Hash": 1279012838,
+    "SourceString": "RANDOMIZE",
+    "LocalizedString": "СЛУЧАЙНЫЙ ВЫБОР"
+  },
+  {
+    "Namespace": "",
+    "Key": "C3B6D0A140F10B363FCF91B82E5C3DC0",
+    "Hash": 574889934,
+    "SourceString": "NAME;Click to randomize.",
+    "LocalizedString": "ИМЯ;Нажмите для случайного выбора."
+  },
+  {
+    "Namespace": "",
+    "Key": "851AF9CC4B05F62958294293F66F41D9",
+    "Hash": 1279012838,
+    "SourceString": "RANDOMIZE",
+    "LocalizedString": "СЛУЧАЙНЫЙ ВЫБОР"
+  },
+  {
+    "Namespace": "",
+    "Key": "3AE113C0468D8A7EC1229C95D10EEE14",
+    "Hash": 1068880915,
+    "SourceString": "DESCRIPTION;Click to randomize.",
+    "LocalizedString": "ОПИСАНИЕ;Нажмите для случайного выбора."
+  },
+  {
+    "Namespace": "",
+    "Key": "2C86B3CE41665A81DF90ED918EFBE612",
+    "Hash": 1106115230,
+    "SourceString": "RANDOMIZE APPEARANCE",
+    "LocalizedString": "СЛУЧАЙНАЯ ВНЕШНОСТЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "5AA52CA749A7D0ED60F271A7366EB301",
+    "Hash": 17369632,
+    "SourceString": "PREVIEW VOICE",
+    "LocalizedString": "ПРОСЛУШАТЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "E3B61E164B2C4F656F306086B340542B",
+    "Hash": 2220719808,
+    "SourceString": "EYE COLOR",
+    "LocalizedString": "ЦВЕТ ГЛАЗ"
+  },
+  {
+    "Namespace": "",
+    "Key": "EACBA94D463A020C48D244979D096007",
+    "Hash": 797308020,
+    "SourceString": "FEATHER COLOR",
+    "LocalizedString": "ЦВЕТ ВОЛОС"
+  },
+  {
+    "Namespace": "",
+    "Key": "2337BA2E498934E77F023BA0F87A89B7",
+    "Hash": 3164392270,
+    "SourceString": "SCALE COLOR",
+    "LocalizedString": "ЦВЕТ КОЖИ"
+  },
+  {
+    "Namespace": "",
+    "Key": "2869F96045C50E815A45DFBC77205409",
+    "Hash": 3116713639,
+    "SourceString": "Debtor",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "87843A354B41291476754F9CDC5EA094",
+    "Hash": 1469398287,
+    "SourceString": "Kal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "88ED2145460AF78606FC7792B3F3C74A",
+    "Hash": 3994327081,
+    "SourceString": "Stalker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "43432B5342D0A244DD8FB386D822CF89",
+    "Hash": 3597405662,
+    "SourceString": "Stranger",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "651275B34F189AB321F1CB8357EDC5A6",
+    "Hash": 3474428774,
+    "SourceString": "Default player character. Starts with no gear or special attributes. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C6168BB34A42F23B6B9188B5596DD849",
+    "Hash": 3450464498,
+    "SourceString": "Guy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6DEF33DE4EF6739CE1D6D0923E31298F",
+    "Hash": 775179970,
+    "SourceString": "Mansly",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BC0226404B78894907F3F0BB963A9255",
+    "Hash": 2888882817,
+    "SourceString": "Pooky",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "275B081040AFD1CC738A9799EDC4D9E0",
+    "Hash": 3347052396,
+    "SourceString": "Carl",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E38A6D094468D6A776D57CA5117CA5EA",
+    "Hash": 1664122155,
+    "SourceString": "Gudd",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "91E2B2594EF7B83CEEA896AB1703E799",
+    "Hash": 1564283361,
+    "SourceString": "Rudy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3388779C458293AC5D85168F38E05B65",
+    "Hash": 2998175948,
+    "SourceString": "Peeky",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FA691EA4E0243AA10C6BC8CC60EE9CF",
+    "Hash": 3811086336,
+    "SourceString": "Godard",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F987A1F647511E9981E4F6963DAFC8DC",
+    "Hash": 3572170569,
+    "SourceString": "Flyn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4860FE6443669E22BAAC8DA22D8B1E1C",
+    "Hash": 1154187607,
+    "SourceString": "Stu",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "82B4AA8C4B586D411C4076AFCE062AE0",
+    "Hash": 2004167451,
+    "SourceString": "Alex",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C7CC8D294458C0740CE538A96978C228",
+    "Hash": 3051135582,
+    "SourceString": "Jin",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A108F562470E209135ABED8C5F86F599",
+    "Hash": 2106463371,
+    "SourceString": "Leroy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4554370D4852B448FCA6A2805390D597",
+    "Hash": 3697228804,
+    "SourceString": "Crow",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7552653144F7D1F7EE61C2AF9A5A4EAB",
+    "Hash": 2087972364,
+    "SourceString": "Gill",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E46DCCD34065EF537C9B25999A963135",
+    "Hash": 976728171,
+    "SourceString": "Finn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "33661E5B4BAE32D2633B2FAF0AE261AF",
+    "Hash": 3662648816,
+    "SourceString": "Lee",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "812C279F4C7541E5C3C8BF86FA3F8D49",
+    "Hash": 3699397603,
+    "SourceString": "Killroy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0D491F9B4304351D67E6BC9F179096FD",
+    "Hash": 3415099334,
+    "SourceString": "Lenn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D2B78C6840C1CFCB2BC3D8A6A1022672",
+    "Hash": 63696411,
+    "SourceString": "Fox",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2DAB3B074EE6E7A884B0B2BCB3C6C68A",
+    "Hash": 1117218232,
+    "SourceString": "Jose",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2D24874D4AEFBB54C6E211A8B142D5F7",
+    "Hash": 1021482517,
+    "SourceString": "Mel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8D3AC1A549EBBCCA5F190CBAB5B42E2E",
+    "Hash": 179145667,
+    "SourceString": "Lorn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4AC7151044894751A959F9BD4D4FAC23",
+    "Hash": 4151085849,
+    "SourceString": "Kelly",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "62A9AAAF442E4D2AC0433596E5BF4463",
+    "Hash": 2877693288,
+    "SourceString": "Sky",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "31002CF1402EB250FBDE5B8015DD783E",
+    "Hash": 2801050843,
+    "SourceString": "Lue",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A6455E0D49D1A5566C62168D74A97F61",
+    "Hash": 3216116621,
+    "SourceString": "Pat",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4177C1BC469C7B752905C8914D2E4463",
+    "Hash": 2294305824,
+    "SourceString": "Mill",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7A5CE26C464D93F3D221A4BC92529858",
+    "Hash": 3730534469,
+    "SourceString": "Kell",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CB1A2C644FDB30645DD948B8D0C70DCB",
+    "Hash": 3265062843,
+    "SourceString": "Lynn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "02840ACE485A7DD089C43CAD047AFB9A",
+    "Hash": 1741903911,
+    "SourceString": "Max",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "417AE9704B90DFFA424FEABB05776D2F",
+    "Hash": 4082529119,
+    "SourceString": "Redd",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A6411CB0428EF6229239539E3F5BA182",
+    "Hash": 2408661257,
+    "SourceString": "Scar",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1D67A3B745F33EA681AEC1A656A3E1BD",
+    "Hash": 2970287682,
+    "SourceString": "Lilly",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9C4D8C9E407A104C06B8D981383EC386",
+    "Hash": 1484808208,
+    "SourceString": "Pine",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "536D11B2432D178E31A006BE8FD67EB4",
+    "Hash": 1712107990,
+    "SourceString": "Mavis",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C1355D0443DF28FF98BE32BFC9CB61C7",
+    "Hash": 260698335,
+    "SourceString": "Raven",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "79E386BE4B5196EA2673A295235EC152",
+    "Hash": 4283342499,
+    "SourceString": "Rudd",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "19DAA8B84181476C39B32C900A0C39AA",
+    "Hash": 1966713941,
+    "SourceString": "Jill",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F24716154B67A0BF4F4637AD487F545F",
+    "Hash": 274755188,
+    "SourceString": "Pike",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4C2E5E574AF595928287BC9947B4AC68",
+    "Hash": 2863792207,
+    "SourceString": "Buggs",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0E5D76FC44D7E6422CFF06AF0456FE35",
+    "Hash": 3969450744,
+    "SourceString": "Slick",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AC44CDB6439C561057A394B1EC7E0866",
+    "Hash": 1385712320,
+    "SourceString": "Wren",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C944D4F94EA03DE87DB0E6B63E8B9138",
+    "Hash": 3698987706,
+    "SourceString": "Coal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "876C3A9D4A6B8625A55743AD134C5265",
+    "Hash": 892515060,
+    "SourceString": "Coby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "81D7766F47AF1DAB6817BEA946B8EEFD",
+    "Hash": 367221580,
+    "SourceString": "Koda",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3EDD1ECE41D5CC310D2F06B5D07B7726",
+    "Hash": 2410916961,
+    "SourceString": "Regi",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4416A3CF45BE5FAE0B7A239AF93F4278",
+    "Hash": 810719906,
+    "SourceString": "Kay",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8707006F4CB45D142D3AFDB90C05C72A",
+    "Hash": 2046380026,
+    "SourceString": "Silver",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E6F3A7704A7FCD5516380C9F9A22BF07",
+    "Hash": 3721957012,
+    "SourceString": "Jade",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9383929849BE483E514C06893985B305",
+    "Hash": 3993337414,
+    "SourceString": "Marco",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F28960DB4A2C6AE467FD6894EF024669",
+    "Hash": 3875170398,
+    "SourceString": "Slim Rick",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5F1472BE4109A98BF49A4DA7040F4059",
+    "Hash": 1646669670,
+    "SourceString": "Jimmy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7ABD83D34B13EEA72F0F819DAB78E9AA",
+    "Hash": 280346238,
+    "SourceString": "Wik",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B5687B0F4C9E8F729660B495115A369D",
+    "Hash": 1549864831,
+    "SourceString": "Alyx",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FFB140E449515FFBFF2A2EB03D627996",
+    "Hash": 3450464498,
+    "SourceString": "Guy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ABF4E31C48A1319158D8848360B471E5",
+    "Hash": 775179970,
+    "SourceString": "Mansly",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E57ED52C47E5502A81C40EB81AA5C6E6",
+    "Hash": 2888882817,
+    "SourceString": "Pooky",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "12A346FF45D0031EE21D01819B626E91",
+    "Hash": 3347052396,
+    "SourceString": "Carl",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "66B76CDF419A2C02481553BCC29A91EC",
+    "Hash": 1664122155,
+    "SourceString": "Gudd",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "86184C114B4D80014A124B97699F660F",
+    "Hash": 1564283361,
+    "SourceString": "Rudy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "09000C144C76143A7CCC788AAFA264DE",
+    "Hash": 2998175948,
+    "SourceString": "Peeky",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A113748340C46E32D7D45EBF2E37DE3E",
+    "Hash": 3811086336,
+    "SourceString": "Godard",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9191A0764FE69FDFF66E95A2699130AA",
+    "Hash": 3572170569,
+    "SourceString": "Flyn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FC69B4C24C4A624FA61F9CBCEDC932D6",
+    "Hash": 1154187607,
+    "SourceString": "Stu",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CD364A1B477A03A51B04A1961372C75F",
+    "Hash": 2004167451,
+    "SourceString": "Alex",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4CF4C5CE42FE70BDF8ABAE8304473692",
+    "Hash": 3051135582,
+    "SourceString": "Jin",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6DBC6A1B4BC63B242274CC800F5418F3",
+    "Hash": 2106463371,
+    "SourceString": "Leroy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B0EFA9FB42C5ABC42F317EB73A796EFB",
+    "Hash": 3697228804,
+    "SourceString": "Crow",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4C6622564C9DC2C2F3EF3D83006261E8",
+    "Hash": 2087972364,
+    "SourceString": "Gill",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "82BE286F4A0E003D38018BB027BE27B6",
+    "Hash": 976728171,
+    "SourceString": "Finn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "48B5F3744F2910D82EF0AAADA278B5D8",
+    "Hash": 3662648816,
+    "SourceString": "Lee",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "34B3C91F48D1D4D6A45CE4AC2D6999B2",
+    "Hash": 3699397603,
+    "SourceString": "Killroy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7483D5E742C776C2729E389DAC3FB8AB",
+    "Hash": 3415099334,
+    "SourceString": "Lenn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "14B680F94F5DB7D60A3DEF8FD89E89CC",
+    "Hash": 63696411,
+    "SourceString": "Fox",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A46474F846851DFE0B899995557C1C3C",
+    "Hash": 1117218232,
+    "SourceString": "Jose",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "07D59E5A4E37F93DD41DA9888807C771",
+    "Hash": 1021482517,
+    "SourceString": "Mel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5604554B4A55665A41D0CAAA12373E57",
+    "Hash": 179145667,
+    "SourceString": "Lorn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1BB11F804153E2780143BDA37864FC7B",
+    "Hash": 4151085849,
+    "SourceString": "Kelly",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8A7AA8874F3FFF576CBE8FB59BFB4B0A",
+    "Hash": 2877693288,
+    "SourceString": "Sky",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2E1A8ADD4BA7A51213C9B58D85B1C3FB",
+    "Hash": 2801050843,
+    "SourceString": "Lue",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "54D3FD264ED4479E115ABBBC267AA0BC",
+    "Hash": 3216116621,
+    "SourceString": "Pat",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "563EE84F446E73B5B04C24BC32440DFE",
+    "Hash": 2294305824,
+    "SourceString": "Mill",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A5F6FC424039D0AD30F3FAA3176D5A67",
+    "Hash": 3730534469,
+    "SourceString": "Kell",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F9C2AE254D51AF80E5487989BFB4921E",
+    "Hash": 3265062843,
+    "SourceString": "Lynn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "15688C594400569D16D5EAB0CAC27EFD",
+    "Hash": 1741903911,
+    "SourceString": "Max",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DFAAA3814CA71E446C91F3BE2EACA4B3",
+    "Hash": 4082529119,
+    "SourceString": "Redd",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "33EAE5214C234D2D337142AAEB0919E0",
+    "Hash": 2408661257,
+    "SourceString": "Scar",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A399A9BC4D1CA3E65000F4BC46160D35",
+    "Hash": 2970287682,
+    "SourceString": "Lilly",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6752F90348EAD3A0BFABE1BA887D43BE",
+    "Hash": 1484808208,
+    "SourceString": "Pine",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2340C5F244389C18EC7DD09F506CCAA4",
+    "Hash": 1712107990,
+    "SourceString": "Mavis",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "19A54F7E4DC1C560B38CC9B952C851C9",
+    "Hash": 260698335,
+    "SourceString": "Raven",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E2B122EA448F200BFB64C29DF9D30F2E",
+    "Hash": 4283342499,
+    "SourceString": "Rudd",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D72AB7344E781D9539A9208717BBDCF5",
+    "Hash": 1966713941,
+    "SourceString": "Jill",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "17C990294B47360F6B7E68BE5D35C878",
+    "Hash": 274755188,
+    "SourceString": "Pike",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4545EB784E77D1C4F7637FAF93EACA63",
+    "Hash": 2863792207,
+    "SourceString": "Buggs",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD581BEF4DDF188DC3E30CA8B81E6BDA",
+    "Hash": 3969450744,
+    "SourceString": "Slick",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "833C0EC245129471F14875B7BF65CB40",
+    "Hash": 1385712320,
+    "SourceString": "Wren",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D73B056146398657C82F2C88684E09E2",
+    "Hash": 3698987706,
+    "SourceString": "Coal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7C7085334D5675BBEA4B0A997FB6E700",
+    "Hash": 892515060,
+    "SourceString": "Coby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BB0270E140E9AD515841E0B5001877DC",
+    "Hash": 367221580,
+    "SourceString": "Koda",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F1A453B14FDDDC956E057FAA7D32F04B",
+    "Hash": 2410916961,
+    "SourceString": "Regi",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "86E43E5F4A8D685CE948CFB29B444537",
+    "Hash": 810719906,
+    "SourceString": "Kay",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E25BFE8F447A5FA33A8995BF3E906DAD",
+    "Hash": 2046380026,
+    "SourceString": "Silver",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "72A0ED6048AE915E2F1F64BEABF8F360",
+    "Hash": 3721957012,
+    "SourceString": "Jade",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2DA8E7B440BEA38D9FA071AAEDD6F3E9",
+    "Hash": 3993337414,
+    "SourceString": "Marco",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CBD21B7F4D2B63C5E4C891A87F4E5231",
+    "Hash": 3875170398,
+    "SourceString": "Slim Rick",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5A7E792E453D9940479865947D6BF8EC",
+    "Hash": 1646669670,
+    "SourceString": "Jimmy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F6527A4A451ACD5BBAB429BFC1BA9415",
+    "Hash": 280346238,
+    "SourceString": "Wik",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FFA109294E87691EEC8B10A01B3732CB",
+    "Hash": 1549864831,
+    "SourceString": "Alyx",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "178F93D5455AED1814DF908B9E1F2CC4",
+    "Hash": 800417006,
+    "SourceString": "If True: \r\nAll shops will be replaced with the barter system. \r\n[This overrides game mode's shop stock setting.]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8B256F9E4FB37A5C79DA09A71104759D",
+    "Hash": 2691712212,
+    "SourceString": "If True: \r\nIn 'Extraction' mode, any items you do not select to respawn with will be left in a backpack in the location you died. If you die again before reaching this backpack, its contents and location will be overwritten. \r\n\r\nIf False:\r\nAll remaining items not selected to respawn with will be lost forever.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6BDDAE2449588C53890C699DBF78736E",
+    "Hash": 1106816398,
+    "SourceString": "If True: \r\nAll stash containers will use the same inventory.\r\n\r\nIf False:\r\nEach stash container will have a unique inventory.",
+    "LocalizedString": "Если включено: \nВсе тайники будут использовать один и тот же инвентарь.\n\nЕсли выключено:\nКаждый тайник будет иметь уникальный инвентарь."
+  },
+  {
+    "Namespace": "",
+    "Key": "81242BC64DED4AB8CA666CA4AD5D021B",
+    "Hash": 2127106313,
+    "SourceString": "If True: \r\nCertain contracts will count as being failed if you die while they are active. Some will even penalize you for failure.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7CAD135D495FE21BC34F788BB0A7BE14",
+    "Hash": 3873397567,
+    "SourceString": "If True: \r\nYou will always save to the save slot you originally began your save file on.\r\n\r\nIf False: \r\nWhile saving at beds, you will be given the option to save your progress to any save slot.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36EE7B6F493B53BE9EB7D5A077F86255",
+    "Hash": 2688305325,
+    "SourceString": "If True: \r\nEvery time you die, you will lose one Item Slot for the next time you respawn in 'Extraction' mode.\r\n\r\nIf False: \r\nYou will retain the same number of slots no matter how many times you die.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BCDE956A4283BF411124C09E8DD1ADB5",
+    "Hash": 2353742052,
+    "SourceString": "If True: \r\nLootable containers will be replenished slowly over time.\r\n\r\nIf False: \r\nNo loot will ever replenish. \r\n\r\n[Note: certain loot spawns will never replenish under any circumstance.]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B5E7841E4C43E3734119EB9859CDEB34",
+    "Hash": 1956219025,
+    "SourceString": "If True in 'Load Save' mode: \r\nYour save file is immediately wiped upon death.\r\n\r\nIf True in 'Extraction' mode: \r\nIf your number of 'Kept Items on Death' is zero, your save file is immediately wiped upon death. \r\n\r\nNOTE: For this feature to work in 'Extraction' mode, either 'Keep items on Death' must be set to Zero, or 'Lose Item Slot Each Death' must be set to True!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6A87798546439EE80478EEA6934534D5",
+    "Hash": 1308905976,
+    "SourceString": "If True: \r\nThe game will auto-save every time you transition between levels. \r\n\r\nIf False: \r\nYou can only save your progress by sleeping in a bed.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AD84625D489529D5DC1CF29302047B55",
+    "Hash": 3022911026,
+    "SourceString": "If True: \r\nShops will have limited inventories for all items. (These refresh each in-game day.)\r\n\r\nIf False: \r\nShops will have infinite stock for certain common items.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ADA7A9164A707AD20CE9DA9D103E6F01",
+    "Hash": 3644079660,
+    "SourceString": "If True: \r\nLate game Contracts can be accepted sooner. \r\nEarly game NPCs can spawn with late game weapons.\r\n\r\nIf False:\r\nContracts and NPCs will abide by normal progression curves.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C270DFA64F98C0C048299E8BCD3ABD2E",
+    "Hash": 1645275882,
+    "SourceString": "ADVANCED OPTIONS",
+    "LocalizedString": "РАСШИРЕННЫЕ НАСТРОЙКИ"
+  },
+  {
+    "Namespace": "",
+    "Key": "AC4D20194C6B0AA359EA2CB77942F4E7",
+    "Hash": 2440302798,
+    "SourceString": "COLORS",
+    "LocalizedString": "ЦВЕТА"
+  },
+  {
+    "Namespace": "",
+    "Key": "F0FB7C754B8331466CF127892D94878E",
+    "Hash": 1267949645,
+    "SourceString": "EQUIPMENT",
+    "LocalizedString": "СНАРЯЖЕНИЕ"
+  },
+  {
+    "Namespace": "",
+    "Key": "B39FF174482440ADC9DCE4A052986CB6",
+    "Hash": 473971826,
+    "SourceString": "BODY",
+    "LocalizedString": "ТЕЛО"
+  },
+  {
+    "Namespace": "",
+    "Key": "7432C32248081E8498BF70927C87DF45",
+    "Hash": 557658857,
+    "SourceString": "IDENTITY",
+    "LocalizedString": "ЛИЧНОСТЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "C0F2AA5C4A622A7572FE3A81FEA1AE01",
+    "Hash": 691484592,
+    "SourceString": "OUTFIT",
+    "LocalizedString": "ОДЕЖДА"
+  },
+  {
+    "Namespace": "",
+    "Key": "0E79EC5045866D4EB96C0F91F3E617FC",
+    "Hash": 447208714,
+    "SourceString": "ATTRIBUTES",
+    "LocalizedString": "АТРИБУТЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "E3FFD4C947983FB6EAAFCF82C8A9706E",
+    "Hash": 1481538763,
+    "SourceString": "VOICE",
+    "LocalizedString": "ГОЛОС"
+  },
+  {
+    "Namespace": "",
+    "Key": "E02D218248B343975228198FDE00F12A",
+    "Hash": 1135883037,
+    "SourceString": "TYPE:",
+    "LocalizedString": "ТИП:"
+  },
+  {
+    "Namespace": "",
+    "Key": "BA54F32244B27B8715379DB09C7A4FC1",
+    "Hash": 4137572433,
+    "SourceString": "ARMOR:",
+    "LocalizedString": "БРОНЯ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
+    "Hash": 1871364646,
+    "SourceString": "TYPE 1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
+    "Hash": 2101308872,
+    "SourceString": "TYPE 2",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
+    "Hash": 3313699501,
+    "SourceString": "TYPE 3",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
+    "Hash": 1481912852,
+    "SourceString": "TYPE 4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5564421342F189825D39DEBB6E977859",
+    "Hash": 3773322609,
+    "SourceString": "TYPE 5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
+    "Hash": 4066245279,
+    "SourceString": "TYPE 6",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DE012B5A477E53513DDC79BC8E02B8D9",
+    "Hash": 3069026416,
+    "SourceString": "BODY:",
+    "LocalizedString": "ТЕЛО:"
+  },
+  {
+    "Namespace": "",
+    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
+    "Hash": 1871364646,
+    "SourceString": "TYPE 1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
+    "Hash": 2101308872,
+    "SourceString": "TYPE 2",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
+    "Hash": 3313699501,
+    "SourceString": "TYPE 3",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
+    "Hash": 1481912852,
+    "SourceString": "TYPE 4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5564421342F189825D39DEBB6E977859",
+    "Hash": 3773322609,
+    "SourceString": "TYPE 5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
+    "Hash": 4066245279,
+    "SourceString": "TYPE 6",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1FCA339D46EE7CB1E66C00BD126ED7F4",
+    "Hash": 3564466080,
+    "SourceString": "CAMO:",
+    "LocalizedString": "КАМУФЛЯЖ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "8F14A60A4027221F0652F6A264E05A27",
+    "Hash": 2072703139,
+    "SourceString": "NORMAL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3124C9824A1B7C3112F2BDBA44CEB836",
+    "Hash": 986750621,
+    "SourceString": "EXTRACTION",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "86D78A9446CA7F7FF099788395833943",
+    "Hash": 1244809877,
+    "SourceString": "PERMA-DEATH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D70921794E081FC05192418732547BB5",
+    "Hash": 1485149679,
+    "SourceString": "Class:",
+    "LocalizedString": "Класс:"
+  },
+  {
+    "Namespace": "",
+    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
+    "Hash": 1871364646,
+    "SourceString": "TYPE 1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
+    "Hash": 2101308872,
+    "SourceString": "TYPE 2",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
+    "Hash": 3313699501,
+    "SourceString": "TYPE 3",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
+    "Hash": 1481912852,
+    "SourceString": "TYPE 4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5564421342F189825D39DEBB6E977859",
+    "Hash": 3773322609,
+    "SourceString": "TYPE 5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
+    "Hash": 4066245279,
+    "SourceString": "TYPE 6",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2B458BDF4D174B1894DD8593501A16E1",
+    "Hash": 3970423277,
+    "SourceString": "EYE SHAPE:",
+    "LocalizedString": "ФОРМА ГЛАЗ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "A5367BAF4A6AA92EC4A056BB78C82813",
+    "Hash": 2426730750,
+    "SourceString": "LONER",
+    "LocalizedString": "ОДИНОЧКА"
+  },
+  {
+    "Namespace": "",
+    "Key": "E431EF13467378F5174A5E93573BF077",
+    "Hash": 3787804902,
+    "SourceString": "FREELANCER",
+    "LocalizedString": "ФРИЛАНСЕРЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "615B02C74CE5C4BBAAE00DBF6B917660",
+    "Hash": 2136472886,
+    "SourceString": "REVOLUTION",
+    "LocalizedString": "РЕВОЛЮЦИОНЕРЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "0F7176F14BF85890C23FCDA70A84514A",
+    "Hash": 1971874582,
+    "SourceString": "CULT",
+    "LocalizedString": "КУЛЬТИСТЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "76B9F1E54CEB10593C5976A545B6D0E3",
+    "Hash": 3863880252,
+    "SourceString": "INSURRECTION",
+    "LocalizedString": "ПОВСТАНЦЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "BF8739A144D2DC1DFDB92283E2974819",
+    "Hash": 678775089,
+    "SourceString": "MILITARY",
+    "LocalizedString": "ВОЕННЫЕ"
+  },
+  {
+    "Namespace": "",
+    "Key": "9915F098460457D9EB56F0B5180D5343",
+    "Hash": 2265870441,
+    "SourceString": "FACE:",
+    "LocalizedString": "ЛИЦО:"
+  },
+  {
+    "Namespace": "",
+    "Key": "BE0AD91C474E0865331F40A3A43F1B72",
+    "Hash": 764045672,
+    "SourceString": "NEUTRAL",
+    "LocalizedString": "НЕЙТРАЛЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "E431EF13467378F5174A5E93573BF077",
+    "Hash": 3787804902,
+    "SourceString": "FREELANCER",
+    "LocalizedString": "ФРИЛАНСЕРЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "615B02C74CE5C4BBAAE00DBF6B917660",
+    "Hash": 2136472886,
+    "SourceString": "REVOLUTION",
+    "LocalizedString": "РЕВОЛЮЦИОНЕРЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "0F7176F14BF85890C23FCDA70A84514A",
+    "Hash": 1971874582,
+    "SourceString": "CULT",
+    "LocalizedString": "КУЛЬТИСТЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "76B9F1E54CEB10593C5976A545B6D0E3",
+    "Hash": 3863880252,
+    "SourceString": "INSURRECTION",
+    "LocalizedString": "ПОВСТАНЦЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "BF8739A144D2DC1DFDB92283E2974819",
+    "Hash": 678775089,
+    "SourceString": "MILITARY",
+    "LocalizedString": "ВОЕННЫЕ"
+  },
+  {
+    "Namespace": "",
+    "Key": "BE5C8A1843B2D507DD870D9F34BD11AF",
+    "Hash": 2426730750,
+    "SourceString": "LONER",
+    "LocalizedString": "ОДИНОЧКА"
+  },
+  {
+    "Namespace": "",
+    "Key": "187849F9401367F540917CB71CED54E7",
+    "Hash": 3303231076,
+    "SourceString": "RANDOM REP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0357B5684AE9FC98ADE03BB71713907F",
+    "Hash": 2590320417,
+    "SourceString": "Faction:",
+    "LocalizedString": "Фракция:"
+  },
+  {
+    "Namespace": "",
+    "Key": "72DBD97B4C9539494DC9B5A3EC2695CE",
+    "Hash": 1405285742,
+    "SourceString": "Starting Faction;WARNING: Alt faction starts are an experimental work in progress! \r\nIt is highly recommended you play as NEUTRAL in your first playthrough!\r\n\r\nNEUTRAL: Standard starting reputation with each faction. Play the game normally.\r\n\r\nFREELANCER: Allied with the Freelancers. Play the game normally.\r\n\r\nREVOLUTION: Allied with the Revolution. Play the game normally.\r\n\r\nCULT: [Not yet supported by sandbox]\r\n\r\nINSURRECTION: [Not yet supported by sandbox]\r\n\r\nMILITARY: [WIP] Aligned with NFTA forces, complete missions to earn Requisitions for better gear.\r\n\r\nLONER: Hostile to all factions. Limited questing options. \r\n\r\nRANDOM REP: Randomizes all reputations. Limited questing options. ",
+    "LocalizedString": "Стартовая фракция;ВНИМАНИЕ: игра за другие фракции — экспериментальная функция, в разработке! \r\nНастоятельно рекомендуется в первом прохождении выбрать НЕЙТРАЛЫ!\r\n\r\nНЕЙТРАЛЫ: Стандартная стартовая репутация с каждой фракцией. Обычный режим игры.\r\n\r\nФРИЛАНСЕРЫ: Союз с фрилансерами. Обычный режим игры.\r\n\r\nРЕВОЛЮЦИОНЕРЫ: Союз с революционерами. Обычный режим игры.\r\n\r\nКУЛЬТИСТЫ: [Пока не поддерживается в песочнице]\r\n\r\nПОВСТАНЦЫ: [Пока не поддерживается в песочнице]\r\n\r\nВОЕННЫЕ: [В разработке] Выполняйте миссии для вооружённых сил NFTA, чтобы получить доступ к лучшему снаряжению.\r\n\r\nОДИНОЧКА: Враждебен ко всем фракциям. Ограниченные возможности для заданий. \r\n\r\nСЛУЧАЙНАЯ РЕПУТАЦИЯ: Случайным образом определяет репутацию у всех фракций. Ограниченные возможности для заданий."
+  },
+  {
+    "Namespace": "",
+    "Key": "D6EA6344498F94776E68DE81653C3C7A",
+    "Hash": 3513722813,
+    "SourceString": "0",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9244DFC7403595A2689379A6851477D6",
+    "Hash": 1775452376,
+    "SourceString": "1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A4A648924E0368F1FEFC3DA5CA7C3C0F",
+    "Hash": 2070343478,
+    "SourceString": "2",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9217D21E429BF9798811AC8520071241",
+    "Hash": 3285878867,
+    "SourceString": "3",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EAFE16D848ABD5A8EE7BCAABE5AC4B5E",
+    "Hash": 1577955562,
+    "SourceString": "4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "26FEE1FE4AB61CCBC4910A9C5CAAF52F",
+    "Hash": 3870414735,
+    "SourceString": "5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BBFEF7FF4DC443FA1CC1F0B78E0B41F0",
+    "Hash": 4093933665,
+    "SourceString": "6",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4EE9428E4DEC093DA53A7E85B04C2643",
+    "Hash": 1287134980,
+    "SourceString": "7",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DA85208A4E00E9BF3F9D908B485DEC52",
+    "Hash": 349900626,
+    "SourceString": "8",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E569736E4260392C49FD08BDBF34031F",
+    "Hash": 2892458039,
+    "SourceString": "9",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36A5CA234D5560BC1FF4D59550C92558",
+    "Hash": 3698226219,
+    "SourceString": "10",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "86FF4B8C4B379B5E33EB2AB612A7CA77",
+    "Hash": 3006200103,
+    "SourceString": "KEEP ITEMS ON DEATH:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "492C55B447B8A84D2D613AB9438B4F5B",
+    "Hash": 4206551330,
+    "SourceString": "The number of Items you will be allowed to choose to respawn with after dying on 'Extraction Mode'.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6EAEFC354CB2DFE9858C029F03DF891D",
+    "Hash": 1903530902,
+    "SourceString": "NOTHING",
+    "LocalizedString": "НИЧЕГО"
+  },
+  {
+    "Namespace": "",
+    "Key": "D69FF49A46E65D3B608F93801371A563",
+    "Hash": 2925125820,
+    "SourceString": "ESSENTIALS",
+    "LocalizedString": "САМОЕ НЕОБХОДИМОЕ"
+  },
+  {
+    "Namespace": "",
+    "Key": "AA559BC34E9A53317E13F5A4EA8F461C",
+    "Hash": 2679507424,
+    "SourceString": "BASIC BAG",
+    "LocalizedString": "ОБЫЧНАЯ СУМКА"
+  },
+  {
+    "Namespace": "",
+    "Key": "29A84FC94C02F69E18049EABA6261BF9",
+    "Hash": 2751099566,
+    "SourceString": "WEIRD BAG",
+    "LocalizedString": "СТРАННАЯ СУМКА"
+  },
+  {
+    "Namespace": "",
+    "Key": "3E0D651A4EB540A5E118C0BC2F991A7C",
+    "Hash": 3020163191,
+    "SourceString": "FACTION GEAR",
+    "LocalizedString": "СНАРЯЖЕНИЕ ФРАКЦИИ"
+  },
+  {
+    "Namespace": "",
+    "Key": "943288774E234E3E98E3C58CC978D1B5",
+    "Hash": 3290645161,
+    "SourceString": "STARTING KIT:",
+    "LocalizedString": "СТАРТОВЫЙ НАБОР:"
+  },
+  {
+    "Namespace": "",
+    "Key": "AFB4255A44ACAB4A8CD4F7A117C035CB",
+    "Hash": 649729979,
+    "SourceString": "Starting Kit;None: You start with an empty inventory.\r\n\r\nEssentials: You start with a small amount of basic gear.\r\n\r\nBasic Bag: You start with a duffle bag full of random basic gear. \r\n\r\nWeird Bag: You start with a duffle bag full of very random gear that can range wildly in quality. \r\n\r\nFaction Gear: You start with a loadout specific to your chosen faction. ",
+    "LocalizedString": "Стартовый набор;Ничего: Вы начинаете с пустым инвентарём.\r\n\r\nСамое необходимое: Вы начинаете с небольшим количеством базового снаряжения.\r\n\r\nОбычная сумка: Вы начинаете с вещмешком, полным случайного базового снаряжения. \r\n\r\nСтранная сумка: Вы начинаете с вещмешком, полным случайного снаряжения, качество которого может сильно варьироваться. \r\n\r\nСнаряжение фракции: Вы начинаете со снаряжением, специфичным для вашей выбранной фракции."
+  },
+  {
+    "Namespace": "",
+    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
+    "Hash": 1871364646,
+    "SourceString": "TYPE 1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
+    "Hash": 2101308872,
+    "SourceString": "TYPE 2",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
+    "Hash": 3313699501,
+    "SourceString": "TYPE 3",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
+    "Hash": 1481912852,
+    "SourceString": "TYPE 4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5564421342F189825D39DEBB6E977859",
+    "Hash": 3773322609,
+    "SourceString": "TYPE 5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
+    "Hash": 4066245279,
+    "SourceString": "TYPE 6",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1BE9425240081DC7679389BBD12E2CD6",
+    "Hash": 446056608,
+    "SourceString": "MARKINGS:",
+    "LocalizedString": "ОТМЕТИНЫ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "ADDDC1A64931C95C778A6C821789DEEA",
+    "Hash": 812456789,
+    "SourceString": "NONE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6BC653D341E05BA34AEC17886893B2C7",
+    "Hash": 1279012838,
+    "SourceString": "RANDOMIZE",
+    "LocalizedString": "СЛУЧАЙНЫЙ ВЫБОР"
+  },
+  {
+    "Namespace": "",
+    "Key": "11E0CB3E4BE8E9C1AB69FCB579C42165",
+    "Hash": 1687687125,
+    "SourceString": "CUSTOM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4515A3DC400F7ECB3D6178A478B9F5E1",
+    "Hash": 1685865188,
+    "SourceString": "ROLL:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "89CF78B74CEA09DF950156B585EC2F17",
+    "Hash": 1594827277,
+    "SourceString": "Attributes;None: You start as a blank slate with no passive attributes. \r\n\r\nRandomize: Randomly role up to 5 Passive Attributes. Balance must be less than or equal to 0.\r\n\r\nCustom: Select up to 4 Passive Attributes. To use positive Attributes, you must balance them out with negative ones. ",
+    "LocalizedString": "Атрибуты;Нет: Вы начинаете как чистый лист без пассивных атрибутов. \r\n\r\nСлучайный выбор: Случайно выберите до 5 пассивных атрибутов. Баланс должен быть меньше или равен 0.\r\n\r\nПользовательский: Выберите до 4 пассивных атрибутов. Чтобы использовать положительные атрибуты, вы должны сбалансировать их отрицательными."
+  },
+  {
+    "Namespace": "",
+    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
+    "Hash": 1871364646,
+    "SourceString": "TYPE 1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
+    "Hash": 2101308872,
+    "SourceString": "TYPE 2",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
+    "Hash": 3313699501,
+    "SourceString": "TYPE 3",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
+    "Hash": 1481912852,
+    "SourceString": "TYPE 4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5564421342F189825D39DEBB6E977859",
+    "Hash": 3773322609,
+    "SourceString": "TYPE 5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
+    "Hash": 4066245279,
+    "SourceString": "TYPE 6",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4EABC7BE407D86F9C81864948CC3C04F",
+    "Hash": 2492658822,
+    "SourceString": "PATCH:",
+    "LocalizedString": "НАШИВКА:"
+  },
+  {
+    "Namespace": "",
+    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
+    "Hash": 1871364646,
+    "SourceString": "TYPE 1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
+    "Hash": 2101308872,
+    "SourceString": "TYPE 2",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
+    "Hash": 3313699501,
+    "SourceString": "TYPE 3",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
+    "Hash": 1481912852,
+    "SourceString": "TYPE 4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5564421342F189825D39DEBB6E977859",
+    "Hash": 3773322609,
+    "SourceString": "TYPE 5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
+    "Hash": 4066245279,
+    "SourceString": "TYPE 6",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3ACC74CA468DDD66A8A6E8B255D22C33",
+    "Hash": 520810031,
+    "SourceString": "PLUMAGE:",
+    "LocalizedString": "ПРИЧЁСКА:"
+  },
+  {
+    "Namespace": "",
+    "Key": "ED496936409A9309F5C2D89D170EC2D0",
+    "Hash": 986750621,
+    "SourceString": "EXTRACTION",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3678DE644BA55859CE71C8B6D83462A0",
+    "Hash": 1937577984,
+    "SourceString": "LOAD SAVE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DB1F80C34EC63B8BB2D0BBAAC2FAA0BB",
+    "Hash": 2461095898,
+    "SourceString": "RESPAWN MODE:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3277976443E9DAFD4362BB9B2892E804",
+    "Hash": 438492620,
+    "SourceString": "What happens when you die:\r\n\r\nLoad Save: \r\nImmediately Respawn at your last save point.\r\n\r\nExtraction: \r\nSelect a predetermined number of items you can respawn with.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE89C64C4DFA28A35324B88C23E3307F",
+    "Hash": 592107460,
+    "SourceString": "STANCE:",
+    "LocalizedString": "ПОЗА:"
+  },
+  {
+    "Namespace": "",
+    "Key": "1C4E8A2F407BDA597FAB55ACCAC3BC4B",
+    "Hash": 660867997,
+    "SourceString": "INTRO",
+    "LocalizedString": "ВСТУПЛЕНИЕ"
+  },
+  {
+    "Namespace": "",
+    "Key": "1C89B25948227635AD7E35827DECB925",
+    "Hash": 3311277183,
+    "SourceString": "OBSERVATORY",
+    "LocalizedString": "ОБСЕРВАТОРИЯ"
+  },
+  {
+    "Namespace": "",
+    "Key": "FBAF6FC94AFC62CCBD468B906FBA57EB",
+    "Hash": 3616064648,
+    "SourceString": "RANDOM",
+    "LocalizedString": "СЛУЧАЙНАЯ"
+  },
+  {
+    "Namespace": "",
+    "Key": "8902ACB147669446643FB5B93E1FA81D",
+    "Hash": 1040955246,
+    "SourceString": "FACTION BASE",
+    "LocalizedString": "БАЗА ФРАКЦИИ"
+  },
+  {
+    "Namespace": "",
+    "Key": "A10C0CAA481AB8FA292326AC8B2245E6",
+    "Hash": 2984948377,
+    "SourceString": "STARTING\r\nLOCATION:",
+    "LocalizedString": "СТАРТОВАЯ\r\nЛОКАЦИЯ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "BA0440C34383D5EA02EC9098C9B089B3",
+    "Hash": 384325812,
+    "SourceString": "Intro:\r\nYou start at the story Intro Level. Highly recommended for your first play-through. \r\n\r\nObservatory:\r\nYou start at the Observatory, your first port-of-call in the main story.\r\n\r\nRandom:\r\nYou start in a semi-safe location on a random location in the southern zone.\r\n\r\nFaction Base:\r\nYou start at whatever location is most appropriate for your chosen faction. ",
+    "LocalizedString": "Вступление:\r\nВы начинаете на уровне сюжетного вступления. Настоятельно рекомендуется для вашего первого прохождения. \r\n\r\nОбсерватория:\r\nВы начинаете в обсерватории, вашей первой точке в основной сюжетной линии.\r\n\r\nСлучайная:\r\nВы начинаете в относительно безопасном месте в случайной локации в южной зоне.\r\n\r\nБаза фракции:\r\nВы начинаете в наиболее подходящем для вашей выбранной фракции месте."
+  },
+  {
+    "Namespace": "",
+    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
+    "Hash": 1871364646,
+    "SourceString": "TYPE 1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
+    "Hash": 2101308872,
+    "SourceString": "TYPE 2",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
+    "Hash": 3313699501,
+    "SourceString": "TYPE 3",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
+    "Hash": 1481912852,
+    "SourceString": "TYPE 4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5564421342F189825D39DEBB6E977859",
+    "Hash": 3773322609,
+    "SourceString": "TYPE 5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
+    "Hash": 4066245279,
+    "SourceString": "TYPE 6",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "351167114D7989557532EDBDEEE9D1BA",
+    "Hash": 1484676746,
+    "SourceString": "TAIL:",
+    "LocalizedString": "ХВОСТ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "2B41A30B473BC3D59F0AF8A0EFFFEDEF",
+    "Hash": 2072703139,
+    "SourceString": "NORMAL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3D0016D84525CB82E1129AABDE35C899",
+    "Hash": 986750621,
+    "SourceString": "EXTRACTION",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7287B9624B93E020463E5B913A927AD1",
+    "Hash": 1244809877,
+    "SourceString": "PERMA-DEATH",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "83E256B942C93068FF775691083D4B23",
+    "Hash": 3781620789,
+    "SourceString": "MODE:",
+    "LocalizedString": "РЕЖИМ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "790DE62445F26E7F8473A192C75322E5",
+    "Hash": 809344625,
+    "SourceString": "ANGLE:",
+    "LocalizedString": "УГОЛ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "9A697CB04081ECEC3D3174B5A13BE03A",
+    "Hash": 1116948024,
+    "SourceString": "ZOOM:",
+    "LocalizedString": "ЗУМ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "C13229C142FA3B0A7A8EC4B2CE2D1DF3",
+    "Hash": 3855462636,
+    "SourceString": "Pitch:",
+    "LocalizedString": "Тон:"
+  },
+  {
+    "Namespace": "",
+    "Key": "B283C2B14EBC1A0CB0F3C3BC2C136170",
+    "Hash": 2097775390,
+    "SourceString": "Attributes:",
+    "LocalizedString": "Атрибуты:"
+  },
+  {
+    "Namespace": "",
+    "Key": "34554E124EE8FAABCFAE5BB4D191998A",
+    "Hash": 3454114440,
+    "SourceString": "Cash:",
+    "LocalizedString": "Наличные:"
+  },
+  {
+    "Namespace": "",
+    "Key": "6399C6854298214096E1D39B12E1F7C6",
+    "Hash": 3368911954,
+    "SourceString": "DESCRIPTION: ",
+    "LocalizedString": "ОПИСАНИЕ: "
+  },
+  {
+    "Namespace": "",
+    "Key": "5BAFC54D40CA18B1F6E1A390E6F887FC",
+    "Hash": 2356761059,
+    "SourceString": "NAME: ",
+    "LocalizedString": "ИМЯ: "
+  },
+  {
+    "Namespace": "",
+    "Key": "B5B15C1146703D44D5E8CBA34A6D4943",
+    "Hash": 1144911211,
+    "SourceString": "Debt:",
+    "LocalizedString": "Долг:"
+  },
+  {
+    "Namespace": "",
+    "Key": "F96754534EFED8629FBC369F84FB710C",
+    "Hash": 3419867617,
+    "SourceString": "Description",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E188387C4B6608ED8A0391897675E27B",
+    "Hash": 1384376093,
+    "SourceString": "Choose one of six canonical character classes to play as, each offering a unique experience.",
+    "LocalizedString": "Выберите один из шести канонических классов персонажей, каждый из которых предлагает уникальный игровой опыт."
+  },
+  {
+    "Namespace": "",
+    "Key": "781699184A7875F351B3F0B379F269E1",
+    "Hash": 1061978847,
+    "SourceString": "Create a custom character from scratch. Author their appearance and starting attributes, or randomize them for a more unpredictable experience!",
+    "LocalizedString": "Создайте персонажа с нуля. Определите его внешность и стартовые атрибуты или выберите их случайно для более непредсказуемого опыта!"
+  },
+  {
+    "Namespace": "",
+    "Key": "69E9FF4B49D95376A3770181F2208632",
+    "Hash": 3751491249,
+    "SourceString": "Instantly start a new perma-death save with a randomly generated character.\r\n[Not recommended for first play-through.]",
+    "LocalizedString": "Мгновенно начните новую игру в режиме мгновенной смерти со случайно сгенерированным персонажем.\r\n[Не рекомендуется для первого прохождения.]"
+  },
+  {
+    "Namespace": "",
+    "Key": "2BF9653F49FB2AD3CDBAD19875C7C4F8",
+    "Hash": 136533077,
+    "SourceString": "Description\r\nDescription\r\nDescription",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B05A6087478C833C5DAC85AF5659F5ED",
+    "Hash": 2562122788,
+    "SourceString": "SAVE ON LEVEL TRANSITION:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD48E94445536166037A6297BC7D2616",
+    "Hash": 1515644051,
+    "SourceString": "FAIL CONTRACTS ON DEATH:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "618FF3DE4ACB1716E215FEB4423ADB46",
+    "Hash": 2048304135,
+    "SourceString": "GLOBAL STASH:",
+    "LocalizedString": "ОБЩИЙ ТАЙНИК:"
+  },
+  {
+    "Namespace": "",
+    "Key": "E3BF8494415B86FB83DC38AEF47B53C3",
+    "Hash": 1658003377,
+    "SourceString": "BARTER ONLY:",
+    "LocalizedString": "ТОЛЬКО БАРТЕР:"
+  },
+  {
+    "Namespace": "",
+    "Key": "11233BDB468283619B628FA30A7BF661",
+    "Hash": 3159856015,
+    "SourceString": "LOCK SAVE SLOT:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A9CE3F2C42A5105D64F94588188A882C",
+    "Hash": 1304471866,
+    "SourceString": "LOSE ITEM SLOT EACH DEATH:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C0661EF84D7E15A1F0F3D7BD6A15C927",
+    "Hash": 2417650635,
+    "SourceString": "REPLENISH LOOT:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "42FD587B44392C5DC97ED0B75A1C547C",
+    "Hash": 1895901752,
+    "SourceString": "FINITE SHOP INVENTORY:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "61C87F73420A702DD4C5ECA48CF6C364",
+    "Hash": 855683746,
+    "SourceString": "EXTRACTION SETTINGS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4805B676474C630295A2ABB7D9B8416E",
+    "Hash": 708250561,
+    "SourceString": "The following settings are only relevant to 'Extraction' mode:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8DFD01B14654E7C38C65C6AF1163E5EB",
+    "Hash": 842539686,
+    "SourceString": "PERMA-DEATH:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B9F83AC54B7F7B6A424FF59F8C5DA14C",
+    "Hash": 4256109628,
+    "SourceString": "DROP REMAINING LOOT:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "07E594F04BE749775EBA64A8DF6A4E58",
+    "Hash": 2950194579,
+    "SourceString": "IGNORE PROGRESS CURVE:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "354B9BC64F6B67166CE9BDAD5CAB4A00",
+    "Hash": 2344688964,
+    "SourceString": "[None]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "167893014F7F2504156144B94B66A132",
+    "Hash": 4182027525,
+    "SourceString": "EDIT",
+    "LocalizedString": ""
+  }
+]

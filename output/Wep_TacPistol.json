@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "4BD697C34CC6551F36AD3380D764FBB7",
+    "Hash": 997009105,
+    "SourceString": "Tactical variant fitted with Suppressor, Red Dot Sight, Extended Mag, and Laser Sight. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8EEF8C97406628C22FB908BF68EDF588",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

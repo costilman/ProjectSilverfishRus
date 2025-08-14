@@ -1,0 +1,79 @@
+[
+  {
+    "Namespace": "",
+    "Key": "9338AB134E0CCBA7CC96D0A97D59EDF9",
+    "Hash": 692856776,
+    "SourceString": "CLOSE",
+    "LocalizedString": "ЗАКРЫТЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "77BC09FA403A67179C9FB69E84CBE104",
+    "Hash": 3310286589,
+    "SourceString": "EAT ALL",
+    "LocalizedString": "СЪЕСТЬ ВСЁ"
+  },
+  {
+    "Namespace": "",
+    "Key": "FF9CBB0E43C1F0370675EB8CA4C80A21",
+    "Hash": 2395906795,
+    "SourceString": "Eat all remaining food in pot.\r\n\r\nWait until the stew is finished cooking for its full effect...",
+    "LocalizedString": "Съесть всю оставшуюся еду в котелке.\r\n\r\nДождитесь, пока рагу приготовится, для полного эффекта..."
+  },
+  {
+    "Namespace": "",
+    "Key": "2ABB84F94BB44D6739BF9582E8BFE2A4",
+    "Hash": 2692590894,
+    "SourceString": "PACK(20)",
+    "LocalizedString": "УПАК.(20)"
+  },
+  {
+    "Namespace": "",
+    "Key": "A5184692464A384BA6CB85A67A47E9F6",
+    "Hash": 627157526,
+    "SourceString": "Pack 20 food as leftovers in your inventory. ",
+    "LocalizedString": "Упаковать 20 единиц еды как остатки в инвентарь. "
+  },
+  {
+    "Namespace": "",
+    "Key": "F5DCC842426BF0B50F44CF8B17A27D2D",
+    "Hash": 1137017700,
+    "SourceString": "YOUR FOOD",
+    "LocalizedString": "ВАША ЕДА"
+  },
+  {
+    "Namespace": "",
+    "Key": "0D9239A54922A3BCD1A21AB2BBCF1AEF",
+    "Hash": 3930706110,
+    "SourceString": "P",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1A10D4DD40492B2C6E56719637EAA00E",
+    "Hash": 1932228782,
+    "SourceString": "0.0",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5FF2B070443D98ABA6C337B0E8BDC019",
+    "Hash": 1701076857,
+    "SourceString": "HNGR:",
+    "LocalizedString": "ГОЛОД:"
+  },
+  {
+    "Namespace": "",
+    "Key": "F13134CE46D3B7EA27D0E99C1E2EA6C6",
+    "Hash": 929620961,
+    "SourceString": "FOOD",
+    "LocalizedString": "ЕДА"
+  },
+  {
+    "Namespace": "",
+    "Key": "4511846D4876064F92ADD9AD2FA5D0E0",
+    "Hash": 4085044439,
+    "SourceString": "POT",
+    "LocalizedString": "КОТЕЛОК"
+  }
+]

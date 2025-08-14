@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "AC8BD957490DE9041BE4F5984A3AEB5A",
+    "Hash": 3578439046,
+    "SourceString": "Blueprint:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4684731D4CB0D6B09E9D55A3650D817D",
+    "Hash": 129382523,
+    "SourceString": "A Document that you can read...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FA5C7D6047E3BDD0C95AEE9DFB81A62E",
+    "Hash": 4207111083,
+    "SourceString": "READ",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Namespace": "",
+    "Key": "ED809D0246F5CC4878E96B9AA1262E1A",
+    "Hash": 2376630826,
+    "SourceString": "Show/Hide text log.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A1FBE32E47FC77EE53D839BC9FD5D4C0",
+    "Hash": 1356892960,
+    "SourceString": "Freelancer Offers:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8AA444694CC263BB922AAD8F507A4520",
+    "Hash": 2230440471,
+    "SourceString": "Revolution's Favor:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "32F47F764D1FC80B96B33BACDBA2ED6A",
+    "Hash": 3849426748,
+    "SourceString": "NFTA Command:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "454277DF496A4BBA76575BAD37EAB793",
+    "Hash": 1464208058,
+    "SourceString": "[CANCEL]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0BFB1A0143BAB8DC93244D8A04BCA964",
+    "Hash": 107083779,
+    "SourceString": "What's your request?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD4378824FA8F858CCF13FBC738A93EC",
+    "Hash": 3960168151,
+    "SourceString": "Dialogue",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9BDB64CA4CA505327D2BB9B9B3E9E9C6",
+    "Hash": 3960168151,
+    "SourceString": "Dialogue",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B012B4A84F9AD47D2558C394F2DD5BF1",
+    "Hash": 775408137,
+    "SourceString": "NPC Name",
+    "LocalizedString": ""
+  }
+]

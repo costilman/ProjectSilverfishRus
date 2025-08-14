@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "A701100C411A11DD8D986B86B788C34D",
+    "Hash": 3768010442,
+    "SourceString": "Automatic infantry rifle fitted with a combat optic and 40mm Grenade Launcher.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F1ED52B44E8FB305B51DDE8E52E51A5F",
+    "Hash": 1031046665,
+    "SourceString": "Press :WepToggle: to switch between fire modes.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы переключить режим огня."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "F9E4ABD940F618606A3523B20C3E9047",
+    "Hash": 1686823127,
+    "SourceString": "A suppressed magazine fed, semi-auto 12 gauge shotgun.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B8A279BD4701260DD6B271B9C98B7637",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

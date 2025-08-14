@@ -1,0 +1,107 @@
+[
+  {
+    "Namespace": "",
+    "Key": "EBE43CE647E230A60A6F40ADEAA5E4E4",
+    "Hash": 3244237868,
+    "SourceString": "CALL:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F6FF809841A05DD15EFCFC9913D74A6D",
+    "Hash": 3527852572,
+    "SourceString": "[CLOSE]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BCECF7FF4CFD7CBCBC199A86B84858EA",
+    "Hash": 539733446,
+    "SourceString": "[Call Broker]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2D87D68849DF1D9D9CEA69816343FE17",
+    "Hash": 3976979860,
+    "SourceString": "[Call Mamma Roach]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B30F841C404E9457D2E881AC555A1BFD",
+    "Hash": 615191542,
+    "SourceString": "[Call NFTA Command]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2ACAB38543E631CF127D1ABC4AC15CCE",
+    "Hash": 3387943896,
+    "SourceString": "[Detonate IEDs]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "327FE2E1442F8BBE6566DC925840C13F",
+    "Hash": 2170699180,
+    "SourceString": "What do you need?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A747D90847864F91B16FBC8F1F857CF8",
+    "Hash": 855516551,
+    "SourceString": "[Hang Up]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0E78DFE844686283AAC8D1A5E59A88D4",
+    "Hash": 2149743620,
+    "SourceString": "I need to hire some mercs...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "327FE2E1442F8BBE6566DC925840C13F",
+    "Hash": 2170699180,
+    "SourceString": "What do you need?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A747D90847864F91B16FBC8F1F857CF8",
+    "Hash": 855516551,
+    "SourceString": "[Hang Up]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EA5FDA884288C0DE99CE96A8019500FF",
+    "Hash": 2462185496,
+    "SourceString": "I need to call in a favor...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FB9F289046E8FC4F8A1647A587C43E8A",
+    "Hash": 3520783227,
+    "SourceString": "Standing by...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A747D90847864F91B16FBC8F1F857CF8",
+    "Hash": 855516551,
+    "SourceString": "[Hang Up]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F5ABE2A4F6EB65B7592AC8697087DF9",
+    "Hash": 3089130360,
+    "SourceString": "I need support!",
+    "LocalizedString": ""
+  }
+]

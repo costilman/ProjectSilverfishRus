@@ -1,0 +1,205 @@
+[
+  {
+    "Namespace": "",
+    "Key": "E0365FAC41BF634B4E922B9CCEEB0AB3",
+    "Hash": 1289266862,
+    "SourceString": "Castaway",
+    "LocalizedString": "Изгой"
+  },
+  {
+    "Namespace": "",
+    "Key": "87843A354B41291476754F9CDC5EA094",
+    "Hash": 1469398287,
+    "SourceString": "Kal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "88ED2145460AF78606FC7792B3F3C74A",
+    "Hash": 3994327081,
+    "SourceString": "Stalker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "43432B5342D0A244DD8FB386D822CF89",
+    "Hash": 3597405662,
+    "SourceString": "Stranger",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CAF4121C4D21847AEB0666889D219E5C",
+    "Hash": 3457502263,
+    "SourceString": "They/Them\r\nYou found yourself lost and abandoned on the shores of West Carcosa. \r\n\r\nNothing to your name but debt. ",
+    "LocalizedString": "Они/Их\r\nВы оказались потерянными и брошенными на берегах Западной Каркозы. \r\n\r\nЗа душой ничего, кроме долгов. "
+  },
+  {
+    "Namespace": "",
+    "Key": "A9BC0C684EF90CAA41A66CAC6360877A",
+    "Hash": 2589029343,
+    "SourceString": "Wanderer",
+    "LocalizedString": "Странник"
+  },
+  {
+    "Namespace": "",
+    "Key": "9435D7C145CC22B8CE905581BB09353C",
+    "Hash": 380083631,
+    "SourceString": "Dewy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ED10AC3F4B4FC05A6472EE985B0A5EA0",
+    "Hash": 2928601870,
+    "SourceString": "Vagrant",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F786ABA3444F6EEC3D265687833D7AD2",
+    "Hash": 1453061865,
+    "SourceString": "Drifter",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0FD77BA841E5A3BCFDD3CAAABACB7E53",
+    "Hash": 3621182745,
+    "SourceString": "He/Him\r\nYour old life is over, but you were always a roaming soul. Now you just got nothing to lose.\r\n\r\nYou packed a bag with what gear you could scrape together and made your way west, into the Zone. No plan, no worries...",
+    "LocalizedString": "Он/Его\r\nВаша старая жизнь кончена, но вы всегда были бродячей душой. Теперь вам просто нечего терять.\r\n\r\nВы собрали сумку со снаряжением, которое смогли наскрести, и отправились на запад, в Зону. Без плана, без забот..."
+  },
+  {
+    "Namespace": "",
+    "Key": "4EB4DE6E4297B773737E15A8DB08C34E",
+    "Hash": 238800654,
+    "SourceString": "Veteran",
+    "LocalizedString": "Ветеран"
+  },
+  {
+    "Namespace": "",
+    "Key": "22E3822F42C8B4D93BFC3FAB048F2023",
+    "Hash": 3052565908,
+    "SourceString": "Leo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "82A2DBDF49AD3B97C3E2DF8C5B47978C",
+    "Hash": 840267263,
+    "SourceString": "Soldier",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E501CAD14B2160C2A79FBCBF1AC0E866",
+    "Hash": 1838868047,
+    "SourceString": "Jar-head",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "820D37EE477EAC2434AE63929738B283",
+    "Hash": 2526178698,
+    "SourceString": "He/Him\r\nA combat veteran of a long tour that left you broken and disillusioned.  \r\n\r\nYou defected from the military and joined in with Revolutionary Army, hoping you might be able to accomplish some good in this dying world...",
+    "LocalizedString": "Он/Его\r\nБоевой ветеран после долгой службы, которая оставила вас сломленным и разочарованным.  \r\n\r\nВы дезертировали из армии и присоединились к Революционной армии в надежде, что сможете сделать что-то хорошее в этом умирающем мире..."
+  },
+  {
+    "Namespace": "",
+    "Key": "31EDE3AD45A132E832B7EBA904587EC5",
+    "Hash": 3687821178,
+    "SourceString": "Assassin",
+    "LocalizedString": "Ассасин"
+  },
+  {
+    "Namespace": "",
+    "Key": "01616B1247E64BB55DDB04B02DEA5F5D",
+    "Hash": 2970287682,
+    "SourceString": "Lilly",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A7151981472297C11EDD79A7BA020A24",
+    "Hash": 976772962,
+    "SourceString": "Wraith",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "29522B7941AE87E1FD44EDB085F2824C",
+    "Hash": 226483457,
+    "SourceString": "Ghost",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BDAFB859404811CA5485BF89F07FA381",
+    "Hash": 3397249402,
+    "SourceString": "She/Her\r\nBorn in a time of turmoil and darkness, you adapted. Most of your life was spent honing your skills and building a reputation among the world's shadiest corners; until one day you got burned. \r\n\r\nNow you've come to the last corner of the earth where you can make back what you've lost. Or at least some small shred...",
+    "LocalizedString": "Она/Её\r\nРожденная во времена смут и тьмы, вы приспособились. Большую часть жизни вы оттачивали свои навыки и создавали репутацию в самых темных уголках мира; пока однажды вас не подставили. \r\n\r\nТеперь вы пришли в последний уголок земли, где можете вернуть то, что потеряли. Или хотя бы малую толику..."
+  },
+  {
+    "Namespace": "",
+    "Key": "AEE447B042CB24E421BC50AD9B100CBA",
+    "Hash": 585952395,
+    "SourceString": "Artificer",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FECBE8C401CD93547F5DDA3E7013B3F",
+    "Hash": 1479505739,
+    "SourceString": "Witch",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51BCE502400C42C0DA7E07AFDBDEEB4F",
+    "Hash": 3202143777,
+    "SourceString": "Eather Drinker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F42023254FB982439E0C4FBBB5E5FBF6",
+    "Hash": 1868426604,
+    "SourceString": "She/Her\r\nYou were once a star pupil at the Military Academy, studying to become a State Artificer. However, in your pursuit of gaining arcane power, you performed a taboo experiment that left you disfigured...  and expelled. \r\n\r\nNow you venture into the Zone as a rogue Eather wielder, determined to seek knowledge and fortune with your new abilities, and to stave off your hunger...",
+    "LocalizedString": "Она/Её\r\nКогда-то вы были лучшей ученицей Военной академии, готовясь стать государственным артефактором. Однако в погоне за тайной силой вы провели запретный эксперимент, который оставил вас изуродованной... и изгнанной. \r\n\r\nТеперь вы отправляетесь в Зону как изгой, владеющий эфиром, решив искать знания и богатство с вашими новыми способностями и утолить свой голод..."
+  },
+  {
+    "Namespace": "",
+    "Key": "68F8AFDB4880D68B6FBB1B9E12CF574C",
+    "Hash": 180406213,
+    "SourceString": "Wretch",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ACE5A8CD4210BFC27FBB23B7EEA92F5B",
+    "Hash": 3081580900,
+    "SourceString": "It",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "46E864F541217CF9A044EF9A1961BF1D",
+    "Hash": 138363525,
+    "SourceString": "Thing",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "17850238457F9DCABBEE11A124ACCF6E",
+    "Hash": 3388835318,
+    "SourceString": "Creature",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "38A886644075EB9934B4218D1E8F2898",
+    "Hash": 2210062234,
+    "SourceString": "They/Them\r\nScarred, abused, starving; you know pain intimately. Your entire life has been suffering. What could possibly lurk out in the zone capable of hurting you any worse than you've already endured?\r\n\r\nAt least out here the playing field is more even... ",
+    "LocalizedString": "Они/Их\r\nИзраненный, истерзанный, голодающий; вы близко знакомы с болью. Вся ваша жизнь была страданием. Что может таиться в зоне, способное причинить вам еще большую боль, чем вы уже перенесли?\r\n\r\nПо крайней мере, здесь игровое поле более ровное... "
+  }
+]

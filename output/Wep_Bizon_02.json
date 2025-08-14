@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "7929457046F7E6B53D0B0F8E55FDB972",
+    "Hash": 1430546442,
+    "SourceString": "An \"Assault Machine-Pistol\" sporting a 64 round spiral feed magazine.\r\n\r\nAlso features a tac-light and ring sight.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C29292844BCD4CB8BB0E54BB3A20B13E",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить тактический фонарь."
+  }
+]

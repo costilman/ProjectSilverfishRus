@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "EF1160E44B4435360D1461BF166E813A",
+    "Hash": 692856776,
+    "SourceString": "CLOSE",
+    "LocalizedString": "ЗАКРЫТЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "341A11A148DFE49616A0C791CA42957E",
+    "Hash": 1312805101,
+    "SourceString": "YOUR TAPES",
+    "LocalizedString": "ВАШИ КАССЕТЫ"
+  },
+  {
+    "Namespace": "",
+    "Key": "B6DF5BA84612564EA504CEB53F0862E2",
+    "Hash": 1077942325,
+    "SourceString": "R",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3A55547A4FB5C67E36C59CA8F6B3D450",
+    "Hash": 2385843178,
+    "SourceString": "READER",
+    "LocalizedString": "СЧИТЫВАТЕЛЬ"
+  }
+]

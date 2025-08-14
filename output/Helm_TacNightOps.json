@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "E5D8DBE14A0D9024B6C5838FAAB8E977",
+    "Hash": 3689890352,
+    "SourceString": "Infantry helmet with HUD and Night-Vision tube.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6166E8184CD91180A8AA568E5D547B7F",
+    "Hash": 408878696,
+    "SourceString": "Press :HelmLight: to toggle on and off your Night Vision.",
+    "LocalizedString": "Нажмите :HelmLight:, чтобы включить или выключить ПНВ."
+  }
+]

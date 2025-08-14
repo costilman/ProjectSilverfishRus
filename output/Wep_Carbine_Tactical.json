@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "AD002CDA48A03C1B0911958EF52AA0F1",
+    "Hash": 3230612439,
+    "SourceString": "A balanced and fast firing bullpup with Combat Scope, Laser Sight, Suppressor and Foregrip.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A9DBB44F46E582789392728F88A8BEE5",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

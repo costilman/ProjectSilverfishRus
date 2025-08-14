@@ -1,0 +1,114 @@
+[
+  {
+    "Namespace": "",
+    "Key": "DA89AE7A477CE0BFCB071F91DBC51D95",
+    "Hash": 4113372111,
+    "SourceString": "ABANDON",
+    "LocalizedString": "ОТКАЗАТЬСЯ"
+  },
+  {
+    "Namespace": "",
+    "Key": "E03721584B20AB36791B8F9522783631",
+    "Hash": 1196281939,
+    "SourceString": "Abandon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D4ECA52D44507001885725852A298E2F",
+    "Hash": 692856776,
+    "SourceString": "CLOSE",
+    "LocalizedString": "ЗАКРЫТЬ"
+  },
+  {
+    "Namespace": "",
+    "Key": "B88E88CC4E787419650BB292C0F872CF",
+    "Hash": 24652088,
+    "SourceString": "Anonymous",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E9C305045ECD0AA5C721B9077B41D3A",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1F98645E4F44DB39729A779135BDAB73",
+    "Hash": 166752866,
+    "SourceString": "QUEST DESCRIPTION",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6FFD651C42E2DB80A442539E9BDBA93B",
+    "Hash": 4074861472,
+    "SourceString": "Notes go here.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DAFCFA574EC157672182FFA82F39EF3E",
+    "Hash": 1591551663,
+    "SourceString": "NOTES:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3814619645A4F6AD26173F85C814949B",
+    "Hash": 4203347500,
+    "SourceString": "PENALTY: $1000",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "88325D854C53A15806A0E2B6C93E0E7B",
+    "Hash": 2979850597,
+    "SourceString": "Penalty for abandoning the contract.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0A0E1760480F8E8DAE0C69BBB5F7FB1B",
+    "Hash": 1201897214,
+    "SourceString": "QUEST GIVER",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "83324C3241EB9CA73B8BB58D5C4406B9",
+    "Hash": 4060087323,
+    "SourceString": "REWARD: $1000",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2DB7EDE0451B46684C82B7AE88736D17",
+    "Hash": 3968971570,
+    "SourceString": "Reward upon turning in the completed contract.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C5C1781B44F30A4E2C1C3FB640AEDA3E",
+    "Hash": 1513623138,
+    "SourceString": "REDEEM WITH:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "54BE6B9D4D5BEF743811089EF8A1C9E6",
+    "Hash": 2493539087,
+    "SourceString": "The finished contract must be redeemed here.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "680E70174E9EF0486818459FBE0D585F",
+    "Hash": 3092856428,
+    "SourceString": "QUEST NAME",
+    "LocalizedString": ""
+  }
+]

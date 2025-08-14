@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "53788D984010BF036B7AFEA7668A3E65",
+    "Hash": 4042218818,
+    "SourceString": "Enchanted 30-06 Rifle Ammo:\r\n\r\nProjectiles home in on targets down range, saving near misses. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B7A1CE6B444B321AE2EA65882F33BDAA",
+    "Hash": 3463824463,
+    "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
+  }
+]

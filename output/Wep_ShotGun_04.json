@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "98521A8C4989DA603C292A87E949BF19",
+    "Hash": 585706289,
+    "SourceString": "A modern, semi-auto shotgun, fitted with a large tac light.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A8F80B794F5F1FC98E8CC5905D3DA36E",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить тактический фонарь."
+  }
+]

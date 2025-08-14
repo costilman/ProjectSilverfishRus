@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "521AE76D4138A64B2ED40DA50FFDA2B5",
+    "Hash": 2311536102,
+    "SourceString": "Used in Carbines and Light Rifles.\r\n\r\nTungsten-tipped, armor-penetrating rounds.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "41263196468C15FA130322A388835045",
+    "Hash": 3463824463,
+    "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
+  }
+]

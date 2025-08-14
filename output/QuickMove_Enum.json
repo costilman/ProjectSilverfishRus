@@ -1,0 +1,72 @@
+[
+  {
+    "Namespace": "",
+    "Key": "BE69455A4D40DC3D28A82A99BE228231",
+    "Hash": 1426759650,
+    "SourceString": "Buy",
+    "LocalizedString": "Купить"
+  },
+  {
+    "Namespace": "",
+    "Key": "02CDD21C4369C01DD56A47A71D86F0A8",
+    "Hash": 1265619348,
+    "SourceString": "Sell",
+    "LocalizedString": "Продать"
+  },
+  {
+    "Namespace": "",
+    "Key": "5983CFEF416B2CB94376A1A51B92FE74",
+    "Hash": 296700690,
+    "SourceString": "Stash",
+    "LocalizedString": "Припрятать"
+  },
+  {
+    "Namespace": "",
+    "Key": "2B95B2B84231F0B88741D4B5FC390593",
+    "Hash": 3260896269,
+    "SourceString": "Take",
+    "LocalizedString": "Взять"
+  },
+  {
+    "Namespace": "",
+    "Key": "FB25D1E940681633AB68308A7A40B739",
+    "Hash": 1897401797,
+    "SourceString": "None",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B0FCFD454B784C0F077FCD810B96CC38",
+    "Hash": 3943210074,
+    "SourceString": "Pickup",
+    "LocalizedString": "Подобрать"
+  },
+  {
+    "Namespace": "",
+    "Key": "AB6184244F39BB0B03328DAF0BC96485",
+    "Hash": 3161586888,
+    "SourceString": "Drop",
+    "LocalizedString": "Бросить"
+  },
+  {
+    "Namespace": "",
+    "Key": "122F46194732E0289D37DB8D44EE9E98",
+    "Hash": 3688596297,
+    "SourceString": "Keep",
+    "LocalizedString": "Сохранить"
+  },
+  {
+    "Namespace": "",
+    "Key": "A1845BDC442CF4F05A5BBC9AF112EB5F",
+    "Hash": 2134108576,
+    "SourceString": "Leave",
+    "LocalizedString": "Оставить"
+  },
+  {
+    "Namespace": "",
+    "Key": "C0A1B97C473812EE90B7ED81104BC351",
+    "Hash": 1411856433,
+    "SourceString": "Cook",
+    "LocalizedString": "Готовить"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B583FC1C435C077A36C32D88C6B58F98",
+    "Hash": 1263621460,
+    "SourceString": "Compact, short-barrel variant of the BR-61. This one features a reflex sight and Tac-Light.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "57A674A1406F4E9FF5603FA2B52E7B41",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить тактический фонарь."
+  }
+]

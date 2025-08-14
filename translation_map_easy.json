@@ -1,0 +1,10 @@
+{
+  "Press :WepToggle: to switch between fire modes.": "Нажмите :WepToggle:, чтобы переключить режим огня.",
+  "Press :HelmLight: to toggle on and off your Flashlight.": "Нажмите :HelmLight:, чтобы включить или выключить фонарик.",
+  "Press :HelmLight: to toggle on and off your Night Vision.": "Нажмите :HelmLight:, чтобы включить или выключить ПНВ.",
+  "Press :WepToggle: to toggle on and off your Tac Light.": "Нажмите :WepToggle:, чтобы включить или выключить тактический фонарь.",
+  "Press :WepToggle: to toggle on and off your Laser.": "Нажмите :WepToggle:, чтобы включить или выключить лазер.",
+  "While weapon is equipped, hold the Reload key to select ammo type.": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов.",
+  "Open to access ammo.": "Откройте, чтобы получить боеприпасы.",
+  "CRAFT": "СОЗДАТЬ"
+}

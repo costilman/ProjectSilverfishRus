@@ -1,0 +1,37 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B88E88CC4E787419650BB292C0F872CF",
+    "Hash": 24652088,
+    "SourceString": "Anonymous",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E9C305045ECD0AA5C721B9077B41D3A",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "87256D8A4292FEB7E2FAB99E9C85B631",
+    "Hash": 166752866,
+    "SourceString": "QUEST DESCRIPTION",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7904481746E6814FE0F8B4828D6DA23A",
+    "Hash": 6294100,
+    "SourceString": "QUEST REWARD 000000000000000 ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C8A6F06948EDFA47BD64EEBED23C3D9C",
+    "Hash": 3092856428,
+    "SourceString": "QUEST NAME",
+    "LocalizedString": ""
+  }
+]

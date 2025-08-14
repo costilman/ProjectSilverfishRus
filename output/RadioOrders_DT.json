@@ -1,0 +1,128 @@
+[
+  {
+    "Namespace": "",
+    "Key": "0EE8D47E44F282C8C2DAF3B19083523F",
+    "Hash": 1211863830,
+    "SourceString": "I need an escort squad.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4297FBE14833AF63753D2F87D9BEB770",
+    "Hash": 743617698,
+    "SourceString": "Request a squad of Freelancer mercs to follow you in this area. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8EEA8E194DD6A3AF5753CBB26DFC91C0",
+    "Hash": 3596334700,
+    "SourceString": "Send a squad of mercs to my marked target!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C0AEFD8D4419E0DCD5A8E197ADAFE0A8",
+    "Hash": 3582037832,
+    "SourceString": "Request a squad of Freelancer mercs to pursue the target you marked with your binoculars. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7E16F02B4DC78D5547BC20B5C1347A02",
+    "Hash": 319446943,
+    "SourceString": "I need some reinforcements!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "08E89C224E8194EC5BBF38B31B213A30",
+    "Hash": 3322639206,
+    "SourceString": "Request a squad of Revolutionaries to support you in this area.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "97C736A84E9CFDD2ADB171B6FB40500C",
+    "Hash": 2515898103,
+    "SourceString": "I need soldiers on my Target Mark!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "69B1702B4C3F8CEF1D97C996F4E072C7",
+    "Hash": 306634603,
+    "SourceString": "Request a squad of Revolutionaries to pursue the Target you marked with your binoculars. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FF48E0FB494BBE09F7D57EB5A958A442",
+    "Hash": 1965800699,
+    "SourceString": "I need artillery on my Target Mark!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9810EF8C420E878CA03E6981AD4CAFE6",
+    "Hash": 2962312948,
+    "SourceString": "Call in an artillery strike on the target you marked with your binoculars.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FF48E0FB494BBE09F7D57EB5A958A442",
+    "Hash": 1965800699,
+    "SourceString": "I need artillery on my Target Mark!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9810EF8C420E878CA03E6981AD4CAFE6",
+    "Hash": 2962312948,
+    "SourceString": "Call in an artillery strike on the target you marked with your binoculars.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5C721D084C976541D0255F925B9C7725",
+    "Hash": 1679458149,
+    "SourceString": "I need reinforcements on my position!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A080F6B04FA25790843BFEADE8602225",
+    "Hash": 2857585526,
+    "SourceString": "Request a dropship to bring a squad of reinforcements to support you in this area. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "44F0D6AA4AEB6DB00DCA44A1994A5633",
+    "Hash": 2456281532,
+    "SourceString": "I need air support!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ED5477C3422F04D532B62B8C9261BC0C",
+    "Hash": 3423801193,
+    "SourceString": "Call in an attack chopper to patrol the skies over your position. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "265E5F61477862992F8B389C26D1607F",
+    "Hash": 2750884201,
+    "SourceString": "Retrieve my lost gear...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B37749F54098AFA857C32B8F3B0AC4DC",
+    "Hash": 3449469131,
+    "SourceString": "A Freelancer merc will find one of your lost backpacks from a previous death and return it to the Black Market Shop.",
+    "LocalizedString": ""
+  }
+]

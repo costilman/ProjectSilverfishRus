@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "1F5F91604FD315E3258987A3F9AADD40",
+    "Hash": 3030473049,
+    "SourceString": "Data Tape:\r\n\r\nA multi-media storage format that can be read by a Data Tape Reader. \r\n\r\nUse near a Data Reader Console to insert the tape.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "46EE04A44189BD570D03A8B06E7AC149",
+    "Hash": 3758641733,
+    "SourceString": "INSERT",
+    "LocalizedString": ""
+  }
+]

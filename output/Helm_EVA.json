@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "2E52D09043D6F7C93B5280860730D937",
+    "Hash": 2899191645,
+    "SourceString": "Fully sealed, pressurized hazardous environment helmet. It comes equipped with full 180 degree HUD and floodlight. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9FBC2F074BAE29BB1D56D9920F40893E",
+    "Hash": 924957729,
+    "SourceString": "Press :HelmLight: to toggle on and off your Flashlight.",
+    "LocalizedString": "Нажмите :HelmLight:, чтобы включить или выключить фонарик."
+  }
+]

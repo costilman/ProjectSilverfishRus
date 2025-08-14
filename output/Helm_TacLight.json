@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "10CCDFAC4881D9588AFFACAAF06B410A",
+    "Hash": 1849806216,
+    "SourceString": "A bright Flashlight that can be worn on the head.\r\n\r\nEnemies can see this beam and discern your exact location from it.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F2E08274468E01B4632753996978E443",
+    "Hash": 924957729,
+    "SourceString": "Press :HelmLight: to toggle on and off your Flashlight.",
+    "LocalizedString": "Нажмите :HelmLight:, чтобы включить или выключить фонарик."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "BBED43D241C94F19C3B0DA8CEC1BC67D",
+    "Hash": 3854813081,
+    "SourceString": "Modified PKT-55 Rifle with suppressor, laser sight, combat optic, and angled grip. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C4F9B3C64E64184B73D3838554361CCB",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

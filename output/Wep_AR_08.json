@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "2784D3EE413EAD5D4F5CC39F708771FC",
+    "Hash": 4081654891,
+    "SourceString": "A variant of the KRM 54 featuring a combat optic and under-barrel shotgun. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5C5B54184188AA8631B1B1992EACE935",
+    "Hash": 1031046665,
+    "SourceString": "Press :WepToggle: to switch between fire modes.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы переключить режим огня."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "2D6A4B1F41714B7EC1FBEEAC12A7544B",
+    "Hash": 2074789632,
+    "SourceString": "Night-vision equipped gasmask worn by NFTA State Artificers. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0773E08E46B486485811B2BD10E6E4BB",
+    "Hash": 408878696,
+    "SourceString": "Press :HelmLight: to toggle on and off your Night Vision.",
+    "LocalizedString": "Нажмите :HelmLight:, чтобы включить или выключить ПНВ."
+  }
+]

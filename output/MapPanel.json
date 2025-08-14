@@ -1,0 +1,268 @@
+[
+  {
+    "Namespace": "",
+    "Key": "DB4B89634651EB0F759DCCB77AB9D66B",
+    "Hash": 54965963,
+    "SourceString": "River Dock",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "47891967486248CA27658A89C3FCD8E6",
+    "Hash": 435741272,
+    "SourceString": "Crossroads",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6ED164CF4FDC98C79E09C6850ADCC488",
+    "Hash": 3953730013,
+    "SourceString": "Skeleton Coast",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "912D58A4488A694F31032BBDB1130F93",
+    "Hash": 4222497477,
+    "SourceString": "Refinery",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A408917448BF47C762A0D49C41C57291",
+    "Hash": 1765213085,
+    "SourceString": "Stone Maze",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0264580C4E0CED9AA887618FE9189630",
+    "Hash": 1705824199,
+    "SourceString": "Slums",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ECD8D9884E7AD0C279A1FD99343ABF10",
+    "Hash": 1756116760,
+    "SourceString": "Docks",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D21C978F41F4220F394154BC6F267BFD",
+    "Hash": 3523717020,
+    "SourceString": "Greywater Marsh",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A3CB044B4C79382CE26024AD6434339A",
+    "Hash": 3076196934,
+    "SourceString": "Dead End",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6C306E764079390A50CB51905A8C0B2B",
+    "Hash": 2908026909,
+    "SourceString": "The Maw",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6AA3200941724538C823CA916CA46938",
+    "Hash": 3098213516,
+    "SourceString": "South Bend",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E3B8448C450F9D3EAE5653AA62961645",
+    "Hash": 4043496613,
+    "SourceString": "M35 North East",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F453F564CA1363DFACA0A90CF02347A",
+    "Hash": 3723838996,
+    "SourceString": "Dead Bridge",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "84D200B341346B6512185CB0F94FEF91",
+    "Hash": 2141867382,
+    "SourceString": "Black Lake",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F78D2D584A28CD05420BF2B94EC49246",
+    "Hash": 1933078952,
+    "SourceString": "Metropol",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "39E79A1744199E1993D6E09448752BDE",
+    "Hash": 471538577,
+    "SourceString": "Flood Plains",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0C463DA14EA8F2204251DB8DE92EDB8C",
+    "Hash": 4261708923,
+    "SourceString": "Depot",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "69015DD84D57CACA7B0035B7500C32BA",
+    "Hash": 1350527701,
+    "SourceString": "Observatory",
+    "LocalizedString": "Обсерватория"
+  },
+  {
+    "Namespace": "",
+    "Key": "8C88121648EA43B0BADCCEBD6164DD36",
+    "Hash": 1478269170,
+    "SourceString": "GoldWood Forest",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "640365ED41ADDB7AC95A09BBA4963350",
+    "Hash": 2335420377,
+    "SourceString": "Black Market Dock A\r\n\r\n-Broker\r\n-Black Market Shop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FE37432142E6AE8C4555E69767BD02AB",
+    "Hash": 2383410434,
+    "SourceString": "The Borough\r\n\r\n-Mamma Roach\r\n-Borough Shop\r\n-Trade with Revolutionaries ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7DB8C67E45704016F9E0E59D0CA515AB",
+    "Hash": 1903771296,
+    "SourceString": "RG-West Lab\r\n\r\n-Dr. Mosby\r\n-Requisitions Shop ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5FD4484A4A683C51D67232AD849EEC24",
+    "Hash": 4138621375,
+    "SourceString": "Strange Junk Shop\r\n\r\n-Shop Keep\r\n-Bounty Board",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "19650394413BE6D7B9DFFEAFFA5FFBD7",
+    "Hash": 4162518571,
+    "SourceString": "Cistern Entrance",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8B8E6F1E477815834DBA49B1354EABF3",
+    "Hash": 2600062176,
+    "SourceString": "Observatory\r\n\r\n-Simmi\r\n-Observatory Shop",
+    "LocalizedString": "Обсерватория\r\n\r\n-Симми\r\n-Магазин обсерватории"
+  },
+  {
+    "Namespace": "",
+    "Key": "260D30724F99925F5ECCEB81EC3620E3",
+    "Hash": 2062478473,
+    "SourceString": "Craftsman's Shop\r\n\r\n-Craftsman",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1FD84B8A4577DFA83360C6BEB93EEDC9",
+    "Hash": 1038560465,
+    "SourceString": "Lone Wolf Saloon\r\n\r\n-Bed for rent\r\n-Shop\r\n-Bounty Board",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "38B202CA40369E39A663F5ADA8214E50",
+    "Hash": 709954329,
+    "SourceString": "Big Iron's Armory\r\n\r\n-Gunsmith Upgrades\r\n-Ammo Shop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6D7DADFD4D2FCA561B1378A75ED3D113",
+    "Hash": 564873058,
+    "SourceString": "Hidden Junction:\r\n\r\n-Revolution Outpost\r\n-Trade Post\r\n-Bounty Board",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DA5EB9454B586488C045C3ACC1AC23AA",
+    "Hash": 50639443,
+    "SourceString": "CrossRoads",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "49D1744D481E09E494FA68BBDCCD749B",
+    "Hash": 3723838996,
+    "SourceString": "Dead Bridge",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F93AEB6846457F8B4B2262A4CD3B569C",
+    "Hash": 2141867382,
+    "SourceString": "Black Lake",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "46C71FDE47E647D5316232B15BA92CCC",
+    "Hash": 4261708923,
+    "SourceString": "Depot",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B0C938F74AB1CF343E0C63B391FF55F3",
+    "Hash": 1933078952,
+    "SourceString": "Metropol",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F2D8125149793F7DE00D50A1BF45D20E",
+    "Hash": 2092839644,
+    "SourceString": "FloodPlains",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AD5495F041AE37D7260AA0AC7809815B",
+    "Hash": 3909974634,
+    "SourceString": "M35 NE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "73E481A440000BB6C39AA1A3C0728C51",
+    "Hash": 1350527701,
+    "SourceString": "Observatory",
+    "LocalizedString": "Обсерватория"
+  },
+  {
+    "Namespace": "",
+    "Key": "C884231A4B0261E8C39ACEBE6E7851D7",
+    "Hash": 4287201846,
+    "SourceString": "Borough",
+    "LocalizedString": ""
+  }
+]

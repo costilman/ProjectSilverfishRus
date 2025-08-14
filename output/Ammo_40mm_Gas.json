@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "76843C8C44F36825CADFB99A2BE42A25",
+    "Hash": 100231152,
+    "SourceString": "Spews poisonous gas over a large area for about 80 seconds.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "86738FDF4C1B24D10ADEDCB3BFCB99CA",
+    "Hash": 3463824463,
+    "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
+  }
+]

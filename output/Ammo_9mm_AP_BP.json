@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "6BB72B9848A175F4C60AA39A0979F1C4",
+    "Hash": 1739008554,
+    "SourceString": "Used in Light Pistols, SMGs and PDWs.\r\n\r\nHard-tipped armor penetrating rounds.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BDE80B954E782845AF5D64ACA7FD30D4",
+    "Hash": 3463824463,
+    "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
+  }
+]

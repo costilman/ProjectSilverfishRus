@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "A65603BF4E70B04F129DED8B5FA375DF",
+    "Hash": 674777644,
+    "SourceString": "Full auto, intermediate, bullpup rifle. Has a reflex sight and large tac light.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6AF894AD4788AE8DC3FFD092043175E8",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить тактический фонарь."
+  }
+]

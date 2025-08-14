@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "4F7E541547C95BFD25ACD28C9606BC9F",
+    "Hash": 3156505566,
+    "SourceString": "Tactical variant of the SMG fitted with a suppressor, foregrip, laser and reflex sight. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1D70D2594537CDDF1DED9CB1F3042CF5",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "A1909C1E4FBFB82F1F54239AE41CCC4A",
+    "Hash": 65227306,
+    "SourceString": "Used in Revolvers, Heavy Pistols and other Unorthodox Weapons.\r\n\r\nBullet contains a small explosive payload that detonates on impact.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "47FB2DB141C3373E4EDBA289B9E4A203",
+    "Hash": 3463824463,
+    "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
+  }
+]

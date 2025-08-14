@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "92FE7EC4457FC442F3C62F91951B7D43",
+    "Hash": 3359024398,
+    "SourceString": "Full face cover gasmask fitted with Night-Vision Goggles, covered in arcane runes. \r\n\r\nLooks like the sort of thing worn by Cultists. It also completely obscures the face...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "22852871450CADB5E8F35DA41E86142D",
+    "Hash": 408878696,
+    "SourceString": "Press :HelmLight: to toggle on and off your Night Vision.",
+    "LocalizedString": "Нажмите :HelmLight:, чтобы включить или выключить ПНВ."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "1107E131482FC88E711A3CAD126EDC39",
+    "Hash": 3895440525,
+    "SourceString": "A cut-down variant of the common pump-action shotgun. Fitted with a Laser Sight.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2B54AACA49A911C5DC342F8FA3C49D0B",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

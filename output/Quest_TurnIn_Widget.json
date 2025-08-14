@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B88E88CC4E787419650BB292C0F872CF",
+    "Hash": 24652088,
+    "SourceString": "Anonymous",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E9C305045ECD0AA5C721B9077B41D3A",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B937CCFF46DEB63F27E031BEE4153FD9",
+    "Hash": 751220027,
+    "SourceString": "[Item names]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C1C456384C0A239915F904B8BA05A123",
+    "Hash": 260711290,
+    "SourceString": "THESE ITEMS WILL BE LOST:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D3FA453349D03B9F33DE54969FA420F4",
+    "Hash": 6294100,
+    "SourceString": "QUEST REWARD 000000000000000 ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "17598E56410191B3979058B7708401F4",
+    "Hash": 87505699,
+    "SourceString": "TURN IN",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "69EED25C4EF996FF3A26C4ABC59DE4EB",
+    "Hash": 3092856428,
+    "SourceString": "QUEST NAME",
+    "LocalizedString": ""
+  }
+]

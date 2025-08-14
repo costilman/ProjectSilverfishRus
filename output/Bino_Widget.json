@@ -1,0 +1,37 @@
+[
+  {
+    "Namespace": "",
+    "Key": "11C12EDA41A59A9835C85AB1BE081E45",
+    "Hash": 4156753979,
+    "SourceString": "-15.00",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A63DF1CF4200568B18424C940F7E5F73",
+    "Hash": 3935836648,
+    "SourceString": "315.00",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "17BB93A8436AD73702287592AD3D3A91",
+    "Hash": 2764687092,
+    "SourceString": "IFF: NONE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "361FD66542F3342B2715C08C076E06E4",
+    "Hash": 2312588540,
+    "SourceString": "123m",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B369BC3346D4A0475256BC9AF617A346",
+    "Hash": 3743377162,
+    "SourceString": "10x",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "0D1F9758448DFE3DF5E148B7D89214B2",
+    "Hash": 3730942615,
+    "SourceString": "Inventory Controls;Left Click: Take/Place Item\r\nRight Click: Item Context Menu\r\nMiddle Click: Split Item Stack\r\nShift + Left Click: Quick Use/Transfer Item\r\nCtrl + Left Click: Drop/Deposit Item\r\nCtrl + Right Click: Drop/Deposit Half of Stack",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8EA4735C46DA5E4DFE57088A7FB03FE6",
+    "Hash": 2299279339,
+    "SourceString": "?",
+    "LocalizedString": ""
+  }
+]

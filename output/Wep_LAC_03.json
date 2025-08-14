@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "4C61773C41AB687E9F4629B6016241C9",
+    "Hash": 2071621145,
+    "SourceString": "Modern light assault-carbine. Fitted with Combat Optic and Laser sight.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "079D54B54B3DBF8C5D33948FE31AF963",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

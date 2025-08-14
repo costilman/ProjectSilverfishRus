@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "D9E00A72491CE690107D49B1B4CB47C6",
+    "Hash": 3131356852,
+    "SourceString": "x100",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "658A8C874AB6A25799A7FEB01B66DCAA",
+    "Hash": 23999737,
+    "SourceString": "TAKE NUMBER",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1C4652CD49CCEE080E0B9A8A8EC2BBC2",
+    "Hash": 2302736362,
+    "SourceString": "$1200",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FDBC6391423DA6400FEE1B96C8F9F2FD",
+    "Hash": 3745925736,
+    "SourceString": "100.0kg",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Namespace": "",
+    "Key": "F852BB96474A3C01BF476E814158C079",
+    "Hash": 3006832858,
+    "SourceString": "Unnamed Faction",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7687248241C7BDB16D90ADBA825A09C3",
+    "Hash": 1516012837,
+    "SourceString": "This is a faction",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "10D6401242C1A35738F222B90E85C509",
+    "Hash": 163487953,
+    "SourceString": "Advantage represents this faction's current influence and strategic capabilities. \r\n\r\nIf one faction holds a significantly higher advantage over its enemies, it may try to make a move to fulfil its final objectives...",
+    "LocalizedString": "Преимущество отражает текущее влияние и стратегические возможности этой фракции. \r\n\r\nЕсли одна фракция имеет значительно большее преимущество над своими врагами, она может попытаться сделать ход для достижения своих конечных целей..."
+  },
+  {
+    "Namespace": "",
+    "Key": "8CA15F9745140CDE48303ABC8F963D1B",
+    "Hash": 3203062635,
+    "SourceString": "Reputation represents this faction's relationship with you. \r\n\r\nHelping this faction increases your Rep. \r\nKilling members of a faction decreases it. ",
+    "LocalizedString": "Репутация отражает отношение этой фракции к вам. \r\n\r\nПомощь этой фракции повышает вашу репутацию. \r\nУбийство членов фракции понижает её."
+  },
+  {
+    "Namespace": "",
+    "Key": "857AE91C473BBF74CDA203B95547F767",
+    "Hash": 2162266287,
+    "SourceString": "ADVANTAGE:",
+    "LocalizedString": "ПРЕИМУЩЕСТВО:"
+  },
+  {
+    "Namespace": "",
+    "Key": "A2B9FEE74C67A7121AD7A489295FC4C7",
+    "Hash": 3961216791,
+    "SourceString": "REPUTATION:",
+    "LocalizedString": "РЕПУТАЦИЯ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "8684E90944434C19486D78855EF7904E",
+    "Hash": 2176784344,
+    "SourceString": "100",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "87DF9AA143CF17C00D05E79EF7DC908A",
+    "Hash": 4028123071,
+    "SourceString": "FACTION NAME",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8684E90944434C19486D78855EF7904E",
+    "Hash": 2176784344,
+    "SourceString": "100",
+    "LocalizedString": ""
+  }
+]

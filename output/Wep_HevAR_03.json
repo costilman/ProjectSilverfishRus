@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "0F5453EB49FAB7B2C30AECBECBF1C184",
+    "Hash": 1407320742,
+    "SourceString": "A tactical variant of the PK-58 Battle Rifle. This model features a long range scope, foregrip, suppressor and laser sight. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36000D7A4ABF9AB19A75CFB9326DAD92",
+    "Hash": 2413172976,
+    "SourceString": "Press :WepToggle: to toggle on and off your Laser.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "8DD645D44366762140AE67BF077A08C2",
+    "Hash": 2776861556,
+    "SourceString": "Ammo Kit:\r\n\r\n32 Rounds of .338 FMJ\r\n24 Rounds of .338 AP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D9F88ADE402E35640857E0B67F4F78EF",
+    "Hash": 731346318,
+    "SourceString": "Open",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6984BEF4480147700363BFBE5ABE858C",
+    "Hash": 2484905851,
+    "SourceString": "Open to access ammo.",
+    "LocalizedString": "Откройте, чтобы получить боеприпасы."
+  }
+]

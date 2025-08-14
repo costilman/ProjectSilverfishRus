@@ -1,0 +1,72 @@
+[
+  {
+    "Namespace": "",
+    "Key": "3930F5DC457977AE6DC1728A685090D7",
+    "Hash": 2118919604,
+    "SourceString": "Global Board",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8536AAE94DA954809341C383FDD52829",
+    "Hash": 1880546416,
+    "SourceString": "Black Market Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5D0CC5724106E37C175A6CAA696AF1DB",
+    "Hash": 1631926416,
+    "SourceString": "Shop Keeper",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "07700FD64CFDA9CA741FA8BB849128DE",
+    "Hash": 709180968,
+    "SourceString": "Simmi",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "862561324883FDE51F64FF8269C55ABD",
+    "Hash": 1139315329,
+    "SourceString": "Dr Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B87EFCE241C1938079988E934F3AD06C",
+    "Hash": 1028115194,
+    "SourceString": "Mamma Roach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C09C5D514D5EF558036D25B02279AA4C",
+    "Hash": 3487406960,
+    "SourceString": "NFTA",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A0C0FCBD46BCBA202C3504B2F1796C94",
+    "Hash": 910115601,
+    "SourceString": "Insurrection",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51D994FA4940DCDB28A82AB113206A49",
+    "Hash": 889027974,
+    "SourceString": "Cult",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "43F63152401140257BABA386509B74EE",
+    "Hash": 2682956532,
+    "SourceString": "Neutral",
+    "LocalizedString": ""
+  }
+]

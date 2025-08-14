@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "007B621543F3210E67840CA9C591920A",
+    "Hash": 2378940080,
+    "SourceString": "Customized, heavy bullpup rifle. \r\nFeatures a red-dot sight, tac-light and compensator.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D0731BAA4641067E3F9447B48D6D6D6C",
+    "Hash": 1939585557,
+    "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить тактический фонарь."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Namespace": "",
+    "Key": "CA32F81B47B7AF863C5864ABB3B195DE",
+    "Hash": 4099925884,
+    "SourceString": "TEMP. C",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3AA6295A440CD1C51A3A57B4CAC9058D",
+    "Hash": 954804091,
+    "SourceString": "PSR.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9BB73A9B4D8F9237FBEF23A67A61D6E5",
+    "Hash": 988337955,
+    "SourceString": "HEAT EXCH.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "57B3039A478C9BB3FD412AB6114D4886",
+    "Hash": 1576911469,
+    "SourceString": "POLARITY",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E209BFC147938787EC7789B56F07D97F",
+    "Hash": 2780772908,
+    "SourceString": "PUMP REVERSE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "02AB71F8431A3B8A516FB09502486427",
+    "Hash": 763735177,
+    "SourceString": "FWRD. PHASE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EBC8BDC74057CE1B84A4038983817BA7",
+    "Hash": 3056855708,
+    "SourceString": "DRILL RUNNING",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CF1A50574E123DDD153C2C868AB8661F",
+    "Hash": 2011260870,
+    "SourceString": "OUTPUT PUMP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8505CB54C5B07C886757DB22AF16ED4",
+    "Hash": 2828254842,
+    "SourceString": "EMR. RESET",
+    "LocalizedString": ""
+  }
+]

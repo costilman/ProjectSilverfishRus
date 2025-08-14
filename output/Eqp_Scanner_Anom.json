@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "0BF6E4AC4139503F1C9DF585C61BEE4A",
+    "Hash": 1753722282,
+    "SourceString": "An experimental device used for tracking anomalous high-energy signatures.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6551F4DE43B9F9C6C07908AC73E5073F",
+    "Hash": 2754717174,
+    "SourceString": "!!!WARNING!!!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8DBF8630418FC0E83F02199AD3AEB347",
+    "Hash": 3098300705,
+    "SourceString": "100 mWb",
+    "LocalizedString": ""
+  }
+]

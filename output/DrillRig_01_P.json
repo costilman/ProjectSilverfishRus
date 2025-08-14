@@ -1,0 +1,205 @@
+[
+  {
+    "Namespace": "",
+    "Key": "24A5BC694067EDE5D48E15A4BE66F606",
+    "Hash": 4000004830,
+    "SourceString": "The Drill",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CA32F81B47B7AF863C5864ABB3B195DE",
+    "Hash": 4099925884,
+    "SourceString": "TEMP. C",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3AA6295A440CD1C51A3A57B4CAC9058D",
+    "Hash": 954804091,
+    "SourceString": "PSR.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CF1A50574E123DDD153C2C868AB8661F",
+    "Hash": 2011260870,
+    "SourceString": "OUTPUT PUMP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9BB73A9B4D8F9237FBEF23A67A61D6E5",
+    "Hash": 988337955,
+    "SourceString": "HEAT EXCH.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "57B3039A478C9BB3FD412AB6114D4886",
+    "Hash": 1576911469,
+    "SourceString": "POLARITY",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E209BFC147938787EC7789B56F07D97F",
+    "Hash": 2780772908,
+    "SourceString": "PUMP REVERSE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "02AB71F8431A3B8A516FB09502486427",
+    "Hash": 763735177,
+    "SourceString": "FWRD. PHASE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EBC8BDC74057CE1B84A4038983817BA7",
+    "Hash": 3056855708,
+    "SourceString": "DRILL RUNNING",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "112E61C64E859260C622449EA0667430",
+    "Hash": 963441406,
+    "SourceString": "DRILL PULSE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "18C362654914280F5A7525BB045DF518",
+    "Hash": 1321101995,
+    "SourceString": "EXHAUST SYS.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "762AF26A4C7B7E6D1AE5B49514EC342F",
+    "Hash": 1146047750,
+    "SourceString": "COOLING SYS.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51EA37E04ECECD3577A16DA4776C3BB2",
+    "Hash": 3407472801,
+    "SourceString": "PRIME CMD.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE9946914E142A3328BEB79C657D42F6",
+    "Hash": 2701648265,
+    "SourceString": "PUMP PRDT.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1A562ADB4E4F7C8071D112A6DAFFF285",
+    "Hash": 988337955,
+    "SourceString": "HEAT EXCH.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8505CB54C5B07C886757DB22AF16ED4",
+    "Hash": 2828254842,
+    "SourceString": "EMR. RESET",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CF1A50574E123DDD153C2C868AB8661F",
+    "Hash": 2011260870,
+    "SourceString": "OUTPUT PUMP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9BB73A9B4D8F9237FBEF23A67A61D6E5",
+    "Hash": 988337955,
+    "SourceString": "HEAT EXCH.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "57B3039A478C9BB3FD412AB6114D4886",
+    "Hash": 1576911469,
+    "SourceString": "POLARITY",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E209BFC147938787EC7789B56F07D97F",
+    "Hash": 2780772908,
+    "SourceString": "PUMP REVERSE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "02AB71F8431A3B8A516FB09502486427",
+    "Hash": 763735177,
+    "SourceString": "FWRD. PHASE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EBC8BDC74057CE1B84A4038983817BA7",
+    "Hash": 3056855708,
+    "SourceString": "DRILL RUNNING",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "112E61C64E859260C622449EA0667430",
+    "Hash": 963441406,
+    "SourceString": "DRILL PULSE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "18C362654914280F5A7525BB045DF518",
+    "Hash": 1321101995,
+    "SourceString": "EXHAUST SYS.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "762AF26A4C7B7E6D1AE5B49514EC342F",
+    "Hash": 1146047750,
+    "SourceString": "COOLING SYS.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51EA37E04ECECD3577A16DA4776C3BB2",
+    "Hash": 3407472801,
+    "SourceString": "PRIME CMD.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE9946914E142A3328BEB79C657D42F6",
+    "Hash": 2701648265,
+    "SourceString": "PUMP PRDT.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1A562ADB4E4F7C8071D112A6DAFFF285",
+    "Hash": 988337955,
+    "SourceString": "HEAT EXCH.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8505CB54C5B07C886757DB22AF16ED4",
+    "Hash": 2828254842,
+    "SourceString": "EMR. RESET",
+    "LocalizedString": ""
+  }
+]

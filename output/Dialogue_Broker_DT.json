@@ -1,0 +1,422 @@
+[
+  {
+    "Namespace": "",
+    "Key": "A46417F8418716C29D997998314626D0",
+    "Hash": 2839369545,
+    "SourceString": "What's your business, stalker?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B8B300D24ECA3D4C50092288C0F9942B",
+    "Hash": 184560151,
+    "SourceString": "Nothing for now...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "52500A0D42C0518B37DE9A8886519D5B",
+    "Hash": 400664490,
+    "SourceString": "Got any work for me?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0DA0BB564F8269FAA19BF8B2D7B0DCD9",
+    "Hash": 78572771,
+    "SourceString": "Mind if I ask you something?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "160BB377435082574CCB7AA6DDFE00E2",
+    "Hash": 3531840355,
+    "SourceString": "Are you looking to trade anything specific?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "25B2DF1E428AF0F1EF27DFAE4880670F",
+    "Hash": 2831805627,
+    "SourceString": "I might have a lead on something...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "249F35F9470C0D31BF96BD99F02D1442",
+    "Hash": 3775299846,
+    "SourceString": "Can I forward a debt payment?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "95CCA82C4DA406522DAE8EBA43523CCF",
+    "Hash": 3892410041,
+    "SourceString": "You're not welcome here. Leave!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7805879E40520F81D80EB982643C0FC7",
+    "Hash": 650405600,
+    "SourceString": "...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8290FDCF47E56BD0FB42F69FA2427291",
+    "Hash": 2792230738,
+    "SourceString": "What would you like to ask?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CBDC483A4F471F7897A75395D793275D",
+    "Hash": 1210876485,
+    "SourceString": "Nevermind…",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "432EBB1142A8014E558FE593724DF65B",
+    "Hash": 1087069169,
+    "SourceString": "I have a lot of debt that I need to pay off...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "08C5D3C34CD765EADBA45D849FE7C799",
+    "Hash": 3945943376,
+    "SourceString": "What’s with these insurrectionists wandering the zone?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "234ADAC24F0574E0CE9E44BB8DDF992E",
+    "Hash": 1476000976,
+    "SourceString": "What’s your opinion of the Revolutionaries?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4A45C4124828C6E2D841AD812698F98F",
+    "Hash": 932430722,
+    "SourceString": "What’s the military guarding in the north?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "73D8888A494880533ACAF6AAFDEC6C6F",
+    "Hash": 1828336758,
+    "SourceString": "Oh those dipshits? They’re loyal to a post-human, Kempt.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5D2DACB6433F7E105965CA93D71A0939",
+    "Hash": 4227967739,
+    "SourceString": "I think he was a former chairman of NFTA, but some political bullshit happened. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F0EE3219416A90DAF5AEA9BDF53A9329",
+    "Hash": 1497560895,
+    "SourceString": "Now he’s attempting a coup… ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "52E4525F49727D4A2638F3AB5A0CD453",
+    "Hash": 2733120971,
+    "SourceString": "What they’re doing here, well the pinkos might have a better idea. Ask them.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B4002C744AB0FFEE8D1ACFAAF4CFD817",
+    "Hash": 2126015589,
+    "SourceString": "But the insurrectionists are no friends of ours; worse business partners than the commies, ironically…",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "401CCB084962E2979F7E0BAAE47CB236",
+    "Hash": 2945006889,
+    "SourceString": "I see…",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD7F948145768CF1FC81F7B8CEBB5185",
+    "Hash": 4165282962,
+    "SourceString": "Pinkos?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F6B854434E765A090BBFBB82AE79DD53",
+    "Hash": 741909525,
+    "SourceString": "NFTA?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "72DF1D5049D984B431C2B8B62FC926EA",
+    "Hash": 560307013,
+    "SourceString": "The Revolutionaries: They’re fine, they buy my guns. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "081E8A0A4A77F02909A291ACEA50429D",
+    "Hash": 2176733070,
+    "SourceString": "We stay out of each other's feathers..",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FB55BE514ADE967886588D978BC3DA8C",
+    "Hash": 1994700333,
+    "SourceString": "Right.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "262393BD440D28E0147D3B999C438FFC",
+    "Hash": 3110959858,
+    "SourceString": "Don’t know and don’t care.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "31335FD24BF52B18D866E19E24270E01",
+    "Hash": 3645518632,
+    "SourceString": "Savvy businessmen do not venture north.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5EB5853848C259CEED158484A26C1E33",
+    "Hash": 1858658381,
+    "SourceString": "It's a war-zone and a shit-hole.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D8C6365D4DCD7A4190CB939065CD26E1",
+    "Hash": 1609305147,
+    "SourceString": "I’m content selling ammo to any idiots eager to die up there.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FB55BE514ADE967886588D978BC3DA8C",
+    "Hash": 1994700333,
+    "SourceString": "Right.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6832E87944BD0FED13944B95B74F38C8",
+    "Hash": 2857547939,
+    "SourceString": "Northern Free-Trade Alliance..  You know, the government? ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0D4139CA4DF40FCF06B874BA1CFEA800",
+    "Hash": 2425954919,
+    "SourceString": "Or at least the human one-",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "338924F343F2BA46EE3140B9D8141DC9",
+    "Hash": 1999131944,
+    "SourceString": "W-why are you asking me this? This isn’t a history class; fuck off!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "16B8F2E442AEE2F02C168EA7F0E7EE5D",
+    "Hash": 2394503558,
+    "SourceString": "Sorry, I… Nevermind.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CAA0AC1A48A43FA14CE54EB51C0E0310",
+    "Hash": 39764563,
+    "SourceString": "Yes, I'm in the market for rare artifacts; paying 160% the market rate. \r\nGot any to sell?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F920C0A64C780DAFEE47EFBE516E33FD",
+    "Hash": 915675451,
+    "SourceString": "I might...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A58B8C904527E0CD9340C6AA8B2EB352",
+    "Hash": 2457921277,
+    "SourceString": "Not right now, sorry...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7263506A4C9C773713F77F87F4A6041D",
+    "Hash": 3307486935,
+    "SourceString": "Then you've come to the right place my friend. I have a lot of connections, friends in high places...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E32E8F2244DAF34D53698EB727D15EDF",
+    "Hash": 2521725850,
+    "SourceString": "Friends who owe me a lot of money...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "67FD882640726933D5AF49873EF148E4",
+    "Hash": 782520033,
+    "SourceString": "I am, in fact, in need of some new blood in my little organization here. Someone willing to go above and beyond.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A38243374CC45CE120B51A86033FD592",
+    "Hash": 3781765053,
+    "SourceString": "You see, the zone holds much more than just common artifacts, though I am still very much in that market as well.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EF3AE3E24154DB4D7BD371992515D4BA",
+    "Hash": 915272612,
+    "SourceString": "But what I really want are the big fish, rare unique treasures of the Deeper Zone. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6C1F62BC4D462D1E8107018365A3CA47",
+    "Hash": 3658082772,
+    "SourceString": "Bring me results, and I can pay off good chunks of your debt directly.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DE6BE1C74EDA88FA9B404EA811CF1E9A",
+    "Hash": 2123263001,
+    "SourceString": "I don't know if I'm up for that kind of work yet.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F93251FB494173CE96388EBD178EB8B0",
+    "Hash": 2638429398,
+    "SourceString": "Where can I find these \"unique treasures\" of the zone?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9D8C490942EDA9E61E818A8D3B326973",
+    "Hash": 1126839493,
+    "SourceString": "If I knew where such things were, I wouldn't be offering you so much money to find them. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "88099CA64F5266CA2906E08F88FEF1FC",
+    "Hash": 2676684879,
+    "SourceString": "There's plenty of old forgotten bunkers and labs out here, especially up north.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "150B49864AD3B3D0BC0F53B03E669AFC",
+    "Hash": 3000263341,
+    "SourceString": "Poke around, ask questions; and if you find any leads on something good, you come to me first.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D4C3AE6A450617A378310DB1F5119463",
+    "Hash": 3384861789,
+    "SourceString": "We can talk details once you have a thread for me to pull on. Good hunting!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5F14504A4F3729CD273582B311DD8798",
+    "Hash": 1486384013,
+    "SourceString": "I'll let you know if I catch any good leads...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "905D27E242A3850005174E986E3BC231",
+    "Hash": 145309693,
+    "SourceString": "What do you got for me?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "041EB7F046F0C43C2AC739B1899C7EE0",
+    "Hash": 4269088382,
+    "SourceString": "Actually, hold that thought...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "87BAFC4B4F73A1A39BB709813BF1F46C",
+    "Hash": 801035990,
+    "SourceString": "I caught word there might still be an operational Eather Drill prototype somewhere in the Zone...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6FF162874A2DBFC5B99B0C90D8877EFA",
+    "Hash": 2980102949,
+    "SourceString": "A working Eather drill head? And potentially portable at that...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7FDD68D74C9DE5530DA5FCBE32BCFD16",
+    "Hash": 3680295306,
+    "SourceString": "If you can produce such a thing, I can easily cut two million off of your debt!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "58302A7A4D240F9C3002869CDC0B62AE",
+    "Hash": 4113946899,
+    "SourceString": "Although from what I understand, if Dr. Mosby were to find out you sold me such a thing, I doubt the Revolution would still see you as a friend... ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8098CFA544E71CFA4CD2A3BEDD71C2BD",
+    "Hash": 2353396629,
+    "SourceString": "Not that it's any concern to me, of course...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ABEE29774CAC5E8919D231BF40C4F036",
+    "Hash": 2694921780,
+    "SourceString": "I think I can get your hands on the drill head.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "90A1788944E175513D606C9B1FB23841",
+    "Hash": 3356428799,
+    "SourceString": "Let me do some more digging on this... ",
+    "LocalizedString": ""
+  }
+]

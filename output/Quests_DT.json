@@ -1,0 +1,1612 @@
+[
+  {
+    "Namespace": "",
+    "Key": "43E3DF7440A495F6B8495AB507F2F08F",
+    "Hash": 2765908563,
+    "SourceString": "Meet the Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "232C116E4538A7BCB659FE89942A68DA",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D39E82034B82BA2AC72A0F80318283A7",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1657A3D9400E6048A4F22C80F4EE9D3A",
+    "Hash": 3582630858,
+    "SourceString": "Meet the Black Market Broker at the docks on Black Lake.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "286F9C9140D2A6CE4E88968BE4857124",
+    "Hash": 4096729121,
+    "SourceString": "Hey, we're looking for new mercs to run some odd jobs out here. We got plenty of clients paying good, gooood hard cash for some \"hands on\" work. \r\n\r\nAnyone who stops by our place of business to show they're serious may receive a complimentary reward as a show of good faith...\r\n\r\nWe're set up at Dock A on Black Lake. Warehouse on the lower deck.\r\n\r\nSerious applicants only!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C9657FDA4B078AB1D892A38AB9B1FC8F",
+    "Hash": 1699534866,
+    "SourceString": "Collect Depot Documents",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B88E88CC4E787419650BB292C0F872CF",
+    "Hash": 24652088,
+    "SourceString": "Anonymous",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "71B1AF5D48E773075DB639AEB2C879F1",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "67F7A566431EFEA70C11F9BC4BE803E2",
+    "Hash": 3797589774,
+    "SourceString": "Retrieve official railway company documents.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "24665F95425631B8C3A08ABF4073D4AA",
+    "Hash": 1232944819,
+    "SourceString": "I'm looking for any info that can be found about the local railway and its operations. I'll pay a good price for any official documents containing that kind of info...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2A420B9B48F9D2CCB627479E506EAB12",
+    "Hash": 345531159,
+    "SourceString": "There is an office building in the middle of the Depot. Maybe its Records Department would be a good place to start.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5918CFE14E1C9F9B2E0A0E838D9AC79D",
+    "Hash": 2465372736,
+    "SourceString": "Turn the documents in to the Black Market Broker at Dock A.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D8C570F24E77A768478C2C8A0B750241",
+    "Hash": 3246562271,
+    "SourceString": "Lenny's House",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7181861D47BEEAE468623E8A95075097",
+    "Hash": 3684172133,
+    "SourceString": "Krieg",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F9F0E11E41F983CA835DB3824A09B1A3",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "31E544D24EA8E2761FEB82AEAFC01E95",
+    "Hash": 2091680192,
+    "SourceString": "Find and take out 'Lenny'.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "399C75FF4AB8623DACDD44A8F2DA2CCD",
+    "Hash": 2339464801,
+    "SourceString": "Lenny is Dead. Redeem the contract at any bounty board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "612B22D34554B1BDDE21749F28EC532C",
+    "Hash": 2856193540,
+    "SourceString": "That son-of-a-bitch Lenny joined up with the Insurrection just long enough to make off with one of their LMGs and a heavy set of armor. Now he's shacked up in some bombed-out shithole, armed to the teeth. \r\n\r\nRaid his hideout and make off with the goods before his \"old friends\" find him. Put the bastard down while you're at it. \r\n\r\nHe might be in his safe-house, one of the old worker dorms at the West end of the Depot...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0F2EF7474CE5F9680D9C3182A58A3ECF",
+    "Hash": 6775752,
+    "SourceString": "Trust me, Lenny's a cold-blooded killer who's made A LOT of enemies for a LOT of reasons. We'd all be better off with him gone.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "59C88F0D412F34EAD84718BD9D219227",
+    "Hash": 2020966038,
+    "SourceString": "Flooded Village Dead Drop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B7FBC17B45E03DAB5688E48A19AC2D3A",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5197E8064AB64381E9A4E99A78C088E5",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "209AE3EB455CBA6F55956D9508C8A233",
+    "Hash": 1489350306,
+    "SourceString": "Pick up the Dead-Drop in the flooded village.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4A41E19340182542E43A45BF3429E0B2",
+    "Hash": 828558534,
+    "SourceString": "Got a dead-drop being left for me in the flooded village. (I think it used to be called Beauly.)\r\n\r\nThe Drop can be found in an old Cafe.\r\n\r\nSmall reward for whoever brings the bag back here to Dock A at Black Lake.\r\n\r\nI'll KNOW if you open it.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DAA118BC40A6C071AAEDADAD28598805",
+    "Hash": 3191072831,
+    "SourceString": "(The bag doesn't get placed until someone accepts the contract.)\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F56C7F1840588A929E1052B2C66033F7",
+    "Hash": 1993351247,
+    "SourceString": "Metro Dead Drop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FDD5845647D182F2563F87822D6C4CE1",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "606E714C428E7E19C06E76B15F417F66",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3B6964584CB5FC690F638C921D0D463E",
+    "Hash": 2723490486,
+    "SourceString": "Pick up the Dead-Drop in Metropol.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D8AE98214C17DAC19549C5813317EB8E",
+    "Hash": 3424330949,
+    "SourceString": "Got another dead-drop being left for me in the Police Station in Metropol.\r\n\r\nSmall reward for whoever brings the bag back here to Dock A at Black Lake.\r\n\r\nI'll KNOW if you open it.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8EDC1D9F4BE3648B806586BABF4BB3CD",
+    "Hash": 3191072831,
+    "SourceString": "(The bag doesn't get placed until someone accepts the contract.)\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CA91191C4CB4D70504E1D5833C7EBE13",
+    "Hash": 2345998042,
+    "SourceString": "CrossRoads Dead Drop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FDD5845647D182F2563F87822D6C4CE1",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E4208EB44E039DB987DA41881BA4707D",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C4AD4D6F4E04CC2BA24E709931366E81",
+    "Hash": 1277388878,
+    "SourceString": "Pick up the Dead-Drop in Crossroads.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "387D4BE84C78441A934194A7997C59F2",
+    "Hash": 525586617,
+    "SourceString": "I have a dead-drop left for me in Crossroads. My guy hid it near the water lock in the south-east.\r\n\r\nSmall reward for whoever brings the bag back here to Dock A at Black Lake.\r\n\r\nI'll KNOW if you open it.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8EDC1D9F4BE3648B806586BABF4BB3CD",
+    "Hash": 3191072831,
+    "SourceString": "(The bag doesn't get placed until someone accepts the contract.)\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "16A3EA1A4DE99038C19E6BB2EECD230D",
+    "Hash": 3904659301,
+    "SourceString": "Missing Contact",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9DB85EF04A9B96385C144B85BAD0442C",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9A088D754BA818DEB77B4B818A08B2A4",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9F435E0841E736AD0020DCA6EC2D1C4A",
+    "Hash": 1151476313,
+    "SourceString": "Find anything the Broker's missing contact might have left.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2D8FBF54CCABD5138DE78BF5F490BB8",
+    "Hash": 492648784,
+    "SourceString": "A contact of mine has gone weeks without communication.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "62E4433A41373120F32FDAAD6B32278A",
+    "Hash": 2412593087,
+    "SourceString": "He used to shack up in an abandoned farm house in Cross Roads.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1D732104480FFAED83BB8182029AF1B1",
+    "Hash": 3312786236,
+    "SourceString": "See if he left anything explaining what happened to him.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AEE89680418A3912EB9CB287FAA92ECE",
+    "Hash": 2489561784,
+    "SourceString": "Lab E-206 Tape",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6A7468FB436FEB32719A71B86F1A7AFF",
+    "Hash": 673154708,
+    "SourceString": "Dr. Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AB322B814D0DB0EDB3BB54B0F4A9F96C",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0D0B83AD431A150049B43CB8F55426D7",
+    "Hash": 2931399474,
+    "SourceString": "Retrieve a data tape on an experiment conducted in Lab E-206.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "99ACC1D848B055F79910DDA6E9026C5B",
+    "Hash": 2657956790,
+    "SourceString": "There's an abandoned laboratory in the basement of the railway offices in Depot.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "67C9ADA5441D626AF7DB939EBB13D31F",
+    "Hash": 3400608005,
+    "SourceString": "Bring me a tape containing data on any experiments that were conducted in that lab. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7619185E4F6C10BBBEB3C5B9B7BE3A74",
+    "Hash": 3622317455,
+    "SourceString": "This lab is likely very dangerous and full of hazardous materials; I'd recommend bringing protective gear...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9B22850842F60BED0A42F6BF55886CA9",
+    "Hash": 4079023549,
+    "SourceString": "You can find my lab in the facility in the south-west corner of the Flood Plains. Door labeled \"RG WEST\".",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E29C73764C871875D1DFD3B289C9FA40",
+    "Hash": 2428876239,
+    "SourceString": "Counter Sniper",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "67610D5A4195E2612AA4FFBD007D27C7",
+    "Hash": 1028115194,
+    "SourceString": "Mamma Roach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0CD441024076A2804D0F75894F9D08AC",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9CE34F334F986A6B652DB4AB1E9E00E7",
+    "Hash": 247406754,
+    "SourceString": "Take out the Insurrection Sniper in Flood Plains.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5A320DE242159E19AA8926978F905533",
+    "Hash": 883485524,
+    "SourceString": "The Sniper is down; report to Mamma Roach at the Borough to claim your reward. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "27E512C645BCA7412361E8B4DC2AA306",
+    "Hash": 1709198759,
+    "SourceString": "One of the Insurrection's top marksmen is wreaking havoc in the Flood Plains. Scouts say he's posted up atop the tower overlooking the Mill, west of Beauly.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5FBBD674488AABC0E9891D8BF3081412",
+    "Hash": 3971456281,
+    "SourceString": "Anyone who takes him out will be doing the Revolution a massive service, and will be rewarded so.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "659267224D2195AA5581139A09DA5AF0",
+    "Hash": 523626916,
+    "SourceString": "Kill Spratt",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "41937AEB4FCB00BD839352829304BBB4",
+    "Hash": 3684172133,
+    "SourceString": "Krieg",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "66F7D39849B04AD585E89EA0B9445A6B",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7380A58E4DE423D283EA479963C24E8C",
+    "Hash": 2289873322,
+    "SourceString": "Take out a Loner named Spratt.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F457696849C39330E63C069A2D31AC42",
+    "Hash": 536334300,
+    "SourceString": "Target is down. Redeem this contract at any bounty board. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F5FB29624E5ACAA029A81FA14B191482",
+    "Hash": 345943076,
+    "SourceString": "This little shit-heel going by the name 'Spratt' has been stirring up all kinds of trouble.\r\n\r\nSome contacts of mine will pay a good little penny to see him dead.\r\n\r\nWe have no idea where he is, but he's been seen going in and out of the old hotel in the Slums; might be able to find a lead there.\r\n\r\nYou'll know him by the ballistic face mask and cut-down shotgun he runs with...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BECDE322453CBC350ABF2CA650FA8088",
+    "Hash": 2994871675,
+    "SourceString": "Hardware Problems",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "12AA5D99459775C92FB88DB62225682F",
+    "Hash": 673154708,
+    "SourceString": "Dr. Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EC6E407D4DA30D556FE3CD919C5D2BEA",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EF6687744D25108CCA66E584B2BAECCD",
+    "Hash": 896314363,
+    "SourceString": "Retrieve a Computer Board for Dr. Mosby.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A4ABBC014D9DDE165E6B84B686ECCF0D",
+    "Hash": 1649659382,
+    "SourceString": "Hello, yes this is Dr. Mosby:\r\nWe're having some computer issues and believe them to be hardware related.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6798B0724D3642E952CDAB8E7E23B3F2",
+    "Hash": 1286475141,
+    "SourceString": "Anyone who can stop by with a working computer board, please, we'll pay you double what its worth.\r\n\r\nThe sooner the better. You can find my lab in the facility in the south-west corner of the Flood Plains. Door labeled \"RG WEST\".",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7AE9EFB4492A866A198AA39A3242B7A4",
+    "Hash": 552450216,
+    "SourceString": "Get Molasses",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E54DB7A94A351C2F25C77BAA7DBB194D",
+    "Hash": 2829606937,
+    "SourceString": "Shop Keep",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5AEE0BFE46CE928D088AC7A6DB4CDC5E",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AA36DDF949770928C3F18E90543E94B2",
+    "Hash": 2780996722,
+    "SourceString": "Collect a can of Molasses for Shop Keep.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E06856504708EE39AD5855B8D9E39FF7",
+    "Hash": 3586029522,
+    "SourceString": "Oh you want to do jobs for me now?\r\n\r\nFine, go get me groceries; I'm out of Molasses.\r\n\r\nDo not disappoint me! ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A958872D411603F09498E3B308E9ABD5",
+    "Hash": 991218834,
+    "SourceString": "Root Source",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F376314740C5BD14E28BA58186C22788",
+    "Hash": 673154708,
+    "SourceString": "Dr. Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "57BE7AEC4AEADCBE296C4D9DF06CD5B2",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4612AFE64C9FAA7BBCE52093CBF7D006",
+    "Hash": 1225354544,
+    "SourceString": "Collect a small sample of the Red Root Anomaly for Dr. Mosby.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A8D9A84B4F45AE528617BCA4790AC0D7",
+    "Hash": 3133679157,
+    "SourceString": "The tape from Lab E-206 describes some sort of unique anomaly discovered during an underground construction project.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CC64F09940B13AC5E08446948ADFCFB3",
+    "Hash": 3198503302,
+    "SourceString": "See if you can track down a sample and bring it back to our lab.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FAC51BC44B19F3F079268B1572FFDEB",
+    "Hash": 2552831091,
+    "SourceString": "Signal Jammer: Crossroads",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "935A1035411E692441B549A81F433073",
+    "Hash": 709180968,
+    "SourceString": "Simmi",
+    "LocalizedString": "Симми"
+  },
+  {
+    "Namespace": "",
+    "Key": "6D145BB54CB835423ECD96878F4411ED",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FB001E1B46D3E76C559CF5BA6DB28475",
+    "Hash": 1934868642,
+    "SourceString": "Disable the Signal Jammer in Crossroads.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A6FB5C2845867569B32E09AA43C7A0C9",
+    "Hash": 1313659182,
+    "SourceString": "Turn this contract in at any bounty board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "427387AC412EDD8D2770F690A32B241F",
+    "Hash": 3067903900,
+    "SourceString": "Someone's set up a signal jammer somewhere in Crossroads. It's blocking my comms. \r\n\r\nIt seems to be somewhere near the scrap depot...\r\n\r\nI bet they set it some place high up in the air...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9CF69ABD48A027CF1F48A1B918A8A1F8",
+    "Hash": 3651302077,
+    "SourceString": "Signal Jammer: Flood Plains",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "00ECD8634B8F9A850DCC669EA10A448A",
+    "Hash": 673154708,
+    "SourceString": "Dr. Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FDB237D04370D906475BDFA54EC8B563",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "13023D244F531FC0F14FF990A201B43E",
+    "Hash": 1882053275,
+    "SourceString": "Disable the Signal Jammer in Flood Plains.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FAC451F9476C6BF4D9933B9B96739BB4",
+    "Hash": 3563014409,
+    "SourceString": "Turn this contract in at Dr. Mosby's Lab.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AB6C37BE454DA32E0AC846A6DBA99B4B",
+    "Hash": 1484987973,
+    "SourceString": "My comms have been jammed too!\r\n\r\nSee if you can find where they set up their jammer! It should be somewhere high up near the entrance of my lab...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "670865C14A0E1FCB8070928FA9A17C82",
+    "Hash": 4269519709,
+    "SourceString": "Signal Jammer: Black Lake",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36A0593E4292E42FA1E7F589C45B8B4E",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6188725B42FD1415D57B39B6DA3BCE79",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5C3EDEDC4E32AE4ED6F3BB985B29446B",
+    "Hash": 537439380,
+    "SourceString": "Disable the Signal Jammer at Black Lake.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "135CC6074FE1617D699680A0F9B0498B",
+    "Hash": 1825112385,
+    "SourceString": "Turn this contract in to the Broker at Dock A.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "40E491804A4F5EE667EA68A1348BE7E8",
+    "Hash": 1206841816,
+    "SourceString": "My comms are getting jammed. \r\n\r\nNo idea where they set up their toy, but it can't be far from us.\r\n\r\nI need it taken out ASAP!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6EE460814BFAC0BAB4FDAA805CBB5E08",
+    "Hash": 140983554,
+    "SourceString": "Flood Control",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "972A145D4C669B685186FCBFCA0F92BC",
+    "Hash": 1028115194,
+    "SourceString": "Mamma Roach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "88A598FB40314D78A10E65915EEAA452",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "103C7DB34DFA5B1136472482E85ECF2B",
+    "Hash": 483327147,
+    "SourceString": "Disable the Flow-Control Valve causing the Subway Tunnels to flood.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "52DAA76C44617B085449E8BD6A2D5043",
+    "Hash": 893802819,
+    "SourceString": "Task complete: Report back to Mamma Roach.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3A7E18FB4A5EF23C083E9D942A8BBB31",
+    "Hash": 3287828742,
+    "SourceString": "A main sewer line is leaking toxic water into the subway tunnels under Metropol. \r\n\r\nWe desperately need someone to go down there, find the flow-control valve and shut it off!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7C2B67DA4A147CF75F6FBD92A16E36FE",
+    "Hash": 2776994554,
+    "SourceString": "Copper Stop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD6E28854254F92898BC8AAAEC3F2200",
+    "Hash": 1028115194,
+    "SourceString": "Mamma Roach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FF0062C042D7AA92942FD6A046CDA21B",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36AFEBA24FE0EEE2106130B4D2906AC1",
+    "Hash": 831005707,
+    "SourceString": "Retrieve copper wire for Mamma Roach.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A9864CD14A65DBFABE064D90F742B6F1",
+    "Hash": 3869912521,
+    "SourceString": "We ran out of Copper Wire while trying to repair some electronics. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4C4C67E3433170D27D3F219CA793CFDD",
+    "Hash": 3353664568,
+    "SourceString": "There's an industrial pier on the canal in Metropol. You might be able to find some there. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FC4477164EB49901537D63864EAD8045",
+    "Hash": 4112714750,
+    "SourceString": "M35 Transmission",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2E6C335149A13122E41AB5812980A530",
+    "Hash": 709180968,
+    "SourceString": "Simmi",
+    "LocalizedString": "Симми"
+  },
+  {
+    "Namespace": "",
+    "Key": "AB322B814D0DB0EDB3BB54B0F4A9F96C",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "30A026C74B1C63901E6BBE9F6F7DF684",
+    "Hash": 191876738,
+    "SourceString": "Retrieve a tape containing the M35 Radio Transmission.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "391A14A74119DA8A44E0DAA4A40E7AA7",
+    "Hash": 212171132,
+    "SourceString": "Not long ago I caught the tail end of a strange encrypted radio transmission coming from the Zone.\r\n\r\nThere's a small radio station on M35. It's still operational, so it might have caught a transcript. \r\n\r\nSee if you can download the transmission onto a Data Tape and bring it back to me. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "342DCF144DD96B7D63E109AB1882DDC5",
+    "Hash": 639656117,
+    "SourceString": "Retake The Safe-House",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "988592764635382B5DBE64A0D28A4F83",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "05B7FE2E4D209E17E2B0FB8EB29EF12A",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "48A7FFFE4BE91B0DE741D282C2016F09",
+    "Hash": 4035092657,
+    "SourceString": "Clear out the Safe-House at Black Lake.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4646A787471979D3C778DD8A5AECC555",
+    "Hash": 3538523406,
+    "SourceString": "Safe-House secured. Report back to the Broker.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E2EEBB79466CE265BB81AE8D6415FCAC",
+    "Hash": 2647756562,
+    "SourceString": "A band of Insurrectionists have shacked up in one of our old safe-houses; the floating cabin on the east shore of Black Lake.\r\n\r\nI'm not ceding my territory to those jack-boot dipshits.\r\n\r\nWhoever murks these fuckers is free to use the safe-house to their own ends. Plus a small reward... ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C91EA23D40CBA325F144349308AEA1C3",
+    "Hash": 2558675523,
+    "SourceString": "Broken Wrench",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B806F6B44A42C4763D18A0BE2DA501BF",
+    "Hash": 709180968,
+    "SourceString": "Simmi",
+    "LocalizedString": "Симми"
+  },
+  {
+    "Namespace": "",
+    "Key": "9347A9564887EA80FD560CB637922E44",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "13CB2B8E42D67771480B508BB1B2260E",
+    "Hash": 7237003,
+    "SourceString": "Find a replacement Wrench for Simmi.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C44EE03D42F901390133DE88D0E40BC8",
+    "Hash": 235171968,
+    "SourceString": "Shit, my wrench broke.  Can someone fetch me a replacement?\r\n\r\nLook around the large warehouse in the middle of Crossroads. There's bound to be one there.\r\n\r\nI'll pay you with a Med-Kit and a can of Beans...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "140DEB364A4A737C164F8188F5959632",
+    "Hash": 360869306,
+    "SourceString": "Bad Egg",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "775DB78D41311856A7740EB704477272",
+    "Hash": 3684172133,
+    "SourceString": "Krieg",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "95C436364B50E4F8973CFD87FEBB3B2A",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "627B645140F680DC171A42899E8006FB",
+    "Hash": 1938052430,
+    "SourceString": "Find and take out the stalker known as Egg-Head.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "96A967F64D5DFA123B6FD8BEE8F2E88F",
+    "Hash": 846684510,
+    "SourceString": "Egg-Head is no more. Turn in at a bounty board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "71D69D974AD98CD81B166F903A132990",
+    "Hash": 1574879648,
+    "SourceString": "There's this local guy, goes by the name Egg-Head.\r\n\r\nHe made a bad deal with some associates of mine. He was due to produce some artifacts, but they never materialized. \r\n\r\nMy associates have exhausted their patience with him.\r\n\r\n8K on his round, pale, dome.\r\n\r\nHe was last seen snooping around \"RG-East\", the abandoned labs next to Doc Mo's place...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "74B3875B4476A7CD8DD355ACB452E7DD",
+    "Hash": 260828085,
+    "SourceString": "Hell Hunt",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B88E88CC4E787419650BB292C0F872CF",
+    "Hash": 24652088,
+    "SourceString": "Anonymous",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "33288BEE49997D1B131264BD3D54F4C3",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C91EEC824AE8372E32CFC7B62ABDB284",
+    "Hash": 2908209898,
+    "SourceString": "Take out the Hell Hound spotted on M35.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "60EF9DCE4F1538E65D6167BFEC8ED54E",
+    "Hash": 2048365412,
+    "SourceString": "The beast is dead. Redeem contract at any board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3F1D4A4340DFDA9546A6CFAA06F02999",
+    "Hash": 1853796358,
+    "SourceString": "Hey, I spotted a Hell-Hound prowling around in the valley at the North-East end of M35.\r\n\r\nDon't usually see these monsters this far south.  Looks like an alpha too.\r\n\r\nIts already killed two guys, I'll pay to have someone braver than me come and take care of it. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C69557ED4B964E564C4432AB8518FDCD",
+    "Hash": 1670594657,
+    "SourceString": "Stone Maze Readings",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FE0A460A4E52AB5E9C3EEB883E372FE9",
+    "Hash": 673154708,
+    "SourceString": "Dr. Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2A5A24D5447EFEB63DFB75AB6BAAA749",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E11E526642638D4289863F88E3B98CD8",
+    "Hash": 357450400,
+    "SourceString": "Retrieve the Eather ground saturation readings from Stone Maze.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "121C607E4D01D24D7FA686A7D34D4BBF",
+    "Hash": 2477956668,
+    "SourceString": "I sent a small research team up to Stone Maze to measure the ground saturation of Eather in the northern zone.\r\n\r\nThey were only meant to be out for a few weeks; but I've yet to hear any word back from them.\r\n\r\nSee if you can find any readings they may have gathered and record it onto a Data Tape.\r\n\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "83495AD24DAFEF061FE7D7B016FE04DE",
+    "Hash": 1658452491,
+    "SourceString": "The Northern Zone is not an easy place to access. You will need to find a suitable route through the military perimeter; the best one may not be obvious. \r\n\r\nYou should also ensure you are prepared and well equipped for the dangers you will face there...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "26BE9A0048EDC888331E95ACA7B511CE",
+    "Hash": 3748807110,
+    "SourceString": "Operation: Gold Tooth",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1CD32C8D4F609E83CBA6B1A7831B587B",
+    "Hash": 3487406960,
+    "SourceString": "NFTA",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6FD4C38048DE58CED5BE198FCF5B25B4",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C69C9CB241B1B75846E1AFA712EE6D80",
+    "Hash": 3254405681,
+    "SourceString": "Eliminate the Insurrection officer stationed at Goldwood Forest.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1AEBFDBD41B7B7D503E740AF1F4B55A1",
+    "Hash": 4060674007,
+    "SourceString": "Target eliminated. Return to base!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B8343DEC4DD1F9A35BA768AA959620A8",
+    "Hash": 602916330,
+    "SourceString": "A high-ranking officer of the Insurrection has been identified.\r\n\r\nHe currently commands a small FOB in the south east sector of the exclusion zone.\r\n\r\nFind and eliminate the target!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5C9CE5F74D25225611F46C8FFE1EE557",
+    "Hash": 3732401277,
+    "SourceString": "Stolen Goods",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8C24298247EC2F5C460CA186CF788DFF",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "802F4AF3451C13F3CED7E682CC8F78EF",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "35FAC14848D2E64C94E0D8A7AE9352BC",
+    "Hash": 183287399,
+    "SourceString": "Retrieve the Broker's stolen shipment from the Insurrection.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D2FEBCD24D2B2E3684E488917B87336D",
+    "Hash": 1596762048,
+    "SourceString": "Don't get it twisted, the only reason I stopped doing business with the Insurrection is because they keep ripping me off. \r\nI guess all that talk about \"supporting domestic enterprise\" doesn't extend to us Fae.\r\n\r\nThey're still holding on to my last shipment. Green duffle bag with a Yellow Stag patch.\r\n\r\nFind it and bring it back to me; any blood you spill along the way is considered 'interest'.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1C61648D45F6502F313E63A4E868F984",
+    "Hash": 3012000024,
+    "SourceString": "Operation: Piggy Bank",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1CD32C8D4F609E83CBA6B1A7831B587B",
+    "Hash": 3487406960,
+    "SourceString": "NFTA",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6FD4C38048DE58CED5BE198FCF5B25B4",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A87F98444B1286161AD1CC8F849EC909",
+    "Hash": 2099942951,
+    "SourceString": "Locate and eliminate the Black Market Broker.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1AEBFDBD41B7B7D503E740AF1F4B55A1",
+    "Hash": 4060674007,
+    "SourceString": "Target eliminated. Return to base!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D7FBB78844037B546B5C648ACC788DC4",
+    "Hash": 3487718172,
+    "SourceString": "A high value target known as \"The Broker\" has been reported to be operating an illegal black market in the exclusion zone.\r\n\r\nHis exact location is currently unknown, however intel suggests he's operating somewhere in the southern Zone.\r\n\r\nFind and eliminate the target!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C1CBECA84C3A829151A406BC77845229",
+    "Hash": 149803718,
+    "SourceString": "Operation: Heat Coil",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1CD32C8D4F609E83CBA6B1A7831B587B",
+    "Hash": 3487406960,
+    "SourceString": "NFTA",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6FD4C38048DE58CED5BE198FCF5B25B4",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8230FA304C8584E9D2CCA0B7DE01B692",
+    "Hash": 3590973039,
+    "SourceString": "Infiltrate the E-206 Laboratory and collect data on their research.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "25B6CC194934416F6E8333B88824BA3B",
+    "Hash": 1123434343,
+    "SourceString": "Intel suggests that a pre-threshold laboratory known as E-206 may have data referring to early anomalies in the Exclusion Zone. \r\n\r\nThis installation is believed to be housed within disused railway tunnels below the outskirts of Port Rale.\r\n\r\nInfiltrate the lab and retrieve any relevant data you may discover.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7106118E4B436B9EDDC8EC9772647ED6",
+    "Hash": 4030624937,
+    "SourceString": "Operation: Laundry Day",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1CD32C8D4F609E83CBA6B1A7831B587B",
+    "Hash": 3487406960,
+    "SourceString": "NFTA",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6FD4C38048DE58CED5BE198FCF5B25B4",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A77F2F16429808AEFD4947A5D8CD7BFC",
+    "Hash": 20220073,
+    "SourceString": "Retrieve Kempt's financial records from the Port Rale Bank.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "12CF5AED4E6C190A15BDE9BD2856E013",
+    "Hash": 2927521441,
+    "SourceString": "The leader of the Insurrection, Dillard Kempt, has scrubbed all of his public financial records during his previous term as NFTA Chairmen.\r\n\r\nIntel suggests that the bank offices in Port Rale may still hold some copies of his financial record. They may even elucidate as to where the Insurrection is securing their funding...\r\n\r\nSearch the bank offices and recover any intel relevant to Dillard Kempt.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8B05DFF2466DA6AF2CB43488AC67E2F7",
+    "Hash": 3214915123,
+    "SourceString": "Operation: Rock Wall",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1CD32C8D4F609E83CBA6B1A7831B587B",
+    "Hash": 3487406960,
+    "SourceString": "NFTA",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6FD4C38048DE58CED5BE198FCF5B25B4",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C929363C44E1CDA2678F2292685E4812",
+    "Hash": 1859019545,
+    "SourceString": "Retrieve data collected by Dr. Mosby's research team.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "47FE5BB440DE483E3A6EBBB80325359A",
+    "Hash": 871676757,
+    "SourceString": "Person of interest, Dr. Mosby, is known to be cooperating with left-wing terrorists in the southern zone.\r\n\r\nIntel reports that he has sent a research team to Stone Maze to conduct some sort of recon mission. \r\n\r\nFind and eliminate this team, and retrieve any data they may have collected.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EF2ED8BF426375DD43D6128FA1C13015",
+    "Hash": 663026513,
+    "SourceString": "Refinery Raid",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "330420504A93F9F38C757F97A96D31FA",
+    "Hash": 1028115194,
+    "SourceString": "Mamma Roach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1020BAED425B1049D2E4D9B0E20F9F8A",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0B6345D64C6BB7EA85E82E99A9B123ED",
+    "Hash": 1349206284,
+    "SourceString": "Destroy the Refinery's Eather Core.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D92F7BF1455AFE3F3B7AAE9FA5F6C2A1",
+    "Hash": 2024669977,
+    "SourceString": "Refinery offline: Report back to Mamma Roach. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "823B32EA400F6D8C9DDF8892CD24D620",
+    "Hash": 3632410934,
+    "SourceString": "The NFTA Military's main objective in the Zone is to secure and maintain Eather mining and refinement infrastructure.\r\nOur objective is to stop them.\r\n\r\nRecently, NFTA has been working to bring the West Pier Refinery back to working order, implying that they possess a working Eather reification core.\r\n\r\nThese are rare and irreplaceable pieces of pre-threshold equipment; each one we destroy is a permanent death-knell to their regime.\r\n\r\nYour mission: Raid the West Pier Eather Refinery and destroy that core by whatever means necessary!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "427E64EC44ADED4D5AC03AA090DB49EA",
+    "Hash": 2695555638,
+    "SourceString": "Buried Treasure",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0BCC1F8A42338656F608658A36B0D601",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "802F4AF3451C13F3CED7E682CC8F78EF",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3CF4EF0E46809231D176F48874AC1255",
+    "Hash": 1734785888,
+    "SourceString": "Retrieve the Broker's lost artifact shipment.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4389B7A04E5C12A18E640F87E2A5CCF8",
+    "Hash": 1433289489,
+    "SourceString": "Another one of my artifact shipments went missing, no sign of the courier in weeks. \r\n\r\nI've known him to shack up in the slums when shit goes south; he has a safe-room in \"The Blue House\".\r\nThis is the center of scav territory. \r\nHe says he has an \"understanding\" with the scavs, but if they knew what he was carrying I'm sure they wouldn't hesitate. \r\n\r\nI don't really care what happened to this idiot; find my artifacts and bring them to me.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "07D467CD42292D6769F6DDA0B6EE767B",
+    "Hash": 2253972345,
+    "SourceString": "Modial Interaction",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "99663A6E4938F683E7F8E5A76EAC2684",
+    "Hash": 673154708,
+    "SourceString": "Dr. Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7D63E6AF4DE6414E1A924CA73722FB35",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F78C4C2E45394EDBCD9AAC8F84EA80B1",
+    "Hash": 2241880588,
+    "SourceString": "Install the new Turbo Incabulator in the RG East machine room.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "365F5B494DDC731409B80EAE618937D3",
+    "Hash": 2506974300,
+    "SourceString": "Turbo Incabulator installed: Report back to Dr. Mosby.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4D952ED04C484966E2A004BF687976B5",
+    "Hash": 3761642086,
+    "SourceString": "Currently my laboratory is only working at partial capacity. I need someone to re-install the Turbo Encabulator in RG East.\r\n\r\nA working Encabulator has been left at the entrance from my lab in RG East. Someone needs to bring it to the main machine room and install it into the control socket. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D6AAA73A4EA310FFA98209877B0FD7FE",
+    "Hash": 59200073,
+    "SourceString": "Fan The Flames",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D4296B784337304721BDEA92E8DE6FFB",
+    "Hash": 1028115194,
+    "SourceString": "Mamma Roach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ACBA77214674EEFD7CAFABBC265053F7",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "34CAB1CD442C2C87CB45E39995D84D94",
+    "Hash": 1620155925,
+    "SourceString": "Destroy at least 6 Fuel Tanks in GoldWood Forest.\r\n0/6 Fuel Tanks Destroyed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "441FCCCE44A9D950222B998068E49DE5",
+    "Hash": 1674890711,
+    "SourceString": "1/6 Fuel Tanks Destroyed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E0842DF7454DC1644BB021B19D087700",
+    "Hash": 1981254880,
+    "SourceString": "2/6 Fuel Tanks Destroyed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8F57D5B744D354247CF9C5BFDDBFC316",
+    "Hash": 2057915405,
+    "SourceString": "3/6 Fuel Tanks Destroyed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DBA80E134FE964501FD30AB168D99A7F",
+    "Hash": 1569787534,
+    "SourceString": "4/6 Fuel Tanks Destroyed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "388D3DA84733F26A80467C990D1094EE",
+    "Hash": 1362087523,
+    "SourceString": "5/6 Fuel Tanks Destroyed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "49966CB2438ADC33DCFFEDABE8B369C6",
+    "Hash": 1795155509,
+    "SourceString": "6/6 Fuel Tanks destroyed! Redeem at any Bounty Board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0C491CC44986E573FFEBB183D2F4C17D",
+    "Hash": 3370550157,
+    "SourceString": "The Insurrection has two major fuel reserves hidden in GoldWood Forest. \r\n\r\nSabotaging this supply line could set their plans back by weeks.\r\n\r\nDestroy at least 6 fuel tanks and we'll make it worth your trouble...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "27B10C0244902B48439E7E985F6A2EF0",
+    "Hash": 4158951580,
+    "SourceString": "Prototype Drill",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FE0A460A4E52AB5E9C3EEB883E372FE9",
+    "Hash": 673154708,
+    "SourceString": "Dr. Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2A5A24D5447EFEB63DFB75AB6BAAA749",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "731F09544FF6CA68A7C24788D3FD2FBB",
+    "Hash": 185717907,
+    "SourceString": "Retrieve a Prototype Drill Head for Dr. Mosby.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "98DDD5824883F9F3AACC63A46149C74D",
+    "Hash": 762003949,
+    "SourceString": "My memory from before the Threshold is fuzzy, but I know for a fact my lab wasn't the only place near Port Rale that was testing prototype drills. \r\n\r\nExplore any other research installations you can pry your way into; find a lead...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EDAB8C8142B2FF783315A8AF9192A719",
+    "Hash": 1423059054,
+    "SourceString": "Reverse Order",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "065E4E0B448C6DBD9DE723A52121C5BA",
+    "Hash": 673154708,
+    "SourceString": "Dr. Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B141A9E64A92E431EEEB46AA236DA272",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E9DC64A4AE449CFA3A009A742277352",
+    "Hash": 3615834579,
+    "SourceString": "Reverse the Eather Drill.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "388FB06449C5F2B5F4071E8FFB11C717",
+    "Hash": 812100369,
+    "SourceString": "[ATTENTION! This quest will not be completable until a later update!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "151CC07D4DB765750FEE5BABF7513324",
+    "Hash": 2343103028,
+    "SourceString": "It doesn't matter how, the Eather Drill must be reversed one way or another. \r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EF5B7E2448A5AC1F150DD7BC71334753",
+    "Hash": 814620115,
+    "SourceString": "I've uploaded our experiment results to the public terminal. Use a data tape to load them into a powerful computer to generate the reverse instructions for the drill.\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "29D272D54DE65349E304EC8C2F64947F",
+    "Hash": 3303047663,
+    "SourceString": "If you can't find a computer powerful enough, you may still be able to reverse the drill manually, but that's incredibly risky...\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "45A0698148C7C70F96A121A1814FDD53",
+    "Hash": 2750442304,
+    "SourceString": "Either way, you must get to the drill and reverse it as soon as possible! ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0D6612ED4D898D463012E2B7C0880E80",
+    "Hash": 3275082126,
+    "SourceString": "Second Bidder",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9CCA2725414D747622323FBC8AE17ACD",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "94EF39C7428C137D31A01DBAF566FFDC",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5A32EBD64504D4B1D2B418BD7CFD4C35",
+    "Hash": 516752583,
+    "SourceString": "Deliver the Drill Head to the Broker.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6F761D23401B5B0C19339F93EEE7779C",
+    "Hash": 1674286573,
+    "SourceString": "Secure me that prototype drill-head and I will pay off $2,000,000 of your debts.\r\n\r\n[Warning: Completing this quest will be seen as a betrayal to the Revolution!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E17EF66C470A70BEA7766F82DF3B7517",
+    "Hash": 26335482,
+    "SourceString": "Scorched Earth",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F3061BF74CFE98EC6F09068BAFF3A441",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DAD691D541FBF93F92B469B630F3C24B",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C723509B420C38D00C523487C5E680E0",
+    "Hash": 3312728051,
+    "SourceString": "Retrieve a 'Scorcher' weapon for the Broker.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A69BC4714C20DB2427AE219E1493B56D",
+    "Hash": 4175636107,
+    "SourceString": "Rumor tells of strange humanoids being spotted wielding Eather-based weapons that shoot twirling bolts of flame.\r\n\r\nBring me back one of these 'Scorcher' guns and I'll make it worth the effort. \r\n\r\nMost recently they've been spotted in some sort of heavy industrial facility off M35...",
+    "LocalizedString": ""
+  }
+]

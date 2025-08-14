@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "F36F5F0C43FF383D2D02A49D2D2F9E07",
+    "Hash": 2975477162,
+    "SourceString": "Gives the ability to see in the dark without emitting light. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E544F1164CCC4E7703C38D9ED8BD2117",
+    "Hash": 408878696,
+    "SourceString": "Press :HelmLight: to toggle on and off your Night Vision.",
+    "LocalizedString": "Нажмите :HelmLight:, чтобы включить или выключить ПНВ."
+  }
+]

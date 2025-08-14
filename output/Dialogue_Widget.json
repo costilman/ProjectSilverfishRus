@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "ED809D0246F5CC4878E96B9AA1262E1A",
+    "Hash": 2376630826,
+    "SourceString": "Show/Hide text log.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1D86047A49A3A4924E94109ED9BBC3CB",
+    "Hash": 890959075,
+    "SourceString": "Add quote to Journal Notes.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BB2EC6E64E5100F84BA7E9B6FA6CD223",
+    "Hash": 650405600,
+    "SourceString": "...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "46346E02449EF5552F0C48B311FD145E",
+    "Hash": 3960168151,
+    "SourceString": "Dialogue",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "46346E02449EF5552F0C48B311FD145E",
+    "Hash": 3960168151,
+    "SourceString": "Dialogue",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F1CAF5D343DD58CAB2E64CA840FEBD11",
+    "Hash": 3960168151,
+    "SourceString": "Dialogue",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8917D3244991BAC122017EB74CA33ABC",
+    "Hash": 775408137,
+    "SourceString": "NPC Name",
+    "LocalizedString": ""
+  }
+]
