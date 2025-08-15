@@ -4,182 +4,182 @@
     "Key": "276724CB4AECD65CF6276C9D36F82E83",
     "Hash": 140355718,
     "SourceString": "Steady Aim",
-    "LocalizedString": ""
+    "LocalizedString": "Верный Прицел"
   },
   {
     "Namespace": "",
     "Key": "7739B3F24A9A5E7B5718E8B5F834A3D4",
     "Hash": 4084942497,
     "SourceString": "Reduces weapon sway.",
-    "LocalizedString": ""
+    "LocalizedString": "Снижает тряску оружия."
   },
   {
     "Namespace": "",
     "Key": "AC01B283494436D29CF1ACA0706FA2DC",
     "Hash": 2427117223,
     "SourceString": "Lodestone",
-    "LocalizedString": ""
+    "LocalizedString": "Магнит"
   },
   {
     "Namespace": "",
     "Key": "41D1AEC9479D7511C156DA8B25879784",
     "Hash": 2843661624,
     "SourceString": "Attracts significantly more anomalies around you.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы буквально магнит для аномалий."
   },
   {
     "Namespace": "",
     "Key": "CE56ABAC4DA15F058456FEB28338698B",
     "Hash": 3994811726,
     "SourceString": "Lucky Looter",
-    "LocalizedString": ""
+    "LocalizedString": "Удачливый парень"
   },
   {
     "Namespace": "",
     "Key": "75A409294013E5E88C5FC1B6431305F4",
     "Hash": 2685735717,
     "SourceString": "Increases your chances of finding loot.",
-    "LocalizedString": ""
+    "LocalizedString": "Увеличивает шансы найти лут"
   },
   {
     "Namespace": "",
     "Key": "58D0B5CD4ED9189BB263EAA6E3C00D11",
     "Hash": 2943139695,
     "SourceString": "Hunger",
-    "LocalizedString": ""
+    "LocalizedString": "Голод"
   },
   {
     "Namespace": "",
     "Key": "E17D3F214D398178FFE9119D90B9F4C1",
     "Hash": 875404286,
     "SourceString": "Increases your hunger rate. ",
-    "LocalizedString": ""
+    "LocalizedString": "Увеличивает прирост голода."
   },
   {
     "Namespace": "",
     "Key": "CFBD5C3441099C63B7FF8CBB425D9379",
     "Hash": 610381465,
     "SourceString": "Speed Boost",
-    "LocalizedString": ""
+    "LocalizedString": "Прирост скорости"
   },
   {
     "Namespace": "",
     "Key": "D5BB89DF4BF4691C35516CA33F65D2A6",
     "Hash": 2934956335,
     "SourceString": "Slight increase to your movement speed.",
-    "LocalizedString": ""
+    "LocalizedString": "Немного увеличивает скорость передвижения"
   },
   {
     "Namespace": "",
     "Key": "5E5C831D4847F00B9DAA25A2255BE8C6",
     "Hash": 2051012900,
     "SourceString": "Regen Boost",
-    "LocalizedString": ""
+    "LocalizedString": "Ускоренная регенерация"
   },
   {
     "Namespace": "",
     "Key": "3ADE02D44972DA88C2E0F59AB2EEBC92",
     "Hash": 770029879,
     "SourceString": "Slightly increases your Health Regen rate.",
-    "LocalizedString": ""
+    "LocalizedString": "Немного увеличивает скорость регенерации."
   },
   {
     "Namespace": "",
     "Key": "482394BA4DFA62F80359E791A10F1204",
     "Hash": 827549691,
     "SourceString": "Fire Starter",
-    "LocalizedString": ""
+    "LocalizedString": "Пироман"
   },
   {
     "Namespace": "",
     "Key": "4416ADAD45B8184DE16A93822F414288",
     "Hash": 1950076555,
     "SourceString": "Melee weapons have a chance of setting targets on fire.",
-    "LocalizedString": ""
+    "LocalizedString": "Оружие ближнего боя имеет шанс поджечь противника."
   },
   {
     "Namespace": "",
     "Key": "A8B05BD443A80369F0A3B2B94F02F53F",
     "Hash": 2100232588,
     "SourceString": "High Jump",
-    "LocalizedString": ""
+    "LocalizedString": "Заяц"
   },
   {
     "Namespace": "",
     "Key": "50D9EA2A4F77086E3082D48BE3C0B84E",
     "Hash": 854064026,
     "SourceString": "Gives you increased jump height. ",
-    "LocalizedString": ""
+    "LocalizedString": "Увеличенная высота прыжка"
   },
   {
     "Namespace": "",
     "Key": "11D384E84E70A1D4F36009B49E7B1D4D",
     "Hash": 581521728,
     "SourceString": "Confident Lie",
-    "LocalizedString": ""
+    "LocalizedString": "Уверенный лжец"
   },
   {
     "Namespace": "",
     "Key": "FF7447CD47E827781CA26FA21EE501D8",
     "Hash": 1262540715,
     "SourceString": "Standing too close to an enemy will not risk compromising your disguise.",
-    "LocalizedString": ""
+    "LocalizedString": "Находясь близко к противнку вы больше не рискуете быть раскрытым."
   },
   {
     "Namespace": "",
     "Key": "C2C0F37843BF104A9F05C097E9AC03A1",
     "Hash": 1035728812,
     "SourceString": "Intense Personality",
-    "LocalizedString": ""
+    "LocalizedString": "Знаменитость"
   },
   {
     "Namespace": "",
     "Key": "68D4146847E2ED501B4B9EBCE851CADA",
     "Hash": 1212804331,
     "SourceString": "Actions that affect your reputation will have double the effect.",
-    "LocalizedString": ""
+    "LocalizedString": "Понижение или увеличение репутации увеличено в два раза."
   },
   {
     "Namespace": "",
     "Key": "22382DF54761D58B5F902E90F5C7120F",
     "Hash": 2165877541,
     "SourceString": "Eather Affinity",
-    "LocalizedString": ""
+    "LocalizedString": "Рожденный Эфиром"
   },
   {
     "Namespace": "",
     "Key": "D4B1DE61480F4A3A897D2EA0486A1905",
     "Hash": 3647676558,
     "SourceString": "You use Eather more efficiently.",
-    "LocalizedString": ""
+    "LocalizedString": "Более эффективное использование Эфира."
   },
   {
     "Namespace": "",
     "Key": "E6F7483147496D53B45356B19F8A5EFF",
     "Hash": 2091802175,
     "SourceString": "Intimidation",
-    "LocalizedString": ""
+    "LocalizedString": "Устрашающий"
   },
   {
     "Namespace": "",
     "Key": "E5726FF94D57F52DCAF967A2E8C48A66",
     "Hash": 695321189,
     "SourceString": "Enemies have an increased chance of panicking the first time they spot you.",
-    "LocalizedString": ""
+    "LocalizedString": "При виде вас, противники имеют повышенный шанс запаниковать."
   },
   {
     "Namespace": "",
     "Key": "8E19B524439B0FBE151CD3A6864F2076",
     "Hash": 3790089152,
     "SourceString": "Collector",
-    "LocalizedString": ""
+    "LocalizedString": "Собиратель"
   },
   {
     "Namespace": "",
     "Key": "EF65AD084E611164C5ACEEA3065574B7",
     "Hash": 1027894340,
     "SourceString": "You have better luck finding artifacts. ",
-    "LocalizedString": ""
+    "LocalizedString": "Повышенный шанс найти артефакты."
   },
   {
     "Namespace": "",
@@ -200,42 +200,42 @@
     "Key": "9E7155EB42A065CC9DE1DA8D05C48772",
     "Hash": 2006129601,
     "SourceString": "Thin Skin",
-    "LocalizedString": ""
+    "LocalizedString": "Тонкая кожа"
   },
   {
     "Namespace": "",
     "Key": "35C2573540E9B61B900222A3A5DA3F5E",
     "Hash": 3000386404,
     "SourceString": "You take slightly more damage...",
-    "LocalizedString": ""
+    "LocalizedString": "Вы получаете немного больше урона..."
   },
   {
     "Namespace": "",
     "Key": "AED85455449DD67324A09DBD6C8D49FE",
     "Hash": 790750640,
     "SourceString": "Glowing Aura",
-    "LocalizedString": ""
+    "LocalizedString": "Святящаяся аура"
   },
   {
     "Namespace": "",
     "Key": "E18CF15943096C29ABF094BFC241CFE6",
     "Hash": 2833293558,
     "SourceString": "You emit a pale, glowing aura. You can see more easily in the dark, but you are also more easily seen.",
-    "LocalizedString": ""
+    "LocalizedString": "От вас исходит тусклая, святящаяся аура. Вы лучше видите в темноте, но заметность увеличивается."
   },
   {
     "Namespace": "",
     "Key": "E78B3CC54C852BD4D39E3A9C165FD512",
     "Hash": 3339877780,
     "SourceString": "Haggler",
-    "LocalizedString": ""
+    "LocalizedString": "Торгаш"
   },
   {
     "Namespace": "",
     "Key": "9D3BDC2B47978E049525A3905C11892A",
     "Hash": 2888157632,
     "SourceString": "Buy items at shops for a lower price.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы покупаете предметы по более низкой цене."
   },
   {
     "Namespace": "",
@@ -256,14 +256,14 @@
     "Key": "DDA109244A342E2C2A6A6EAEB40E0989",
     "Hash": 1519327831,
     "SourceString": "Lingering Trauma",
-    "LocalizedString": ""
+    "LocalizedString": "Старая травма"
   },
   {
     "Namespace": "",
     "Key": "2BCA41744A241E4C63D60792A66FE8CC",
     "Hash": 3006065865,
     "SourceString": "You can never fully recover from Mental Fatigue...",
-    "LocalizedString": ""
+    "LocalizedString": "Вы больше не можете полностью избавиться от Ментальной Усталости."
   },
   {
     "Namespace": "",
@@ -291,482 +291,482 @@
     "Key": "D08A50A144B2CD76DE4859A5A6260300",
     "Hash": 2122410614,
     "SourceString": "Everything happens so much...\r\nAll probability curves are made flatter.",
-    "LocalizedString": ""
+    "LocalizedString": "Столько всего происходит...\r\nСлучайностей становится меньше."
   },
   {
     "Namespace": "",
     "Key": "12BA121A4EF3BC4BC9F1B8922FA0738D",
     "Hash": 2641159037,
     "SourceString": "Nudist",
-    "LocalizedString": ""
+    "LocalizedString": "Нудист"
   },
   {
     "Namespace": "",
     "Key": "6CE882EA48A58B14674D858B29EF2B72",
     "Hash": 3299791547,
     "SourceString": "Increased jump height and min sprint speed when not wearing armor.",
-    "LocalizedString": ""
+    "LocalizedString": "Увеличенные высота прыжка и минимальная скорость бега при отсутствии брони."
   },
   {
     "Namespace": "",
     "Key": "0154E4BF4217EEA856C15EA99CC17721",
     "Hash": 1846637657,
     "SourceString": "Acid Bleed",
-    "LocalizedString": ""
+    "LocalizedString": "Кислотная кровь"
   },
   {
     "Namespace": "",
     "Key": "9EE5862F4D0BA47C1AE9BCA29EDFD6B6",
     "Hash": 676459784,
     "SourceString": "Sometimes, you will bleed small pools of acid in lieu of blood.",
-    "LocalizedString": ""
+    "LocalizedString": "Иногда, вместо крови вы будете истекать кислотой."
   },
   {
     "Namespace": "",
     "Key": "AE453AAC458CA191429DF7893B55D0A6",
     "Hash": 3370576343,
     "SourceString": "Meteor",
-    "LocalizedString": ""
+    "LocalizedString": "Метеор"
   },
   {
     "Namespace": "",
     "Key": "7178E4D04C9438492C4ACB9851AE2C44",
     "Hash": 3148102496,
     "SourceString": "You emit an explosive blast wave in lieu of taking fall damage.",
-    "LocalizedString": ""
+    "LocalizedString": "Вместо того чтобы получить урон от падения, от вас исходит взрывная волна."
   },
   {
     "Namespace": "",
     "Key": "35F3BA9F48EF89368A85C7A5430FD505",
     "Hash": 1550737690,
     "SourceString": "Arc Reflex",
-    "LocalizedString": ""
+    "LocalizedString": "Наэлектризованный"
   },
   {
     "Namespace": "",
     "Key": "575C9E0B4D1E7731F4CCFBAAB785AFDC",
     "Hash": 1291569946,
     "SourceString": "Sometimes, when you take any damage, an electric arc will erupt from your body. ",
-    "LocalizedString": ""
+    "LocalizedString": "Иногда при получении урона из вас будет исходить электрическая дуга."
   },
   {
     "Namespace": "",
     "Key": "2CA5566541B640FF882BEE9E9FC445D6",
     "Hash": 623127811,
     "SourceString": "Lock Smith",
-    "LocalizedString": ""
+    "LocalizedString": "Взломщик"
   },
   {
     "Namespace": "",
     "Key": "F3D46C9C417424335BA10A8FFC739C53",
     "Hash": 2894608973,
     "SourceString": "You're better at picking locks.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы лучше взламываете замки."
   },
   {
     "Namespace": "",
     "Key": "272ACB7F4E3CD9C9676AD8912B6DF2C8",
     "Hash": 1602735493,
     "SourceString": "Hydrophobic",
-    "LocalizedString": ""
+    "LocalizedString": "Талассофобия"
   },
   {
     "Namespace": "",
     "Key": "88EF14244B10CBF447B144894A700B9F",
     "Hash": 2374200844,
     "SourceString": "Take damage from contact with water.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы получаете урон при контакте с водой."
   },
   {
     "Namespace": "",
     "Key": "EECCB64140D435DA6CDD2AA61EC8A301",
     "Hash": 1733549875,
     "SourceString": "Bad Swimmer",
-    "LocalizedString": ""
+    "LocalizedString": "Плохой пловец"
   },
   {
     "Namespace": "",
     "Key": "A85369474D07AC226A112ABD9C7029F4",
     "Hash": 1242073251,
     "SourceString": "You swim slower and have trouble holding your breath under water...",
-    "LocalizedString": ""
+    "LocalizedString": "У вас возникают проблемы с задержкой дыхания под водой, а скорость плавания немного снижается..."
   },
   {
     "Namespace": "",
     "Key": "640588474B0410FBCDC8FCB6969ED134",
     "Hash": 10654389,
     "SourceString": "Bad Cough",
-    "LocalizedString": ""
+    "LocalizedString": "Больной"
   },
   {
     "Namespace": "",
     "Key": "06195D4E4E9AC3878577D4B7788C9454",
     "Hash": 1848442144,
     "SourceString": "Every so often you will randomly be forced to cough, making a noise that can alert nearby enemies.",
-    "LocalizedString": ""
+    "LocalizedString": "Время от времени вы будете кашлять, что может привлечь ближайших противников."
   },
   {
     "Namespace": "",
     "Key": "6A8D801048D5A529A1ADB79CA532E4EC",
     "Hash": 3646644115,
     "SourceString": "Gun Shy",
-    "LocalizedString": ""
+    "LocalizedString": "Пацифист"
   },
   {
     "Namespace": "",
     "Key": "19E7C721448ACDF798CBBB888FE5E609",
     "Hash": 4258864551,
     "SourceString": "Reduced Handling on all ranged weapons.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы хуже обращаетесь с огнестрельным оружием."
   },
   {
     "Namespace": "",
     "Key": "ACE2BA334A45C4A98BEBC1BE35E79215",
     "Hash": 4115599216,
     "SourceString": "Skinflint",
-    "LocalizedString": ""
+    "LocalizedString": "Плутократ"
   },
   {
     "Namespace": "",
     "Key": "18C94F344E8AB712775386813F18F206",
     "Hash": 504567229,
     "SourceString": "You take Psychic damage when making purchases greater than $1000.",
-    "LocalizedString": ""
+    "LocalizedString": "При заключении сделок на более чем $1000, вы получаете физический урон."
   },
   {
     "Namespace": "",
     "Key": "5EF0E4AD4B9474ADE5969C9CD463CEE6",
     "Hash": 2295049720,
     "SourceString": "Spontaneous Combustion",
-    "LocalizedString": ""
+    "LocalizedString": "Жаркое сердце"
   },
   {
     "Namespace": "",
     "Key": "5942177B4E318D225D38F380D2F34ABE",
     "Hash": 3359849581,
     "SourceString": "Sometimes, upon taking damage, a massive fireball erupts out of you.",
-    "LocalizedString": ""
+    "LocalizedString": "Иногда после получения урона вы выпускаете огненный шар."
   },
   {
     "Namespace": "",
     "Key": "69394669453180FF9C12C1A7037C2C89",
     "Hash": 2293506579,
     "SourceString": "Mindful Whispers",
-    "LocalizedString": ""
+    "LocalizedString": "Шёпот стен"
   },
   {
     "Namespace": "",
     "Key": "651823834F3FE29568CE8FBFA697FBD2",
     "Hash": 3898753451,
     "SourceString": "Sometimes, in lieu of taking Psychic damage, you hear the whispers instead...",
-    "LocalizedString": ""
+    "LocalizedString": "Иногда вместо получения физического урона, вы слышите странный шёпот..."
   },
   {
     "Namespace": "",
     "Key": "118B8E474A75BF8BD2B2D19879B65A3A",
     "Hash": 3180246804,
     "SourceString": "Tooth and Bone",
-    "LocalizedString": ""
+    "LocalizedString": "Зубы да кости"
   },
   {
     "Namespace": "",
     "Key": "A428F28A449D39365341A09D38373175",
     "Hash": 4013380455,
     "SourceString": "While worn, a fatal wound will cause this helmet to shatter, but you will regain full health and rapid regeneration for a short time. ",
-    "LocalizedString": ""
+    "LocalizedString": "Пока на вас надет этот шлем, смертельное ранение заставит шлем тресуть, что даст вам быструю регенерацию здоровья и полностью залечит ваши раны."
   },
   {
     "Namespace": "",
     "Key": "1476F621414976A70A051BA54C1534D0",
     "Hash": 1040946077,
     "SourceString": "Gourmand",
-    "LocalizedString": ""
+    "LocalizedString": "Гурман"
   },
   {
     "Namespace": "",
     "Key": "F9B97F514FA815B0166DA6856AEDD976",
     "Hash": 4113213348,
     "SourceString": "Hot food feeds you more.\r\n\r\nCold food feeds you less.",
-    "LocalizedString": ""
+    "LocalizedString": "Горячяя еда стала питательнее.\r\n\r\nХолодная еда стала менее питательнее."
   },
   {
     "Namespace": "",
     "Key": "6A0FBF744129678405073391387710CB",
     "Hash": 1986862643,
     "SourceString": "Volatile",
-    "LocalizedString": ""
+    "LocalizedString": "Взрывоопасный"
   },
   {
     "Namespace": "",
     "Key": "2827EEF24F29CECB285A8C9146C7E758",
     "Hash": 2920469923,
     "SourceString": "Increases the magnitude of all local explosions.",
-    "LocalizedString": ""
+    "LocalizedString": "Увеличивает радиус всех взрывов."
   },
   {
     "Namespace": "",
     "Key": "0CF442F3444C690896B05D90E0BA0C3E",
     "Hash": 644936862,
     "SourceString": "Lightning Rod",
-    "LocalizedString": ""
+    "LocalizedString": "Громоотвод"
   },
   {
     "Namespace": "",
     "Key": "CA9B56AE401A3BE8215BD3A6D8DF7BB4",
     "Hash": 3510706109,
     "SourceString": "Dangerous weather events are far more likely...",
-    "LocalizedString": ""
+    "LocalizedString": "Опасные погодные условия случаются чаще..."
   },
   {
     "Namespace": "",
     "Key": "3E0B304C49E65626BADBCCA0A49FF424",
     "Hash": 1083078732,
     "SourceString": "Swift-Paw",
-    "LocalizedString": ""
+    "LocalizedString": "Проворные лапки"
   },
   {
     "Namespace": "",
     "Key": "5D0A119645E731B24E6986AFF79F6B0E",
     "Hash": 4182171407,
     "SourceString": "Increased move speed when crouching.",
-    "LocalizedString": ""
+    "LocalizedString": "Увеличенная скорость передвижения пока вы крадётесь."
   },
   {
     "Namespace": "",
     "Key": "D674BABD458DE825A9BA568E58A30FDA",
     "Hash": 3306319026,
     "SourceString": "Acid Resistance",
-    "LocalizedString": ""
+    "LocalizedString": "Устойчивость к кислоте"
   },
   {
     "Namespace": "",
     "Key": "F54D9FAA4B08C9F372047AA76A26AFB6",
     "Hash": 837582466,
     "SourceString": "Slightly increases your resistance to Acid.",
-    "LocalizedString": ""
+    "LocalizedString": "Немного увеличивает сопротивление кислоте."
   },
   {
     "Namespace": "",
     "Key": "F65F6C974145F949947E09A89F9CE6B2",
     "Hash": 1396796960,
     "SourceString": "Arc Resistance",
-    "LocalizedString": ""
+    "LocalizedString": "Устойчивость к электричеству"
   },
   {
     "Namespace": "",
     "Key": "1C0BEEC04F2EB4E1BAE966B0F8E6FD4B",
     "Hash": 3754188830,
     "SourceString": "Slightly increases your resistance to electric damage. ",
-    "LocalizedString": ""
+    "LocalizedString": "Немного увеличивает сопротивление электричеству."
   },
   {
     "Namespace": "",
     "Key": "6BFB983F4E6B37E9BEA43F989BB67242",
     "Hash": 1804052963,
     "SourceString": "Poison Resistance",
-    "LocalizedString": ""
+    "LocalizedString": "Устойчивость к яду"
   },
   {
     "Namespace": "",
     "Key": "EA4C41A7447DB8D0E80F16B8287DB8EF",
     "Hash": 1682085165,
     "SourceString": "Slightly increases your resistance to poison damage.",
-    "LocalizedString": ""
+    "LocalizedString": "Немного увеличивает сопротивление к яду."
   },
   {
     "Namespace": "",
     "Key": "DBD039FA40C8899024E35A9690FE53C3",
     "Hash": 1579330942,
     "SourceString": "Fire Resistance",
-    "LocalizedString": ""
+    "LocalizedString": "Устойчивость к огню"
   },
   {
     "Namespace": "",
     "Key": "12D04A894B6A246C3682D4B539DBDE4F",
     "Hash": 484395008,
     "SourceString": "Slightly increases your resistance to Fire damage. ",
-    "LocalizedString": ""
+    "LocalizedString": "Немного увеличивает сопротивление к огню."
   },
   {
     "Namespace": "",
     "Key": "A9B42ADD44B8D9A238FD349BF14DCDEF",
     "Hash": 3556011892,
     "SourceString": "Hard Skin",
-    "LocalizedString": ""
+    "LocalizedString": "Толстая кожа"
   },
   {
     "Namespace": "",
     "Key": "6F855ACE49415A6580D54E9AC224A058",
     "Hash": 2118066460,
     "SourceString": "Slightly increases your resistance to slashing and stab damage. ",
-    "LocalizedString": ""
+    "LocalizedString": "Немного увеличивает сопротивление к режущему и проникающему урону."
   },
   {
     "Namespace": "",
     "Key": "BC58F7754A7B3294694F26AF4AAC861B",
     "Hash": 3004915619,
     "SourceString": "Blast Resistance",
-    "LocalizedString": ""
+    "LocalizedString": "Устойчивость к взрыву"
   },
   {
     "Namespace": "",
     "Key": "2C0CE657499E1D4B771CB7B4528A1BAF",
     "Hash": 1160523391,
     "SourceString": "Slightly increases your resistance to blast damage.",
-    "LocalizedString": ""
+    "LocalizedString": "Немного увеличивает сопротивление к взрывному урону."
   },
   {
     "Namespace": "",
     "Key": "ED2564724B2820AAA1204BB2B7EC8DA7",
     "Hash": 3363185989,
     "SourceString": "Scuba",
-    "LocalizedString": ""
+    "LocalizedString": "Скубадайвинг"
   },
   {
     "Namespace": "",
     "Key": "FBB765ED4DBA5500D9490A99F53ECBD9",
     "Hash": 1680992060,
     "SourceString": "Hold your breath longer under water. ",
-    "LocalizedString": ""
+    "LocalizedString": "Вы дольше задерживаете дыхание."
   },
   {
     "Namespace": "",
     "Key": "1AFF826D49E5E4DFA130AFBA3D4916BA",
     "Hash": 3766960312,
     "SourceString": "Heads Up Display",
-    "LocalizedString": ""
+    "LocalizedString": "Информированный"
   },
   {
     "Namespace": "",
     "Key": "FDE3C92F43A56A176DDCC7B8370D64E9",
     "Hash": 691108492,
     "SourceString": "Provides a Heads-Up-Display.",
-    "LocalizedString": ""
+    "LocalizedString": "Проекция параметров на экран."
   },
   {
     "Namespace": "",
     "Key": "9CFC4CE04863D5DD4A166792CDAAFCC9",
     "Hash": 1019270249,
     "SourceString": "Insomnia",
-    "LocalizedString": ""
+    "LocalizedString": "Инсомния"
   },
   {
     "Namespace": "",
     "Key": "49E442024FBB13B0397AC39488B0164A",
     "Hash": 1674582330,
     "SourceString": "You have no control over how long you sleep in beds.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы не контролируете количество часов которое вы проспите."
   },
   {
     "Namespace": "",
     "Key": "108A42BF4BD8E8D57DACFF899AD29D2C",
     "Hash": 3383816616,
     "SourceString": "Crafting",
-    "LocalizedString": ""
+    "LocalizedString": "Крафтинг"
   },
   {
     "Namespace": "",
     "Key": "3DE9487D4165FAC961C5A291A99B26C2",
     "Hash": 4094897227,
     "SourceString": "You can craft items at a workbench.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы можете создавать предметы на верстаке"
   },
   {
     "Namespace": "",
     "Key": "8A3F429B436F4048B939A0AF33EA8FB0",
     "Hash": 2127599423,
     "SourceString": "Fish Repellent",
-    "LocalizedString": ""
+    "LocalizedString": "Посейдон"
   },
   {
     "Namespace": "",
     "Key": "C9760C4F43EF5664A59222A12CD9B476",
     "Hash": 184519005,
     "SourceString": "Mud Fish will not bite you.",
-    "LocalizedString": ""
+    "LocalizedString": "Пираньи больше не будут вас кусать."
   },
   {
     "Namespace": "",
     "Key": "574569AB4BBA64853A497D89744B5F56",
     "Hash": 1576463705,
     "SourceString": "Healthy Appetite",
-    "LocalizedString": ""
+    "LocalizedString": "Здоровый аппетит"
   },
   {
     "Namespace": "",
     "Key": "B22B7D384FFDC3ECE3029C8CB2243761",
     "Hash": 282008805,
     "SourceString": "Eating food regenerates a small amount of health. ",
-    "LocalizedString": ""
+    "LocalizedString": "Поедание еды восстанавливает немного здоровья."
   },
   {
     "Namespace": "",
     "Key": "C15395F94EAF281C95D48EBD9EEDFBF4",
     "Hash": 1962680000,
     "SourceString": "Attuned Madness",
-    "LocalizedString": ""
+    "LocalizedString": "Обезумевший"
   },
   {
     "Namespace": "",
     "Key": "9453E9E64D3AC84AD713259CD6BFEF47",
     "Hash": 100835108,
     "SourceString": "Amplifies the effects of all stackable attributes while having high Mental Fatigue.",
-    "LocalizedString": ""
+    "LocalizedString": "Усиливает эффекты всех складываемых атрибутов при высокой Ментальной Усталости."
   },
   {
     "Namespace": "",
     "Key": "E92524EF476FAEF00CAFD5A0C93108C8",
     "Hash": 2830378913,
     "SourceString": "Guilt",
-    "LocalizedString": ""
+    "LocalizedString": "Вина"
   },
   {
     "Namespace": "",
     "Key": "C8BB5BC3425DC3441EDB1885E091EC16",
     "Hash": 1534290739,
     "SourceString": "Killing intelligent beings gives you increased Mental Fatigue.",
-    "LocalizedString": ""
+    "LocalizedString": "Убийство разумных существ увеличивает показатель Ментальной Усталости."
   },
   {
     "Namespace": "",
     "Key": "720156E74F56B38CB1BDD7AFF30726E6",
     "Hash": 3799967377,
     "SourceString": "Blood Starved",
-    "LocalizedString": ""
+    "LocalizedString": "Жажда крови"
   },
   {
     "Namespace": "",
     "Key": "E0DC36AB4FDB08462BCCF5B5AF8BD4DF",
     "Hash": 3488387881,
     "SourceString": "You gain improved recoil control the more hungry you are.",
-    "LocalizedString": ""
+    "LocalizedString": "Чем больше голод, тем лучше контроль отдачи."
   },
   {
     "Namespace": "",
     "Key": "3712C16B42E0DBFF72C334A1B27EA80E",
     "Hash": 2444813527,
     "SourceString": "Grim Aura",
-    "LocalizedString": ""
+    "LocalizedString": "Мрачный вид"
   },
   {
     "Namespace": "",
     "Key": "1C8168404469B808178412A127AD505D",
     "Hash": 578925257,
     "SourceString": "You are more susceptible to Psychic Damage.",
-    "LocalizedString": ""
+    "LocalizedString": "Вы более подвержены физическому урону."
   },
   {
     "Namespace": "",
     "Key": "71E9282E4B759741F1ABD6AF4EA122A7",
     "Hash": 3992202843,
     "SourceString": "Familiar Scent",
-    "LocalizedString": ""
+    "LocalizedString": "Знакомый запах"
   },
   {
     "Namespace": "",
     "Key": "26194EDA40035BD8B8F17F968ABF3D1A",
     "Hash": 3677922494,
     "SourceString": "Feral dogs won't attack you.",
-    "LocalizedString": ""
+    "LocalizedString": "Дикие собаки больше не атакуют вас."
   }
 ]

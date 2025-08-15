@@ -459,14 +459,14 @@
     "Key": "BECDE322453CBC350ABF2CA650FA8088",
     "Hash": 2994871675,
     "SourceString": "Hardware Problems",
-    "LocalizedString": ""
+    "LocalizedString": "Проблемы с оборудованием"
   },
   {
     "Namespace": "",
     "Key": "12AA5D99459775C92FB88DB62225682F",
     "Hash": 673154708,
     "SourceString": "Dr. Mosby",
-    "LocalizedString": ""
+    "LocalizedString": "Доктор Мосби"
   },
   {
     "Namespace": "",
@@ -480,21 +480,21 @@
     "Key": "EF6687744D25108CCA66E584B2BAECCD",
     "Hash": 896314363,
     "SourceString": "Retrieve a Computer Board for Dr. Mosby.",
-    "LocalizedString": ""
+    "LocalizedString": "Вернуть материнскую плату для Доктора Мосби"
   },
   {
     "Namespace": "",
     "Key": "A4ABBC014D9DDE165E6B84B686ECCF0D",
     "Hash": 1649659382,
     "SourceString": "Hello, yes this is Dr. Mosby:\r\nWe're having some computer issues and believe them to be hardware related.",
-    "LocalizedString": ""
+    "LocalizedString": "Здраствуйте. Да, это Доктор Мосби:\r\nУ нас проблемы с компьютером и нам кажется все дело в железе."
   },
   {
     "Namespace": "",
     "Key": "6798B0724D3642E952CDAB8E7E23B3F2",
     "Hash": 1286475141,
     "SourceString": "Anyone who can stop by with a working computer board, please, we'll pay you double what its worth.\r\n\r\nThe sooner the better. You can find my lab in the facility in the south-west corner of the Flood Plains. Door labeled \"RG WEST\".",
-    "LocalizedString": ""
+    "LocalizedString": "Любой кто наткнется на рабочую материнскую плату, прошу, мы заплатим вдвое её рыночной цены.\r\n\r\nЧем раньше тем лучше. Вы можете найти мою лабараторию в районе завода на юго-западном углу Затопленных Равнин. Дверь с маркировкой \"RG WEST\" "
   },
   {
     "Namespace": "",
@@ -578,7 +578,7 @@
     "Key": "4FAC51BC44B19F3F079268B1572FFDEB",
     "Hash": 2552831091,
     "SourceString": "Signal Jammer: Crossroads",
-    "LocalizedString": ""
+    "LocalizedString": "Подавитель сигнала: Перекрёсток"
   },
   {
     "Namespace": "",
@@ -599,7 +599,7 @@
     "Key": "FB001E1B46D3E76C559CF5BA6DB28475",
     "Hash": 1934868642,
     "SourceString": "Disable the Signal Jammer in Crossroads.",
-    "LocalizedString": ""
+    "LocalizedString": "Отключите подавитель сигнала на Перекрёстке"
   },
   {
     "Namespace": "",
@@ -613,21 +613,21 @@
     "Key": "427387AC412EDD8D2770F690A32B241F",
     "Hash": 3067903900,
     "SourceString": "Someone's set up a signal jammer somewhere in Crossroads. It's blocking my comms. \r\n\r\nIt seems to be somewhere near the scrap depot...\r\n\r\nI bet they set it some place high up in the air...",
-    "LocalizedString": ""
+    "LocalizedString": "Кто-то установил подавитель сигнала где-то на Перекрёстке. Он блокирует мои средства коммуникации. \r\n\r\nОн должен быть где-то на свалке...\r\n\r\nСпорим они его установили где-то повыше..."
   },
   {
     "Namespace": "",
     "Key": "9CF69ABD48A027CF1F48A1B918A8A1F8",
     "Hash": 3651302077,
     "SourceString": "Signal Jammer: Flood Plains",
-    "LocalizedString": ""
+    "LocalizedString": "Подавитель сигнала: Затопленные равнины"
   },
   {
     "Namespace": "",
     "Key": "00ECD8634B8F9A850DCC669EA10A448A",
     "Hash": 673154708,
     "SourceString": "Dr. Mosby",
-    "LocalizedString": ""
+    "LocalizedString": "Доктор Мосби"
   },
   {
     "Namespace": "",
@@ -641,7 +641,7 @@
     "Key": "13023D244F531FC0F14FF990A201B43E",
     "Hash": 1882053275,
     "SourceString": "Disable the Signal Jammer in Flood Plains.",
-    "LocalizedString": ""
+    "LocalizedString": "Отключите подавитель сигнала в Затопленных равнинах"
   },
   {
     "Namespace": "",
@@ -655,21 +655,21 @@
     "Key": "AB6C37BE454DA32E0AC846A6DBA99B4B",
     "Hash": 1484987973,
     "SourceString": "My comms have been jammed too!\r\n\r\nSee if you can find where they set up their jammer! It should be somewhere high up near the entrance of my lab...",
-    "LocalizedString": ""
+    "LocalizedString": "Моя связь тоже барахлит!\r\n\r\nПосмотрите если сможете найти где они установили свою глушилку! Она должна быть где-то на возвышенности, неподалёку от моего входа в лабораторию..."
   },
   {
     "Namespace": "",
     "Key": "670865C14A0E1FCB8070928FA9A17C82",
     "Hash": 4269519709,
     "SourceString": "Signal Jammer: Black Lake",
-    "LocalizedString": ""
+    "LocalizedString": "Подавитель сигнала: Чёрное Озеро"
   },
   {
     "Namespace": "",
     "Key": "36A0593E4292E42FA1E7F589C45B8B4E",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
@@ -683,7 +683,7 @@
     "Key": "5C3EDEDC4E32AE4ED6F3BB985B29446B",
     "Hash": 537439380,
     "SourceString": "Disable the Signal Jammer at Black Lake.",
-    "LocalizedString": ""
+    "LocalizedString": "Отключите подавитель сигнала на Чёрном Озере"
   },
   {
     "Namespace": "",
@@ -697,7 +697,7 @@
     "Key": "40E491804A4F5EE667EA68A1348BE7E8",
     "Hash": 1206841816,
     "SourceString": "My comms are getting jammed. \r\n\r\nNo idea where they set up their toy, but it can't be far from us.\r\n\r\nI need it taken out ASAP!",
-    "LocalizedString": ""
+    "LocalizedString": "Мои средства связи что-то блокирует извне. \r\n\r\nБез понятия где они установили свою тарантайку, но она не может быть далеко от нас. \r\n\r\nНужно вывести её из строя срочно!"
   },
   {
     "Namespace": "",
@@ -746,14 +746,14 @@
     "Key": "7C2B67DA4A147CF75F6FBD92A16E36FE",
     "Hash": 2776994554,
     "SourceString": "Copper Stop",
-    "LocalizedString": ""
+    "LocalizedString": "Перебой в поставке меди"
   },
   {
     "Namespace": "",
     "Key": "BD6E28854254F92898BC8AAAEC3F2200",
     "Hash": 1028115194,
     "SourceString": "Mamma Roach",
-    "LocalizedString": ""
+    "LocalizedString": "Мама Букаха"
   },
   {
     "Namespace": "",
@@ -767,28 +767,28 @@
     "Key": "36AFEBA24FE0EEE2106130B4D2906AC1",
     "Hash": 831005707,
     "SourceString": "Retrieve copper wire for Mamma Roach.",
-    "LocalizedString": ""
+    "LocalizedString": "Принесите медную проволку Маме Букахе"
   },
   {
     "Namespace": "",
     "Key": "A9864CD14A65DBFABE064D90F742B6F1",
     "Hash": 3869912521,
     "SourceString": "We ran out of Copper Wire while trying to repair some electronics. ",
-    "LocalizedString": ""
+    "LocalizedString": "У нас иссякли запасы медной проволки пока мы пытались починить наши приборы."
   },
   {
     "Namespace": "",
     "Key": "4C4C67E3433170D27D3F219CA793CFDD",
     "Hash": 3353664568,
     "SourceString": "There's an industrial pier on the canal in Metropol. You might be able to find some there. ",
-    "LocalizedString": ""
+    "LocalizedString": "На канале Метрополя есть произовдственный цех. Я думаю там ты сможешь найти нужную нам медную проволку."
   },
   {
     "Namespace": "",
     "Key": "FC4477164EB49901537D63864EAD8045",
     "Hash": 4112714750,
     "SourceString": "M35 Transmission",
-    "LocalizedString": ""
+    "LocalizedString": "Сигнал с М35"
   },
   {
     "Namespace": "",
@@ -809,14 +809,14 @@
     "Key": "30A026C74B1C63901E6BBE9F6F7DF684",
     "Hash": 191876738,
     "SourceString": "Retrieve a tape containing the M35 Radio Transmission.",
-    "LocalizedString": ""
+    "LocalizedString": "Верните кассету содержащую радио сигнал с М35"
   },
   {
     "Namespace": "",
     "Key": "391A14A74119DA8A44E0DAA4A40E7AA7",
     "Hash": 212171132,
     "SourceString": "Not long ago I caught the tail end of a strange encrypted radio transmission coming from the Zone.\r\n\r\nThere's a small radio station on M35. It's still operational, so it might have caught a transcript. \r\n\r\nSee if you can download the transmission onto a Data Tape and bring it back to me. ",
-    "LocalizedString": ""
+    "LocalizedString": "Не так давно я поймал странный зашифрованный радио сигнал исходящий из Зоны.\r\n\r\n Там находится маленькая радиостанция на М35. Она всё еще в рабочем состоянии, так что она вполне могла поймать этот сигнал. \r\n\r\nГлянь, сможешь ли скачать этот сигнал на плёнку и принести её мне обратно."
   },
   {
     "Namespace": "",
@@ -865,7 +865,7 @@
     "Key": "C91EA23D40CBA325F144349308AEA1C3",
     "Hash": 2558675523,
     "SourceString": "Broken Wrench",
-    "LocalizedString": ""
+    "LocalizedString": "Сломанный ключ"
   },
   {
     "Namespace": "",
@@ -886,28 +886,28 @@
     "Key": "13CB2B8E42D67771480B508BB1B2260E",
     "Hash": 7237003,
     "SourceString": "Find a replacement Wrench for Simmi.",
-    "LocalizedString": ""
+    "LocalizedString": "Найди замену гаечного ключа для Симми"
   },
   {
     "Namespace": "",
     "Key": "C44EE03D42F901390133DE88D0E40BC8",
     "Hash": 235171968,
     "SourceString": "Shit, my wrench broke.  Can someone fetch me a replacement?\r\n\r\nLook around the large warehouse in the middle of Crossroads. There's bound to be one there.\r\n\r\nI'll pay you with a Med-Kit and a can of Beans...",
-    "LocalizedString": ""
+    "LocalizedString": "Сука, мой гаечный ключ теперь в дребезги. Может кто-нибудь найти мне другой?\r\n\r\n Осмотрись на большом складе в центре Перекрёстка. Там точно должен быть один.\r\n\r\nЯ заплачу тебе аптечкой и банкой бобов..."
   },
   {
     "Namespace": "",
     "Key": "140DEB364A4A737C164F8188F5959632",
     "Hash": 360869306,
     "SourceString": "Bad Egg",
-    "LocalizedString": ""
+    "LocalizedString": "Плохое Яйцо"
   },
   {
     "Namespace": "",
     "Key": "775DB78D41311856A7740EB704477272",
     "Hash": 3684172133,
     "SourceString": "Krieg",
-    "LocalizedString": ""
+    "LocalizedString": "Криг"
   },
   {
     "Namespace": "",
@@ -921,7 +921,7 @@
     "Key": "627B645140F680DC171A42899E8006FB",
     "Hash": 1938052430,
     "SourceString": "Find and take out the stalker known as Egg-Head.",
-    "LocalizedString": ""
+    "LocalizedString": "Найдите и устраните сталкера известного по кличке Яйцеголовый."
   },
   {
     "Namespace": "",
@@ -935,21 +935,21 @@
     "Key": "71D69D974AD98CD81B166F903A132990",
     "Hash": 1574879648,
     "SourceString": "There's this local guy, goes by the name Egg-Head.\r\n\r\nHe made a bad deal with some associates of mine. He was due to produce some artifacts, but they never materialized. \r\n\r\nMy associates have exhausted their patience with him.\r\n\r\n8K on his round, pale, dome.\r\n\r\nHe was last seen snooping around \"RG-East\", the abandoned labs next to Doc Mo's place...",
-    "LocalizedString": ""
+    "LocalizedString": "Есть тут местный паренёк, кличут Яйцеголовый.\r\n\r\nОн заключил несколько неудачных сделок с моими партнёрами. Он должен был принести им несколько артефактов, но он не сдержал своё поганое обещание. \r\n\r\nМои партнёры уже устали от него.\r\n\r\nОни готовы заплатить 8к за его круглую ебучую рожу.\r\n\r\nНедавно его видели шнырающим вокруг \"RG-East\", заброшенных лабораторий около места обитания Доктора Мо"
   },
   {
     "Namespace": "",
     "Key": "74B3875B4476A7CD8DD355ACB452E7DD",
     "Hash": 260828085,
     "SourceString": "Hell Hunt",
-    "LocalizedString": ""
+    "LocalizedString": "Адская охота"
   },
   {
     "Namespace": "",
     "Key": "B88E88CC4E787419650BB292C0F872CF",
     "Hash": 24652088,
     "SourceString": "Anonymous",
-    "LocalizedString": ""
+    "LocalizedString": "Аноним"
   },
   {
     "Namespace": "",
@@ -963,21 +963,21 @@
     "Key": "C91EEC824AE8372E32CFC7B62ABDB284",
     "Hash": 2908209898,
     "SourceString": "Take out the Hell Hound spotted on M35.",
-    "LocalizedString": ""
+    "LocalizedString": "Устраните Адскую Гончую замеченную на М35"
   },
   {
     "Namespace": "",
     "Key": "60EF9DCE4F1538E65D6167BFEC8ED54E",
     "Hash": 2048365412,
     "SourceString": "The beast is dead. Redeem contract at any board.",
-    "LocalizedString": ""
+    "LocalizedString": "Чудовище мертво. Пора сдать контракт на любой доске с контрактами"
   },
   {
     "Namespace": "",
     "Key": "3F1D4A4340DFDA9546A6CFAA06F02999",
     "Hash": 1853796358,
     "SourceString": "Hey, I spotted a Hell-Hound prowling around in the valley at the North-East end of M35.\r\n\r\nDon't usually see these monsters this far south.  Looks like an alpha too.\r\n\r\nIts already killed two guys, I'll pay to have someone braver than me come and take care of it. ",
-    "LocalizedString": ""
+    "LocalizedString": "Эй, я заметил Адскую Гончую рыскающую по долине на северо-восточном конце зоны М35. \r\n\r\nОбычно такие монстрюги не заходят так далеко на юг. Выглядит как альфа.\r\n\r\nОна уже разорвала двух ребят, я заплачу тому храбрецу кто позаботится об этой твари."
   },
   {
     "Namespace": "",
