@@ -53,7 +53,7 @@
     "Key": "DAFCFA574EC157672182FFA82F39EF3E",
     "Hash": 1591551663,
     "SourceString": "NOTES:",
-    "LocalizedString": ""
+    "LocalizedString": "ДЕТАЛИ:"
   },
   {
     "Namespace": "",
@@ -88,21 +88,21 @@
     "Key": "2DB7EDE0451B46684C82B7AE88736D17",
     "Hash": 3968971570,
     "SourceString": "Reward upon turning in the completed contract.",
-    "LocalizedString": ""
+    "LocalizedString": "Награда за сдачу выполненного контракта."
   },
   {
     "Namespace": "",
     "Key": "C5C1781B44F30A4E2C1C3FB640AEDA3E",
     "Hash": 1513623138,
     "SourceString": "REDEEM WITH:",
-    "LocalizedString": ""
+    "LocalizedString": "СДАТЬ КОМУ:"
   },
   {
     "Namespace": "",
     "Key": "54BE6B9D4D5BEF743811089EF8A1C9E6",
     "Hash": 2493539087,
     "SourceString": "The finished contract must be redeemed here.",
-    "LocalizedString": ""
+    "LocalizedString": "Выполненный контракт необходимо сдать здесь."
   },
   {
     "Namespace": "",
