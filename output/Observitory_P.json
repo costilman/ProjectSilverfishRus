@@ -11,7 +11,7 @@
     "Key": "CDCFFA7F4C73CC4CA0358DB96E138654",
     "Hash": 1350527701,
     "SourceString": "Observatory",
-    "LocalizedString": ""
+    "LocalizedString": "Обсерватория"
   },
   {
     "Namespace": "",
@@ -32,7 +32,7 @@
     "Key": "943C73FE4A39B221D02174BC0539DE8F",
     "Hash": 979607551,
     "SourceString": "This is a SAFE ZONE:\r\n\r\nYou can lower your weapon by holding down the :Grab: Key",
-    "LocalizedString": "Это БЕЗОПАСНАЯ ЗОНА:\r\n\r\nВы можете опустить оружие, удерживая клавишу :Grab:"
+    "LocalizedString": "БЕЗОПАСНАЯ ЗОНА:\r\n\r\nВы можете опустить оружие, удерживая клавишу :Grab:"
   },
   {
     "Namespace": "",

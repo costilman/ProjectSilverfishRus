@@ -11,20 +11,20 @@
     "Key": "1B90199D489BE5263F5233B4E19DF104",
     "Hash": 4201598352,
     "SourceString": "I need to buy some ammo. ",
-    "LocalizedString": ""
+    "LocalizedString": "Мне нужно купить патроны."
   },
   {
     "Namespace": "",
     "Key": "DEFBFFAA47144AFCFE5DE0A8A17CC512",
     "Hash": 2670199433,
     "SourceString": "Can you upgrade a weapon for me?",
-    "LocalizedString": ""
+    "LocalizedString": "Можешь улучшить для меня оружие?"
   },
   {
     "Namespace": "",
     "Key": "41C4BAC24432CA23F048229E34A1BCA9",
     "Hash": 4239802242,
     "SourceString": "Nothing right now.",
-    "LocalizedString": ""
+    "LocalizedString": "Пока ничего."
   }
 ]
