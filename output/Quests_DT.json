@@ -88,14 +88,14 @@
     "Key": "D8C570F24E77A768478C2C8A0B750241",
     "Hash": 3246562271,
     "SourceString": "Lenny's House",
-    "LocalizedString": ""
+    "LocalizedString": "Дом Ленни"
   },
   {
     "Namespace": "",
     "Key": "7181861D47BEEAE468623E8A95075097",
     "Hash": 3684172133,
     "SourceString": "Krieg",
-    "LocalizedString": ""
+    "LocalizedString": "Криг"
   },
   {
     "Namespace": "",
@@ -109,14 +109,14 @@
     "Key": "31E544D24EA8E2761FEB82AEAFC01E95",
     "Hash": 2091680192,
     "SourceString": "Find and take out 'Lenny'.",
-    "LocalizedString": ""
+    "LocalizedString": "Найдите и устраните 'Ленни'."
   },
   {
     "Namespace": "",
     "Key": "399C75FF4AB8623DACDD44A8F2DA2CCD",
     "Hash": 2339464801,
     "SourceString": "Lenny is Dead. Redeem the contract at any bounty board.",
-    "LocalizedString": ""
+    "LocalizedString": "Ленни мёртв. Пора сдать контракт на любой доске с контрактами."
   },
   {
     "Namespace": "",
@@ -753,7 +753,7 @@
     "Key": "BD6E28854254F92898BC8AAAEC3F2200",
     "Hash": 1028115194,
     "SourceString": "Mamma Roach",
-    "LocalizedString": "Мама Букаха"
+    "LocalizedString": "Мама Роуч"
   },
   {
     "Namespace": "",
@@ -767,7 +767,7 @@
     "Key": "36AFEBA24FE0EEE2106130B4D2906AC1",
     "Hash": 831005707,
     "SourceString": "Retrieve copper wire for Mamma Roach.",
-    "LocalizedString": "Принесите медную проволку Маме Букахе"
+    "LocalizedString": "Принесите медную проволку Маме Роуч"
   },
   {
     "Namespace": "",
@@ -963,14 +963,14 @@
     "Key": "C91EEC824AE8372E32CFC7B62ABDB284",
     "Hash": 2908209898,
     "SourceString": "Take out the Hell Hound spotted on M35.",
-    "LocalizedString": "Устраните Адскую Гончую замеченную на М35"
+    "LocalizedString": "Устраните Адскую Гончую замеченную на М35."
   },
   {
     "Namespace": "",
     "Key": "60EF9DCE4F1538E65D6167BFEC8ED54E",
     "Hash": 2048365412,
     "SourceString": "The beast is dead. Redeem contract at any board.",
-    "LocalizedString": "Чудовище мертво. Пора сдать контракт на любой доске с контрактами"
+    "LocalizedString": "Чудовище мертво. Пора сдать контракт на любой доске с контрактами."
   },
   {
     "Namespace": "",

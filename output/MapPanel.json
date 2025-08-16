@@ -4,14 +4,14 @@
     "Key": "DB4B89634651EB0F759DCCB77AB9D66B",
     "Hash": 54965963,
     "SourceString": "River Dock",
-    "LocalizedString": ""
+    "LocalizedString": "Речной причал"
   },
   {
     "Namespace": "",
     "Key": "47891967486248CA27658A89C3FCD8E6",
     "Hash": 435741272,
     "SourceString": "Crossroads",
-    "LocalizedString": ""
+    "LocalizedString": "Перекрёсток"
   },
   {
     "Namespace": "",
@@ -109,7 +109,7 @@
     "Key": "39E79A1744199E1993D6E09448752BDE",
     "Hash": 471538577,
     "SourceString": "Flood Plains",
-    "LocalizedString": ""
+    "LocalizedString": "Затопленные равнины"
   },
   {
     "Namespace": "",
