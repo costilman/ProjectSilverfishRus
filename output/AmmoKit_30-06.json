@@ -4,14 +4,14 @@
     "Key": "854C58A24FA41562A746E0986F05C5F3",
     "Hash": 1810461640,
     "SourceString": "Ammo Kit:\r\n\r\n48 Rounds 30-06 FMJ\r\n28 Rounds 30-06 Incendiary",
-    "LocalizedString": ""
+    "LocalizedString": "Набор патронов:\r\n\r\n48 цельнометаллических патронов 30-06 FMJ\r\n28 зажигательных патронов 30-06 Incendiary"
   },
   {
     "Namespace": "",
     "Key": "2304DA964777141D3B2D3697F0B06859",
     "Hash": 731346318,
     "SourceString": "Open",
-    "LocalizedString": ""
+    "LocalizedString": "Открыть"
   },
   {
     "Namespace": "",

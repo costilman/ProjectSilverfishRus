@@ -4,7 +4,7 @@
     "Key": "7E4FA95240F49286577648A8C21106EB",
     "Hash": 3504815020,
     "SourceString": "Used in Heavy Rifles, DMRs and LMGs.\r\n\r\nThree bullets stacked in-line within each cartridge. Trades accuracy and muzzle velocity for triple the hit chance. ",
-    "LocalizedString": ""
+    "LocalizedString": "Используются в тяжелых винтовках,снайперских винтовках и лёгких пулемётах.\r\n\r\nВ каждом патроне три пули, расположенные в ряд. Точность и начальная скорость пули при этом уменьшаются ради утроения вероятности попадания."
   },
   {
     "Namespace": "",

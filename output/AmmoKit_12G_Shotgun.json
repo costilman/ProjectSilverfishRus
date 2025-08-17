@@ -4,14 +4,14 @@
     "Key": "FB7C37D04B0141B59D860E8FC3910766",
     "Hash": 4288314178,
     "SourceString": "Ammo Kit:\r\n\r\n40 Buckshot Shells\r\n20 12-Gauge Slugs",
-    "LocalizedString": ""
+    "LocalizedString": "Набор патронов:\r\n\r\n40 патронов с картечью\r\n20 пуль 12-го калибра"
   },
   {
     "Namespace": "",
     "Key": "061C2A6C435E5441EEBBC5B95314E885",
     "Hash": 731346318,
     "SourceString": "Open",
-    "LocalizedString": ""
+    "LocalizedString": "Открыть"
   },
   {
     "Namespace": "",

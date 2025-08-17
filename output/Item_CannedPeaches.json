@@ -4,13 +4,13 @@
     "Key": "CD50A0D944FA2073C6BBFD81B4B3580A",
     "Hash": 3012267202,
     "SourceString": "\"Tastes just like the real thing!\"",
-    "LocalizedString": ""
+    "LocalizedString": "\"На вкус как настоящий!\""
   },
   {
     "Namespace": "",
     "Key": "30EA8F6B4601E831F32FB482FD76B2BD",
     "Hash": 1917672457,
     "SourceString": "EAT",
-    "LocalizedString": ""
+    "LocalizedString": "СЪЕСТЬ"
   }
 ]
