@@ -4,13 +4,13 @@
     "Key": "BA753A404559F978493EBCBFF926FD8D",
     "Hash": 538587084,
     "SourceString": "Leftover food cooked at a campfire.",
-    "LocalizedString": ""
+    "LocalizedString": "Остатки еды, приготовленной на костре."
   },
   {
     "Namespace": "",
     "Key": "79BB664B46D9750743A914B24AC0F069",
     "Hash": 1917672457,
     "SourceString": "EAT",
-    "LocalizedString": ""
+    "LocalizedString": "СЪЕСТЬ"
   }
 ]
