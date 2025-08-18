@@ -4,7 +4,7 @@
     "Key": "3A7F5BAD4D72B9F0C41A25B3F12B2685",
     "Hash": 3358247719,
     "SourceString": "Test Document",
-    "LocalizedString": ""
+    "LocalizedString": "Образец документа"
   },
   {
     "Namespace": "",
@@ -32,350 +32,350 @@
     "Key": "D003A17E49E45E715FA2DD8E4EB60741",
     "Hash": 3813139155,
     "SourceString": "Notice:",
-    "LocalizedString": ""
+    "LocalizedString": "Объявление"
   },
   {
     "Namespace": "",
     "Key": "5337028B4C50BADE1D59B8A0269DB412",
     "Hash": 3174452049,
     "SourceString": "To all staff: \r\n\r\nIf you need to get into the company Records office, you'll need to get Mr. Sheffield's assistance. \r\nAfter the recent layoffs, he is currently the only employee who has a key. \r\n\r\nThank you!",
-    "LocalizedString": ""
+    "LocalizedString": "Ко всем сотрудникам: \r\n\r\nЕсли вам нужен доступ в архив компании, обратитесь к мистеру Шеффилду. \r\nПосле недавних сокращений ключ есть только у него. \r\n\r\nСпасибо!"
   },
   {
     "Namespace": "",
     "Key": "5CB7CE2140236D4D9CB25C9994C182C2",
     "Hash": 1791451483,
     "SourceString": "Depot Manifest:",
-    "LocalizedString": ""
+    "LocalizedString": "Ведомость депо"
   },
   {
     "Namespace": "",
     "Key": "4CC4ACB1448829ABC59D4997F3E15BFA",
     "Hash": 3018278442,
     "SourceString": "-Boxcar: R-726-14\r\n\r\nTrack: 11 - Parked\r\n\r\nCargo: Mixed Goods.\r\n\r\n\r\n-Misc Coach:\r\n\r\nTrack: 01 - Being serviced in Shed\r\n\r\n\r\n-Mixed Freight:\r\n\r\nTrack: 08 - Parked\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "-Грузовой вагон R-726-14\r\n\r\nПуть 11 – Стоянка\r\n\r\nГруз: Сборный.\r\n\r\n\r\n-Служебный вагон\r\n\r\nПуть 01 – Обслуживание в ангаре\r\n\r\n\r\n-Сборный состав\r\n\r\nПуть 08 – Стоянка\r\n"
   },
   {
     "Namespace": "",
     "Key": "844149C84FD676F1A4EA008C6079A12C",
     "Hash": 2072984104,
     "SourceString": "-Boxcar: Q-611-17\r\n\r\nTrack: 10 - Parked mixed freight rake.\r\n\r\nCargo: Empty\r\n\r\n\r\n-Boxcar: M-099-54\r\n\r\nTrack: 09 - Parked mixed freight rake.\r\n\r\nCargo: Military Equipment\r\n\r\n\r\n-10:14 Commuter: East Bound\r\n\r\nTrack: 04 - Parked\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "-Грузовой вагон Q-611-17\r\n\r\nПуть 10 – Стоянка (сборный состав).\r\n\r\nГруз: Нет\r\n\r\n\r\n-Грузовой вагон M-099-54\r\n\r\nПуть 09 – Стоянка (сборный состав).\r\n\r\nГруз: Военное имущество\r\n\r\n\r\n-1014 Электричка, восточное направление\r\n\r\nПуть 04 – Стоянка\r\n"
   },
   {
     "Namespace": "",
     "Key": "9E913D954EFC9C1743D0FFA638E5EF3E",
     "Hash": 2776736299,
     "SourceString": "-Boxcar: T-812-99\r\n\r\nTrack: 05 - Parked\r\n\r\nCargo: Mixed Goods.\r\n\r\n\r\n-12:30 Express: West Bound\r\n\r\nTrack: 07 - Parked\r\n\r\n\r\n-Boxcar: H-777-23\r\n\r\nTrack: 13 - Parked in Shed\r\n\r\nCargo: Work Equipment\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "-Вагон T-812-99\r\n\r\nПуть 05 – Стоянка\r\n\r\nГруз: Смешанные товары\r\n\r\n\r\n-1230 Экспресс, западное направление\r\n\r\nПуть 07 – Стоянка\r\n\r\n\r\n-Вагон H-777-23\r\n\r\nПуть 13 – Стоянка (в депо)\r\n\r\nГруз: Рабочее оборудование\r\n"
   },
   {
     "Namespace": "",
     "Key": "827805464517EAA7A903C686ECC6DD56",
     "Hash": 413884476,
     "SourceString": "-Mixed Freight: East Bound\r\n\r\nTrack: 14 - Parked\r\n\r\n\r\n-Boxcar: K-323-77\r\n\r\nTrack: 05 - Mixed Freight - Inbound West\r\n\r\nCargo: Empty\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "-Смешанный груз, восточное направление\r\n\r\nПуть 14 – Стоянка\r\n\r\n\r\n-Вагон K-323-77\r\n\r\nПуть 05 – Смешанный груз – Прибытие с запада\r\n\r\nГруз: Пусто\r\n"
   },
   {
     "Namespace": "",
     "Key": "30DD46C74331FC011C96DE8383F52518",
     "Hash": 3286892851,
     "SourceString": "Cooper,\r\nIf you need to get into any of these boxcars to update the manifest, I left a master key on top of my locker in the south-east train shed.\r\n\r\n\r\nYou can give it back next time you see me.\r\n\r\n-C.S.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Купер,\r\nЕсли вдруг придётся залезть в какой-нибудь из этих вагонов для обновления ведомости, ключ-мастер я оставил сверху на своём шкафчике в юго-восточном депо.\r\n\r\nВернёшь, как увидимся.\r\n\r\n– С.С.\r\n"
   },
   {
     "Namespace": "",
     "Key": "F73E71A74F1D57336E8861B438135A6C",
     "Hash": 3517550951,
     "SourceString": "CONTACTS",
-    "LocalizedString": ""
+    "LocalizedString": "КОНТАКТЫ"
   },
   {
     "Namespace": "",
     "Key": "0AF4DD4047408F6DEA479DAA0D75A7E3",
     "Hash": 3721143702,
     "SourceString": "Name: Reed, Marco\r\n\r\nPhone: (505) 353-5734\r\n\r\nAddress: 763-B Lake St.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Имя: Рид, Марко\r\n\r\nТелефон: (505) 353-5734\r\n\r\nАдрес: 763-B Lake St.\r\n"
   },
   {
     "Namespace": "",
     "Key": "2CAB30AC445EA85DCDAF9AAFB768918A",
     "Hash": 3131492522,
     "SourceString": "Name: Sanders, Elis\r\n\r\nPhone: (505) 754-3464\r\n\r\nAddress: 392 Maywell and 7th\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Имя: Сандерс, Элис\r\n\r\nТелефон: (505) 754-3464\r\n\r\nАдрес: 392 Мейвелл и 7-я\r\n"
   },
   {
     "Namespace": "",
     "Key": "86DFD46940F89006DEB412A798AD823B",
     "Hash": 1678901939,
     "SourceString": "Name: Sanders, Cole\r\n\r\nPhone: (505) 744-1132\r\n\r\nAddress: 424 North Bridge Sq.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Имя: Сандерс, Коул\r\n\r\nТелефон: (505) 744-1132\r\n\r\nАдрес: 424 Северная площадь Бридж\r\n"
   },
   {
     "Namespace": "",
     "Key": "17D90CD2475879AC1C0CE1832265C2E1",
     "Hash": 3768783710,
     "SourceString": "Name: Parker, Beth\r\n\r\nPhone: (505) 684-5545\r\n\r\nAddress: 118 7th St.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Имя: Паркер, Бет\r\n\r\nТелефон: (505) 684-5545\r\n\r\nАдрес: 118, 7-я ул.\r\n"
   },
   {
     "Namespace": "",
     "Key": "EB73E4DA4B17013D7C72A29F4B1AD404",
     "Hash": 800278702,
     "SourceString": "Name: Sheffield, David\r\n\r\nPhone: (505) 216-0012\r\n\r\nAddress: 405 Maywell Sq.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Имя: Шеффилд, Дэвид\r\n\r\nТелефон: (505) 216-0012\r\n\r\nАдрес: 405, площадь Мейвелл\r\n"
   },
   {
     "Namespace": "",
     "Key": "16F5FEE74B1AA698E60D41AC2CC3F6DE",
     "Hash": 2865604085,
     "SourceString": "Name: Cooper, Douglass\r\n\r\nPhone: (505) 325-3344\r\n\r\nAddress: 418 Maywell Dr.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Имя: Купер, Дуглас\r\n\r\nТелефон: (505) 325-3344\r\n\r\nАдрес: 418, ул. Мейвелл\r\n"
   },
   {
     "Namespace": "",
     "Key": "FEC3E3C1453C928364BDFB9034CBD9C1",
     "Hash": 1894352343,
     "SourceString": "Name: Ridgewell, Stella\r\n\r\nPhone: (505) 333-9078\r\n\r\nAddress: 406 Maywell Sq.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Имя: Риджвелл, Стелла\r\n\r\nТелефон: (505) 333-9078\r\n\r\nАдрес: 406, площадь Мейвелл\r\n"
   },
   {
     "Namespace": "",
     "Key": "96C5E8314DA71C092F09D7A4736A364C",
     "Hash": 1893038833,
     "SourceString": "Name: Martian, Marten\r\n\r\nPhone: (505) 242-5674\r\n\r\nAddress: 420 Maywell Dr.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Имя: Мартиан, Мартен\r\n\r\nТелефон: (505) 242-5674\r\n\r\nАдрес: 420, ул. Мейвелл\r\n"
   },
   {
     "Namespace": "",
     "Key": "2DE9844843AD411511BB4480103CFEC1",
     "Hash": 1427666850,
     "SourceString": "Name: Sanchez, Fran\r\n\r\nPhone: (505) 543-6747\r\n\r\nAddress: 427 North Bridge Sq.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Имя: Санчес, Фрэн\r\n\r\nТелефон: (505) 543-6747\r\n\r\nАдрес: 427, Северная площадь Бридж\r\n"
   },
   {
     "Namespace": "",
     "Key": "C2EABF734174F43154C66EBD5C193E57",
     "Hash": 2650095362,
     "SourceString": "Forget the job...",
-    "LocalizedString": ""
+    "LocalizedString": "Забудь про работу..."
   },
   {
     "Namespace": "",
     "Key": "9329AC214176C35EA7D9FC99D645A6D5",
     "Hash": 1397463018,
     "SourceString": "Broker was right about this stuff. But I'm starting to think what I've got here might be worth a lot more than money...\r\n\r\nLets see how deep we can go.",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер не ошибся насчёт этого. Но похоже, то, что я нашёл, может оказаться ценнее любых денег...\r\n\r\nПосмотрим, как далеко это заведёт нас."
   },
   {
     "Namespace": "",
     "Key": "19D4143641A85ADDE487FEBCFB8019D7",
     "Hash": 1819996064,
     "SourceString": "Reminder:\r\n\r\nOut his right eye, the scarecrow spots what lays beneath twin stones...\r\n\r\nSpades for Aces.",
-    "LocalizedString": ""
+    "LocalizedString": "Напоминание:\r\n\r\nПравым глазом пугало замечает то, что лежит под парой камней...\r\n\r\nПики вместо тузов."
   },
   {
     "Namespace": "",
     "Key": "0D3612EB423A961E6C5CA69E79E2A4F0",
     "Hash": 477343923,
     "SourceString": "Fresh Epoch Vol 1",
-    "LocalizedString": ""
+    "LocalizedString": "Новая Эпоха, т. 1"
   },
   {
     "Namespace": "",
     "Key": "0F50F03D46CF5F19F2E8C79D9BB14A15",
     "Hash": 3361224308,
     "SourceString": "Commentaries on a Post-Threshold History:\r\n\r\n-Tailor Marsh",
-    "LocalizedString": ""
+    "LocalizedString": "Комментарии к пост-пороговой истории\r\n\r\n— Тейлор Марш"
   },
   {
     "Namespace": "",
     "Key": "3186A2294BD5550CAFAC2E84B61CBFD4",
     "Hash": 997346374,
     "SourceString": "The Anthropocene has ended.\r\n\r\nHumanity could not survive the Threshold.\r\n\r\nNow we are the inheritors of their ruin. \r\nIs it only inevitable that we should also inherit their folly? \r\n\r\nThe truth behind what happened during the Threshold event is hotly debated; and many details have been thoroughly lost to time. What can be said for certain is that the extinction of man was by no means complete. \r\n\r\nSo called “survivors” still roam where we Inheritors have yet to settle. Many would, however, protest the notion that these post-human forms are still truly ‘alive’. This criticism is largely true, though it has been observed that some Survivors still retain their faculties, even if the majority of their kin do not. ",
-    "LocalizedString": ""
+    "LocalizedString": "Антропоцен завершён.\r\n\r\nЧеловечество не смогло пережить Порог.\r\n\r\nТеперь мы — наследники их руин. \r\nНеужели столь же неизбежно нам унаследовать и их безумие? \r\n\r\nИстина о том, что произошло во время События Порога, остаётся предметом жарких споров; многие подробности безвозвратно утрачены временем. Можно утверждать с уверенностью лишь одно: исчезновение человечества было далеко не полным.\r\n\r\nТак называемые «выжившие» всё ещё бродят там, где Наследники пока не обосновались. Однако многие возразят против того, чтобы называть эти пост-человеческие формы по-настоящему «живыми». В основном эта критика верна, хотя наблюдалось, что некоторые Выжившие сохранили рассудок — даже если большинство их сородичей давно нет."
   },
   {
     "Namespace": "",
     "Key": "6445BF0D4E7062E27048649095A98E14",
     "Hash": 3747528557,
     "SourceString": "It must also be acknowledged that many pre-Threshold organizations, such as the N.F.T.A. (Northern Free Trade Alliance) and even sectors of the E.D.P. (Eastern Defense Pact), still operate into the modern day. Lately many of the EDP member states have transferred power to inheritor-led governments through various means. \r\n\r\nHowever, quite crucially, the NFTA is still under the leadership of prominent and powerful post-humans, and shows little signs of changing this arrangement. This political power-block is commonly referred to as The Plutocrats; their ranks consist entirely of pre-Threshold, human gentry with net worths valued in the trillions. ",
-    "LocalizedString": ""
+    "LocalizedString": "Следует также отметить, что многие довоенные организации, такие как N.F.T.A. (Северный альянс свободной торговли) и даже отдельные сектора E.D.P. (Восточного оборонного пакта), продолжают существовать и в наши дни. В последнее время многие государства — члены EDP различными путями передали власть правительствам под управлением Наследников.\r\n\r\nОднако, что особенно важно, NFTA всё ещё находится под руководством влиятельных и могущественных пост-людей и не демонстрирует признаков изменения этой системы. Этот политический блок обычно называют Плутократами; их ряды состоят исключительно из довоенной человеческой знати с состояниями, измеряемыми триллионами."
   },
   {
     "Namespace": "",
     "Key": "B642C3CE4F8621C933600BAD2F36239D",
     "Hash": 2805161636,
     "SourceString": "In the time since the Threshold, NFTA has consolidated and centralized its resources into a single federalized state apparatus. This state wields full authority over industry, economic institutions and all military forces of the North-Western world. Their reasoning for these actions are “to defend the rights and interests of free enterprise from foreign and internal threats.” \r\n\r\nNFTA also describes itself as a constitutional democracy, holding elections for the position of Executive Chairman between nominated Plutocrats every 8 years. According to the aforementioned constitution, only biological humans are permitted to vote in any capacity… ",
-    "LocalizedString": ""
+    "LocalizedString": "Со времен Порога NFTA консолидировала и централизовала свои ресурсы в единый федерализованный государственный аппарат. Это государство обладает полной властью над промышленностью, экономическими институтами и всеми вооружёнными силами северо-западного мира. Их обоснование этих действий звучит так: «защита прав и интересов свободного предпринимательства от внешних и внутренних угроз».\r\n\r\nNFTA также называет себя конституционной демократией, проводя выборы на пост Исполнительного председателя среди выдвинутых Плутократов каждые 8 лет. Согласно упомянутой конституции, голосовать в любой форме разрешено только биологическим людям…"
   },
   {
     "Namespace": "",
     "Key": "D3284EC54E8FA2996F95B2AECE88CE2A",
     "Hash": 1475792594,
     "SourceString": "Returning the Earth: Chapter 1",
-    "LocalizedString": ""
+    "LocalizedString": "Возвращение Земли, гл. 1"
   },
   {
     "Namespace": "",
     "Key": "0695A0C9426759D992785EA82797DEEE",
     "Hash": 1404986823,
     "SourceString": "Chap 1:\r\nThe loss of Human Greatness:\r\n\r\n-Dillard Kempt",
-    "LocalizedString": ""
+    "LocalizedString": "Глава 1:\r\nУтрата человеческого величия\r\n\r\n— Диллард Кемпт"
   },
   {
     "Namespace": "",
     "Key": "FCC273424A9DD74A86E741B5711ADB95",
     "Hash": 2578938889,
     "SourceString": "Truely, this “Threshold'' is the greatest tragedy that Earth, nay, the universe has ever known. No other being can rightly fill the sacred niche of mankind. No other animal could possibly measure up to the greatness that Western men have achieved. \r\n\r\nA despicable lie is being forged that humanity's end was due to its own folly, but we know better. \r\nWe know that humanity was murdered, not by its own hand but by a foreign malefactor. A malignance masquerading as human. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Воистину, этот «Порог» — величайшая трагедия, которую когда-либо знала Земля, а то и вся вселенная. Ни одно другое существо не способно занять священную нишу человечества. Ни одно животное не может сравниться с величием, которого достиг западный человек.\r\n\r\nНизкая ложь распространяется о том, что конец человечества был следствием его собственной глупости, но мы-то знаем правду.\r\nМы знаем, что человечество было убито — не собственной рукой, а чужим злодеем. Злонамеренной силой, маскировавшейся под человека.\r\n"
   },
   {
     "Namespace": "",
     "Key": "FE74DC034F695E54FB5C6EA80573DF9C",
     "Hash": 3847836346,
     "SourceString": "None of this is of any consequence however; for the greatness of man can, NO, MUST be returned to this earth! And it is I who must, who will, bear this burden. Few others can remember the time before this fall; and only I have the will, the conviction to see this mission through. \r\n\r\nI must teach these animals, who now walk in our place, the true meaning of humanity. I will elevate them so that they may serve the righteous destiny of man with distinction and pride. This way they may earn a dignified and even civilized existence. They can not do it on their own; their minds lack the spark of man’s divinity. \r\n\r\nIt is my duty to be their steward, and their guide. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Однако всё это не имеет значения; ибо величие человека может — НЕТ, ДОЛЖНО быть возвращено на эту землю! И именно я должен, и я сумею, нести это бремя. Лишь немногие помнят времена до этого падения; и только у меня есть воля, убеждённость довести эту миссию до конца.\r\n\r\nЯ должен научить этих животных, что ныне ходят на нашем месте, истинному смыслу человечности. Я возвышу их, чтобы они могли служить праведному предназначению человека с отличием и гордостью. Так они смогут обрести достойное и даже цивилизованное существование. Сами они этого сделать не могут; их разуму недостаёт искры человеческого божественного начала.\r\n\r\nМой долг — быть их наставником и проводником.\r\n"
   },
   {
     "Namespace": "",
     "Key": "FE24714344A53D2A8CF84D8FC7263DD9",
     "Hash": 1162043708,
     "SourceString": "Returning the Earth: Chapter 2",
-    "LocalizedString": ""
+    "LocalizedString": "Возвращение Земли, гл. 2"
   },
   {
     "Namespace": "",
     "Key": "D78DFB3A4084DCFA4571EFA2FE2D781A",
     "Hash": 4022422504,
     "SourceString": "Chap 2:\r\nMy Crucible:\r\n\r\n-Dillard Kempt",
-    "LocalizedString": ""
+    "LocalizedString": "Глава 2:\r\nМоё испытание\r\n\r\n— Диллард Кемпт"
   },
   {
     "Namespace": "",
     "Key": "A06241954778B110BECF6D85C2DC0551",
     "Hash": 2627912894,
     "SourceString": "My contemporaries have failed me. The east falls to the animals. Eather itself proves finite. \r\n\r\nDuring my most recent term as Executive Chairman, I took charge of a radical but necessary initiative. My aim was the complete dedication of all Eather infrastructure towards my sacred project: re establishing mankind’s former greatness. It was already well known among the elite that the mining of Eather steadily eroded the very fabric of reality. There was only so much that could be taken before a second, much more catastrophic, threshold would be opened. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Мои современники подвели меня. Восток падает к животным. Сам Эфир оказался конечным.\r\n\r\nВо время моего последнего срока на посту Исполнительного председателя я возглавил радикальную, но необходимую инициативу. Моей целью было полное подчинение всей инфраструктуры Эфира моему священному проекту: восстановлению былого величия человечества. Среди элиты уже было хорошо известно, что добыча Эфира постепенно разъедает саму ткань реальности. Был лишь вопрос времени, когда изъятое превысит предел и откроется второй, куда более катастрофический, Порог.\r\n"
   },
   {
     "Namespace": "",
     "Key": "9FB16C9A497EF8ECE375D2B83F992B33",
     "Hash": 226740570,
     "SourceString": "My 8 year term was however woefully insufficient to realize my goals; and my colleagues quickly recognized the implications of my plans. Drinking Eather is the only way that we can maintain ourselves; every tank-car reappropriated was an entire year off one of their long lifespans. \r\n\r\nMy contemporaries were quick to prove their selfishness to me. I was unanimously out-voted in favor of that bastard socialist Edward Church. As soon as he established his administration, he gave an executive order that all remaining Eather would be devoted to sustaining the lives of the oligarchy. To my absolute horror, the entire table all voted to ratify this into their constitution.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Однако моего восьмилетнего срока оказалось катастрофически недостаточно для осуществления моих целей; коллеги же быстро уловили последствия моих планов. Питьё Эфира — единственный способ поддерживать наше существование; каждая цистерна, перенаправленная на мой проект, означала целый год, вычеркнутый из долгой жизни кого-то из них.\r\n\r\nМои современники поспешили доказать мне свою эгоистичность. Меня единогласно отвергли в пользу того ублюдка-социалиста Эдварда Черча. Как только он утвердил свою администрацию, он издал указ, что весь оставшийся Эфир будет направлен исключительно на продление жизни олигархии. К моему ужасу, весь совет проголосовал за то, чтобы узаконить это в их конституции.\r\n"
   },
   {
     "Namespace": "",
     "Key": "65E344E0437A8A439001E891E475E9A0",
     "Hash": 2605826189,
     "SourceString": "This was an unforgivable betrayal, not of me but to our entire species! Our last hope of reconstruction would be wasted on extending the lives of several trillionaire elites, until the world itself unraveled at the seams. \r\n\r\nNO! I must act now! It is clear what must be done. I must become the sole Eather drinker on this earth. Only then will there be time for my work…\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Это было непростительное предательство — не меня, а всего нашего вида! Последняя надежда на восстановление будет растрачена на продление жизней нескольких триллионеров-элит, пока сам мир не разорвётся по швам.\r\n\r\nНЕТ! Я должен действовать немедленно! Всё ясно — я должен стать единственным пившим Эфир на этой земле. Лишь тогда у меня будет время для моей работы…\r\n"
   },
   {
     "Namespace": "",
     "Key": "D94F39EC46FB62AA702C649B11DD4052",
     "Hash": 3715510493,
     "SourceString": "Manifesto of Ruin: Vol 1",
-    "LocalizedString": ""
+    "LocalizedString": "Манифест руин: Том 1"
   },
   {
     "Namespace": "",
     "Key": "516602424A9508967F341A9A54BEAD88",
     "Hash": 3867989931,
     "SourceString": "S.R. Haley\r\n\r\nAn Unfinished Apocalypse:",
-    "LocalizedString": ""
+    "LocalizedString": "С.Р. Хейли\r\n\r\nНезавершённый апокалипсис:"
   },
   {
     "Namespace": "",
     "Key": "E129DE4F464897D2E485A8ADF77E2BE4",
     "Hash": 3485703987,
     "SourceString": "Manifesto of Ruin: Vol 2",
-    "LocalizedString": ""
+    "LocalizedString": "Манифест руин: Том 2"
   },
   {
     "Namespace": "",
     "Key": "60ED358841CACC2A0581938D77DDA811",
     "Hash": 383716237,
     "SourceString": "S.R. Haley\r\n\r\nThe Nature of the Beast:",
-    "LocalizedString": ""
+    "LocalizedString": "С.Р. Хейли\r\n\r\nПрирода зверя:"
   },
   {
     "Namespace": "",
     "Key": "37EBCA1E4DBA026DF7E8A1AAFD49ECE6",
     "Hash": 2247216577,
     "SourceString": "The constructs of humanity had, over time, evolved into inscrutable and powerful megaliths that now operate autonomously. A process rendering the people who built them into mere components of a macro-system that perpetually works to maintain itself. This is done regardless of any conscious intentions or desires by any individuals within. \r\nThese systems operate by incentivizing the behavior of people; compelling them to perform the necessary actions to maintain the systems that offer said incentives. A cycle of action and reward that stabilizes into a feedback-loop.",
-    "LocalizedString": ""
+    "LocalizedString": "Творения человечества со временем превратились в непостижимые и могущественные мегалиты, ныне действующие автономно. Этот процесс превратил людей, создавших их, лишь в детали макросистемы, которая непрерывно работает на собственное поддержание. И всё это совершается вне зависимости от каких-либо сознательных намерений или желаний отдельных индивидов внутри.\r\nЭти системы действуют, поощряя поведение людей; понуждая их совершать необходимые действия для поддержания самих систем, что и предоставляют эти стимулы. Цикл действий и вознаграждений стабилизируется, превращаясь в петлю обратной связи."
   },
   {
     "Namespace": "",
     "Key": "BB0641054CEFE57D70007FBDDAD3D918",
     "Hash": 3455449003,
     "SourceString": "Any original purpose of these systems becomes secondary to the macro-system's primary goal of survival; or even become simply vestigial. Any notion of an original, more practical, purpose lost to time.\r\nHowever, the macro-being has no way of organically distinguishing between the arbitrary and the practical, and therefore will prioritize the survival of arbitrary constructs just as well as practical ones. Thus, hierarchies and mechanisms once born out of the intentions and aspirations of long dead parties will continue to be maintained, despite no longer having any benefactor. The system may even resort to inventing new benefactors in order to justify and perpetuate these constructs.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Всякая изначальная цель этих систем со временем становится вторичной, подчинённой единственному инстинкту макросистемы — выживанию; или же превращается в бесполезный рудимент. Любое напоминание о более практичном предназначении исчезло без следа.\r\nМакро-сущность же не в силах отличить произвольное от необходимого и потому столь же ревностно оберегает пустые конструкции, как и полезные. Так иерархии и механизмы, порождённые стремлениями давно мёртвых, продолжают поддерживаться, хотя давно лишились хозяина. Более того, система может сама изобретать новых хозяев, лишь бы оправдать и продлить собственное существование.\r\n"
   },
   {
     "Namespace": "",
     "Key": "9F3E75C647FD133E074B5D81EAA251A5",
     "Hash": 1973954410,
     "SourceString": "Ultimately, those at the very top of the social-economic hierarchy are still slaves to the machine that put them there. Any political or economic power they possess can only be used to sustain the system they were born into. If they try to use their influence to make these systems more equitable, they risk the system replacing them.\r\nFrom top to bottom, we are all servants of the beast.\r\nAnd the beast only exists to feed itself.",
-    "LocalizedString": ""
+    "LocalizedString": "В итоге даже те, кто вознёсся на самую вершину социально-экономической иерархии, остаются узниками машины, что поставила их туда. Вся их власть — политическая или экономическая — служит лишь поддержанию системы, в которой они обречены существовать. Стоит им попытаться использовать влияние ради справедливости — система заменит их без колебаний.\r\nОт верха до низа — мы все лишь слуги зверя.\r\nА зверь существует лишь затем, чтобы питать самого себя."
   },
   {
     "Namespace": "",
     "Key": "25DDC1CA47E12C93D566AB9E1E622867",
     "Hash": 2004875350,
     "SourceString": "Manifesto of Ruin: Vol 3",
-    "LocalizedString": ""
+    "LocalizedString": "Манифест руин: Том 3"
   },
   {
     "Namespace": "",
     "Key": "86019F8A4A406B67294F77901BDBFF27",
     "Hash": 2075492091,
     "SourceString": "S.R. Haley\r\n\r\nOpportunities of Decay:",
-    "LocalizedString": ""
+    "LocalizedString": "С.Р. Хейли\r\n\r\nШансы разложения:"
   },
   {
     "Namespace": "",
     "Key": "45472EDA4971DDDA6B0D64A09E2B512A",
     "Hash": 3872799757,
     "SourceString": "But beasts may bleed…\r\nBeasts may grow sick…\r\nBeasts may starve…\r\nFor like in nature, no animal is guaranteed survival. \r\n\r\nThe macro-system can not distinguish practical components from arbitrary and vestigial ones. These sub-systems of arbitrary hierarchy have grown and mutated, not unlike cancer cells. Malignant parts of the body, hungry, taking more than can be afforded. ",
-    "LocalizedString": ""
+    "LocalizedString": "Но звери могут истекать кровью…\r\nЗвери могут заболеть…\r\nЗвери могут умереть с голоду…\r\nВедь как и в природе, ни одному животному не гарантировано выживание.\r\n\r\nМакросистема не может отличить практические компоненты от произвольных и рудиментарных. Эти подсистемы произвольной иерархии росли и мутировали, подобно раковым клеткам. Злокачественные части тела, жадные, берущие больше, чем возможно позволить."
   },
   {
     "Namespace": "",
     "Key": "5F985DAC43ADFA79020D1FB73A0A35BA",
     "Hash": 2199129904,
     "SourceString": "Those at the bottom of the hierarchy are the most crucial. It is the working people who sow the fields and run the factories. They are the ones who harvest the material crucial for all survival. Without the flow of material, there can be no life. \r\n\r\nWhen the Threshold claimed the majority of humanity, this vital niche was left open. If left unfilled, those remaining at the top of the hierarchy would quite literally starve to death. We, by means left obscure, were made to fill that niche. This has only barely kept the beast alive; and the toll of its death-bell draws near.",
-    "LocalizedString": ""
+    "LocalizedString": "Самые важные — это те, кто стоит на самом дне иерархии. Рабочие — они сеют поля и крутят колёса заводов. Они добывают вещество, без которого нет выживания. Без потока материала — нет и жизни.\r\n\r\nКогда Порог унёс большинство человечества, эта ниша осталась пустой. И если бы её не заполнили, вершина иерархии погибла бы от голода. Нас, по неведомым путям, сделали теми, кто занял эту нишу. Лишь это позволило чудовищу едва дышать; но колокол его смерти уже готов раззвенеть."
   },
   {
     "Namespace": "",
     "Key": "D2C9C185494C3EC5C5503A9501064BA7",
     "Hash": 2628203008,
     "SourceString": "What must be understood is that, in this late stage of its life, the beast has formed a dependency on one particular resource, paramount to all others. \r\n\r\nEather.\r\n\r\nIt literally sustains the artificially inflated lifespans of those at the hierarchy's peak. The harvesting of this material has been revealed to threaten the stability of existence itself. If things continue the way they do now, then our world has an expiration date. \r\n\r\nAs far as the beast is concerned, this death is inevitable either way; might as well eat to the end.",
-    "LocalizedString": ""
+    "LocalizedString": "Нужно ясно понимать: в этой поздней стадии своего существования зверь сделался зависим от одного ресурса, главного среди всех прочих.\r\n\r\nЭфир.\r\n\r\nОн поддерживает искусственно раздутые веками жизни тех, кто на вершине иерархии. Но оказалось, что добыча этого вещества подрывает саму устойчивость бытия. Если всё продолжится, как сейчас, наш мир обречён и имеет свой срок.\r\n\r\nДля зверя же смерть всё равно неминуема; и потому он будет жрать до самого конца."
   },
   {
     "Namespace": "",
     "Key": "EA72FA134EAD217800DF8A83D8F7B877",
     "Hash": 4067363602,
     "SourceString": "But WE, do not need to drink Eather.\r\n\r\nWE do not need masters that live for centuries. \r\n\r\nWE do not need the beast.\r\n\r\nWE can only survive without it. \r\n\r\nToday the beast is at its weakest state. It is old and sickly; its belly turned, and made vulnerable. \r\nThe power it has boasted its whole life is now a lie.\r\n\r\nTake no circumstance for granted. We are young, and history is fickle… ",
-    "LocalizedString": ""
+    "LocalizedString": "Но МЫ не должны пить Эфир.\r\n\r\nМЫ не должны преклоняться перед владыками, что живут веками.\r\n\r\nМЫ не должны служить зверю.\r\n\r\nМы способны выжить лишь без него.\r\n\r\nСегодня зверь слаб как никогда. Он стар и изнурён; его нутро вывернуто и стало уязвимым.\r\nВся сила, которой он кичился веками, оказалась ложью.\r\n\r\nНе принимайте ничего как неизбежное. Мы молоды, а история — коварна…"
   },
   {
     "Namespace": "",
     "Key": "F04785BB41D3BD5DC7BA08AD4F9C65C2",
     "Hash": 1088565912,
     "SourceString": "FuN MaoSe",
-    "LocalizedString": ""
+    "LocalizedString": "Фан Маосе"
   },
   {
     "Namespace": "",
     "Key": "C7A5EBE941C3A06ECFBA98A7B166D529",
     "Hash": 983617791,
     "SourceString": "   ",
-    "LocalizedString": ""
+    "LocalizedString": "   "
   },
   {
     "Namespace": "",
@@ -396,595 +396,595 @@
     "Key": "87B1E6304389E03EC21AEA9AC02D478B",
     "Hash": 3753635611,
     "SourceString": "Note From Ray.",
-    "LocalizedString": ""
+    "LocalizedString": "Записка от Рэя."
   },
   {
     "Namespace": "",
     "Key": "FE0C5E714AE107A4A028A4A8DDD1E805",
     "Hash": 2775754641,
     "SourceString": "Once you're past the perimeter, head over to a place called \"The Observatory\". It should be on the map I gave you. \r\n\r\nYou'll meet some like-minded people there who know their way around.\r\nOffer to do some odd jobs for them; they'll return the favor.\r\n\r\nI wish it didn't have to go down like this, but at least you won't be followed into that place. Trust me, those goons are far too chicken-shit to go looking somewhere that hot.\r\n\r\nJust don't get yourself tangled up in someone else's bullshit, right? Stay low, pay your debt, get moving. \r\n\r\nOne day this can all be behind you. Good luck.\r\n\r\n-Ray",
-    "LocalizedString": ""
+    "LocalizedString": "Как только пересечёшь периметр, направляйся к месту под названием «Обсерватория». Оно должно быть на карте, что я тебе дал.\r\n\r\nТам встретишь единомышленников, которые знают, что к чему. Предложи им сделать кое-какие мелкие поручения — они отплатят тем же.\r\n\r\nЖаль, что всё сложилось так, но хотя бы туда за тобой не пойдут. Поверь, эти головорезы слишком трусливы, чтобы сунуться в такое горячее место.\r\n\r\nТолько смотри, не вляпайся в чужое дерьмо, ладно? Держись в тени, расплатися с долгом и двигай дальше.\r\n\r\nОднажды всё это останется позади. Удачи.\r\n\r\n— Рэй"
   },
   {
     "Namespace": "",
     "Key": "A80D4241444A4E9A765765885224E85F",
     "Hash": 805098993,
     "SourceString": "If I'm Dead:",
-    "LocalizedString": ""
+    "LocalizedString": "Если я умру:"
   },
   {
     "Namespace": "",
     "Key": "9DAAE6DF4E3085F288E01DA9C36AFEB3",
     "Hash": 3908927676,
     "SourceString": "Hey,\r\n\r\nIf I'm not back by the end of summer, you can safely assume I'm dead.\r\n\r\nMy room, and everything within, goes to the first one of you bastards who can pick my lock!\r\n\r\nHowever, I ask that the BIG prize gets shared by the lot of y'all!\r\nYou fuckers better use it well if I'm not back; I worked hard to find that number!\r\n\r\n-Bixby",
-    "LocalizedString": ""
+    "LocalizedString": "Эй,\r\n\r\nЕсли я не вернусь к концу лета, можете считать меня трупом.\r\n\r\nМоя комната и всё, что в ней, отходят первому из вас, сукиных детей, кто сумеет взломать мой замок!\r\n\r\nНо одно условие: главный приз делите поровну!\r\nИ вы, ублюдки, лучше используйте его с толком, если меня не будет; я задницей пахал, чтобы добыть этот номер!\r\n\r\n— Биксби"
   },
   {
     "Namespace": "",
     "Key": "46ABD1B448FF1986C8374CAFD5A0A306",
     "Hash": 4025295859,
     "SourceString": "BREAKING NEWS!",
-    "LocalizedString": ""
+    "LocalizedString": "СРОЧНЫЕ НОВОСТИ!"
   },
   {
     "Namespace": "",
     "Key": "51D34492421C42617B5F31A60B901A9E",
     "Hash": 533937474,
     "SourceString": "Revolutionary Army: Orders",
-    "LocalizedString": ""
+    "LocalizedString": "Революционная армия: Приказы"
   },
   {
     "Namespace": "",
     "Key": "378A47C745B11672DD42D88F725E75F9",
     "Hash": 4017951100,
     "SourceString": "You have been commissioned as a soldier of the Revolutionary Coalition Army.\r\n\r\nYour mission is to group with allied forces stationed within the West Carcosa ‘Exclusion Zone’, at the FOB code named: Borough.\r\n\r\nYou will report to senior officer “Mamma Roach”. She will be your commanding officer for the duration of this mission. She will brief you on critical mission details upon your arrival. \r\n\r\nOur Hearts are with you comrade!\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Вы приняты в солдаты Революционной коалиционной армии.\r\n\r\nВаша миссия — соединиться с союзными силами, расположенными в «Западной Каркосе», в Зоне отчуждения, на передовой базе с кодовым именем: «Бороу».\r\n\r\nВашим командиром будет старший офицер «Мамаша Роуч». Она возглавит вас на всё время операции и лично введёт в курс критически важных деталей задания.\r\n\r\nНаши сердца с тобой, боец!\r\n"
   },
   {
     "Namespace": "",
     "Key": "48C6AEC9435A7BF1465F6E9F3C39BA97",
     "Hash": 2886016398,
     "SourceString": "Service Invoice",
-    "LocalizedString": ""
+    "LocalizedString": "Счёт за услуги"
   },
   {
     "Namespace": "",
     "Key": "EEA4CD844B3A52E472BB56AC71051BBA",
     "Hash": 294105672,
     "SourceString": "Dear Valued Customer:\r\nThe following is an itemized invoice for financial services, pending payment:\r\n\r\n—---------------------------------------\r\n\r\n-Previous Balance:          -$1,036,531\r\n\r\n-Payments:                      $0.00\r\n\r\n-Balance Forward:            -$1,036,531\r\n\r\n—---------------------------------------\r\n\r\n-Cover Charge:                  $500,000\r\n\r\n-Initial Service Fee:           $762,000\r\n\r\n-Domestic Taxes:              $225,693\r\n\r\n-Foreign Taxes:                  $38,690\r\n\r\n-Late Payment Fees:         $8,450\r\n\r\n-Additional Fees:                $24,760\r\n\r\n-Appended charges:           $892,451\r\n\r\n—---------------------------------------\r\n\r\n-Total Due:                         $3,448,575\r\n\r\n—---------------------------------------\r\n\r\n*This amount is expected to be paid in full by the end of the next fiscal year.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Уважаемый клиент:\r\nНиже приведён подробный счёт за финансовые услуги, ожидающий оплаты:\r\n\r\n—---------------------------------------\r\n\r\n-Предыдущий баланс:          -$1,036,531\r\n\r\n-Платежи:                              $0.00\r\n\r\n-Перенесённый баланс:       -$1,036,531\r\n\r\n—---------------------------------------\r\n\r\n-Сбор за обслуживание:       $500,000\r\n\r\n-Первоначальная комиссия:    $762,000\r\n\r\n-Внутренние налоги:                $225,693\r\n\r\n-Иностранные налоги:              $38,690\r\n\r\n-Пени за просрочку:                 $8,450\r\n\r\n-Дополнительные сборы:          $24,760\r\n\r\n-Присоединённые расходы:       $892,451\r\n\r\n—---------------------------------------\r\n\r\n-Итого к оплате:                       $3,448,575\r\n\r\n—---------------------------------------\r\n\r\n*Эта сумма должна быть полностью оплачена до конца следующего финансового года.\r\n"
   },
   {
     "Namespace": "",
     "Key": "1B40DE59477D5534302815AFEF236A26",
     "Hash": 2318622297,
     "SourceString": "TERRA REDDITA Joint Venture Agreement:",
-    "LocalizedString": ""
+    "LocalizedString": "TERRA REDDITA: Договор о совместной деятельности:"
   },
   {
     "Namespace": "",
     "Key": "5851C1774345179D30A5B4B4C1A358B2",
     "Hash": 2290343104,
     "SourceString": "Joint Venture Account Agreement between the parties:\r\n\r\n-Savlo Technologies Co.\r\n\r\n-Dillard Kempt Financial LLC\r\n\r\n—---------------------------------------\r\n\r\nThe following is a joint fund account and partnership for the purposes of:\r\n\r\n-\"The preservation of Euraskan Heritage.\"\r\n\r\n—---------------------------------------\r\n\r\n-Savlo Technologies Co. will transfer a balance of:\r\n\r\n-Balance:                           $40,000,000,000.00\r\n\r\n-Withholding:                     $0.00\r\n\r\n—---------------------------------------\r\n\r\n-Stock Transfers:\r\n\r\n-Global Capital:                 45,000 Shares [$462] \r\n\r\n-Savlo Tech:                     10,000 Shares  [$613] \r\n\r\n-Adler & Wake:                 12,000 Shares  [$304] \r\n\r\n-Standard Eather:             20,000 Shares  [$741] \r\n\r\n-Total Value:                      $45,388,000\r\n\r\n—---------------------------------------\r\n\r\n-Cover Charge:                 $35,000,000\r\n\r\n-Initial Service Fee:           $2,000\r\n\r\n-Additional Fees:               $24,760\r\n\r\n-Taxes:                               $23.41\r\n\r\n—---------------------------------------\r\n\r\nFinal Balance:                   $40,010,361,216.59\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Соглашение о совместном счёте между сторонами:\r\n\r\n-Savlo Technologies Co.\r\n\r\n-Dillard Kempt Financial LLC\r\n\r\n—---------------------------------------\r\n\r\nНиже приводится совместный фондовый счёт и партнёрство в целях:\r\n\r\n-«Сохранения эурасканского наследия.»\r\n\r\n—---------------------------------------\r\n\r\n-Savlo Technologies Co. переведёт на счёт:\r\n\r\n-Баланс:                           $40,000,000,000.00\r\n\r\n-Удержания:                       $0.00\r\n\r\n—---------------------------------------\r\n\r\n-Трансферы акций:\r\n\r\n-Global Capital:                 45,000 акций [$462] \r\n\r\n-Savlo Tech:                     10,000 акций [$613] \r\n\r\n-Adler & Wake:                 12,000 акций [$304] \r\n\r\n-Standard Eather:             20,000 акций [$741] \r\n\r\n-Общая стоимость:            $45,388,000\r\n\r\n—---------------------------------------\r\n\r\n-Сбор за обслуживание:     $35,000,000\r\n\r\n-Первоначальная комиссия: $2,000\r\n\r\n-Дополнительные сборы:     $24,760\r\n\r\n-Налоги:                               $23.41\r\n\r\n—---------------------------------------\r\n\r\nИтоговый баланс:               $40,010,361,216.59\r\n"
   },
   {
     "Namespace": "",
     "Key": "69B88B87401A4162BB5C43A6782017DD",
     "Hash": 2243296019,
     "SourceString": "The Hunter and the Four Stags",
-    "LocalizedString": ""
+    "LocalizedString": "Охотник и четыре оленя"
   },
   {
     "Namespace": "",
     "Key": "E6ECAEB54958DB8DBF43CDA36F13C73D",
     "Hash": 3071820311,
     "SourceString": "The hunter took to the forest, so that he might sate his hunger.\r\nHe came upon a creek and walked it, until he found its source. \r\n\r\nThe hunter met the red stag, and between its antlers was an image of grain.\r\nAnd the stag said to him: \"Drink of my wine, and live by thy passions!\"\r\n\r\nThe hunter knelt by the creek and took drink of its water. \r\nAnd the water tasted like good wine.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Охотник отправился в лес, дабы утолить свой голод.\r\nОн вышел к ручью и пошёл вдоль него, пока не нашёл исток.\r\n\r\nТам охотник встретил красного оленя, и меж его рогами был образ зерна.\r\nИ сказал олень ему: \"Испей моего вина и живи страстями своими!\"\r\n\r\nОхотник преклонился у ручья и испил воды.\r\nИ вода та показалась ему добрым вином.\r\n"
   },
   {
     "Namespace": "",
     "Key": "9EC012B74B6A06CE6406438856D9ADEC",
     "Hash": 2520262586,
     "SourceString": "The hunter ventured deeper into the forest.\r\nAnd there he found a warren among the brush.\r\n\r\nHere he met the yellow stag, and between its antlers was a sign of grave danger.\r\nAnd the stag said to him: \"Roam, and grow fat off the land!\"\r\n\r\nThe hunter stalked the warren and slew a rabbit.\r\nAnd he cooked the rabbit and ate of its fat.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Охотник углубился в лес.\r\nИ среди чащи он наткнулся на кроличью нору.\r\n\r\nТам встретил он жёлтого оленя, и меж рогов его сиял знак великой опасности.\r\nИ сказал ему олень: \"Странствуй и питайся дарами земли!\"\r\n\r\nИ выследил охотник кролика у норы и поразил его.\r\nИ испёк он кролика и вкушал его жир.\r\n"
   },
   {
     "Namespace": "",
     "Key": "1FD958384DC97D7C653150A8ABBEDC40",
     "Hash": 1172372622,
     "SourceString": "The hunter drew yet deeper into the forest. \r\nAnd he came upon an ancient, gnarled oak.\r\n\r\nThe Hunter then met the white stag, and between its antlers was the shape of a dagger.\r\nAnd the stag said to him: \"Kneel before us, and heed our laws!\" \r\n\r\nThe hunter gathered four limbs of cedar.\r\nAnd he built an altar by the oak, and burned an offering.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Охотник двинулся ещё глубже в лес.\r\nИ там пред ним возник древний, искривлённый дуб.\r\n\r\nИ встретил он белого оленя, и меж рогов его был образ кинжала.\r\nИ сказал ему олень: \"Преклони колени пред нами и внимай нашим законам!\"\r\n\r\nОхотник собрал четыре кедровые ветви.\r\nИ соорудил у дуба жертвенник и возжёг на нём жертву.\r\n"
   },
   {
     "Namespace": "",
     "Key": "9AAFE4C2400BBF7A51CB70891D91C440",
     "Hash": 1526225675,
     "SourceString": "The hunter pressed onward through the forest.\r\nAnd he came to its end where he faced a grey marsh.\r\n\r\nFinally, the hunter met the black stag, and between its antlers was a visage of stone.\r\nAnd the stag said to him: \"Fall, and know all of my burdens!\" \r\n\r\nAnd the hunter fell to his knees.\r\nAnd he came to know all the suffering of the world.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Охотник шёл всё дальше сквозь лес.\r\nИ в конце пути он вышел к серому болоту.\r\n\r\nТогда встретил он чёрного оленя, и меж рогов его был образ камня.\r\nИ сказал ему олень: \"Пади ниц и познай все мои бремена!\"\r\n\r\nИ пал охотник на колени.\r\nИ открылось ему всё страдание мира.\r\n"
   },
   {
     "Namespace": "",
     "Key": "58FAED4B40E1DDF9C9A48C86252E50B6",
     "Hash": 932157212,
     "SourceString": "The Arrival of the Fae",
-    "LocalizedString": ""
+    "LocalizedString": "Пришествие фэй"
   },
   {
     "Namespace": "",
     "Key": "B2907EDF4E4E53A09EF987A69F07E959",
     "Hash": 2463384563,
     "SourceString": "To go digging, and to find awesome and terrible things below the ground. Did we ever wonder if those things were buried for a reason?\r\n\r\nI've seen what shapeless things wriggle and crawl in the gaps between collective minds and the material world. Like silverfish, they gnaw slowly at the foundation of our house; unseen, unfelt, until one day we watch as the cracks open wide and the walls buckle, caving in around us all. Leaving only ruins where we stood. But these ruins will not go empty...\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Рыть землю, чтобы находить под нею дивное и страшное. Но задумывались ли мы, не потому ли оно было погребено?\r\n\r\nЯ видел, как бесформенные твари извиваются и скользят в трещинах между разумом общим и миром вещественным. Подобно чешуйницам, они неторопливо грызут основание нашего дома; невидимые, неощутимые — пока однажды мы не узрим, как трещины расползаются, стены же ломаются и рушатся, падая на нас. И останутся лишь руины там, где мы стояли. Но и эти руины не будут пусты...\r\n"
   },
   {
     "Namespace": "",
     "Key": "5C340A2A44CE048AA778479FB1DA5AD3",
     "Hash": 301854174,
     "SourceString": "When we opened that threshold, other things crawled back in. Some walked and talked like men. Others skittered and howled like beasts. A few even resembled man made things, unnatural animacy forced into their stony bodies.\r\n\r\nThey bear the shapes of our myths, our fictions, our fantasies; like they were pulled straight from our minds. Perhaps this is how they adapt to our alien reality; their original way of existing impossible in our realm of light and gravity. Perhaps they were born from our imaginations; reified into life by our meddling with Eather?\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Когда мы открыли тот Порог, в мир заползли иные создания. Одни ходили и говорили, подобно людям. Другие юркали и выли, как звери. А некоторые походили на вещи рукотворные — искусственная живость, втиснутая в каменные оболочки.\r\n\r\nОни носят в себе образы наших мифов, сказаний, фантазий — словно вырванные прямо из глубин сознания. Возможно, так они приспосабливаются к чуждой для них реальности; ведь их исконный способ бытия невозможен в мире света и тяжести. А может статься, что они и вовсе порождены нашим воображением — воплощённые в жизнь нашим вмешательством в Эфир?\r\n"
   },
   {
     "Namespace": "",
     "Key": "01914C5E46AAC1E74E9143BFF8585A0A",
     "Hash": 2791760841,
     "SourceString": "None of that will ever become clear.\r\n\r\nAs the slit in time and space we cut grows wider, we ourselves become alienated from our own bodies. Our minds have started to... slip off...\r\n\r\nHumanity will not survive the threshold. But the Fae seem able to bear what we can not. Perhaps they will still walk this broken earth long after we are gone...\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Ничто из этого так и не прояснится.\r\n\r\nИ чем шире становится рассечённая нами трещина в ткани времени и пространства, тем более чуждыми становимся мы самим себе. Наши умы начинают... ускользать...\r\n\r\nЧеловечеству не пережить Порога. Но фэй, похоже, способны вынести то, что неподвластно нам. Возможно, они ещё будут странствовать по этой искалеченной земле, когда нас уже не будет...\r\n"
   },
   {
     "Namespace": "",
     "Key": "7815E1C447E81AB5DA8AEDB4AC47D146",
     "Hash": 208220003,
     "SourceString": "Whitney's Journal",
-    "LocalizedString": ""
+    "LocalizedString": "Дневник Уитни"
   },
   {
     "Namespace": "",
     "Key": "993E01694303F2150E4EADB8F48D1A63",
     "Hash": 941989987,
     "SourceString": "Late Summer, '87\r\n\r\nGot another courier job for the Broker, high-value shipment coming in by boat. I'm meant to hold onto it for a spell before handing it over to Dock A. Insurrection has been making runs out there, need to wait for my opening.",
-    "LocalizedString": ""
+    "LocalizedString": "Конец лета, 1987\r\n\r\nСнова курьерская работа для Брокера: важный груз приходит по морю. Я должен припрятать его на время, прежде чем передать на причал А. Повстанцы часто шастают в тех краях, так что придётся ждать подходящего момента."
   },
   {
     "Namespace": "",
     "Key": "9DCA6FC24FA79601B94CA8A9C6D4D0A5",
     "Hash": 454963665,
     "SourceString": "Got my hands on the shipment; this is premium shit right here. Broker would be very mad if it never got to him. I better find a good hiding place and lay low at my safe room in the Blue House.",
-    "LocalizedString": ""
+    "LocalizedString": "Груз у меня — и это реально дорогая штука. Брокер взбесится, если она до него не доберётся. Надо бы припрятать получше и затаиться в своём убежище в Синем доме."
   },
   {
     "Namespace": "",
     "Key": "B0DB2CB64FF25B57EA9F92908F05E132",
     "Hash": 2594475380,
     "SourceString": "It's funny how the loners use a wolf as their symbol. I guess it's supposed to have something to do with the old myth of \"lone wolves\"?\r\n\r\nIt's ironic because real wolves famously live in packs. But then again, I never see any of these bastards actually travel alone...",
-    "LocalizedString": ""
+    "LocalizedString": "Смешно, что одиночки взяли волка в качестве своего символа. Видимо, намёк на старый миф про \"одиноких волков\"?\r\n\r\nЗабавно, ведь настоящие волки-то живут стаями. И что самое смешное — этих гадов я тоже никогда не встречаю в одиночку..."
   },
   {
     "Namespace": "",
     "Key": "E02665B84E6C978A51D2A581C61571CF",
     "Hash": 2277611784,
     "SourceString": "Some of the guys here found out who I've been working with. I was under the impression that wasn't going to be a problem, but maybe what they say about everyone having their price is true.\r\n\r\nIt's a good thing I decided to bury the shipment someplace safe for now, a good hiding place too. Even if I'm forced to have a session with \"The Therapist\", they'll never find it.",
-    "LocalizedString": ""
+    "LocalizedString": "Похоже, кое-кто тут узнал, с кем я связан. Я-то думал, что проблем не будет... но, может, и правда у каждого своя цена.\r\n\r\nК счастью, я заранее закопал груз в надёжном месте. Отличная схронка. Даже если меня заставят пройти \"сеанс\" у \"Терапевта\", они его всё равно не найдут."
   },
   {
     "Namespace": "",
     "Key": "E15AE2144513E99350EC018D6B41E932",
     "Hash": 872094561,
     "SourceString": "Just got to remember, it's right between the legs.",
-    "LocalizedString": ""
+    "LocalizedString": "Нужно лишь помнить — схрон прямо меж ног."
   },
   {
     "Namespace": "",
     "Key": "27A5C7F046873E333BED39AD8A09BD2B",
     "Hash": 1379582440,
     "SourceString": "MODEL 46 E.M.D.P. MAIN CONTROL PANEL MANUAL",
-    "LocalizedString": ""
+    "LocalizedString": "MODEL 46 E.M.D.P. ИНСТРУКЦИЯ ПО ЭКСПЛУАТАЦИИ ГЛАВНОЙ ПАНЕЛИ УПРАВЛЕНИЯ"
   },
   {
     "Namespace": "",
     "Key": "01B3596D4D32643D88C20B9540AE6FB7",
     "Hash": 4293892690,
     "SourceString": "Overview:\r\n\r\n-Controls: Pg. 2\r\n\r\n-Alarms: Pg. 3\r\n\r\n-Priming Cycle: Pg. 4\r\n\r\n-Pulse Cycle: Pg. 5\r\n\r\n-Output Cycle: Pg. 6\r\n\r\n-Cooling Cycle: Pg. 7\r\n\r\n-Modes & Operations: Pg. 8\r\n\r\n-Additional Warnings: Pg. 9\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Содержание:\r\n\r\n-Элементы управления: стр. 2\r\n\r\n-Сигналы тревоги: стр. 3\r\n\r\n-Цикл подготовки: стр. 4\r\n\r\n-Цикл импульса: стр. 5\r\n\r\n-Цикл вывода: стр. 6\r\n\r\n-Цикл охлаждения: стр. 7\r\n\r\n-Режимы и операции: стр. 8\r\n\r\n-Дополнительные предупреждения: стр. 9\r\n"
   },
   {
     "Namespace": "",
     "Key": "DD6231A746074C51FB7E278DC5760F7D",
     "Hash": 16203734,
     "SourceString": "Controls:\r\n\r\n-On the far left most panel is the systems monitor.\r\n-These lights will indicate that the labeled systems are activated. \r\n-Output Pump, Heat Exchange and System Polarity can be toggled on this board.\r\n\r\n-To the right of that are the Temperature and PSR Meters.\r\n-These must be monitored at all times while operating the panel!\r\n\r\n-In the center left is a key-pad. This is where program codes are entered into the system.\r\n-The indicator light to its right will blink at the beginning of each cycle.\r\n\r\n-In the center right is the Emergency Reset Button. \r\n-When pressed it will automatically reset all systems to a semi-stable state.\r\n-The indicator light to its right indicates that the Automated Emergency Reset System is engaged. \r\n\r\n-Right of that is the Cycle Display Screen.\r\n-This will display the current Cycle step, Coolant flow, Ventilation status, and Laser Aperture status.\r\n\r\n-On the far right most panel is the cycles monitor.\r\n-These lights will indicate when the labeled drill functions are being executed.\r\n\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Элементы панели управления:\r\n\r\n— Крайняя левая панель: монитор систем.\r\n— Индикаторы сигнализируют об активных модулях.\r\n— На этой плате переключаются Насос вывода, Теплообменник и Полярность системы.\r\n\r\n— Справа находятся Датчики температуры и ПСР.\r\n— Их показания должны контролироваться постоянно во время эксплуатации.\r\n\r\n— В левой центральной секции — клавиатура для ввода программных кодов.\r\n— Индикатор справа мигает при запуске каждого цикла.\r\n\r\n— В правой центральной секции — Кнопка аварийного сброса.\r\n— Нажатие возвращает системы в полустабильное состояние.\r\n— Индикатор справа показывает активность Автоматической системы аварийного сброса.\r\n\r\n— Далее расположен Экран отображения циклов.\r\n— Отображает текущий этап цикла, поток охлаждающей жидкости, состояние вентиляции и апертуры лазера.\r\n\r\n— Крайняя правая панель: монитор циклов.\r\n— Индикаторы указывают на выполняемые функции буровой установки.\r\n"
   },
   {
     "Namespace": "",
     "Key": "26CF06F449F4B482BE4F55AB758C5CD3",
     "Hash": 4205892754,
     "SourceString": "Alarms:\r\n\r\n-Far left, with yellow marker is the Emergency Alarm.\r\n\r\n-Below the pressure gauge is the Pressure Alarm.\r\n\r\n-Below the temperature gauge is the Overheat Alarm.\r\n\r\n-The yellow light above the keypad is the Error Signal.\r\n\r\n-The blue light above the keypad is the Program Confirmation Signal.\r\n\r\n-Above the Emergency Reset Switch is the Emergency Reset Alarm.\r\n\r\n-Far right with the 'X' marker is the Malfunction Alarm.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Система сигналов:\r\n\r\n— Крайний левый индикатор с жёлтой меткой — Аварийная тревога.\r\n\r\n— Под манометром расположен Сигнал давления.\r\n\r\n— Под термодатчиком — Сигнал перегрева.\r\n\r\n— Жёлтый индикатор над клавиатурой — Ошибка.\r\n\r\n— Синий индикатор над клавиатурой — Подтверждение программы.\r\n\r\n— Над переключателем аварийного сброса — Тревога аварийного сброса.\r\n\r\n— Крайний правый индикатор с меткой «X» — Сигнал неисправности.\r\n"
   },
   {
     "Namespace": "",
     "Key": "CA24407042635702B0B2A1BB7409860D",
     "Hash": 365898718,
     "SourceString": "Cycle A: Priming\r\n\r\nDuring this cycle, the drill will prime its control instructions. \r\nThese instructions can be configured using the keypad.\r\n\r\nProgram Codes:\r\n\r\n-Lower Cycle Speed: 4111\r\n-Raise Cycle Speed: 4222\r\n\r\n-Activate Automated Safety Systems: 9902\r\n-Deactivate Automated Safety Systems: 9901\r\n\r\n-Reset Drill Phase: 8855\r\n\r\n\r\nWarning: \r\n\r\n-A Drill Phase Reset command requires PSR to be above 30 BAR, and Temp to be above 100C!\r\n-Heat Exchange must be deactivated before resetting the Drill Phase.\r\n-Heat Exchange must be deactivated before inverting System Polarity. \r\n-Heat Exchange must be deactivated before reactivating the Output Pump.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Цикл A: Подготовка\r\n\r\nВ данном цикле бур инициирует основные управляющие команды.\r\nПрограммирование производится через клавиатуру.\r\n\r\nКоды программ:\r\n\r\n— Снижение скорости цикла: 4111\r\n— Повышение скорости цикла: 4222\r\n\r\n— Активация автоматических систем безопасности: 9902\r\n— Деактивация автоматических систем безопасности: 9901\r\n\r\n— Сброс фазы бурения: 8855\r\n\r\n\r\nВНИМАНИЕ:\r\n\r\n— Для выполнения команды сброса фазы бурения давление ПСР должно превышать 30 BAR, а температура — 100°C!\r\n— Перед сбросом фазы бурения теплообменник должен быть отключён.\r\n— Перед инверсией полярности системы теплообменник должен быть отключён.\r\n— Перед повторным запуском Насоса вывода теплообменник должен быть отключён.\r\n"
   },
   {
     "Namespace": "",
     "Key": "44ADF22E4A329326EFDFD99923B81052",
     "Hash": 1440164300,
     "SourceString": "Cycle B: Drill Pulse & Ventilation\r\n\r\nThe system will passively ventilate exhaust pressure during this cycle.\r\nThe Ventilation rate can be configured using the keypad.\r\n\r\n-Enter 3 digits to set the ventilation percentage: (001-100)\r\n\r\nThe Laser Aperture can be configured using the keypad.\r\n\r\n-Set the System Polarity to Positive to add, or Negative to subtract.\r\n-Enter 2 digits into the keypad representing the amount added/subtracted. (00-99)\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Цикл B: Импульс бурения и вентиляция\r\n\r\nВ этом цикле система выполняет пассивный сброс избыточного давления.\r\nСкорость вентиляции программируется через клавиатуру.\r\n\r\n— Введите 3-значный код для установки процента вентиляции: (001–100)\r\n\r\nРегулировка апертуры лазера осуществляется через клавиатуру.\r\n\r\n— Установите полярность системы: «Положительная» — для увеличения, «Отрицательная» — для уменьшения.\r\n— Введите 2-значный код, обозначающий величину корректировки. (00–99)\r\n"
   },
   {
     "Namespace": "",
     "Key": "1421694945FF6284595D6A968F50BC22",
     "Hash": 341846266,
     "SourceString": "Cycle C: Product Output \r\n\r\nDuring this phase, the Output Pump will move Eather from the drill into storage.\r\n\r\nThese systems can be configured with the switches on the left panel.\r\n\r\nWarning:\r\n\r\n-If the Drill phase and output pump are not both running in the same direction, this can cause dangerous pressure build up in the drill!\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Цикл C: Вывод продукта\r\n\r\nВ данной фазе Насос вывода перекачивает Эфир из буровой установки в блок хранения.\r\n\r\nКонфигурация систем выполняется с помощью переключателей на левой панели.\r\n\r\nВНИМАНИЕ:\r\n\r\n— Несовпадение направления работы фазы бурения и насоса вывода приведёт к критическому росту давления внутри бура!\r\n"
   },
   {
     "Namespace": "",
     "Key": "19CB99804B09EB00581332B03DD0DD74",
     "Hash": 3626617390,
     "SourceString": "Cycle D: Cooling\r\n\r\nThis cycle will cool the drill system using the Heat Exchange.\r\nThe amount of coolant pumped through the Heat Exchange can be configure using the keypad:\r\n\r\n-Enter 5 digits:\r\n-The first digit indicates subtraction vs. addition. (0,1)\r\n-The last 4 digits are the value. (0001-9999)\r\n-Refer to the above figure for proper syntax notation.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Цикл D: Охлаждение\r\n\r\nВ данном цикле буровая установка проходит охлаждение посредством Теплообменника.\r\nПараметры подачи хладагента программируются через клавиатуру:\r\n\r\n— Введите 5-значный код:\r\n— Первая цифра задаёт режим: вычитание или добавление (0,1)\r\n— Последние 4 цифры указывают величину (0001–9999)\r\n— Для корректного ввода используйте схему выше.\r\n"
   },
   {
     "Namespace": "",
     "Key": "AB7E0CE545A468DA2522608563CD2068",
     "Hash": 4921672,
     "SourceString": "Modes and Operations:\r\n\r\n-Prime Command: Primes Cycle Order at beginning of each set.\r\n\r\n-Drill Running: Indicates that the drill is in operation.\r\n\r\n-Drill Pulse: Indicates that the drill is performing a mining pulse.\r\n\r\n-Forward Phase: Indicates that the drill is running in its mining phase, extracting Eather.\r\n\r\n-Polarity: Toggles the system polarity when inputting operational commands.\r\n\r\n-Output Pump: Product is being pumped respective of the current flow direction.\r\n\r\n-Pump Reverser: Reverses Product pump flow direction.\r\n\r\n-Exhaust System: Pumps exhaust from the drill, can be configured to increase or reduce pressure. \r\n\r\n-Cooling System: Denotes Cooling Cycle, this is when the Heat Exchange will be engaged. \r\n\r\n-Heat Exchange: Actively cools drill system, can be configured to increase or reduce coolant amount.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Режимы и операции:\r\n\r\n— Команда подготовки: инициирует порядок цикла в начале каждого набора.\r\n\r\n— Работа бура: отображает, что бур находится в активной эксплуатации.\r\n\r\n— Импульс бурения: показывает, что бур выполняет добывающий импульс.\r\n\r\n— Прямая фаза: фиксирует, что бур работает в фазе добычи, извлекая Эфир.\r\n\r\n— Полярность: переключает системную полярность при вводе команд.\r\n\r\n— Насос вывода: перекачка продукта в соответствии с направлением потока.\r\n\r\n— Реверс насоса: изменяет направление перекачки продукта.\r\n\r\n— Система выпуска: откачивает выхлопные газы из бура, настраивается для увеличения или снижения давления.\r\n\r\n— Система охлаждения: указывает цикл охлаждения, в ходе которого активируется Теплообменник.\r\n\r\n— Теплообменник: активно охлаждает систему бура, может быть запрограммирован на увеличение или снижение подачи хладагента.\r\n"
   },
   {
     "Namespace": "",
     "Key": "D7B28C9D4C5228062A830E910F7ACA1D",
     "Hash": 3571502991,
     "SourceString": "Additional Warnings:\r\n\r\n-If Heat or PSR are allowed to reach critical points, this will cause a catastrophic mechanical failure!\r\n\r\n-Automated Safety Systems may fail in the case of a malfunction!\r\n\r\n-Always manually press the emergency reset in the case of a system malfunction!\r\n\r\n-This system does not track and display levels of polarized Eather feedback!\r\n\r\n-Temperature must be below 500C when deactivating the Drill!\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Дополнительные предупреждения:\r\n\r\n— Достижение критических значений температуры или ПСР вызовет катастрофический отказ механизма!\r\n\r\n— Автоматические системы безопасности не гарантируют работу при сбоях!\r\n\r\n— При любой неисправности немедленно выполняйте ручной аварийный сброс!\r\n\r\n— Система не контролирует и не отображает уровни поляризованного отклика Эфира!\r\n\r\n— При отключении бура температура должна находиться ниже 500°C!\r\n"
   },
   {
     "Namespace": "",
     "Key": "CA50E7E34F3F9D41DCDD29A37904899F",
     "Hash": 4259254177,
     "SourceString": "Drill Worker's Journal",
-    "LocalizedString": ""
+    "LocalizedString": "Дневник рабочего буровой"
   },
   {
     "Namespace": "",
     "Key": "79FC0D3C47A4B663B982F88D7AA1D896",
     "Hash": 665006545,
     "SourceString": "Five seconds...\r\nClick!\r\n\r\nThe beast waits.\r\n\r\nFive seconds...\r\nClick!\r\n\r\nThe beast roars! It takes a bite from the bedrock.\r\n\r\nFive seconds...\r\nClick!\r\n\r\nThe beast swallows.\r\n\r\nFive seconds...\r\nClick!\r\n\r\nThe beast yawns, foul heat and smoke pour from its terrible belly...\r\n\r\nFive seconds...\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Пять секунд...\r\nЩелчок!\r\n\r\nЗверь затаился.\r\n\r\nПять секунд...\r\nЩелчок!\r\n\r\nЗверь взрывается рёвом! Он вгрызается в каменное нутро земли.\r\n\r\nПять секунд...\r\nЩелчок!\r\n\r\nЗверь жадно глотает.\r\n\r\nПять секунд...\r\nЩелчок!\r\n\r\nЗверь зевает, и из его чёрного брюха рвутся жар и удушливый дым...\r\n\r\nПять секунд...\r\n"
   },
   {
     "Namespace": "",
     "Key": "2A43CDC7482AFAF7B539FFB9D6382078",
     "Hash": 3092999648,
     "SourceString": "They were creatures of stellarite, fingers and jawbones reaching up at us from that hole we dug... \r\nThe hole we still dig...\r\n\r\nWe drain the life-blood of creation from our well. \r\n\r\nFive seconds...\r\nClick!\r\n\r\nI look into that pit, red light flashing in torrents.\r\n\r\nI see stars below me where there should be bedrock.\r\n\r\nWe have pierced our earth in ways unforgivable.\r\n\r\nFive seconds...\r\n\r\nDo they seek to persecute us, or did we break them out of some prison? \r\n\r\nFive seconds...\r\n\r\nDid we create them?\r\n\r\nClick!\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Они — твари из звёздного камня, пальцы и челюсти которых тянутся к нам из ямы, что мы вырыли...\r\nЯмы, что всё ещё углубляем...\r\n\r\nМы выкачиваем из колодца жизненную кровь мироздания.\r\n\r\nПять секунд...\r\nЩелчок!\r\n\r\nЯ гляжу в бездну, где багровый свет хлещет потоками.\r\n\r\nТам, где должна быть каменная твердь, я вижу звёзды.\r\n\r\nМы пронзили землю непростительным образом.\r\n\r\nПять секунд...\r\n\r\nОни хотят покарать нас? Или мы выломали их из древней темницы?\r\n\r\nПять секунд...\r\n\r\nИли мы сами породили их?\r\n\r\nЩелчок!\r\n"
   },
   {
     "Namespace": "",
     "Key": "F4E7DADF469AB3F6A5787186FFB08E89",
     "Hash": 3675695244,
     "SourceString": "\"To go digging, and to find awesome and terrible things below the ground. Did they ever wonder if those things were buried for a reason?\"\r\n\r\nThere is no such thing as magic, all the secrets of nature come to bear regardless of our understanding. Science is merely us recording what we find.\r\n\r\nBut look what we have found.\r\n\r\nFive seconds...\r\nClick!\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "«Копать — и находить под землёй великое и ужасное. Разве не приходила им мысль, что всё это зарыто там не случайно?»\r\n\r\nМагии не существует. Тайны природы открываются независимо от нашего понимания. Наука — всего лишь фиксация найденного.\r\n\r\nНо посмотрите, что же мы нашли.\r\n\r\nПять секунд...\r\nЩелчок!\r\n"
   },
   {
     "Namespace": "",
     "Key": "653308B040F7CE43E917B8BD766DB982",
     "Hash": 3641600200,
     "SourceString": "Upon the Primary:",
-    "LocalizedString": ""
+    "LocalizedString": "На главном:"
   },
   {
     "Namespace": "",
     "Key": "C9006DB44D9EDB26AA9AEDB34A76F663",
     "Hash": 4114815328,
     "SourceString": "Infinite strand lays out below a silent sun.\r\n\r\nFamiliar altars dot the surrounding dunes.\r\n\r\nDusk holds the earth in perpetuity. \r\n\r\nThe water licks warmly and calmly at the dreamer's feet.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Бесконечная нить раскинулась под безмолвным солнцем.\r\n\r\nАлтари, словно призраки памяти, возвышаются среди дюн.\r\n\r\nЗакат держит землю в вечном сумраке.\r\n\r\nТёплая вода мягко омывает стопы сновидца.\r\n"
   },
   {
     "Namespace": "",
     "Key": "4950F65540DE61D8AAB75083AC6EBDDA",
     "Hash": 675746387,
     "SourceString": "Portals remain barred, opening only for latchkeys found in the waking world.\r\n\r\nLamps hang on the horizon, beckoning with sweet promise. \r\n\r\nMemories take hard shape here.\r\n\r\nThey are not illusions.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Порталы закрыты и откроются лишь ключам, найденным в мире бодрствования.\r\n\r\nНа горизонте горят лампы, манящие сладким обещанием.\r\n\r\nЗдесь воспоминания обретают плоть.\r\n\r\nОни не иллюзия.\r\n"
   },
   {
     "Namespace": "",
     "Key": "369E208F4ED5043DF46E32ADAD14D946",
     "Hash": 3413771576,
     "SourceString": "Things taken from the Primary, remain taken.\r\n\r\nThings forsaken to this terrace, remain upon the strand.\r\n\r\nThe dreamer can not linger.\r\n\r\nOne must return from the dream.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Вещи, взятые с Главного, остаются взятыми.\r\n\r\nВещи, оставленные на этом ярусе, остаются на нити.\r\n\r\nСновидец не может задерживаться.\r\n\r\nНужно вернуться из сна.\r\n"
   },
   {
     "Namespace": "",
     "Key": "294770CA41F60A5190717CA0287E8F21",
     "Hash": 983617791,
     "SourceString": "   ",
-    "LocalizedString": ""
+    "LocalizedString": "   "
   },
   {
     "Namespace": "",
     "Key": "269513C3471BF06CB7370CAC9983B959",
     "Hash": 2354354139,
     "SourceString": "Upon the Secondary",
-    "LocalizedString": ""
+    "LocalizedString": "На Втором"
   },
   {
     "Namespace": "",
     "Key": "B738B26E46A32003B7F867A755483F31",
     "Hash": 1148007483,
     "SourceString": "To imbibe deeper into the dream is sin.\r\n\r\nShades lurk among the secondary.\r\n\r\nGrave icons carve themselves into the dark slate.\r\n\r\nOnly fog hangs below the grey sun.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Углубляться в сон — значит грешить.\r\n\r\nВо Втором таятся тени.\r\n\r\nПогребальные знаки сами высеклись на чёрной плите.\r\n\r\nПод серым солнцем колышется лишь туман.\r\n"
   },
   {
     "Namespace": "",
     "Key": "0384B63643EA7274839554B738841C97",
     "Hash": 2585080660,
     "SourceString": "The dreamer is forsaken within this terrace. \r\n\r\nDeath feasts above and below the lattice. \r\n\r\nNo treasures are to be claimed here; what is abducted is forfeit.\r\n\r\nNo truth can be observed in the secondary.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Сновидец оставлен в этом ярусе.\r\n\r\nСмерть пирует и сверху, и снизу решётки.\r\n\r\nНет здесь сокровищ; всё похищенное обращается в утрату.\r\n\r\nВо Втором истина не открывается.\r\n"
   },
   {
     "Namespace": "",
     "Key": "AA764B75490D9B01D5D859B38C4BE2FC",
     "Hash": 1422080555,
     "SourceString": "Heed our laws!\r\n\r\nThis dream is forbidden to all things that walk and crawl.\r\n\r\nThis dream is forbidden to all things that fly and swim.\r\n\r\nThis dream is forbidden to all things that live and die.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Слушайте наши законы!\r\n\r\nЭтот сон закрыт для всех, кто ходит и ползает.\r\n\r\nЭтот сон закрыт для всех, кто летает и плывёт.\r\n\r\nЭтот сон закрыт для всех, кто живёт и умирает.\r\n"
   },
   {
     "Namespace": "",
     "Key": "86D158704405DDC3E5BBB5A021B634CD",
     "Hash": 983617791,
     "SourceString": "   ",
-    "LocalizedString": ""
+    "LocalizedString": "   "
   },
   {
     "Namespace": "",
     "Key": "10BA1DA048B28E67D135F9A1386D3289",
     "Hash": 2257500125,
     "SourceString": "Upon the Tertiary",
-    "LocalizedString": ""
+    "LocalizedString": "На Третьем"
   },
   {
     "Namespace": "",
     "Key": "15AC88114303240919E351899D02AC18",
     "Hash": 3357004242,
     "SourceString": "Engulfing this terrace spans a black drink that swallows all cardinality, sparing the third.\r\n\r\nThe volume seats itself above a flat and even plane, merely leaving standing space between.\r\n\r\nAbove hangs a silent, grey tempest. \r\n\r\nAll is preserved this way; no horizon divides the sphere.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Вокруг этого яруса простирается чёрный поток, поглощающий все стороны мироздания, кроме третьей.\r\n\r\nОн покоится над гладкой равниной, оставляя только узкую полосу для стояния.\r\n\r\nНад всем зависла безмолвная, серая буря.\r\n\r\nТак сохраняется целостность: ни горизонт не разрывает сферу.\r\n"
   },
   {
     "Namespace": "",
     "Key": "FEBB50054D33750B3A0F5D990F5F065D",
     "Hash": 2383130997,
     "SourceString": "At the very focal point, a single sentinel stands, submerged to mere inches, suspended in perfect stillness.\r\n\r\nThe body is held by no footing and tied by no yoke. \r\n\r\nNo current sways its perfect tranquility. \r\n\r\nIt stands silent and fixed, like all else in the tertiary.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "В самом центре стоит единый Страж, погружённый лишь на несколько пальцев, висящий в совершенной тишине.\r\n\r\nЕго тело не держит опора и не стесняет ярмо.\r\n\r\nНи одно течение не колышет его безупречного покоя.\r\n\r\nОн стоит молчаливый и недвижный — как всё на Третьем.\r\n"
   },
   {
     "Namespace": "",
     "Key": "031D951D42209244B9871087C466C93C",
     "Hash": 2432908686,
     "SourceString": "Entering the bath is not dissimilar to probing a black lake.\r\n\r\nBreath will escape the dreamer.\r\n\r\nBelow this obscure tower lies the ultimate prize of sin. \r\n\r\nThe fetish of the black stag.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Вход в купель подобен погружению в чёрное озеро.\r\n\r\nДыхание покидает сновидца.\r\n\r\nПод этой мрачной башней лежит последняя награда греха.\r\n\r\nФетиш Чёрного Оленя.\r\n"
   },
   {
     "Namespace": "",
     "Key": "95F4C1A648AE47D306246D9ABCF3C01E",
     "Hash": 2088528333,
     "SourceString": "To hold it is to know all the suffering of the earth.\r\n\r\nIt may never depart the dreamer's grasp.\r\n\r\nOne will be blind to the light of Polaris.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Держать его — значит узреть всё страдание земли.\r\n\r\nОн навеки останется в руках сновидца.\r\n\r\nИ тот ослепнет для света Полярной звезды.\r\n"
   },
   {
     "Namespace": "",
     "Key": "99461316438E906DFEAF22BBF19020BB",
     "Hash": 1130604139,
     "SourceString": "     ",
-    "LocalizedString": ""
+    "LocalizedString": "     "
   },
   {
     "Namespace": "",
     "Key": "26123D4341BC5B4109A479BE1D2E0BC8",
     "Hash": 1284205838,
     "SourceString": "The Wellspring",
-    "LocalizedString": ""
+    "LocalizedString": "Первоисточник"
   },
   {
     "Namespace": "",
     "Key": "B75DBE81446335C76E91C49ABBE4198E",
     "Hash": 181054515,
     "SourceString": "There, in the western lands.\r\n\r\nWhere the sea people met the supplicants of the God Star.\r\n\r\nNorth of two great lakes.\r\n\r\nAnd west of the mountain of Kine, where the warrior Urmal was slain by the red dragon.\r\n\r\nBelow, deep in a fissure of the earth, lays a wellspring.\r\n\r\nWhere the lifeblood of creation flows like hot mineral water.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Там, в западных землях.\r\n\r\nГде морской народ встретил просителей Звезды-Бога.\r\n\r\nК северу от двух великих озёр.\r\n\r\nИ к западу от горы Каин, где воин Урмал пал от красного дракона.\r\n\r\nТам, глубоко в расселине земли, сокрыт Первоисточник.\r\n\r\nТам течёт сама жизненная кровь мироздания, как кипящие минеральные воды.\r\n"
   },
   {
     "Namespace": "",
     "Key": "56368E40468958728A908ABCBB847A77",
     "Hash": 1855700666,
     "SourceString": "The blood of creation can be used to perform great and terrible magics. \r\n\r\nIt is said that the archer demigod, Elin, crafted enchanted arrowheads with this life blood.\r\n\r\nAnd with them she felled the great armies of the east, and brought 50 Sultans to kneel.\r\n\r\nAnd that drinking the blood from the wellspring gave her a fortieth decade. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Кровь творения дарует власть творить и великое, и ужасное.\r\n\r\nСказано, что полубогиня-лучница Элин выковала зачарованные наконечники стрел из этой крови.\r\n\r\nИ с их помощью она сокрушила армии востока и склонила 50 султанов на колени.\r\n\r\nА испив крови из Первоисточника, продлила свой век ещё на сорок десятилетий.\r\n"
   },
   {
     "Namespace": "",
     "Key": "E6F577D146B55E38566FE0821B3C2F47",
     "Hash": 324634647,
     "SourceString": "Among this wellspring, there are exotic gems.\r\n\r\nTheir luster possess the holy light of stars. \r\n\r\nThey can be ground into a fine powder.\r\n\r\nWhen imbibed, one may venture into waking dreams.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "В Первоисточнике рождаются дивные камни.\r\n\r\nИх сияние несёт священный свет звёзд.\r\n\r\nИх толкут в тонкий порошок.\r\n\r\nПриняв его, человек может войти в сны наяву.\r\n"
   },
   {
     "Namespace": "",
     "Key": "760D7FC64AE4D524DA309192C69645F4",
     "Hash": 983617791,
     "SourceString": "   ",
-    "LocalizedString": ""
+    "LocalizedString": "   "
   },
   {
     "Namespace": "",
     "Key": "EAD8CAD244ADB4283AFEF5A36D0DC0AE",
     "Hash": 364953638,
     "SourceString": "Entrance?",
-    "LocalizedString": ""
+    "LocalizedString": "Вход?"
   },
   {
     "Namespace": "",
     "Key": "3A4FFA594E09FC7465FADBB51D17F47F",
     "Hash": 1003362726,
     "SourceString": "By the water.",
-    "LocalizedString": ""
+    "LocalizedString": "У воды."
   },
   {
     "Namespace": "",
     "Key": "FC6E04BB430A93ADE91DB2A7238C0D1E",
     "Hash": 4040681679,
     "SourceString": "AG-04",
-    "LocalizedString": ""
+    "LocalizedString": "AG-04"
   },
   {
     "Namespace": "",
     "Key": "0B3F21F146595420DBC9EA97AFCA8F55",
     "Hash": 603760215,
     "SourceString": "Dr. Quinn's Note",
-    "LocalizedString": ""
+    "LocalizedString": "Заметка доктора Куинна"
   },
   {
     "Namespace": "",
     "Key": "FCAAFCD64AFB41AFDAC27E8BCB6AF505",
     "Hash": 2456019093,
     "SourceString": "I can't say anything out loud; I don't want to alert his suspicions.\r\n\r\nI'm beginning to question Dr. Mosby's objectivity when it comes to this plan...\r\n\r\nDuring our experiment with reversing the micro drill, I noticed an alarming amount of Eather feedback.\r\nMosby keeps trying to assure me it's \"completely nominal\", but with no way of scaling our experiment it's impossible to know just how severe this feedback will be with the real thing. \r\n\r\nIt's entirely possible that Dr. Mosby is correct, and that the feedback will scale linearly.\r\nBut for him to rest everything on that conclusion? It's not scientific. \r\n\r\nI know your options are limited here; they are for all of us. You're the only one who'll immediately be able to tell if reversing the drill is truly dangerous, so it's down to your discretion at the moment. \r\n\r\nHave a contingency in place! ",
-    "LocalizedString": ""
+    "LocalizedString": "Я не могу говорить это вслух — не хочу вызвать его подозрения.\r\n\r\nЯ начинаю сомневаться в объективности доктора Мосби, когда речь идёт об этом плане...\r\n\r\nВо время эксперимента с реверсом микробура я заметил тревожное количество Эфирного отклика.\r\nМосби продолжает уверять меня, что это «совершенно нормально», но без масштабирования эксперимента невозможно узнать, насколько силён этот эффект будет на настоящей установке.\r\n\r\nВполне возможно, что доктор Мосби прав и отклик будет расти линейно.\r\nНо ставить всё на эту догадку? Это не научно.\r\n\r\nЯ знаю, что твои возможности здесь ограничены, как и у всех нас. Но именно ты сможешь сразу определить, действительно ли реверс бура опасен, так что сейчас всё зависит от твоего суждения.\r\n\r\nПозаботься о плане на случай непредвиденного!"
   },
   {
     "Namespace": "",
     "Key": "844F937F4971BE5A8AC327BEBC37B56A",
     "Hash": 2844346615,
     "SourceString": "Southern Research Wing:",
-    "LocalizedString": ""
+    "LocalizedString": "Южный исследовательский корпус:"
   },
   {
     "Namespace": "",
     "Key": "D5DADCB640F06F32C936B78604CE91F8",
     "Hash": 693255051,
     "SourceString": "Facilities: \r\n-Cistern\r\n-Lab KR-128\r\n-Lab PD-002\r\n\r\nConnections:\r\n-Lab E-206\r\n-Northern Facilities",
-    "LocalizedString": ""
+    "LocalizedString": "Объекты комплекса:\r\n-Цистерна\r\n-Лаборатория KR-128\r\n-Лаборатория PD-002\r\n\r\nСоединения:\r\n-Лаборатория E-206\r\n-Северные помещения"
   },
   {
     "Namespace": "",
     "Key": "C8732994429F3BDE382DE19EC3CE4C7A",
     "Hash": 3095624209,
     "SourceString": "Cistern Facility:",
-    "LocalizedString": ""
+    "LocalizedString": "Объект «Цистерна»:"
   },
   {
     "Namespace": "",
     "Key": "B8D6EAA74AEFA8A9096E2F99228A8D60",
     "Hash": 3635165981,
     "SourceString": "Prototype Drill Lab: PD-002",
-    "LocalizedString": ""
+    "LocalizedString": "Лаборатория прототипа бура: PD-002"
   },
   {
     "Namespace": "",
     "Key": "4161E2804A565BE6609B28BA4D1251B0",
     "Hash": 1630511254,
     "SourceString": "71038",
-    "LocalizedString": ""
+    "LocalizedString": "71038"
   },
   {
     "Namespace": "",
     "Key": "7952F4CA436BFD060FC09AA1AD2117DC",
     "Hash": 907495211,
     "SourceString": "Arcana VII - XII",
-    "LocalizedString": ""
+    "LocalizedString": "Аркана VII — XII"
   },
   {
     "Namespace": "",
     "Key": "04FA9AA94929AF5AEEADB792D79D97FB",
     "Hash": 2231392196,
     "SourceString": "VII The Forest:\r\n\r\nNature, the animal. \r\nFreedom and anarchy.\r\n\r\n\r\nThe Forest is not the domain of man. \r\nNature knows not the yoke.\r\nThe Forest is the home of the free.\r\n\r\n\r\nVIII The City:\r\n\r\nHumanity, organization, hierarchy. The many.\r\n\r\nThe city is the domain of men and kings. \r\nThis is the home of order and authority.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "VII Лес:\r\n\r\nПрирода, звериное начало.\r\nСвобода и безвластие.\r\n\r\nЛес не подвластен человеку.\r\nПрирода не знает ярма.\r\nЛес — обитель вольных.\r\n\r\n\r\nVIII Город:\r\n\r\nЧеловечество, строй, иерархия. Множество.\r\n\r\nГород — удел людей и царей.\r\nЗдесь царят порядок и власть.\r\n"
   },
   {
     "Namespace": "",
     "Key": "A6AA2AA74B58FAC428FD089C8C761DE0",
     "Hash": 2814863494,
     "SourceString": "IX The Rook:\r\n\r\nOne that bears witness, sees from far away, untouchable and remote.\r\n\r\nThe Rook knows but does not act. \r\n\r\n\r\nX The Gate:\r\n\r\nTransition, threshold, passage from one state to another. \r\n\r\nTo pass through The Gate is to change, and to come upon new things.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "IX Дозорный:\r\n\r\nТот, кто свидетельствует, взирает издалека, недосягаемый и отрешённый.\r\n\r\nДозорный знает, но не действует.\r\n\r\n\r\nX Врата:\r\n\r\nПереход, порог, путь из одного состояния в другое.\r\n\r\nВойти во Врата — значит измениться и обрести новое.\r\n"
   },
   {
     "Namespace": "",
     "Key": "AAC0EF70413BCD1F0C6E3A94BE139867",
     "Hash": 2438646481,
     "SourceString": "XI The Obelisk:\r\n\r\nUnmoving, permanent, unchangeable, ever-present.\r\n\r\nThe Obelisk is older than time, and will stand long after the stars go dark.\r\n\r\n\r\n\r\nXII The WellSpring:\r\n\r\nLife, creation, beginning, source.\r\n\r\nAll things were born from The WellSpring. From it flows the lifeblood of creation.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "XI Обелиск:\r\n\r\nНеподвижный, вечный, неизменный, вечно сущий.\r\n\r\nОбелиск древнее самого времени и простоит до времён, когда звёзды погаснут.\r\n\r\n\r\nXII Первоисточник:\r\n\r\nЖизнь, творение, начало, исток.\r\n\r\nВсё произошло из Первоисточника. Из него льётся сама жизненная кровь мироздания.\r\n"
   },
   {
     "Namespace": "",
     "Key": "19E264C3490636A2439044954F6B98E9",
     "Hash": 2370812203,
     "SourceString": "Arcana XIII - XVIII",
-    "LocalizedString": ""
+    "LocalizedString": "Аркана XIII — XVIII"
   },
   {
     "Namespace": "",
     "Key": "6C1F2E2C4861A314CCA5699C0FC5094A",
     "Hash": 716967601,
     "SourceString": "XIII Martyr:\r\n\r\nSacrifice, Instigation, bringer of change. \r\n\r\nThe Martyr will spark great change, and perpetuation. They are a turning point.\r\n\r\n\r\nXIV Daggers:\r\n\r\nViolence, vengeance, justice, authority.\r\n\r\nThe Dagger is the application of force, fear, and pain. It is an instrument of one's will.\r\n\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "XIII Мученик:\r\n\r\nЖертва, побуждение, вестник перемен.\r\n\r\nМученик зажигает великие перемены и их продолжение. Он — рубеж.\r\n\r\n\r\nXIV Кинжалы:\r\n\r\nНасилие, возмездие, правосудие, власть.\r\n\r\nКинжал — воплощение силы, страха и боли. Инструмент воли.\r\n"
   },
   {
     "Namespace": "",
     "Key": "A023914242B96CBE0390DF9D439FFE42",
     "Hash": 1390739621,
     "SourceString": "XV Harmony:\r\n\r\nCooperation, fate, destiny, positive compromise.\r\n\r\nThere is a crossroads where forces intersect. Things that are meant to be will come to be here.\r\n\r\n\r\nXVI Ouroboros:\r\n\r\nInfinity, cycles, repetition, rebirth and revision. \r\n\r\nThe Ouroboros forever spins in a circle. It is opposed to change and transition.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "XV Гармония:\r\n\r\nСогласие, судьба, предназначение, созидательный компромисс.\r\n\r\nЕсть перекрёсток, где сходятся силы. Здесь свершается предначертанное.\r\n\r\n\r\nXVI Уроборос:\r\n\r\nВечность, круги, повторение, возрождение и обновление.\r\n\r\nУроборос вечно вращается по кругу. Он противится переменам и переходу.\r\n"
   },
   {
     "Namespace": "",
     "Key": "D16668A54D307700377DF39DEAADEE17",
     "Hash": 1408067436,
     "SourceString": "XVII The Alchemist:\r\n\r\nOne who acts, who brings their will to pass, doer of mighty things.\r\n\r\nThe Alchemist achieves their will through their own resolve. They do of their own accord and through their own works. \r\n\r\n\r\n\r\nXVIII The Night:\r\n\r\nThe dark, the unseen, the obscure. Truth without entitlement. Opacity. \r\n\r\nThings in The Night are true and unknown. It holds mysteries and secrets.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "XVII Алхимик:\r\n\r\nТот, кто действует, чья воля свершает великие дела.\r\n\r\nАлхимик воплощает задуманное собственной решимостью. Он творит по своей воле и через собственные труды.\r\n\r\n\r\nXVIII Ночь:\r\n\r\nТьма, сокрытое, неведомое. Истина без обладания. Непроницаемость.\r\n\r\nТо, что во Тьме, истинно и неизведанно. Она хранит свои тайны и тайное знание.\r\n"
   },
   {
     "Namespace": "",
     "Key": "E38888B14FF564B6A4F5A3B468889794",
     "Hash": 1405683496,
     "SourceString": "Arcana XIX - XXIV",
-    "LocalizedString": ""
+    "LocalizedString": "Аркана XIX — XXIV"
   },
   {
     "Namespace": "",
     "Key": "51FC8C1E4F52062C025FCFA773D1565D",
     "Hash": 3065736236,
     "SourceString": "XIX Hunger:\r\n\r\n\r\nThe lowest, most base aspect of all life.\r\n\r\nUnconquerable, no thing stands above Hunger. No man nor god is mightier than Hunger. \r\n\r\n\r\n\r\nXX Wisdom:\r\n\r\nThe application of truth. Higher knowledge.\r\n\r\nTo have Wisdom is to understand, and to accept ignorance. To rest one's own will.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "XIX Голод:\r\n\r\nНизшая, первобытная сущность всякой жизни.\r\n\r\nНепобедим: ничто не стоит выше Голода. Ни человек, ни бог не превзойдёт его.\r\n\r\n\r\nXX Мудрость:\r\n\r\nПрименение истины. Высшее знание.\r\n\r\nМудрость — это понимание и принятие неведения. Это покой собственной воли.\r\n"
   },
   {
     "Namespace": "",
     "Key": "8A6C739E4BE80A3FF3BDC699AEBACC51",
     "Hash": 833510034,
     "SourceString": "XXI Fear:\r\n\r\nEmotion, lack of control, lack of will. Driven by outside forces.\r\n\r\nFear is the death of one's will. It is the enemy of resolve. But it is also a protector from true danger.\r\n\r\n\r\n\r\n\r\nXXII Tempest:\r\n\r\nInevitable, chaotic, offensive divinity.\r\n\r\nThe Tempest is coming. Heed the warnings. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "XXI Страх:\r\n\r\nЭмоция, утрата контроля, угасание воли. Ведомый чужими силами.\r\n\r\nСтрах — смерть воли. Враг решимости. Но и хранитель от истинной гибели.\r\n\r\n\r\nXXII Буря:\r\n\r\nНеотвратимая, хаотичная, карающая божественность.\r\n\r\nБуря грядёт. Внемли её предвестиям.\r\n"
   },
   {
     "Namespace": "",
     "Key": "59B8D60F42855FB0B982558DAAC62B31",
     "Hash": 1990455115,
     "SourceString": "XXIII Construct:\r\n\r\nPlanning, creation, reification.\r\n\r\nThe Construct is will made manifest. The culmination of works.\r\n\r\n\r\n\r\nXXIV The Sea:\r\n\r\nFinality, the end of things.\r\n\r\nThe sea is the terminus. The true end.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "XXIII Конструкт:\r\n\r\nЗамысел, творение, воплощение.\r\n\r\nКонструкт — воля, обретшая плоть. Венец трудов.\r\n\r\n\r\nXXIV Море:\r\n\r\nЗавершение, исход всего.\r\n\r\nМоре — это предел. Истинный конец.\r\n"
   },
   {
     "Namespace": "",
     "Key": "76B66E934368CA5DA35B2FA97AD8F9F2",
     "Hash": 4190085141,
     "SourceString": "Keep the package for now.",
-    "LocalizedString": ""
+    "LocalizedString": "Пока оставь посылку у себя."
   },
   {
     "Namespace": "",
     "Key": "9CF5595F4017B19019F465A8BF332985",
     "Hash": 4038995108,
     "SourceString": "That Fae bastard's gotten real pissy lately.\r\n\r\nKeep the package in the locker room, I'll send my guys out to pick it up for the egg-heads back north.\r\n\r\nWe don't need to be doing business with the local scum anyway.",
-    "LocalizedString": ""
+    "LocalizedString": "Этот ублюдок Фей в последнее время совсем взбесился.\r\n\r\nОставь посылку в раздевалке, я пришлю своих парней забрать её для очкариков на севере.\r\n\r\nНам и не стоит вести дела с местной швалью."
   },
   {
     "Namespace": "",
@@ -1005,146 +1005,146 @@
     "Key": "E8A0F23D4213A472B6523DB3E389893A",
     "Hash": 3021743471,
     "SourceString": "Dangerous Fae of The Zone",
-    "LocalizedString": ""
+    "LocalizedString": "Самые опасные феи Зоны"
   },
   {
     "Namespace": "",
     "Key": "2D50C0554F094687599964817B2EBB12",
     "Hash": 3640651979,
     "SourceString": "The Fae are as diverse as they are mysterious. It's said they arrived in this world during the \"Threshold\" that ended humanity. Many forms of Fae are harmless, some even intelligent; however within the Exclusion Zone surrounding Port Rale, many are quite dangerous and aggressive.\r\n\r\nThe following are various accounts of harmful and malicious Fae that should be avoided by stalkers in the Zone.",
-    "LocalizedString": ""
+    "LocalizedString": "Феи так же разнообразны, как и загадочны. Говорят, они явились в наш мир во время «Порога», что положил конец человечеству. Некоторые их обличья безвредны, кое-где встречаются и разумные; но в Зоне Отчуждения вокруг Порт-Рейла многие из них представляют смертельную угрозу.\r\n\r\nНиже собраны сведения о враждебных и зловредных феях, которых сталкерам стоит сторониться."
   },
   {
     "Namespace": "",
     "Key": "3C13B1FB45377461C124D79CDFE99A38",
     "Hash": 2252968540,
     "SourceString": "Hesh:\r\n\r\nThe Hesh are insect-like Fae beasts that mostly live underground. However, they have been seen coming out of their burrows on rare dark nights in search of food.\r\n\r\nThey are timid creatures, moving in large groups. Though they will attack if provoked. \r\n\r\nThey seem to subsist mostly off of fungus and dead creatures, including inheritors and other Fae.\r\n\r\nMostly harmless, so long as you avoid them. ",
-    "LocalizedString": ""
+    "LocalizedString": "Хеш:\r\n\r\nХеш — насекомоподобные твари-феи, обитающие в основном под землёй. Лишь изредка они выбираются из нор в тёмные ночи на поиски пищи.\r\n\r\nТрусливы и держатся стаями, но нападут, если их задеть.\r\n\r\nПитаются в основном грибами и падалью, включая Наследников и прочих фей.\r\n\r\nВ целом безопасны, пока держишься от них подальше."
   },
   {
     "Namespace": "",
     "Key": "4C08B5794566A85FFD538195CF23838D",
     "Hash": 1606333337,
     "SourceString": "The Not-Deer:\r\n\r\nLarge, hulking hairy beasts. Legend says they manifest from the corpses of wild animals that were contaminated by Eather. \r\n\r\nThey are violent and highly aggressive; attacking just about anything they see, hear or smell. Though they are dangerous, stalkers are encouraged to kill them on sight whenever encountered, as they are a huge nuisance that should not be allowed to go unchecked. \r\n\r\nAlthough they are intimidating and hardy, they are actually fairly straightforward to dispatch:\r\nShotguns, grenades, and high-caliber rounds are your best bet. They also hate fire! ",
-    "LocalizedString": ""
+    "LocalizedString": "Не-олень:\r\n\r\nКрупные, массивные, лохматые твари. Легенда гласит, что они возникают из трупов диких животных, заражённых Эфиром.\r\n\r\nОни яростны и крайне агрессивны, нападают на всё, что видят, слышат или чувствуют запахом. Несмотря на опасность, сталкерам рекомендуется уничтожать их при любой встрече — это настоящая напасть, которую нельзя оставлять без контроля.\r\n\r\nХотя они внушают страх и отличаются живучестью, справиться с ними довольно просто:\r\nдробовики, гранаты и крупнокалиберные патроны — лучший выбор. Ещё они ненавидят огонь!"
   },
   {
     "Namespace": "",
     "Key": "E4AF53B4407E8E33145CB1AD83E3C79B",
     "Hash": 3497909566,
     "SourceString": "FireBird:\r\n\r\nA rare and ferocious form of Fae: The FireBird often stalks abandoned industrial areas, as if it's looking for something.\r\n\r\nShould it get aggravated, it will chase down its target and attempt to  immolate them with a torrent of flame. \r\n\r\nTheir hides are stony and brittle, making them resilient to many forms of damage. Armor piercing rounds, explosives, and even blunt force are most effective, although I'd say the best strategy is to give them a wide berth, and let some other idiot have that fight. ",
-    "LocalizedString": ""
+    "LocalizedString": "Огненная птица:\r\n\r\nРедкая и свирепая форма фей: Огненная птица часто бродит по заброшенным промзонам, словно что-то выискивает.\r\n\r\nЕсли её разозлить, она будет преследовать цель и пытаться испепелить её огненным потоком.\r\n\r\nЕё шкура каменистая и хрупкая, благодаря чему она устойчива ко многим видам урона. Наиболее эффективны бронебойные патроны, взрывчатка и даже тупая сила. Хотя, по правде говоря, лучшая тактика — держаться подальше и оставить эту схватку какому-нибудь другому идиоту."
   },
   {
     "Namespace": "",
     "Key": "E052DE6D43F6AF8F8137E7A86EF48725",
     "Hash": 1474296645,
     "SourceString": "The 'Handy Man':\r\n\r\nOn occasion, an unwary stalker might find their eye wandering, only to have themselves snatched up and taken off their feet by one of these deadly beasts.\r\n\r\nThey wander, slowly and silently through the abandoned wastes, rarely going out of their way to pick a fight.\r\n\r\nHowever, if you should look directly at one of these 'Handy Men', they'll grab you from across great distances, pulling you in and attempting to maul and mutilate. Often they try to grab at the victim's head and face with their many hands, pulling it into their maw. Perhaps to try and gouge out the offending eyes that spotted him.\r\n\r\nIf you get pulled away by one of these foul beasts, try your best to look away and run. \r\n\r\nI couldn't get any photos of a 'Handy Man'.",
-    "LocalizedString": ""
+    "LocalizedString": "«Руколицый»:\r\n\r\nПорой невнимательный сталкер замечает, что взгляд его сам собой блуждает — и вдруг его срывает с ног, утаскивая одна из этих смертоносных тварей.\r\n\r\nОни медленно и бесшумно бродят по заброшенным пустошам, редко нападая первыми.\r\n\r\nНо стоит только взглянуть прямо на «Руколицего» — и он хватает с огромного расстояния, утягивает к себе и пытается изуродовать жертву. Чаще всего он тянет к голове и лицу своими множественными руками, утаскивая в пасть. Возможно, так он пытается вырвать глаза, что его заметили.\r\n\r\nЕсли тебя схватила одна из этих тварей — постарайся отвернуться и беги.\r\n\r\nСнимков «Руколицего» достать не удалось."
   },
   {
     "Namespace": "",
     "Key": "4252018545D310897269569A9B19BCCD",
     "Hash": 1719216950,
     "SourceString": "There are other types of Fae in the zone, especially further north. \r\n\r\nBut I'm not dumb enough to go north, so I don't know jack-shit about those ones. ",
-    "LocalizedString": ""
+    "LocalizedString": "В Зоне есть и другие виды фей, особенно дальше на севере.\r\n\r\nНо я не настолько глуп, чтобы соваться на север, так что про них я ни черта не знаю."
   },
   {
     "Namespace": "",
     "Key": "B63E96344D7A9FE3C1E9F783A14B397D",
     "Hash": 849671201,
     "SourceString": "NFTA Field Report: 'Flayers'",
-    "LocalizedString": ""
+    "LocalizedString": "NFTA: Полевой отчёт — «Флееры (Живодёры)»"
   },
   {
     "Namespace": "",
     "Key": "32995BF04FBFDAD0585276A3AAC3976C",
     "Hash": 3423189997,
     "SourceString": "CLASSIFIED\r\nFR 101-17-3 ENCOUNTER REPORT\r\nIMPLDATE: Pending\r\n\r\nREPORT RECORD OF HOSTILE ENCOUNTER: F516\r\nENCOUNTER: \"FLAYER\" ENTITY\r\n\r\nSGT LOWRY J.\r\nAUG 07, '87 PT - 13:11",
-    "LocalizedString": ""
+    "LocalizedString": "СЕКРЕТНО\r\nFR 101-17-3 ОТЧЁТ О СТОЛКНОВЕНИИ\r\nДата внедрения: в ожидании\r\n\r\nЗАПИСЬ О ВРАЖДЕБНОМ СТОЛКНОВЕНИИ: F516\r\nСТОЛКНОВЕНИЕ: Сущность «Флеер (Живодёр)»\r\n\r\nСержант Лоури Дж.\r\n07 авг. ’87 PT — 13:11"
   },
   {
     "Namespace": "",
     "Key": "FF6E2C654C981E314131239C2C780EB2",
     "Hash": 3134204479,
     "SourceString": "DAGGER 77 ACTUAL:\r\nReporting encounter with three hostile entities, confirmed kill on all targets, zero casualties. \r\n\r\nTargets have been colloquially identified as \"Flayers\".\r\nTheir appearance is consistent between both military and civilian sightings: \r\n\r\n-Skeletal body, standing upright.\r\n\r\n-Two sickle shaped blades where hands would otherwise be.\r\n\r\n-Composed of a mix of human and animal remains animated by Eather-based technology. Technology similar to that used to sustain post-humans.\r\n\r\n-Head of a deer, goat or other similar hooved animal. \r\n\r\n-Long, rigid bony tail. \r\n\r\n-Torso built out of human ribcage, contains critical machine components. \r\n\r\n-Covered in rotting fur and flesh. Can sometimes be smelled before seen.\r\n\r\n-Aggressively hostile, will charge targets at alarming speed. Will attempt to injure or kill target via blades at end of arms.\r\n\r\n-Often seen in small groups, rarely alone. ",
-    "LocalizedString": ""
+    "LocalizedString": "DAGGER 77 ACTUAL:\r\nДокладываю о столкновении с тремя враждебными сущностями. Все цели уничтожены, потерь нет.\r\n\r\nСубъекты известны под прозвищем «Флееры (Живодёры)».\r\nИх внешний облик подтверждён как военными, так и гражданскими свидетелями:\r\n\r\n— Скелетообразное тело, ходят на двух ногах.\r\n— На месте рук — серпообразные клинки.\r\n— Сформированы из человеческих и животных останков, оживлённых эфирной технологией, подобной той, что используется для поддержки пост-людей.\r\n— Голова напоминает оленя, козла или другого копытного.\r\n— Длинный костяной хвост.\r\n— Торс собран из человеческой рёберной клетки, внутри — ключевые механические узлы.\r\n— Покрыты гниющей плотью и шерстью. Нередко их чуешь раньше, чем видишь.\r\n— Крайне агрессивны: бросаются на цель с пугающей скоростью и наносят удары клинками.\r\n— Чаще действуют в малых стаях, в одиночку встречаются редко."
   },
   {
     "Namespace": "",
     "Key": "926EE0E34FE904D27548BE80138B1785",
     "Hash": 3566066198,
     "SourceString": "ADDITIONAL NOTES:\r\n\r\nEntity is vulnerable to conventional fire, incendiaries, explosives, and blunt force. \r\n\r\nEntity is resistant to armor penetrating rounds; these will pass through their body with minimal effect unless a critical point is struck. \r\n\r\nThese entities seem to ignore other, similar constructs, such as the \"Homunculus\" and \"Husk\".\r\n\r\nThreat level is considered moderate, however all forces are advised to destroy these entities on sight. Especially if encountered by ground teams. \r\n\r\nThe machine components and consistent makeup of these entities, and similar entities, implies that they are man-made.",
-    "LocalizedString": ""
+    "LocalizedString": "ДОПОЛНИТЕЛЬНЫЕ ЗАМЕТКИ:\r\n\r\nФлееры уязвимы для обычного огня, зажигательных смесей, взрывчатки и сильных ударов.\r\n\r\nБронебойные боеприпасы малоэффективны — проходят насквозь, не нанося серьёзного урона, если не задеты ключевые узлы.\r\n\r\nОни полностью игнорируют других созданных существ, вроде «Гомункула» и «Пустыша».\r\n\r\nУгроза считается умеренной, но предписывается уничтожать их при первом же контакте, особенно если речь идёт о наземных отрядах.\r\n\r\nСтруктура и наличие машинных элементов ясно указывают: эти твари созданы человеком."
   },
   {
     "Namespace": "",
     "Key": "EA0EFE124450F03C7C1B05B3E55E3452",
     "Hash": 1644022428,
     "SourceString": "Lenny's Journal",
-    "LocalizedString": ""
+    "LocalizedString": "Дневник Лэнни"
   },
   {
     "Namespace": "",
     "Key": "7B36164A48CA4EF022F561BA3F1D3B8C",
     "Hash": 1613578280,
     "SourceString": "First one is simple, just go south until you're near the Red Rook, its right behind the fence, always lit. \r\n\r\nThen there's the one on the beach, hidden in the berm behind \"the horse\".\r\n\r\nAnother one right off the highway, behind the embankment where there's a fork in the forest path. ",
-    "LocalizedString": ""
+    "LocalizedString": "Первый совсем простой: двигайся на юг, пока не дойдёшь до Красной Ладьи — она за забором, всегда горит свет.\r\n\r\nЕщё один тайник есть на пляже, спрятан в насыпи за «Лошадью».\r\n\r\nТретий — прямо у шоссе, за насыпью, там, где лесная тропа уходит вилкой."
   },
   {
     "Namespace": "",
     "Key": "EB9695244B60E7DFF139D8B82E00F711",
     "Hash": 4061440430,
     "SourceString": "Then there's one in the old market hall near the Blue House.\r\n\r\nThe pinko mentioned seeing one in the swamp. \r\n\r\nNo idea where the rest are, I can't ask too many more questions...\r\n\r\nThey're looking for me now, I have to lie low.",
-    "LocalizedString": ""
+    "LocalizedString": "Ещё один тайник — в старом рыночном зале возле Синего дома.\r\n\r\nКоммуняк упоминал, что видел один на болоте.\r\n\r\nПро остальные я не знаю — расспрашивать дальше опасно...\r\n\r\nЗа мной уже охотятся. Придётся затаиться."
   },
   {
     "Namespace": "",
     "Key": "CC1FA28740ABF20C340CBBADEBE8F54F",
     "Hash": 3821043682,
     "SourceString": "IF THAT FUCKER KRIEG SOLD ME OUT I'M GOING TO MURDER ALL OF THEM!",
-    "LocalizedString": ""
+    "LocalizedString": "ЕСЛИ ЭТОТ УБЛЮДОК КРИГ МЕНЯ СДАЛ — Я ИХ ВСЕХ УБЬЮ!"
   },
   {
     "Namespace": "",
     "Key": "B20FC8B040D5CC9B84677FBB303AEEF1",
     "Hash": 2529507649,
     "SourceString": "FUCK IM DEAD IM FUCKING DEAD! \r\nFUCK YOU KREIG YOU RAT SHIT FUCKER \r\n\r\n\r\nFUCK",
-    "LocalizedString": ""
+    "LocalizedString": "БЛЯТЬ, МНЕ КОНЕЦ, МНЕ ПИЗДЕЦ!\r\nПОШЁЛ ТЫ НАХУЙ, КРИГ, КРЫСА ЕБАНАЯ!\r\n\r\n\r\nБЛЯТЬ"
   },
   {
     "Namespace": "",
     "Key": "81A6F16A40F4A6868A1C7281035F4A52",
     "Hash": 3376050436,
     "SourceString": "Test Drill Memo",
-    "LocalizedString": ""
+    "LocalizedString": "Служебная записка: испытания бура"
   },
   {
     "Namespace": "",
     "Key": "13B6E1364A08B058FFB6A594AE6BDBC9",
     "Hash": 1612192036,
     "SourceString": "Attention RG East Science staff:\r\n\r\nLaboratory No. PD-002 is conducting important Eather drilling stability tests at Dr. Mosby's request. \r\n\r\nThey will be in need of our Mk. 7 Prototype Laser Head, as their Mk. 4  head has been decommissioned. \r\n\r\nDr. Mosby has already signed off on this request. Please prepare the drill head for transport. \r\n\r\nThank you, staff. The relevant documentation has been attached to this memo. ",
-    "LocalizedString": ""
+    "LocalizedString": "Вниманию научного персонала Восточного сектора RG:\r\n\r\nЛаборатория № PD-002 проводит важные испытания на устойчивость бурения Эфира по запросу д-ра Мосби.\r\n\r\nИм потребуется наш прототип лазерной головки Mk. 7, так как их головка Mk. 4 была выведена из эксплуатации.\r\n\r\nД-р Мосби уже утвердил этот запрос. Просьба подготовить буровую головку к транспортировке.\r\n\r\nСпасибо. Соответствующая документация приложена к данной служебной записке."
   },
   {
     "Namespace": "",
     "Key": "4547E4954329CAA2F968418DF99DC4FA",
     "Hash": 2215296138,
     "SourceString": "Orders From High Command",
-    "LocalizedString": ""
+    "LocalizedString": "Приказы Верховного командования"
   },
   {
     "Namespace": "",
     "Key": "B0A96FDF4FCA2F743599D684D454B5EA",
     "Hash": 3527279693,
     "SourceString": "The time has come to pacify the southern zone and rid it of criminal and terrorist activity!\r\n\r\nAll irregular forces in the southern exclusion zone are to be mobilized, effective immediately: \r\nPatrol routes are to be extended westward into contested territory as part of a mass harassment campaign. \r\nThe aim of this campaign is to disrupt enemy activity in the area while also drawing the attention of NFTA forces, allowing our advanced units to proceed north with fewer obstacles.\r\n\r\nAll southern patrols are hereby ordered to engage any non-allied forces as hostile combatants with zero discretion. \r\nAll armed trespassers are to be assumed hostile and shall be engaged at the unit leader's discretion.\r\nThis order also extends to hostile post-human survivors. In Kempt's own words: \"They are already dead; I will not allow petty sympathy to jeopardize our mission any longer.\"\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Пришло время умиротворить южную зону и очистить её от преступной и террористической активности!\r\n\r\nВсе нерегулярные силы в южной зоне отчуждения подлежат немедленной мобилизации:\r\nМаршруты патрулей должны быть расширены на запад, в спорные территории, в рамках кампании массовых преследований.\r\nЦель кампании — сорвать активность противника в этом районе, а также отвлечь внимание сил NFTA, чтобы наши передовые подразделения могли продвигаться на север с меньшими препятствиями.\r\n\r\nВсем южным патрулям приказываю считать любые не союзные силы вражескими боевыми единицами без права на усмотрение.\r\nВсе вооружённые нарушители подлежат уничтожению по усмотрению командира подразделения.\r\nЭтот приказ распространяется также на враждебных пост-людей. Как сказал сам Кемпт: \"Они уже мертвы; я больше не позволю мелкой жалости поставить под угрозу нашу миссию.\""
   },
   {
     "Namespace": "",
     "Key": "80C87D0E4243910060F9A38D1F99440B",
     "Hash": 3756973129,
     "SourceString": "Additionally: Our campaign in the north is stretching our resources thin. It is imperative that our elite troops be properly equipped in order to carry out our main objective. \r\nTherefore, our more expendable forces will have to make do with what can be scraped together on short notice. \r\n\r\nHave faith that any true patriot should be perfectly capable of persevering through these difficult conditions!\r\n\r\nTERRA REDDITA!",
-    "LocalizedString": ""
+    "LocalizedString": "Дополнительно: Наша кампания на севере растягивает ресурсы до предела. Крайне важно, чтобы наши элитные войска были должным образом оснащены для выполнения главной задачи.\r\nПоэтому более расходные силы придётся снабжать тем, что удастся собрать в кратчайшие сроки.\r\n\r\nИмейте веру: любой настоящий патриот способен выдержать эти тяжёлые условия!\r\n\r\nTERRA REDDITA!"
   }
 ]
