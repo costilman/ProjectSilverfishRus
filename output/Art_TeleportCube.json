@@ -4,13 +4,13 @@
     "Key": "9E99018248B0E1DCBEAADB976A7EC162",
     "Hash": 3756788400,
     "SourceString": "Set a target location where you are currently standing to later teleport back to at the cost of some Eather. ",
-    "LocalizedString": ""
+    "LocalizedString": "Установите целевое местоположение, в котором вы сейчас находитесь, чтобы позже телепортироваться туда за счет Эфира."
   },
   {
     "Namespace": "",
     "Key": "C4F3660E4945D33EF3E4FD8AD1540F89",
     "Hash": 2362815719,
     "SourceString": ":Secondary: to set the target location.    :Primary: to teleport to the target.",
-    "LocalizedString": ""
+    "LocalizedString": ":Secondary: установить местоположение цели.    :Primary: телепортироваться к цели."
   }
 ]
