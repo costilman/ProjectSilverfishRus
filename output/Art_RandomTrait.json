@@ -4,13 +4,13 @@
     "Key": "B4594D634F67E46AE46E94845769E3E0",
     "Hash": 132726900,
     "SourceString": "When consumed: Applies a random permanent aspect to your character. ",
-    "LocalizedString": ""
+    "LocalizedString": "При употреблении: накладывает на вашего персонажа случайный постоянный аспект."
   },
   {
     "Namespace": "",
     "Key": "7158F6694DC192058A593C824BC72734",
     "Hash": 1560478522,
     "SourceString": "CONSUME",
-    "LocalizedString": ""
+    "LocalizedString": "ВПИТАТЬ"
   }
 ]
