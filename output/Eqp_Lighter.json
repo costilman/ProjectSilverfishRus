@@ -4,13 +4,13 @@
     "Key": "4FDB763D4B429DE0183EF6B5B52A1600",
     "Hash": 3578035334,
     "SourceString": "Illuminates a tiny area around you. \r\n\r\nCan make you slightly more visible to enemies when they are looking directly at you.",
-    "LocalizedString": ""
+    "LocalizedString": "Освещает небольшую область вокруг вас. \r\n\r\nМожет сделать вас немного более заметным для врагов, когда они смотрят прямо на вас."
   },
   {
     "Namespace": "",
     "Key": "398B1BA844880B499B295FB541147006",
     "Hash": 1399274088,
     "SourceString": "Hold :secondary: to light things on fire.",
-    "LocalizedString": ""
+    "LocalizedString": "Удерживайте :secondary: чтобы поджигать предметы."
   }
 ]

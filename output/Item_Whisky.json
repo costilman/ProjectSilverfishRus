@@ -4,13 +4,13 @@
     "Key": "71CD026F4AE2D885DFBE1CB93A526C67",
     "Hash": 1484184862,
     "SourceString": "Alcohol: Drinking this can induce intoxication leading to increased pain tolerance and relief of Mental Fatigue, but also impaired motor-skills...",
-    "LocalizedString": ""
+    "LocalizedString": "Алкоголь: его употребление вызывает опьянение, повышает болевой порог и снижает Усталость разума, но при этом ухудшает координацию движений..."
   },
   {
     "Namespace": "",
     "Key": "C3FCFF1647E354C0A4CE788EBE1E6D11",
     "Hash": 3874602823,
     "SourceString": "DRINK",
-    "LocalizedString": ""
+    "LocalizedString": "ВЫПИТЬ"
   }
 ]

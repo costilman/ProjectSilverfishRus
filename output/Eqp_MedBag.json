@@ -4,13 +4,13 @@
     "Key": "356842E445BE1860196CB292ED3D5E4D",
     "Hash": 461618765,
     "SourceString": "Allows you to quickly access medical supplies without opening your inventory. ",
-    "LocalizedString": ""
+    "LocalizedString": "Позволяет быстро использовать медикаменты, не открывая инвентарь."
   },
   {
     "Namespace": "",
     "Key": "0B5941D040EF2CE36AC455B4AB02339C",
     "Hash": 1420472920,
     "SourceString": ":Primary: \r\nAuto-Select most appropriate health item.\r\n\r\n:Secondary:\r\nQuick-select menu.",
-    "LocalizedString": ""
+    "LocalizedString": ":Primary: \r\nАвтовыбор наиболее подходящего предмета для лечения.\r\n\r\n:Secondary:\r\nМеню быстрого выбора."
   }
 ]
