@@ -4,13 +4,13 @@
     "Key": "F2A79FEC484E3FF73310C0AD228170D5",
     "Hash": 1644022428,
     "SourceString": "Lenny's Journal",
-    "LocalizedString": ""
+    "LocalizedString": "Дневник Ленни"
   },
   {
     "Namespace": "",
     "Key": "1DB4F03D4AF7BBC3EA00C99389720D0D",
     "Hash": 659413354,
     "SourceString": "Journal found in Lenny's safe-house.",
-    "LocalizedString": ""
+    "LocalizedString": "Дневник, найденный в убежище Ленни."
   }
 ]

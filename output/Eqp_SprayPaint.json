@@ -4,13 +4,13 @@
     "Key": "B5F91598423BBBD16EC089BA9C6A059A",
     "Hash": 1233039146,
     "SourceString": "Can mark surfaces with a bright yellow X.\r\n\r\nThis can be helpful for navigating confusing spaces. ",
-    "LocalizedString": ""
+    "LocalizedString": "Может помечать поверхности ярким жёлтым крестом.\r\n\r\nЭто может быть полезно для навигации в запутанных местах."
   },
   {
     "Namespace": "",
     "Key": "70C260C441ED21100225E9A22E606E4B",
     "Hash": 1151539056,
     "SourceString": "Use :secondary: to cycle between sprays.",
-    "LocalizedString": ""
+    "LocalizedString": "Используйте :secondary: для смены насадки."
   }
 ]
