@@ -8,23 +8,30 @@
   },
   {
     "Namespace": "",
-    "Key": "B5A422BD4AA2824D5AD6289E16D9DE20",
-    "Hash": 2818065715,
-    "SourceString": "ANOMALIES",
-    "LocalizedString": "АНОМАЛИИ"
+    "Key": "EE7351274C315AD4B11615AEA975A182",
+    "Hash": 2696345315,
+    "SourceString": "Search...",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
-    "Key": "3E4EB9C742E4A708F54EABB3A04145A8",
+    "Key": "3793BB5D4C8B308F27F62C8A3AE4A052",
     "Hash": 2140689475,
     "SourceString": "SQUADS",
     "LocalizedString": "ОТРЯДЫ"
   },
   {
     "Namespace": "",
-    "Key": "8BD0B7084933348EEA6FDEB30429E880",
-    "Hash": 2751034099,
-    "SourceString": "SINGLE NPC",
+    "Key": "576E2D5B490F237614491D9D4088D006",
+    "Hash": 2986070657,
+    "SourceString": "SINGLE NPCS",
     "LocalizedString": "ОДИНОЧНЫЙ NPC"
+  },
+  {
+    "Namespace": "",
+    "Key": "06274466410E0385D680E49C77CFB74F",
+    "Hash": 2818065715,
+    "SourceString": "ANOMALIES",
+    "LocalizedString": "АНОМАЛИИ"
   }
 ]

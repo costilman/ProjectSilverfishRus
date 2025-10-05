@@ -33,19 +33,5 @@
     "Hash": 2767890209,
     "SourceString": "Dr. Mosby's Shop",
     "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "056CA2E347A96E3F16F27885F0829ABF",
-    "Hash": 16066862,
-    "SourceString": "SHOP",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "71B308D4414696620CF53788D0E64E50",
-    "Hash": 4032171384,
-    "SourceString": "EXIT",
-    "LocalizedString": ""
   }
 ]

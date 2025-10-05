@@ -64,20 +64,6 @@
   },
   {
     "Namespace": "",
-    "Key": "327FE2E1442F8BBE6566DC925840C13F",
-    "Hash": 2170699180,
-    "SourceString": "What do you need?",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A747D90847864F91B16FBC8F1F857CF8",
-    "Hash": 855516551,
-    "SourceString": "[Hang Up]",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "EA5FDA884288C0DE99CE96A8019500FF",
     "Hash": 2462185496,
     "SourceString": "I need to call in a favor...",
@@ -88,13 +74,6 @@
     "Key": "FB9F289046E8FC4F8A1647A587C43E8A",
     "Hash": 3520783227,
     "SourceString": "Standing by...",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A747D90847864F91B16FBC8F1F857CF8",
-    "Hash": 855516551,
-    "SourceString": "[Hang Up]",
     "LocalizedString": ""
   },
   {

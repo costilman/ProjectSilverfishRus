@@ -64,13 +64,6 @@
   },
   {
     "Namespace": "",
-    "Key": "AA261CB54D8B7DAA7484F2BCFF8CB435",
-    "Hash": 1385736442,
-    "SourceString": "On Death: \r\n-You fail your active contracts. \r\n-You choose 10 items from your inventory to keep, the rest are lost. \r\n-Each time you die, the number of items you can keep on death is reduced by one...\r\n-You respawn at your home base. \r\n-Otherwise your progress is saved. \r\n\r\nAdditionally:\r\n-World Loot is never replenished.\r\n-The game Auto-saves after every level transition.\r\n-You can also save at beds.\r\n-If you die more than 10 times, the game does not end...",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "33E811D248A43F3D3839619FB73C413F",
     "Hash": 993630798,
     "SourceString": "Perma-Death",

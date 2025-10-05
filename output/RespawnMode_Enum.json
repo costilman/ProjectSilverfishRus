@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "BAD710DB41C2A4E228199C8A82D829FD",
+    "Hash": 981246403,
+    "SourceString": "Load Last Save",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D961B7064D2ADEB89CC789BAC11249F2",
+    "Hash": 1186728198,
+    "SourceString": "Respawn With Penalty",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D2F12B224B4DF7996005E6A10DFEE521",
+    "Hash": 993630798,
+    "SourceString": "Perma-Death",
+    "LocalizedString": ""
+  }
+]

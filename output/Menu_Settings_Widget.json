@@ -260,13 +260,6 @@
   },
   {
     "Namespace": "",
-    "Key": "EBFBC56C4DD2908D2DB05A959AE93938",
-    "Hash": 2704239190,
-    "SourceString": "Unreal",
-    "LocalizedString": "Невероятное"
-  },
-  {
-    "Namespace": "",
     "Key": "457C001B407A641129799E9CB7251C36",
     "Hash": 3202300785,
     "SourceString": "Foliage QUALITY:",
@@ -379,13 +372,6 @@
   },
   {
     "Namespace": "",
-    "Key": "B2FE9E6644A0AB6725B2ACAA7B463E76",
-    "Hash": 3986249648,
-    "SourceString": "UNREAL",
-    "LocalizedString": "НЕВЕРОЯТНОЕ"
-  },
-  {
-    "Namespace": "",
     "Key": "7BC9EF9A4A98E1D3FBFD87936C6E37D1",
     "Hash": 3965021078,
     "SourceString": "POST-PROCESSING QUALITY:",
@@ -418,13 +404,6 @@
     "Hash": 999560352,
     "SourceString": "EPIC",
     "LocalizedString": "ЭПИЧЕСКОЕ"
-  },
-  {
-    "Namespace": "",
-    "Key": "B2FE9E6644A0AB6725B2ACAA7B463E76",
-    "Hash": 3986249648,
-    "SourceString": "UNREAL",
-    "LocalizedString": "НЕВЕРОЯТНОЕ"
   },
   {
     "Namespace": "",
@@ -505,13 +484,6 @@
   },
   {
     "Namespace": "",
-    "Key": "EBFBC56C4DD2908D2DB05A959AE93938",
-    "Hash": 2704239190,
-    "SourceString": "Unreal",
-    "LocalizedString": "Невероятное"
-  },
-  {
-    "Namespace": "",
     "Key": "A3A90FB844C0457202DD6FA5E7A5D88A",
     "Hash": 2652333820,
     "SourceString": "Shading QUALITY:",
@@ -544,13 +516,6 @@
     "Hash": 999560352,
     "SourceString": "EPIC",
     "LocalizedString": "ЭПИЧЕСКОЕ"
-  },
-  {
-    "Namespace": "",
-    "Key": "B2FE9E6644A0AB6725B2ACAA7B463E76",
-    "Hash": 3986249648,
-    "SourceString": "UNREAL",
-    "LocalizedString": "НЕВЕРОЯТНОЕ"
   },
   {
     "Namespace": "",
@@ -744,16 +709,16 @@
   {
     "Namespace": "",
     "Key": "9D3465F440164966E710E8B19385CC05",
-    "Hash": 3157856603,
-    "SourceString": "Scope Sensitivity:",
-    "LocalizedString": "Чувствительность в прицеле:"
+    "Hash": 2392500918,
+    "SourceString": "ADS Sensitivity:",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "193C3A9242DCC8E74CDDFDA4EF346CE2",
-    "Hash": 1396683566,
-    "SourceString": "Modifies mouse sensitivity while aiming a scoped weapon.",
-    "LocalizedString": "Изменяет чувствительность мыши при прицеливании из оружия с оптическим прицелом."
+    "Hash": 1400698977,
+    "SourceString": "Modifies mouse sensitivity for aiming weapons.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -786,9 +751,9 @@
   {
     "Namespace": "",
     "Key": "785079C942972EF8E547298E079B3FD1",
-    "Hash": 2661215452,
-    "SourceString": "Adjusts intensity of pixilation filter on all UI elements and text. ",
-    "LocalizedString": "Регулирует интенсивность эффекта пикселизации на всех элементах интерфейса и тексте."
+    "Hash": 2429526978,
+    "SourceString": "Adjusts intensity of pixelation filter on all UI elements and text. ",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",

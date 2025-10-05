@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "CBC2634A4F36660AE89F189FA119028B",
+    "Hash": 2325906101,
+    "SourceString": "Bug Test",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E96D98CF4C19FCD3880D55A8F0C853F6",
+    "Hash": 281598240,
+    "SourceString": "Cheat Shop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "99BA57C14F3CA65E2DFFE8A1E4CCC1E2",
+    "Hash": 720703838,
+    "SourceString": "RESET",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B56841AB410829EB544EF2B863146069",
+    "Hash": 1729239195,
+    "SourceString": "TEST MAP",
+    "LocalizedString": ""
+  }
+]

@@ -179,7 +179,7 @@
     "Key": "FB55BE514ADE967886588D978BC3DA8C",
     "Hash": 1994700333,
     "SourceString": "Right.",
-    "LocalizedString": "Ясно."
+    "LocalizedString": "Понятно."
   },
   {
     "Namespace": "",
@@ -208,13 +208,6 @@
     "Hash": 1609305147,
     "SourceString": "I’m content selling ammo to any idiots eager to die up there.",
     "LocalizedString": "Я доволен тем, что сбываю патроны любым дурням, которые сами просятся на тот свет."
-  },
-  {
-    "Namespace": "",
-    "Key": "FB55BE514ADE967886588D978BC3DA8C",
-    "Hash": 1994700333,
-    "SourceString": "Right.",
-    "LocalizedString": "Понятно"
   },
   {
     "Namespace": "",

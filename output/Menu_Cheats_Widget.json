@@ -1,6 +1,13 @@
 [
   {
     "Namespace": "",
+    "Key": "88CF586C426CF0AB003B5DB44D269A34",
+    "Hash": 2555659477,
+    "SourceString": "SQUAD VIEWER",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "6E4D547448A69D1949A8448DAA276630",
     "Hash": 692856776,
     "SourceString": "CLOSE",

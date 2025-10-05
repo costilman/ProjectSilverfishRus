@@ -71,13 +71,6 @@
   },
   {
     "Namespace": "",
-    "Key": "60D5755C404E4E8942A608A72520A0FB",
-    "Hash": 650405600,
-    "SourceString": "...",
-    "LocalizedString": "..."
-  },
-  {
-    "Namespace": "",
     "Key": "18DEFA364DBFD2B518F9E2A28A56DE8A",
     "Hash": 3598753683,
     "SourceString": "What else would you like to know?",
@@ -211,13 +204,6 @@
   },
   {
     "Namespace": "",
-    "Key": "1E42B2794F1C979C4C8DFCAB0DDF65CC",
-    "Hash": 650405600,
-    "SourceString": "...",
-    "LocalizedString": "..."
-  },
-  {
-    "Namespace": "",
     "Key": "66960895478C9FDD5CD074AA1688D015",
     "Hash": 3315231093,
     "SourceString": "So much has been lost to time...",
@@ -246,13 +232,6 @@
   },
   {
     "Namespace": "",
-    "Key": "1E42B2794F1C979C4C8DFCAB0DDF65CC",
-    "Hash": 650405600,
-    "SourceString": "...",
-    "LocalizedString": "..."
-  },
-  {
-    "Namespace": "",
     "Key": "74A942C64E415F590985AEAE5AF2173E",
     "Hash": 2408218574,
     "SourceString": "Many seek to control it, for the sake of power or bargaining, but I fear it may still pose a threat to your world.",
@@ -271,13 +250,6 @@
     "Hash": 2508730672,
     "SourceString": "Until I can get my hands on the relevant data, there's no telling how soon something like this could happen...",
     "LocalizedString": "Без нужных данных я не могу сказать, когда именно это произойдёт…"
-  },
-  {
-    "Namespace": "",
-    "Key": "1E42B2794F1C979C4C8DFCAB0DDF65CC",
-    "Hash": 650405600,
-    "SourceString": "...",
-    "LocalizedString": "..."
   },
   {
     "Namespace": "",

@@ -93,8 +93,15 @@
   {
     "Namespace": "",
     "Key": "373F0A95425F007FE17A83857722A265",
-    "Hash": 3571612792,
-    "SourceString": "Here, take this as a finder’s fee.",
+    "Hash": 3415013980,
+    "SourceString": "Here...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D77DE8C34F5BA62DFC17E7A67E383C89",
+    "Hash": 2668025319,
+    "SourceString": "Take this as a finder’s fee.",
     "LocalizedString": "Держи, это тебе — как вознаграждение за находку."
   },
   {
@@ -187,20 +194,6 @@
     "Hash": 2804490016,
     "SourceString": "\"Orders\"? Huh, those bureaucrat wanna-bes...",
     "LocalizedString": "«Приказ?» Ха, эти бюрократы-неудачники…"
-  },
-  {
-    "Namespace": "",
-    "Key": "E6320C06459AE9F22612068C1E277297",
-    "Hash": 2868505593,
-    "SourceString": "Here, you want to make yourself useful...",
-    "LocalizedString": "Так, раз уж хочешь быть полезным..."
-  },
-  {
-    "Namespace": "",
-    "Key": "3C7B3FDA4861670DDC69F58BA907414A",
-    "Hash": 650405600,
-    "SourceString": "...",
-    "LocalizedString": "..."
   },
   {
     "Namespace": "",
