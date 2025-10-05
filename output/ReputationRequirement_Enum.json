@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "E0CD4F604D6469293B02DCB0C0526570",
+    "Hash": 1530667888,
+    "SourceString": "No Requirement",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "05EB979E4C3E50818E5D709EBB91995E",
+    "Hash": 4039515020,
+    "SourceString": "At or Below Threshold",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "60B42200499186CE200C7A9579129838",
+    "Hash": 1670266998,
+    "SourceString": "At or Above Threshold",
+    "LocalizedString": ""
+  }
+]

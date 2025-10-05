@@ -4,7 +4,7 @@
     "Key": "3A81681E4576948279320DB47BD32209",
     "Hash": 1647675126,
     "SourceString": "Here’s your stop.",
-    "LocalizedString": "Всё, приплыли."
+    "LocalizedString": "Приплыли"
   },
   {
     "Namespace": "",
@@ -123,7 +123,7 @@
     "Key": "010B42334CF0916791AC40AF122CF031",
     "Hash": 458586451,
     "SourceString": "I have some more questions…",
-    "LocalizedString": "У меня есть ещё пару вопросов…"
+    "LocalizedString": "У меня есть ещё вопросы…"
   },
   {
     "Namespace": "",
@@ -145,27 +145,6 @@
     "Hash": 143086673,
     "SourceString": "All I'm here to do is ship fresh meat to the grinder, heh..",
     "LocalizedString": "Моя работа — доставлять свежачок прямо в мясорубку, хех…"
-  },
-  {
-    "Namespace": "",
-    "Key": "010B42334CF0916791AC40AF122CF031",
-    "Hash": 458586451,
-    "SourceString": "I have some more questions…",
-    "LocalizedString": "У меня есть ещё вопросы…"
-  },
-  {
-    "Namespace": "",
-    "Key": "31BAD6CB42AA9746EAA61CB85C664432",
-    "Hash": 671728119,
-    "SourceString": "I think that’s enough chit chat. I’ll be on my way.",
-    "LocalizedString": "Думаю, хватит болтовни. Пора мне идти."
-  },
-  {
-    "Namespace": "",
-    "Key": "3A81681E4576948279320DB47BD32209",
-    "Hash": 1647675126,
-    "SourceString": "Here’s your stop.",
-    "LocalizedString": "Приплыли"
   },
   {
     "Namespace": "",

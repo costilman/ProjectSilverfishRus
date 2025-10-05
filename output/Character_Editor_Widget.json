@@ -22,13 +22,6 @@
   },
   {
     "Namespace": "",
-    "Key": "51B26C234A1D273D6FBA7CB40A0DA647",
-    "Hash": 94665057,
-    "SourceString": "BACK",
-    "LocalizedString": "НАЗАД"
-  },
-  {
-    "Namespace": "",
     "Key": "3DF8FEB34BD0A7DF4C5C0BA1D96C7DB0",
     "Hash": 1933897193,
     "SourceString": "CHARACTER CLASS",
@@ -1149,48 +1142,6 @@
   },
   {
     "Namespace": "",
-    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
-    "Hash": 1871364646,
-    "SourceString": "TYPE 1",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
-    "Hash": 2101308872,
-    "SourceString": "TYPE 2",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
-    "Hash": 3313699501,
-    "SourceString": "TYPE 3",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
-    "Hash": 1481912852,
-    "SourceString": "TYPE 4",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "5564421342F189825D39DEBB6E977859",
-    "Hash": 3773322609,
-    "SourceString": "TYPE 5",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
-    "Hash": 4066245279,
-    "SourceString": "TYPE 6",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "1FCA339D46EE7CB1E66C00BD126ED7F4",
     "Hash": 3564466080,
     "SourceString": "CAMO:",
@@ -1223,48 +1174,6 @@
     "Hash": 1485149679,
     "SourceString": "Class:",
     "LocalizedString": "Класс:"
-  },
-  {
-    "Namespace": "",
-    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
-    "Hash": 1871364646,
-    "SourceString": "TYPE 1",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
-    "Hash": 2101308872,
-    "SourceString": "TYPE 2",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
-    "Hash": 3313699501,
-    "SourceString": "TYPE 3",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
-    "Hash": 1481912852,
-    "SourceString": "TYPE 4",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "5564421342F189825D39DEBB6E977859",
-    "Hash": 3773322609,
-    "SourceString": "TYPE 5",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
-    "Hash": 4066245279,
-    "SourceString": "TYPE 6",
-    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -1328,41 +1237,6 @@
     "Hash": 764045672,
     "SourceString": "NEUTRAL",
     "LocalizedString": "НЕЙТРАЛЫ"
-  },
-  {
-    "Namespace": "",
-    "Key": "E431EF13467378F5174A5E93573BF077",
-    "Hash": 3787804902,
-    "SourceString": "FREELANCER",
-    "LocalizedString": "ФРИЛАНСЕРЫ"
-  },
-  {
-    "Namespace": "",
-    "Key": "615B02C74CE5C4BBAAE00DBF6B917660",
-    "Hash": 2136472886,
-    "SourceString": "REVOLUTION",
-    "LocalizedString": "РЕВОЛЮЦИОНЕРЫ"
-  },
-  {
-    "Namespace": "",
-    "Key": "0F7176F14BF85890C23FCDA70A84514A",
-    "Hash": 1971874582,
-    "SourceString": "CULT",
-    "LocalizedString": "КУЛЬТИСТЫ"
-  },
-  {
-    "Namespace": "",
-    "Key": "76B9F1E54CEB10593C5976A545B6D0E3",
-    "Hash": 3863880252,
-    "SourceString": "INSURRECTION",
-    "LocalizedString": "ПОВСТАНЦЫ"
-  },
-  {
-    "Namespace": "",
-    "Key": "BF8739A144D2DC1DFDB92283E2974819",
-    "Hash": 678775089,
-    "SourceString": "MILITARY",
-    "LocalizedString": "ВОЕННЫЕ"
   },
   {
     "Namespace": "",
@@ -1534,48 +1408,6 @@
   },
   {
     "Namespace": "",
-    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
-    "Hash": 1871364646,
-    "SourceString": "TYPE 1",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
-    "Hash": 2101308872,
-    "SourceString": "TYPE 2",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
-    "Hash": 3313699501,
-    "SourceString": "TYPE 3",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
-    "Hash": 1481912852,
-    "SourceString": "TYPE 4",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "5564421342F189825D39DEBB6E977859",
-    "Hash": 3773322609,
-    "SourceString": "TYPE 5",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
-    "Hash": 4066245279,
-    "SourceString": "TYPE 6",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "1BE9425240081DC7679389BBD12E2CD6",
     "Hash": 446056608,
     "SourceString": "MARKINGS:",
@@ -1618,94 +1450,10 @@
   },
   {
     "Namespace": "",
-    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
-    "Hash": 1871364646,
-    "SourceString": "TYPE 1",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
-    "Hash": 2101308872,
-    "SourceString": "TYPE 2",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
-    "Hash": 3313699501,
-    "SourceString": "TYPE 3",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
-    "Hash": 1481912852,
-    "SourceString": "TYPE 4",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "5564421342F189825D39DEBB6E977859",
-    "Hash": 3773322609,
-    "SourceString": "TYPE 5",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
-    "Hash": 4066245279,
-    "SourceString": "TYPE 6",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "4EABC7BE407D86F9C81864948CC3C04F",
     "Hash": 2492658822,
     "SourceString": "PATCH:",
     "LocalizedString": "НАШИВКА:"
-  },
-  {
-    "Namespace": "",
-    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
-    "Hash": 1871364646,
-    "SourceString": "TYPE 1",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
-    "Hash": 2101308872,
-    "SourceString": "TYPE 2",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
-    "Hash": 3313699501,
-    "SourceString": "TYPE 3",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
-    "Hash": 1481912852,
-    "SourceString": "TYPE 4",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "5564421342F189825D39DEBB6E977859",
-    "Hash": 3773322609,
-    "SourceString": "TYPE 5",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
-    "Hash": 4066245279,
-    "SourceString": "TYPE 6",
-    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -1790,48 +1538,6 @@
     "Hash": 384325812,
     "SourceString": "Intro:\r\nYou start at the story Intro Level. Highly recommended for your first play-through. \r\n\r\nObservatory:\r\nYou start at the Observatory, your first port-of-call in the main story.\r\n\r\nRandom:\r\nYou start in a semi-safe location on a random location in the southern zone.\r\n\r\nFaction Base:\r\nYou start at whatever location is most appropriate for your chosen faction. ",
     "LocalizedString": "Вступление:\r\nВы начинаете на уровне сюжетного вступления. Настоятельно рекомендуется для вашего первого прохождения. \r\n\r\nОбсерватория:\r\nВы начинаете в обсерватории, вашей первой точке в основной сюжетной линии.\r\n\r\nСлучайная:\r\nВы начинаете в относительно безопасном месте в случайной локации в южной зоне.\r\n\r\nБаза фракции:\r\nВы начинаете в наиболее подходящем для вашей выбранной фракции месте."
-  },
-  {
-    "Namespace": "",
-    "Key": "80B399F74FCC5508EB26E489BF31E7B7",
-    "Hash": 1871364646,
-    "SourceString": "TYPE 1",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "E8D53A1C4A3CAB5F61AC09B24165BA8E",
-    "Hash": 2101308872,
-    "SourceString": "TYPE 2",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "4FAC08A54BA267B1A72834BD74D05DF9",
-    "Hash": 3313699501,
-    "SourceString": "TYPE 3",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "7F4254D94D667C7DFE4CAC850A9A8384",
-    "Hash": 1481912852,
-    "SourceString": "TYPE 4",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "5564421342F189825D39DEBB6E977859",
-    "Hash": 3773322609,
-    "SourceString": "TYPE 5",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A92F5AB842EA4D9D18A9BE85158254F2",
-    "Hash": 4066245279,
-    "SourceString": "TYPE 6",
-    "LocalizedString": ""
   },
   {
     "Namespace": "",

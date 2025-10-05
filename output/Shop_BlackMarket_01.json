@@ -47,19 +47,5 @@
     "Hash": 660861463,
     "SourceString": "Black Market Shop",
     "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A585AF744A83B7BFC5FA82A1C225AC52",
-    "Hash": 16066862,
-    "SourceString": "SHOP",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "EE283BAE477938E2B69BFD81D737AB93",
-    "Hash": 4032171384,
-    "SourceString": "EXIT",
-    "LocalizedString": ""
   }
 ]

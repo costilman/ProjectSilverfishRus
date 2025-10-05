@@ -127,13 +127,6 @@
   },
   {
     "Namespace": "",
-    "Key": "A6AB574B4505948070DC33BB3452BCB8",
-    "Hash": 2843167201,
-    "SourceString": "Discovered in the 1830’s, Eather is the most basic and fundamental building block of all matter and energy in the universe. \r\n\r\nIn the late 1890’s Aiden Savlo discovered the scientific process of extracting, refining and applying Eather for industrial applications.\r\n\r\nThese applications include: \r\n-Material transmutation.\r\n-Material and energy translation.\r\n-Material reification. \r\n-Precise energy manipulation.\r\n-Quantum manipulation.\r\n-Synthetic petroleum production. \r\n-Expanded metabolic process. \r\n-Significant life-span extension.\r\n-Potential applications in the reconstitution of dead organic material. \r\n-Various psionic and psychoactive applications.\r\n-Psycho-material translation.\r\n-Symmetrical psycho-material reification.\r\n\r\nNeedless to say these new technologies have been revolutionary for 20th century society and industry; most of all synthetic petroleum! \r\n",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "767C4D48489F42B92AC1BA8F55F44E2F",
     "Hash": 4179134272,
     "SourceString": "Leading provider in Eather mining and refining.\r\nBased in West Carcosa.\r\nOwner and president: Edward Church. \r\nMember corporation of the NFTA.",
@@ -169,37 +162,16 @@
   },
   {
     "Namespace": "",
-    "Key": "99E63AC345E569F932B3259B0B6049CE",
-    "Hash": 3209751643,
-    "SourceString": "Major port city on the coast of West Carcosa.\r\nMajor export center of refined Eather and Eather products. \r\n",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "2D0CA51C4C726126A28ACA8542D76921",
-    "Hash": 4251048337,
-    "SourceString": "Small farming village east of Port Rale, on the south shore of Black Lake where it connects with Goldwood River, West Carcosa.\r\nA local exporter of wheat and fresh produce. \r\n",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "6E945CD04417DFADBCA602BD765B7C24",
-    "Hash": 78491373,
-    "SourceString": "Small village on the Redrook River, south-east of Port Rale, West Carcosa. \r\nLocation of the Beauly Chemical Mill.\r\n",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "E9F278504E7EDCDB0EE171ACDA19EE1C",
-    "Hash": 2116598234,
-    "SourceString": "Small lake directly east of port Rale. \r\nConvergence point of 3 rivers (North River, Black River, & Goldwood River), leading out into the canals of Port Rale.\r\n",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "AF55AF6C48ECE94CB994D7B60092A3D4",
     "Hash": 2050663869,
     "SourceString": "Chemical storage and processing facility west of the village of Beauly, on the Redrook River. \r\nJointly owned and operated by Standard Eather Company and Savlo Industries. \r\nStores and processes Eather-derivatives and other associated materials. \r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8CF2074C49398AF90F8CBEB12D1027FD",
+    "Hash": 3490586754,
+    "SourceString": "Utility Tunnel No. 308:\r\n\r\nPort Rale southern Freight Depot.\r\n\r\n\r\n\r\nStandard Eather Co. Ground Pump Control Node.\r\n\r\nSTATUS: 83% ONLINE\r\n\r\nDATA FEED: ONLINE",
     "LocalizedString": ""
   },
   {
@@ -242,6 +214,34 @@
     "Key": "6E9F55004C97BA35AA7612A50D8B69F2",
     "Hash": 1161375398,
     "SourceString": "MR-01: Machine Room Entrance \r\nTC-02: Test Chamber Entrance\r\nLT-03: Test Chamber Lights\r\nME-04: Main Lab Entrance\r\nMR-05: Turbo-Dynamo Room Entrance\r\nSR-06: Storage Room 6 Entrance ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "118C895F43116A940166BA891365A4ED",
+    "Hash": 4251048337,
+    "SourceString": "Small farming village east of Port Rale, on the south shore of Black Lake where it connects with Goldwood River, West Carcosa.\r\nA local exporter of wheat and fresh produce. \r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "23AAE1144AC9D2CFD301DDA9A3568244",
+    "Hash": 1595379351,
+    "SourceString": "Leading provider in Eather mining and refining.\r\nBased in West Carcosa.\r\nOwner and president: Edward Church. \r\nMember corporation of the NFTA.\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DDC8CEB74E13E89D8D18C9B65F32A4DD",
+    "Hash": 3490586754,
+    "SourceString": "Utility Tunnel No. 308:\r\n\r\nPort Rale southern Freight Depot.\r\n\r\n\r\n\r\nStandard Eather Co. Ground Pump Control Node.\r\n\r\nSTATUS: 83% ONLINE\r\n\r\nDATA FEED: ONLINE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE2C1F9E486E2D22AF5D68B4D80A6C9D",
+    "Hash": 2050663869,
+    "SourceString": "Chemical storage and processing facility west of the village of Beauly, on the Redrook River. \r\nJointly owned and operated by Standard Eather Company and Savlo Industries. \r\nStores and processes Eather-derivatives and other associated materials. \r\n",
     "LocalizedString": ""
   }
 ]

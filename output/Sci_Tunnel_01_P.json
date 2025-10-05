@@ -15,13 +15,6 @@
   },
   {
     "Namespace": "",
-    "Key": "C29147C549ED45FE6965169C941B031A",
-    "Hash": 268647458,
-    "SourceString": "E206",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "6B744199431059963A54D5973ACB7BF0",
     "Hash": 2286012062,
     "SourceString": "MR-01",
@@ -39,13 +32,6 @@
     "Key": "040CCE4A494940697D87578013AE2881",
     "Hash": 3970440805,
     "SourceString": "SR-06",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "3DD6DD4B4CB9777DAFB848999C9902FD",
-    "Hash": 3401679022,
-    "SourceString": "TC-02",
     "LocalizedString": ""
   },
   {
@@ -74,104 +60,6 @@
     "Key": "D96DA6704A3779934C2DC59804E27609",
     "Hash": 4032171384,
     "SourceString": "EXIT",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "D96DA6704A3779934C2DC59804E27609",
-    "Hash": 4032171384,
-    "SourceString": "EXIT",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "0132FCB54DA61F41A21C768371927860",
-    "Hash": 377694871,
-    "SourceString": "FLUSH",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "3DD6DD4B4CB9777DAFB848999C9902FD",
-    "Hash": 3401679022,
-    "SourceString": "TC-02",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "C29147C549ED45FE6965169C941B031A",
-    "Hash": 268647458,
-    "SourceString": "E206",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "C29147C549ED45FE6965169C941B031A",
-    "Hash": 268647458,
-    "SourceString": "E206",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "6B744199431059963A54D5973ACB7BF0",
-    "Hash": 2286012062,
-    "SourceString": "MR-01",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "6A7EDE274550C6BC81F3E89F115EB4C7",
-    "Hash": 119755209,
-    "SourceString": "MR-05",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "040CCE4A494940697D87578013AE2881",
-    "Hash": 3970440805,
-    "SourceString": "SR-06",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "3DD6DD4B4CB9777DAFB848999C9902FD",
-    "Hash": 3401679022,
-    "SourceString": "TC-02",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "CB899DA34C51DC103EA6FFB10782A7E2",
-    "Hash": 3457488438,
-    "SourceString": "LAB No. PD-002",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "0132FCB54DA61F41A21C768371927860",
-    "Hash": 377694871,
-    "SourceString": "FLUSH",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "D96DA6704A3779934C2DC59804E27609",
-    "Hash": 4032171384,
-    "SourceString": "EXIT",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "D96DA6704A3779934C2DC59804E27609",
-    "Hash": 4032171384,
-    "SourceString": "EXIT",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "0132FCB54DA61F41A21C768371927860",
-    "Hash": 377694871,
-    "SourceString": "FLUSH",
     "LocalizedString": ""
   }
 ]

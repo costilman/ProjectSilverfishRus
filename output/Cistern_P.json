@@ -29,27 +29,6 @@
   },
   {
     "Namespace": "",
-    "Key": "A548B7584DF7EB94711239B48F55186A",
-    "Hash": 3536998090,
-    "SourceString": "AG04",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "D665082448C6205C7AA70BB990CC8998",
-    "Hash": 4032171384,
-    "SourceString": "EXIT",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "FFFE4AF3405BF8034E69CB87B9FD1DB2",
-    "Hash": 1793221406,
-    "SourceString": "OPEN",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "2E4335A94B10E95C0BF51AB93404AC24",
     "Hash": 2007506534,
     "SourceString": "9346",

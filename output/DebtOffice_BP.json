@@ -1,0 +1,37 @@
+[
+  {
+    "Namespace": "",
+    "Key": "64569EDE406EA94136E62D99BB9DF831",
+    "Hash": 1892127071,
+    "SourceString": "PAY DEBT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1C5C6197430C9C3974F2F78AA7432A04",
+    "Hash": 1222119371,
+    "SourceString": "PAY IN FULL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FDAF7C3D46CAD7321C376D8DDD0B4327",
+    "Hash": 1494859070,
+    "SourceString": "MAKE PAYMENT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "81473B5C4A9BFB40DB95E4A3862EF2FD",
+    "Hash": 1494859070,
+    "SourceString": "MAKE PAYMENT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7B910A30426D6FB0A8F32BBF06224AD2",
+    "Hash": 1098923966,
+    "SourceString": "Shop",
+    "LocalizedString": ""
+  }
+]

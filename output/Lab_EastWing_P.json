@@ -64,23 +64,9 @@
   },
   {
     "Namespace": "",
-    "Key": "6C03922648131842DADC2FBC5F0798F1",
-    "Hash": 3677952469,
-    "SourceString": "S-06",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "A2130A984AF2018492903CB8E92C5070",
     "Hash": 774076616,
     "SourceString": "L-01",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "3D26A15740177FF0D80F558FE6D67834",
-    "Hash": 3212214275,
-    "SourceString": "U-03",
     "LocalizedString": ""
   },
   {
@@ -123,118 +109,6 @@
     "Key": "5B8E36494B1AB6C0DAB98884F2474CEC",
     "Hash": 3220883237,
     "SourceString": "Lab Control:",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "6C03922648131842DADC2FBC5F0798F1",
-    "Hash": 3677952469,
-    "SourceString": "S-06",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "06226EB24019983D986CF18296611453",
-    "Hash": 2697535474,
-    "SourceString": "C-01",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "3CADC6314FDBC50D2C4B7AA0D6475B2E",
-    "Hash": 130738022,
-    "SourceString": "U-02",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "5BBC5F00488508AD654CC2B6FC33B17E",
-    "Hash": 3297150500,
-    "SourceString": "E-04",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "F2DB3647411CD8628E2D07937ADBAFF5",
-    "Hash": 3297150500,
-    "SourceString": "E-04",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "2B866D084D757BF63FF519954CEF70A1",
-    "Hash": 1498529437,
-    "SourceString": "E-03",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "ADB36D52466D6D5524DEC0B8CA835D14",
-    "Hash": 2994515996,
-    "SourceString": "C-02",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "48278A2047B6D19DF0D8C6B25E6A6B7A",
-    "Hash": 180410233,
-    "SourceString": "C-03",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "EFA76CC942B455C04FF27BB51B4B1524",
-    "Hash": 2534928320,
-    "SourceString": "C-04",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "6C03922648131842DADC2FBC5F0798F1",
-    "Hash": 3677952469,
-    "SourceString": "S-06",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A2130A984AF2018492903CB8E92C5070",
-    "Hash": 774076616,
-    "SourceString": "L-01",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "3D26A15740177FF0D80F558FE6D67834",
-    "Hash": 3212214275,
-    "SourceString": "U-03",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "3D26A15740177FF0D80F558FE6D67834",
-    "Hash": 3212214275,
-    "SourceString": "U-03",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "76F75F0A4CD4500052EBE3B722C987F0",
-    "Hash": 130738022,
-    "SourceString": "U-02",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A396C8CF45D6F9A2621516AFE7284C7F",
-    "Hash": 4032171384,
-    "SourceString": "EXIT",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "99C0F90A4DB27B5026C44E967EC1F100",
-    "Hash": 4205124267,
-    "SourceString": "RG WEST",
     "LocalizedString": ""
   }
 ]

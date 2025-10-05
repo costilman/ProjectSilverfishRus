@@ -132,8 +132,17 @@ const deepSearch = async function (folderPath, outputFolder, endOfLine) {
         }
       });
 
-      if (res.length) {
-        fs.writeFile(`./${outputFolder}/${fileName}.json`, JSON.stringify(res, null, 2), 'utf8', (err) => {
+      // remove duplicates
+      const uniqMap = {}
+
+      res.forEach(obj => {
+        uniqMap[`${obj.Namespace}/${obj.Key}/${obj.Hash}`] = obj
+      })
+
+      const uniqMapValues = Object.values(uniqMap)
+
+      if (uniqMapValues.length) {
+        fs.writeFile(`./${outputFolder}/${fileName}.json`, JSON.stringify(uniqMapValues, null, 2), 'utf8', (err) => {
           if (err) throw err
         });
         console.log(`complete deepSearch in ${file}`)
@@ -146,7 +155,7 @@ const deepSearch = async function (folderPath, outputFolder, endOfLine) {
 
 
 const main = async function () {
-  // await deepSearch('SilverFish', 'output', 'lf')
+  await deepSearch('SilverFishJsonFiles', 'output_new', 'lf')
 }
 
 main()

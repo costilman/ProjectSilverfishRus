@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "D2979E7148A3F7E2CAC2ED95AFC5122E",
+    "Hash": 3197087954,
+    "SourceString": "Search Last Location Then Wait",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FFF47CD64ADE61F0BB6386A31AE9CD17",
+    "Hash": 3919717009,
+    "SourceString": "Search Last Location Then Wander",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BB51BDA549DD3DBCF23329861A0A312E",
+    "Hash": 1895646655,
+    "SourceString": "Search Last Location Then Give Up",
+    "LocalizedString": ""
+  }
+]

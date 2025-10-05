@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "CDF1342041E0E23DCD0B4E9D3C5799DB",
+    "Hash": 545218180,
+    "SourceString": "Initial Spawn Point",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "02A201194C49DDD0B994DE8D1B766F6E",
+    "Hash": 1055190855,
+    "SourceString": "Level Entrance",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A1AE3A6240B872ADE16CFE8756BCBAFE",
+    "Hash": 564126206,
+    "SourceString": "Scripted Spawn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D8229B1447BBF8AC4C14A69D1A30FD93",
+    "Hash": 4007988751,
+    "SourceString": "Ambient Spawn",
+    "LocalizedString": ""
+  }
+]

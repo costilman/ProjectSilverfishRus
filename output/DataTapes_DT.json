@@ -78,20 +78,6 @@
   },
   {
     "Namespace": "",
-    "Key": "6B6B10EC47AC4BBB656A98B35776F99F",
-    "Hash": 2778931141,
-    "SourceString": "Testing: Images",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "9DEC45904DF0DACD1C027192DDA5530D",
-    "Hash": 2124447531,
-    "SourceString": "PictureTest",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "6D9C8C7E4F63C7948ABA7988B4805C3B",
     "Hash": 2983237407,
     "SourceString": "Testing: Animations",
@@ -102,13 +88,6 @@
     "Key": "F362B62B4AB39ECCF596408CDDCD3BEF",
     "Hash": 3653437913,
     "SourceString": "Animation Test",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "AE6C2572403449FD47078880BA3CC8C1",
-    "Hash": 709251289,
-    "SourceString": "TEST VIDEO",
     "LocalizedString": ""
   },
   {
@@ -239,13 +218,6 @@
   },
   {
     "Namespace": "",
-    "Key": "0FCB22814C543A91C67C7B92140DD620",
-    "Hash": 4052163818,
-    "SourceString": "Empty Tape",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "E50806C34B10819EA36156A109518210",
     "Hash": 3004888090,
     "SourceString": "::DISTRESS SIGNAL::",
@@ -267,13 +239,6 @@
   },
   {
     "Namespace": "",
-    "Key": "9E3B8A1346714339B4ED40BA1C24098A",
-    "Hash": 3045677574,
-    "SourceString": "::MAYDAY MAYDAY::",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "6D3068F84D94E0B20F881BAC26E87A72",
     "Hash": 1745541306,
     "SourceString": "::CRASH LANDING ON CLIFF OVERLOOKING NORTH SHORE OF LAKE BELLOWS::",
@@ -281,23 +246,9 @@
   },
   {
     "Namespace": "",
-    "Key": "9E3B8A1346714339B4ED40BA1C24098A",
-    "Hash": 3045677574,
-    "SourceString": "::MAYDAY MAYDAY::",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "F9DAC97B4A4F320A62C36B94A8161BF5",
     "Hash": 3977140469,
     "SourceString": "::SOUTH-EAST OF OBSERVATORY::",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "9E3B8A1346714339B4ED40BA1C24098A",
-    "Hash": 3045677574,
-    "SourceString": "::MAYDAY MAYDAY::",
     "LocalizedString": ""
   },
   {
@@ -417,6 +368,83 @@
     "Key": "FD139B8D47746D13F9DC28B71E335809",
     "Hash": 3299409657,
     "SourceString": "Telemetry Data",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "85EF26154BBD998E1E9388B0A321A0D3",
+    "Hash": 1138125654,
+    "SourceString": "Ground Eather Pump Status:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E20DF2BF4435B3DA2EEC0E9E5CBCBD06",
+    "Hash": 372896828,
+    "SourceString": "UNIT STATUS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4FEEF6F942AAAD14B7251E976A331850",
+    "Hash": 3531314155,
+    "SourceString": "Eather ground pump sys:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1578266C49B83FF2660D06B9F8E03A4C",
+    "Hash": 4265803950,
+    "SourceString": "ONLINE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2F0C87444318CCFD0A067C89721A239C",
+    "Hash": 418862985,
+    "SourceString": "Beauly Mill 03",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3BB16C8B456A7634A7B07DA63F3C714C",
+    "Hash": 707121133,
+    "SourceString": "M35-01",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "228FB0DB4E67EF31B0210C842402B82A",
+    "Hash": 2105183455,
+    "SourceString": "MW-05",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1F051930424F6ABB7651ECA171E54A4D",
+    "Hash": 139165466,
+    "SourceString": "Port Rale EW-02",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2229D0284CF12305831F978AB7102F09",
+    "Hash": 2010672823,
+    "SourceString": "OFFLINE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9A60D8B24689FC3E82413A9A79786554",
+    "Hash": 3055374741,
+    "SourceString": "Fort Leto North:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A65A9EB84FD423F9C40FC7B61563DB44",
+    "Hash": 175805510,
+    "SourceString": "Trns Depot 06:",
     "LocalizedString": ""
   }
 ]

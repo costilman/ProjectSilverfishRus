@@ -46,7 +46,7 @@
     "Key": "B88E88CC4E787419650BB292C0F872CF",
     "Hash": 24652088,
     "SourceString": "Anonymous",
-    "LocalizedString": ""
+    "LocalizedString": "Аноним"
   },
   {
     "Namespace": "",
@@ -225,13 +225,6 @@
   },
   {
     "Namespace": "",
-    "Key": "FDD5845647D182F2563F87822D6C4CE1",
-    "Hash": 1187360228,
-    "SourceString": "The Broker",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "E4208EB44E039DB987DA41881BA4707D",
     "Hash": 1006903127,
     "SourceString": "[This quest is below its minimum step!]",
@@ -249,13 +242,6 @@
     "Key": "387D4BE84C78441A934194A7997C59F2",
     "Hash": 525586617,
     "SourceString": "I have a dead-drop left for me in Crossroads. My guy hid it near the water lock in the south-east.\r\n\r\nSmall reward for whoever brings the bag back here to Dock A at Black Lake.\r\n\r\nI'll KNOW if you open it.",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "8EDC1D9F4BE3648B806586BABF4BB3CD",
-    "Hash": 3191072831,
-    "SourceString": "(The bag doesn't get placed until someone accepts the contract.)\r\n",
     "LocalizedString": ""
   },
   {
@@ -779,8 +765,8 @@
   {
     "Namespace": "",
     "Key": "4C4C67E3433170D27D3F219CA793CFDD",
-    "Hash": 3353664568,
-    "SourceString": "There's an industrial pier on the canal in Metropol. You might be able to find some there. ",
+    "Hash": 3398075895,
+    "SourceString": "There's an industrial pier on the canal in Metropol. You might be able to find some there.",
     "LocalizedString": "На канале Метрополя есть произовдственный цех. Я думаю там ты сможешь найти нужную нам медную проволку."
   },
   {
@@ -796,13 +782,6 @@
     "Hash": 709180968,
     "SourceString": "Simmi",
     "LocalizedString": "Симми"
-  },
-  {
-    "Namespace": "",
-    "Key": "AB322B814D0DB0EDB3BB54B0F4A9F96C",
-    "Hash": 1006903127,
-    "SourceString": "[This quest is below its minimum step!]",
-    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -943,13 +922,6 @@
     "Hash": 260828085,
     "SourceString": "Hell Hunt",
     "LocalizedString": "Адская охота"
-  },
-  {
-    "Namespace": "",
-    "Key": "B88E88CC4E787419650BB292C0F872CF",
-    "Hash": 24652088,
-    "SourceString": "Anonymous",
-    "LocalizedString": "Аноним"
   },
   {
     "Namespace": "",
@@ -1107,30 +1079,9 @@
   },
   {
     "Namespace": "",
-    "Key": "1CD32C8D4F609E83CBA6B1A7831B587B",
-    "Hash": 3487406960,
-    "SourceString": "NFTA",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "6FD4C38048DE58CED5BE198FCF5B25B4",
-    "Hash": 1006903127,
-    "SourceString": "[This quest is below its minimum step!]",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "A87F98444B1286161AD1CC8F849EC909",
     "Hash": 2099942951,
     "SourceString": "Locate and eliminate the Black Market Broker.",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "1AEBFDBD41B7B7D503E740AF1F4B55A1",
-    "Hash": 4060674007,
-    "SourceString": "Target eliminated. Return to base!",
     "LocalizedString": ""
   },
   {
@@ -1145,20 +1096,6 @@
     "Key": "C1CBECA84C3A829151A406BC77845229",
     "Hash": 149803718,
     "SourceString": "Operation: Heat Coil",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "1CD32C8D4F609E83CBA6B1A7831B587B",
-    "Hash": 3487406960,
-    "SourceString": "NFTA",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "6FD4C38048DE58CED5BE198FCF5B25B4",
-    "Hash": 1006903127,
-    "SourceString": "[This quest is below its minimum step!]",
     "LocalizedString": ""
   },
   {
@@ -1184,20 +1121,6 @@
   },
   {
     "Namespace": "",
-    "Key": "1CD32C8D4F609E83CBA6B1A7831B587B",
-    "Hash": 3487406960,
-    "SourceString": "NFTA",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "6FD4C38048DE58CED5BE198FCF5B25B4",
-    "Hash": 1006903127,
-    "SourceString": "[This quest is below its minimum step!]",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "A77F2F16429808AEFD4947A5D8CD7BFC",
     "Hash": 20220073,
     "SourceString": "Retrieve Kempt's financial records from the Port Rale Bank.",
@@ -1215,20 +1138,6 @@
     "Key": "8B05DFF2466DA6AF2CB43488AC67E2F7",
     "Hash": 3214915123,
     "SourceString": "Operation: Rock Wall",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "1CD32C8D4F609E83CBA6B1A7831B587B",
-    "Hash": 3487406960,
-    "SourceString": "NFTA",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "6FD4C38048DE58CED5BE198FCF5B25B4",
-    "Hash": 1006903127,
-    "SourceString": "[This quest is below its minimum step!]",
     "LocalizedString": ""
   },
   {
@@ -1299,13 +1208,6 @@
     "Key": "0BCC1F8A42338656F608658A36B0D601",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "802F4AF3451C13F3CED7E682CC8F78EF",
-    "Hash": 1006903127,
-    "SourceString": "[This quest is below its minimum step!]",
     "LocalizedString": ""
   },
   {
@@ -1430,8 +1332,8 @@
   {
     "Namespace": "",
     "Key": "49966CB2438ADC33DCFFEDABE8B369C6",
-    "Hash": 1795155509,
-    "SourceString": "6/6 Fuel Tanks destroyed! Redeem at any Bounty Board.",
+    "Hash": 42513329,
+    "SourceString": "6/6 Fuel Tanks destroyed! Redeem with Mamma Roach.",
     "LocalizedString": ""
   },
   {
@@ -1446,20 +1348,6 @@
     "Key": "27B10C0244902B48439E7E985F6A2EF0",
     "Hash": 4158951580,
     "SourceString": "Prototype Drill",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "FE0A460A4E52AB5E9C3EEB883E372FE9",
-    "Hash": 673154708,
-    "SourceString": "Dr. Mosby",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "2A5A24D5447EFEB63DFB75AB6BAAA749",
-    "Hash": 1006903127,
-    "SourceString": "[This quest is below its minimum step!]",
     "LocalizedString": ""
   },
   {
@@ -1607,6 +1495,111 @@
     "Key": "A69BC4714C20DB2427AE219E1493B56D",
     "Hash": 4175636107,
     "SourceString": "Rumor tells of strange humanoids being spotted wielding Eather-based weapons that shoot twirling bolts of flame.\r\n\r\nBring me back one of these 'Scorcher' guns and I'll make it worth the effort. \r\n\r\nMost recently they've been spotted in some sort of heavy industrial facility off M35...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "13742A314AF9BC89A09212B27C9D7041",
+    "Hash": 1615350696,
+    "SourceString": "Guerrilla Warfare",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DE76D051422126FE83426DBA40A0A404",
+    "Hash": 1028115194,
+    "SourceString": "Mamma Roach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6A72CF734D34038A6AF4E091E912562C",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "12B67C604588BCA6751778861987C0E5",
+    "Hash": 2443086264,
+    "SourceString": "Assassinate the NFTA Field Officer visiting Dead Bridge.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "99ACF8A349DC921609C799AA5BC1A706",
+    "Hash": 905243804,
+    "SourceString": "Target KIA: Report back to a bounty board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "08C453A744C9890B6CE7A3AFA2C23B96",
+    "Hash": 2803759914,
+    "SourceString": "A high-ranking NFTA field officer is visiting the military checkpoint at Dead Bridge.\r\n\r\nHe's one of their more competent and loyal men, so taking him out will strike a major blow to soldier moral and set back their logistics by weeks.\r\n\r\nYou don't need to be sneaky about this, in fact feel free to make it messy!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BF5299874EEF4554EC4A728C67405397",
+    "Hash": 423623877,
+    "SourceString": "Fine Vintage",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8D39F923432F01F8A5CF3287E3FEDFF6",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "10F63A524578D2286F0D8192956AA030",
+    "Hash": 770975330,
+    "SourceString": "Collect a rare bottle of Paladin Brandy.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "32802D48433E2D16E539128F703E10B7",
+    "Hash": 1849193440,
+    "SourceString": "Some old Baron used to live in Port Rale; he was famous for his collection of rare, fine vintage wines.\r\n\r\nA client of mine is particularly keen on a most illusive bottle of Paladin Brandy. He'll be willing to pay very well if one was to procure a sealed bottle.\r\n\r\nDeliver it to the Broker; he will see the rest through. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6BE2AFA046DCF8253A4F0F99C42D7174",
+    "Hash": 1407643467,
+    "SourceString": "Pump Room",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D9FAC27348C1DA6E8AAFF9B0032E1251",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "43A0247D4EEFCA7DCFE6808256244FBA",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CE1DA5CE452E2835169D4CB072A6D8D8",
+    "Hash": 4280091566,
+    "SourceString": "Bring Broker a Tape containing Eather infrastructure data.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "24DD641A438635CF4CF329B08E0EF478",
+    "Hash": 185616413,
+    "SourceString": "A client of mine is looking for p-to-date information about the Eather ground-pump infrastructure around Port Rale.\r\n\r\nThere's an old Standard Eather Co. office in Haldee, might be a good lead on where to find a control station.\r\n\r\nIf you do find a control station, bring back a data tape with whatever you can dig up.",
     "LocalizedString": ""
   }
 ]

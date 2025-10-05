@@ -1,0 +1,65 @@
+[
+  {
+    "Namespace": "",
+    "Key": "4D5C4C7A4873B45786A96CAE08DA06B5",
+    "Hash": 2971868136,
+    "SourceString": "Exit",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C6BB83DC405BCFC0EE2734AD864ED114",
+    "Hash": 3539216973,
+    "SourceString": "FORT LETO",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0AAF51EA47B18B99F3E3C0AA3CE57282",
+    "Hash": 2188031,
+    "SourceString": "EXIT >",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F1C6023848B99804C2369EAD98A42C53",
+    "Hash": 362614020,
+    "SourceString": "< ADMINISTRATION",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7382C7164518E87E95D3DD94BE2FCF2B",
+    "Hash": 4061472156,
+    "SourceString": "< MOTOR POOL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6747F10849BF021D21F8D09299F3F6BE",
+    "Hash": 778817029,
+    "SourceString": "< WAR ROOM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EDE6745D42858066542947871A1CCCC5",
+    "Hash": 2646936906,
+    "SourceString": "< EXIT + ADMIN",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2157C84B4E1BB7295474EAA194AFEF6C",
+    "Hash": 362614020,
+    "SourceString": "< ADMINISTRATION",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A3F529BF4CB3AF0EA82F3A8818697B99",
+    "Hash": 4238309342,
+    "SourceString": "< LOADING DOCK",
+    "LocalizedString": ""
+  }
+]

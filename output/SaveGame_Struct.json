@@ -1,0 +1,37 @@
+[
+  {
+    "Namespace": "",
+    "Key": "DD7000BE4843908DFEB1449A8522ED82",
+    "Hash": 3116713639,
+    "SourceString": "Debtor",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C2E624FC43D15518B8119D9BCF18BF71",
+    "Hash": 1469398287,
+    "SourceString": "Kal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AA98FF854EB5E8ED84A35DA0F610891B",
+    "Hash": 3994327081,
+    "SourceString": "Stalker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "44F331544165C78BA73E5EAD612974D7",
+    "Hash": 3597405662,
+    "SourceString": "Stranger",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4EBE215045EFA53009050E8B7DC6658B",
+    "Hash": 3474428774,
+    "SourceString": "Default player character. Starts with no gear or special attributes. ",
+    "LocalizedString": ""
+  }
+]

@@ -71,20 +71,6 @@
   },
   {
     "Namespace": "",
-    "Key": "FF48E0FB494BBE09F7D57EB5A958A442",
-    "Hash": 1965800699,
-    "SourceString": "I need artillery on my Target Mark!",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "9810EF8C420E878CA03E6981AD4CAFE6",
-    "Hash": 2962312948,
-    "SourceString": "Call in an artillery strike on the target you marked with your binoculars.",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "5C721D084C976541D0255F925B9C7725",
     "Hash": 1679458149,
     "SourceString": "I need reinforcements on my position!",
