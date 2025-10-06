@@ -4,7 +4,7 @@
     "Key": "2869F96045C50E815A45DFBC77205409",
     "Hash": 3116713639,
     "SourceString": "Debtor",
-    "LocalizedString": ""
+    "LocalizedString": "Должник"
   },
   {
     "Namespace": "",
@@ -32,6 +32,6 @@
     "Key": "651275B34F189AB321F1CB8357EDC5A6",
     "Hash": 3474428774,
     "SourceString": "Default player character. Starts with no gear or special attributes. ",
-    "LocalizedString": ""
+    "LocalizedString": "Стандартный персонаж игрока. Начинает без снаряжения и особых атрибутов."
   }
 ]

@@ -4,83 +4,83 @@
     "Key": "D1C9983B496F1892C766F18E0CE670FA",
     "Hash": 3509944665,
     "SourceString": "Hello, I'm a test NPC.",
-    "LocalizedString": ""
+    "LocalizedString": "Привет, я тестовый НПС."
   },
   {
     "Namespace": "",
     "Key": "CA5D94F54AB62766CB5363A3E58E294F",
     "Hash": 695080555,
     "SourceString": "I'm here to help you figure out if the dialogue system is working!",
-    "LocalizedString": ""
+    "LocalizedString": "Я здесь, чтобы помочь тебе понять, работает ли система диалогов"
   },
   {
     "Namespace": "",
     "Key": "FA5F178349CD4B05BD14008D12F262FC",
     "Hash": 59667158,
     "SourceString": "Goodbye.",
-    "LocalizedString": ""
+    "LocalizedString": "До свидания."
   },
   {
     "Namespace": "",
     "Key": "53A4A1E641D0CE0A25D3D98C2931B1E1",
     "Hash": 580700881,
     "SourceString": "It looks like its working so far...",
-    "LocalizedString": ""
+    "LocalizedString": "Похоже, пока все работает..."
   },
   {
     "Namespace": "",
     "Key": "C1EA14794146EF0AAFA8F6A6631EE787",
     "Hash": 1270624608,
     "SourceString": "The Journal Entry Worked:",
-    "LocalizedString": ""
+    "LocalizedString": "Запись в журнале сработала:"
   },
   {
     "Namespace": "",
     "Key": "E41DE89B40A6338DAA0501878E2CDBAB",
     "Hash": 1356410022,
     "SourceString": "You were able to sucessfully add an entry to the journal!",
-    "LocalizedString": ""
+    "LocalizedString": "Вам удалось успешно добавить запись в журнал!"
   },
   {
     "Namespace": "",
     "Key": "58CDD5CE460D9403182D9CBDEA09C5E7",
     "Hash": 3051054560,
     "SourceString": "I'm hungry, can I have some food?",
-    "LocalizedString": ""
+    "LocalizedString": "Я голоден, можно мне еды?"
   },
   {
     "Namespace": "",
     "Key": "A47E6B754132835CF12D199F55E7F297",
     "Hash": 2702007459,
     "SourceString": "That's great! I'm glad to see a system actually functioning for once!",
-    "LocalizedString": ""
+    "LocalizedString": "Отлично! Рад видеть, что хоть какая-то система наконец-то работает!"
   },
   {
     "Namespace": "",
     "Key": "4B301331423417CE666514BB8814BD39",
     "Hash": 3786879860,
     "SourceString": "Great, Do you want to trade anything?",
-    "LocalizedString": ""
+    "LocalizedString": "Отлично, хочешь чем-нибудь обменяться?"
   },
   {
     "Namespace": "",
     "Key": "52B93BA84EAE8C31B8E9CCAF4A4328B7",
     "Hash": 2013018080,
     "SourceString": "You know what, go fuck yourself!",
-    "LocalizedString": ""
+    "LocalizedString": "Знаешь что, иди к черту!"
   },
   {
     "Namespace": "",
     "Key": "E5B90E81463A9B0BD92374A4D4A756BE",
     "Hash": 2955544506,
     "SourceString": "Sure, take these...",
-    "LocalizedString": ""
+    "LocalizedString": "Конечно, возьми это..."
   },
   {
     "Namespace": "",
     "Key": "9D2B88A94F00CA28D483099E97251D69",
     "Hash": 2285803162,
     "SourceString": "Thanks! Goodbye.",
-    "LocalizedString": ""
+    "LocalizedString": "Спасибо! До свидания."
   }
 ]

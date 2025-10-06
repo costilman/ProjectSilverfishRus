@@ -4,13 +4,13 @@
     "Key": "17C8D028485DE556F8141795A0C66BD9",
     "Hash": 1936243526,
     "SourceString": "Blueprint: Stun Baton",
-    "LocalizedString": ""
+    "LocalizedString": "Чертеж: Электродубинка"
   },
   {
     "Namespace": "",
     "Key": "27A4B94B4A478C1813E1188A927A0A12",
     "Hash": 2690186977,
     "SourceString": "A set of Blueprints describing how to craft a Stun Baton.",
-    "LocalizedString": ""
+    "LocalizedString": "Набор чертежей, описывающих, как создать электродубинку."
   }
 ]

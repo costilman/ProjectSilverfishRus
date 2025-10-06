@@ -4,20 +4,20 @@
     "Key": "E60BB07F410F6E98DA27189DF8BBF93A",
     "Hash": 1595217270,
     "SourceString": "Blueprint: Coil Gun",
-    "LocalizedString": ""
+    "LocalizedString": "Чертеж: Гаусс-пушка"
   },
   {
     "Namespace": "",
     "Key": "911322FF4E4D1600FA66679CFC279D3F",
     "Hash": 344579041,
     "SourceString": "10 rounds of Coil Gun ammo can be crafted using 10x Bolts and 1x Copper Wire. ",
-    "LocalizedString": ""
+    "LocalizedString": "10 патронов для Гаусс-пушки можно создать из 10 болтов и 1 медной проволоки. "
   },
   {
     "Namespace": "",
     "Key": "115A44B949E98E0B97F9EBAFDEE4895C",
     "Hash": 3224643574,
     "SourceString": "A set of Blueprints describing how to craft a Coil Gun.",
-    "LocalizedString": ""
+    "LocalizedString": "Набор чертежей, описывающих, как создать Гаусс-пушку."
   }
 ]

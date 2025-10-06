@@ -4,7 +4,7 @@
     "Key": "BAAFCF7F425DDA2F7F925EB5A355B454",
     "Hash": 1948404912,
     "SourceString": "CANCEL",
-    "LocalizedString": ""
+    "LocalizedString": "ОТМЕНА"
   },
   {
     "Namespace": "",
@@ -18,7 +18,7 @@
     "Key": "7E798681482F8F7CF961518465AD156A",
     "Hash": 319783309,
     "SourceString": "SLEEP FOR",
-    "LocalizedString": ""
+    "LocalizedString": "СПАТЬ"
   },
   {
     "Namespace": "",
@@ -32,6 +32,6 @@
     "Key": "6171CFE74F644087C8D120A2505C24D6",
     "Hash": 2614152944,
     "SourceString": "Wake Up",
-    "LocalizedString": ""
+    "LocalizedString": "Проснуться"
   }
 ]

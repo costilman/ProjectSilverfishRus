@@ -4,244 +4,244 @@
     "Key": "3041471240D8B2D09B913FACAE09DBCD",
     "Hash": 362312732,
     "SourceString": "Northern Free Trade Alliance:\r\n\r\nA military and economic alliance of democratic, free market nations. These nations have consolidated their combined military and economic forces in ‘the pursuit of defending the rights and interests of free enterprise from foreign and internal threats’.\r\n\r\nThe NFTA is governed by a body of state and economic representatives. Every 8 years a member of this representative body will be elected Executive Chairmen by the vote of his or her peers. All representatives must be human citizens of an NFTA member state.\r\n\r\nThe Executive Chairman possesses the powers to: \r\n-Suggest legislation that is amended and voted on by the representative body. \r\n-Veto resolutions made by the representative body.\r\n-Command NFTA military operations that are ratified by the representative body. \r\n-Sign executive orders during states of emergency. These orders can be vetoed in an emergency vote by two thirds of the representatives present at the time. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Северный Союз Свободной Торговли:\r\n\r\nВоенный и экономический союз демократических стран со свободным рынком. Эти страны объединили свои военные и экономические силы «в целях защиты прав и интересов свободного предпринимательства от внешних и внутренних угроз».\r\n\r\nNFTA управляется органом государственных и экономических представителей. Каждые 8 лет член этого представительного органа избирается Исполнительным Председателем голосованием своих коллег. Все представители должны быть людьми, гражданами государства-члена NFTA.\r\n\r\nИсполнительный Председатель обладает полномочиями: \r\n-Предлагать законодательство, которое изменяется и голосуется представительным органом. \r\n-Ветировать резолюции, принятые представительным органом.\r\n-Командовать военными операциями NFTA, ратифицированными представительным органом. \r\n-Подписывать исполнительные указы во время чрезвычайных ситуаций. Эти указы могут быть ветированы на экстренном голосовании двумя третями присутствующих в то время представителей. \r\n"
   },
   {
     "Namespace": "",
     "Key": "93BAE77648E1514CFF61AFAC503DD4AD",
     "Hash": 310066551,
     "SourceString": "Eastern Defence Pact:\r\nA military alliance consisting of east Euraskan nation states and various global protectorates. \r\nSince the war ended, relations with EDP member states have grown cold. \r\n\r\nSavlo Industries is one of few organizations that forms any bridge between eastern and western powers. However Savlo’s economic dealings with EDP states are largely kept a secret for the sake of military security.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Восточный Оборонительный Пакт:\r\nВоенный союз, состоящий из восточно-евразийских государств и различных мировых протекторатов. \r\nПосле окончания войны отношения с государствами-членами ВОП стали холодными. \r\n\r\nSavlo Industries — одна из немногих организаций, которая служит мостом между восточными и западными державами. Однако экономические отношения Savlo с государствами ВОП в основном держатся в секрете ради военной безопасности.\r\n"
   },
   {
     "Namespace": "",
     "Key": "F2E29C014CCB8502E8CDB5A301B0CF03",
     "Hash": 3533763257,
     "SourceString": "The western most peninsula of the Euraskan Continent. \r\nA leading member state of the NFTA.\r\nHome to one of the largest Eather mining and refining industries in Euraska. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Самый западный полуостров Евразийского континента. \r\nВедущее государство входит в NFTA.\r\nМестонахождение одной из крупнейших отраслей по добыче и переработке эфира в Евразии. \r\n"
   },
   {
     "Namespace": "",
     "Key": "B3E3E8BA423391BDA879A194422C7644",
     "Hash": 1595379351,
     "SourceString": "Leading provider in Eather mining and refining.\r\nBased in West Carcosa.\r\nOwner and president: Edward Church. \r\nMember corporation of the NFTA.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Ведущий поставщик в области добычи и переработки эфира.\r\nБазируется в Западной Каркосе.\r\nВладелец и президент: Эдвард Черч. \r\nКорпорация входит в NFTA.\r\n"
   },
   {
     "Namespace": "",
     "Key": "6A52FB344DE90F32A4F91CB103CCC6C4",
     "Hash": 650622546,
     "SourceString": "Major technology research and development company owned by the Savlo family.\r\nOperates in dozens of nations within both the NFTA and EDP.\r\nOwner and President: Aidan Savlo.\r\nMember corporation of the NFTA.\r\n\r\nSavlo Industries is one of few organizations that forms any bridge between eastern and western powers. However Savlo’s economic dealings with EDP states are largely kept a secret for the sake of military security.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Крупная компания по исследованию и разработке технологий, принадлежащая семье Савло.\r\nРаботает в десятках стран как в NFTA, так и в ВОП.\r\nВладелец и президент: Айдан Савло.\r\nКорпорация входит в NFTA.\r\n\r\nSavlo Industries — одна из немногих организаций, которая служит мостом между восточными и западными державами. Однако экономические отношения Savlo с государствами ВОП в основном держатся в секрете ради военной безопасности.\r\n"
   },
   {
     "Namespace": "",
     "Key": "99E63AC345E569F932B3259B0B6049CE",
     "Hash": 3209751643,
     "SourceString": "Major port city on the coast of West Carcosa.\r\nMajor export center of refined Eather and Eather products. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Крупный портовый город на побережье Западной Каркозы.\r\nКрупный экспортный центр очищенного эфира и продуктов из эфира. \r\n"
   },
   {
     "Namespace": "",
     "Key": "2D0CA51C4C726126A28ACA8542D76921",
     "Hash": 4251048337,
     "SourceString": "Small farming village east of Port Rale, on the south shore of Black Lake where it connects with Goldwood River, West Carcosa.\r\nA local exporter of wheat and fresh produce. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Небольшая фермерская деревня к востоку от Порт-Рэйла, на южном берегу Чёрного Озера, где оно соединяется с рекой Голдвуд, Западная Каркоза.\r\nМестный экспортер пшеницы и свежих продуктов. \r\n"
   },
   {
     "Namespace": "",
     "Key": "6E945CD04417DFADBCA602BD765B7C24",
     "Hash": 78491373,
     "SourceString": "Small village on the Redrook River, south-east of Port Rale, West Carcosa. \r\nLocation of the Beauly Chemical Mill.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Небольшая деревня на реке Редрок, к юго-востоку от Порт-Рэйла, Западная Каркоза. \r\nМестонахождение химического завода Бьюли.\r\n"
   },
   {
     "Namespace": "",
     "Key": "E9F278504E7EDCDB0EE171ACDA19EE1C",
     "Hash": 2116598234,
     "SourceString": "Small lake directly east of port Rale. \r\nConvergence point of 3 rivers (North River, Black River, & Goldwood River), leading out into the canals of Port Rale.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Небольшое озеро прямо к востоку от порта Рэйл. \r\nТочка слияния 3 рек (Северная река, Чёрная река и река Голдвуд), ведущих в каналы Порт-Рэйла.\r\n"
   },
   {
     "Namespace": "",
     "Key": "D810A81C4D8BA206A2F18393FBC57870",
     "Hash": 1256990539,
     "SourceString": "LT-06: Lights, Main Silo\r\nLT-07: Lights, Control Room\r\nLT-08: Lights, Cargo Dock\r\nLT-09: Lights, Office 01\r\nGL-14: Gas Line 14\r\nAG-04: Security Door, East Wing\r\nLT-04: Lights, East Wing ",
-    "LocalizedString": ""
+    "LocalizedString": "LT-06: Освещение, главный силос\r\nLT-07: Освещение, диспетчерская\r\nLT-08: Освещение, грузовой док\r\nLT-09: Освещение, офис 01\r\nGL-14: Газопровод 14\r\nAG-04: Дверь безопасности, восточное крыло\r\nLT-04: Освещение, восточное крыло "
   },
   {
     "Namespace": "",
     "Key": "A6AB574B4505948070DC33BB3452BCB8",
     "Hash": 2843167201,
     "SourceString": "Discovered in the 1830’s, Eather is the most basic and fundamental building block of all matter and energy in the universe. \r\n\r\nIn the late 1890’s Aiden Savlo discovered the scientific process of extracting, refining and applying Eather for industrial applications.\r\n\r\nThese applications include: \r\n-Material transmutation.\r\n-Material and energy translation.\r\n-Material reification. \r\n-Precise energy manipulation.\r\n-Quantum manipulation.\r\n-Synthetic petroleum production. \r\n-Expanded metabolic process. \r\n-Significant life-span extension.\r\n-Potential applications in the reconstitution of dead organic material. \r\n-Various psionic and psychoactive applications.\r\n-Psycho-material translation.\r\n-Symmetrical psycho-material reification.\r\n\r\nNeedless to say these new technologies have been revolutionary for 20th century society and industry; most of all synthetic petroleum! \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Обнаруженный в 1830-х годах, эфир является самым основным и фундаментальным строительным блоком всей материи и энергии во вселенной. \r\n\r\nВ конце 1890-х годов Айден Савло открыл научный процесс извлечения, переработки и применения эфира в промышленных целях.\r\n\r\nЭти применения включают: \r\n-Трансмутацию материалов.\r\n-Перевод материалов и энергии.\r\n-Реификацию материалов. \r\n-Точное управление энергией.\r\n-Квантовое управление.\r\n-Производство синтетической нефти. \r\n-Расширенный метаболический процесс. \r\n-Значительное продление жизни.\r\n-Потенциальное применение в восстановлении мертвой органической материи. \r\n-Различные псионические и психоактивные применения.\r\n-Психо-материальный перевод.\r\n-Симметричная психо-материальная реификация.\r\n\r\nНеудивительно, что эти новые технологии стали революционными для общества и промышленности XX века; прежде всего синтетическая нефть! \r\n"
   },
   {
     "Namespace": "",
     "Key": "1652C70C4A7982765C576391C1A5937D",
     "Hash": 888924202,
     "SourceString": "Major technology research and development company owned by the Savlo family.\r\nOperates in dozens of nations within both the NFTA and EDP.\r\nOwner and President: Aiden Savlo.\r\nMember corporation of the NFTA.\r\n\r\nSavlo Industries is one of few organizations that forms any bridge between eastern and western powers. However Savlo’s economic dealings with EDP states are largely kept a secret for the sake of military security.",
-    "LocalizedString": ""
+    "LocalizedString": "Крупная компания по исследованию и разработке технологий, принадлежащая семье Савло.\r\nРаботает в десятках стран как в NFTA, так и в ВОП.\r\nВладелец и президент: Айдан Савло.\r\nКорпорация входит в NFTA.\r\n\r\nSavlo Industries — одна из немногих организаций, которая служит мостом между восточными и западными державами. Однако экономические отношения Savlo с государствами ВОП в основном держатся в секрете ради военной безопасности."
   },
   {
     "Namespace": "",
     "Key": "5709FD284E034658FCEB6AA24982F604",
     "Hash": 332548783,
     "SourceString": "Chemical storage and processing facility west of the village of Beauly, on the Redrook River. \r\nJointly owned and operated by Standard Eather Company and Savlo Industries. \r\nStores and processes Eather-derivatives and other associated materials. ",
-    "LocalizedString": ""
+    "LocalizedString": "Химический склад и перерабатывающий завод к западу от деревни Бьюли, на реке Редрук. \r\nСовместно принадлежит и управляется Standard Eather Company и Savlo Industries. \r\nХранит и перерабатывает производные эфира и другие сопутствующие материалы. "
   },
   {
     "Namespace": "",
     "Key": "645C3AC24771A069CF9990976CBFED07",
     "Hash": 3528019061,
     "SourceString": "Small village on the Redrook River, south-east of Port Rale, West Carcaso. \r\nLocation of the Beauly Chemical Mill.",
-    "LocalizedString": ""
+    "LocalizedString": "Небольшая деревня на реке Редрок, к юго-востоку от Порт-Рэйла, Западная Каркоза. \r\nМестонахождение химического завода Бьюли.\r\n"
   },
   {
     "Namespace": "",
     "Key": "1AC8FA294E843227F19D5C8531F8E036",
     "Hash": 1229505420,
     "SourceString": "/// ERROR\r\n\r\n/// Breach detected in Storage Cell No. 3\r\n\r\n/// Containment wing in LOCK-DOWN\r\n\r\n/// RESPONSE PENDING >>>\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "/// ОШИБКА\r\n\r\n/// Обнаружено нарушение в камере хранения № 3\r\n\r\n/// Крыло содержания в БЛОКИРОВКЕ\r\n\r\n/// РЕАГИРОВАНИЕ ОЖИДАЕТСЯ >>>\r\n"
   },
   {
     "Namespace": "",
     "Key": "C655C68F4B9D555F1C79BEB63F0FD5EF",
     "Hash": 1876622629,
     "SourceString": "MANIFEST:\r\n\r\nC-01: Hazardous Material Storage\r\n\r\nC-02: Living Subject No. 0064-B\r\n\r\nC-03: /// ERROR ///\r\n\r\nC-04: Artifact Containment",
-    "LocalizedString": ""
+    "LocalizedString": "МАНИФЕСТ:\r\n\r\nC-01: Хранилище опасных материалов\r\n\r\nC-02: Живой субъект № 0064-B\r\n\r\nC-03: /// ОШИБКА ///\r\n\r\nC-04: Хранилище артефактов"
   },
   {
     "Namespace": "",
     "Key": "02766963498532A624F51CB71FB18600",
     "Hash": 550540097,
     "SourceString": "Threshold Theory was proposed by Dr. [REDACTED FOR YOUR SAFETY]\r\n\r\nIn his theory he proposes that extended Eather mining [REDACTED FOR YOUR SAFETY]\r\n\r\nHe goes on to elaborate that due to the theorized tidal forces of Eather on the “fabric of reality”,\r\n[REDACTED FOR YOUR SAFETY] creating weak spots. These weak spots, once thought ideal for mining, [REDACTED FOR YOUR SAFETY].\r\n\r\n[REDACTED FOR YOUR SAFETY]\r\n\r\nHe finally recommends that companies [REDACTED FOR YOUR SAFETY]\r\n\r\n[REDACTED FOR YOUR SAFETY]\r\n[REDACTED FOR YOUR SAFETY]\r\n\r\nThe NFTA’s official statement is that more research must be conducted before the scientific community attempts to publish its “opinions” on the matter. \r\n\r\nThere is no reason for the public to be alarmed. Eather mining and refining is perfectly safe and sustainable and is in fact vital for the continuation of modern society. \r\n\r\nOur modern world simply could not exist without this industry and its benefactors. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Теория Порога была предложена доктором [УДАЛЕНО В ЦЕЛЯХ ВАШЕЙ БЕЗОПАСНОСТИ]\r\n\r\nВ своей теории он предполагает, что длительная добыча эфира [УДАЛЕНО В ЦЕЛЯХ ВАШЕЙ БЕЗОПАСНОСТИ]\r\n\r\nДалее он подробно излагает, что из-за теоретических приливных сил эфира на «ткань реальности»,\r\n[УДАЛЕНО В ЦЕЛЯХ ВАШЕЙ БЕЗОПАСНОСТИ] создаются слабые места. Эти слабые места, когда-то считавшиеся идеальными для добычи, [УДАЛЕНО В ЦЕЛЯХ ВАШЕЙ БЕЗОПАСНОСТИ].\r\n\r\n[УДАЛЕНО В ЦЕЛЯХ ВАШЕЙ БЕЗОПАСНОСТИ]\r\n\r\nВ заключение он рекомендует компаниям [УДАЛЕНО В ЦЕЛЯХ ВАШЕЙ БЕЗОПАСНОСТИ]\r\n\r\n[УДАЛЕНО В ЦЕЛЯХ ВАШЕЙ БЕЗОПАСНОСТИ]\r\n[УДАЛЕНО В ЦЕЛЯХ ВАШЕЙ БЕЗОПАСНОСТИ]\r\n\r\nОфициальное заявление NFTA гласит, что необходимо провести дополнительные исследования, прежде чем научное сообщество попытается опубликовать свои «мнения» по этому вопросу. \r\n\r\nУ общественности нет причин для беспокойства. Добыча и переработка эфира абсолютно безопасны и устойчивы и, по сути, жизненно важны для продолжения существования современного общества. \r\n\r\nНаш современный мир просто не мог бы существовать без этой отрасли и ее благодетелей. \r\n"
   },
   {
     "Namespace": "",
     "Key": "04799BCD4FA869B8501DBF836DB5FE00",
     "Hash": 2221144706,
     "SourceString": "/// ATTENTION\r\n\r\n/// Breach detected in Storage Cell No. 3!\r\n\r\n/// Ongoing LOCK-DOWN in Containment Wing!\r\n\r\n/// RESPONSE PENDING >>>\r\n\r\n/// Override Code: 8344\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "/// ВНИМАНИЕ\r\n\r\n/// Обнаружено нарушение в камере хранения № 3!\r\n\r\n/// Продолжается БЛОКИРОВКА в крыле содержания!\r\n\r\n/// РЕАГИРОВАНИЕ ОЖИДАЕТСЯ >>>\r\n\r\n/// Код отмены: 8344\r\n"
   },
   {
     "Namespace": "",
     "Key": "767C4D48489F42B92AC1BA8F55F44E2F",
     "Hash": 4179134272,
     "SourceString": "Leading provider in Eather mining and refining.\r\nBased in West Carcosa.\r\nOwner and president: Edward Church. \r\nMember corporation of the NFTA.",
-    "LocalizedString": ""
+    "LocalizedString": "Ведущий поставщик в области добычи и переработки эфира.\r\nБазируется в Западной Каркосе.\r\nВладелец и президент: Эдвард Черч. \r\nКорпорация входит в NFTA."
   },
   {
     "Namespace": "",
     "Key": "6079002944DB7935C641D5B7FF1AA61B",
     "Hash": 3733186026,
     "SourceString": "Northern Free Trade Alliance:\r\nA military and economic alliance of democratic, free market nations.\r\nThese nations have consolidated their combined military and economic forces in ‘the pursuit of\r\ndefending the rights and interests of free enterprise from foreign and internal threats’.\r\n\r\nThe NFTA is governed by a body of state and economic representatives. Every 8 years a member of this representative body will be elected Executive Chairmen by the vote of his or her peers. All representatives must be human citizens of an NFTA member state.\r\n\r\nThe Executive Chairman possesses the powers to: \r\n-Suggest legislation that is amended and voted on by the representative body. \r\n-Veto resolutions made by the representative body.\r\n-Command NFTA military operations that are ratified by the representative body. \r\n-Sign executive orders during states of emergency. These orders can be vetoed in an emergency vote by two thirds of the representatives present at the time. ",
-    "LocalizedString": ""
+    "LocalizedString": "Северный Союз Свободной Торговли:\r\nВоенный и экономический союз демократических стран со свободным рынком.\r\nЭти страны объединили свои военные и экономические силы «в целях\r\nзащиты прав и интересов свободного предпринимательства от внешних и внутренних угроз».\r\n\r\nNFTA управляется органом государственных и экономических представителей. Каждые 8 лет член этого представительного органа избирается Исполнительным Председателем голосованием своих коллег. Все представители должны быть людьми, гражданами государства-члена NFTA.\r\n\r\nИсполнительный Председатель обладает полномочиями: \r\n-Предлагать законодательство, которое изменяется и голосуется представительным органом. \r\n-Ветировать резолюции, принятые представительным органом.\r\n-Командовать военными операциями NFTA, ратифицированными представительным органом. \r\n-Подписывать исполнительные указы во время чрезвычайных ситуаций. Эти указы могут быть ветированы на экстренном голосовании двумя третями присутствующих в то время представителей. "
   },
   {
     "Namespace": "",
     "Key": "26336BA1458B94F02140A6AB1763C693",
     "Hash": 3252565664,
     "SourceString": "I’ve collected a sample of the artifact to be sent to our colleagues up north.\r\n\r\nPlease remember to tell them the unlock code; I added it to the end of the retrieval document.\r\n\r\nYou can make a copy from the main lab terminal.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Я собрал образец артефакта для отправки нашим коллегам на север.\r\n\r\nПожалуйста, не забудьте сообщить им код разблокировки; я добавил его в конец документа о получении.\r\n\r\nВы можете сделать копию с главного терминала лаборатории.\r\n"
   },
   {
     "Namespace": "",
     "Key": "D8A7C57549C13BEB6CB45DBB93CBF9A7",
     "Hash": 3999037432,
     "SourceString": "To all staff: \r\n\r\nIf you need to get into the company Records office, you'll need to get Mr. Sheffield's assistance. \r\n\r\nAfter the recent layoffs, he is currently the only employee who has a key. \r\n\r\nThank you!",
-    "LocalizedString": ""
+    "LocalizedString": "Ко всем сотрудникам: \r\n\r\nЕсли вам нужен доступ в архив компании, обратитесь к мистеру Шеффилду. \r\n\r\nПосле недавних сокращений ключ есть только у него. \r\n\r\nСпасибо!"
   },
   {
     "Namespace": "",
     "Key": "357AADEB472C09A25DC80B956A8B2E39",
     "Hash": 3533763257,
     "SourceString": "The western most peninsula of the Euraskan Continent. \r\nA leading member state of the NFTA.\r\nHome to one of the largest Eather mining and refining industries in Euraska. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Самый западный полуостров Евразийского континента. \r\nВедущее государство-член NFTA.\r\nМестонахождение одной из крупнейших отраслей по добыче и переработке эфира в Евразии. \r\n"
   },
   {
     "Namespace": "",
     "Key": "AF55AF6C48ECE94CB994D7B60092A3D4",
     "Hash": 2050663869,
     "SourceString": "Chemical storage and processing facility west of the village of Beauly, on the Redrook River. \r\nJointly owned and operated by Standard Eather Company and Savlo Industries. \r\nStores and processes Eather-derivatives and other associated materials. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Химический склад и перерабатывающий завод к западу от деревни Бьюли, на реке Редрук. \r\nСовместно принадлежит и управляется Standard Eather Company и Savlo Industries. \r\nХранит и перерабатывает производные эфира и другие сопутствующие материалы. \r\n"
   },
   {
     "Namespace": "",
     "Key": "8CF2074C49398AF90F8CBEB12D1027FD",
     "Hash": 3490586754,
     "SourceString": "Utility Tunnel No. 308:\r\n\r\nPort Rale southern Freight Depot.\r\n\r\n\r\n\r\nStandard Eather Co. Ground Pump Control Node.\r\n\r\nSTATUS: 83% ONLINE\r\n\r\nDATA FEED: ONLINE",
-    "LocalizedString": ""
+    "LocalizedString": "Технический туннель № 308:\r\n\r\nЮжное грузовое депо Порт-Рейла.\r\n\r\n\r\n\r\nУзел управления наземным насосом компании «Стандарт Эфир».\r\n\r\nСТАТУС: 83% В СЕТИ\r\n\r\nПОТОК ДАННЫХ: В СЕТИ"
   },
   {
     "Namespace": "",
     "Key": "FF21EFC840AF3E3DD3E35392851488B3",
     "Hash": 2997006253,
     "SourceString": "Looked like he was willing to play hardball, until we went for the tail...\r\n\r\nAfter that he became very cooperative. Maybe he can even work off the rest of his debt...\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Казалось, он готов был играть по-жесткому, пока мы не взялись за хвост...\r\n\r\nПосле этого он стал очень сговорчивым. Может, он даже сможет отработать остаток своего долга...\r\n"
   },
   {
     "Namespace": "",
     "Key": "FD0AE7CF4D1D077EB2694884CCAE638C",
     "Hash": 1853634517,
     "SourceString": "This time I got my hands on one of those Insurrectionists. \r\n\r\nHe broke down before we finished tying him to the fucking chair! \r\n\r\nGave some spiel about their master, the human; says he's drinking people's blood 'n some shit.\r\n\r\nReal weasel, trying to get out of his session early by making up stories. I'm going to take my time with him...\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "На этот раз я заполучил одного из этих повстанцев. \r\n\r\nОн сломался еще до того, как мы закончили привязывать его к чертову стулу! \r\n\r\nНачал нести какую-то чушь про их хозяина, человека; говорит, он пьет кровь людей и прочее дерьмо.\r\n\r\nНастоящий хорек, пытается пораньше закончить сеанс, выдумывая истории. Я с ним не буду торопиться...\r\n"
   },
   {
     "Namespace": "",
     "Key": "1B4EEF464760C95E4F4EF59A1524F829",
     "Hash": 535976060,
     "SourceString": "He broke quick, but he ain't coughing up anything useful.\r\n\r\nDoesn't matter what we do to him; just keeps screaming about some horse on a beach.\r\n\r\nDon't know what we should've expected; its not like the Broker is going to trust his secrets to some runner.\r\n\r\nHe's a waste of time, I dumped his body in the canal.",
-    "LocalizedString": ""
+    "LocalizedString": "Он быстро сломался, но ничего полезного не выдал.\r\n\r\nНеважно, что мы с ним делаем; он просто продолжает орать о какой-то лошади на пляже.\r\n\r\nНе знаю, чего мы ожидали; не похоже, что Брокер доверит свои секреты какому-то бегунку.\r\n\r\nОн — пустая трата времени, я сбросил его тело в канал."
   },
   {
     "Namespace": "",
     "Key": "6CF648424338EFD80585B0A885426612",
     "Hash": 1545990355,
     "SourceString": "Here we got a little pinko girl. Scrappy one too.\r\n\r\nI won't go into too much detail about this case; what she delivered is much more noteworthy. \r\n\r\nTurns out the big mamma has a big secret: \r\nShe's sewn some sort of artifact into her own belly. Now it makes her \"bulletproof\".\r\nExplains why nothing out here's been able to take the bitch out. \r\n\r\nMust be how she got the name \"roach\"...\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "А вот у нас маленькая коммунячка. И драчливая к тому же.\r\n\r\nЯ не буду вдаваться в подробности этого дела; то, что она выдала, гораздо примечательнее. \r\n\r\nОказывается, у большой мамочки есть большой секрет: \r\nОна вшила какой-то артефакт себе в живот. Теперь он делает ее \"пуленепробиваемой\".\r\nЭто объясняет, почему никто здесь не смог прикончить эту суку. \r\n\r\nДолжно быть, так она и получила прозвище \"таракан\"...\r\n"
   },
   {
     "Namespace": "",
     "Key": "FB3102E34CAD4C5468A830AFC0BDDA7B",
     "Hash": 596844806,
     "SourceString": "WARNING: \r\n\r\nProlonged down-time in-between activations of the Test Drill have been known to cause buildups in electro-static anomalies.\r\n\r\nIn order to safely maintain this equipment, engineers must first perform an electro-magnetic flush of the whole facility using the Turbo-Dynamo located in the lower machine rooms.",
-    "LocalizedString": ""
+    "LocalizedString": "ПРЕДУПРЕЖДЕНИЕ: \r\n\r\nИзвестно, что длительные простои между активациями испытательного бура вызывают накопление электростатических аномалий.\r\n\r\nДля безопасного обслуживания этого оборудования инженеры должны сначала выполнить электромагнитную промывку всего объекта с помощью турбо-динамо, расположенного в нижних машинных залах."
   },
   {
     "Namespace": "",
     "Key": "6E9F55004C97BA35AA7612A50D8B69F2",
     "Hash": 1161375398,
     "SourceString": "MR-01: Machine Room Entrance \r\nTC-02: Test Chamber Entrance\r\nLT-03: Test Chamber Lights\r\nME-04: Main Lab Entrance\r\nMR-05: Turbo-Dynamo Room Entrance\r\nSR-06: Storage Room 6 Entrance ",
-    "LocalizedString": ""
+    "LocalizedString": "MR-01: Вход в машинный зал \r\nTC-02: Вход в испытательную камеру\r\nLT-03: Освещение испытательной камеры\r\nME-04: Главный вход в лабораторию\r\nMR-05: Вход в комнату турбо-динамо\r\nSR-06: Вход в хранилище 6 "
   },
   {
     "Namespace": "",
     "Key": "118C895F43116A940166BA891365A4ED",
     "Hash": 4251048337,
     "SourceString": "Small farming village east of Port Rale, on the south shore of Black Lake where it connects with Goldwood River, West Carcosa.\r\nA local exporter of wheat and fresh produce. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Небольшая фермерская деревня к востоку от Порт-Рэйла, на южном берегу Чёрного Озера, где оно соединяется с рекой Голдвуд, Западная Каркоза.\r\nМестный экспортер пшеницы и свежих продуктов. \r\n"
   },
   {
     "Namespace": "",
     "Key": "23AAE1144AC9D2CFD301DDA9A3568244",
     "Hash": 1595379351,
     "SourceString": "Leading provider in Eather mining and refining.\r\nBased in West Carcosa.\r\nOwner and president: Edward Church. \r\nMember corporation of the NFTA.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Ведущий поставщик в области добычи и переработки эфира.\r\nБазируется в Западной Каркосе.\r\nВладелец и президент: Эдвард Черч. \r\nКорпорация входит в NFTA.\r\n"
   },
   {
     "Namespace": "",
     "Key": "DDC8CEB74E13E89D8D18C9B65F32A4DD",
     "Hash": 3490586754,
     "SourceString": "Utility Tunnel No. 308:\r\n\r\nPort Rale southern Freight Depot.\r\n\r\n\r\n\r\nStandard Eather Co. Ground Pump Control Node.\r\n\r\nSTATUS: 83% ONLINE\r\n\r\nDATA FEED: ONLINE",
-    "LocalizedString": ""
+    "LocalizedString": "Технический туннель № 308:\r\n\r\nЮжное грузовое депо Порт-Рейла.\r\n\r\n\r\n\r\nУзел управления наземным насосом компании «Стандарт Эфир».\r\n\r\nСТАТУС: 83% В СЕТИ\r\n\r\nПОТОК ДАННЫХ: В СЕТИ"
   },
   {
     "Namespace": "",
     "Key": "AE2C1F9E486E2D22AF5D68B4D80A6C9D",
     "Hash": 2050663869,
     "SourceString": "Chemical storage and processing facility west of the village of Beauly, on the Redrook River. \r\nJointly owned and operated by Standard Eather Company and Savlo Industries. \r\nStores and processes Eather-derivatives and other associated materials. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Химический склад и перерабатывающий завод к западу от деревни Бьюли, на реке Редрук. \r\nСовместно принадлежит и управляется Standard Eather Company и Savlo Industries. \r\nХранит и перерабатывает производные эфира и другие сопутствующие материалы. \r\n"
   }
 ]

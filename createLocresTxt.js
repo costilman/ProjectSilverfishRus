@@ -1,7 +1,5 @@
 const fs = require('fs')
 const path = require('path')
-const readline = require('readline');
-const converter = require('json-2-csv');
 
 async function getFiles(dir) {
   const dirents = await fs.promises.readdir(dir, { withFileTypes: true });
@@ -11,7 +9,6 @@ async function getFiles(dir) {
   }));
   return Array.prototype.concat(...files);
 }
-
 
 const createLocresTxt = async function (folderPath, outputFileName) {
   const files = await getFiles(path.join(__dirname, `./${folderPath}`))

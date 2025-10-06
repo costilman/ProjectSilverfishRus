@@ -11,7 +11,7 @@
     "Key": "7A26275C46FAF21B640EA1ACAEE21DE8",
     "Hash": 2559798578,
     "SourceString": "NO DATA FOUND",
-    "LocalizedString": ""
+    "LocalizedString": "ДАННЫЕ НЕ НАЙДЕНЫ"
   },
   {
     "Namespace": "",
@@ -123,70 +123,70 @@
     "Key": "1BB1D1284367F97DA54D4EB0AC75CCB2",
     "Hash": 623440780,
     "SourceString": "“RED ROOT”",
-    "LocalizedString": ""
+    "LocalizedString": "«КРАСНЫЙ КОРЕНЬ»"
   },
   {
     "Namespace": "",
     "Key": "59BADF64425E41C4498C19A3FC21B7C5",
     "Hash": 1997862344,
     "SourceString": "Object No. 0071:",
-    "LocalizedString": ""
+    "LocalizedString": "Объект № 0071:"
   },
   {
     "Namespace": "",
     "Key": "A9A205C646FE558ED15008AB7828674F",
     "Hash": 2621564046,
     "SourceString": "Initial discovery was made during an expansion of local drainage infrastructure…",
-    "LocalizedString": ""
+    "LocalizedString": "Первоначальное обнаружение было сделано во время расширения местной дренажной инфраструктуры…"
   },
   {
     "Namespace": "",
     "Key": "E1CE6594472170406E4ABB8D74CA4E4F",
     "Hash": 787973586,
     "SourceString": "Work was halted when the crew broke through into a natural cave formation.",
-    "LocalizedString": ""
+    "LocalizedString": "Работы были остановлены, когда бригада пробилась в естественное пещерное образование."
   },
   {
     "Namespace": "",
     "Key": "384B806F457585D50C05FBA57A0727CE",
     "Hash": 1227083108,
     "SourceString": "The workers ventured deeper before reporting their discovery to local authorities. ",
-    "LocalizedString": ""
+    "LocalizedString": "Рабочие продвинулись глубже, прежде чем сообщить о своем открытии местным властям. "
   },
   {
     "Namespace": "",
     "Key": "16D870F34C55EEAE686AEA912942371B",
     "Hash": 3607185625,
     "SourceString": "Our research team was sent in to respond…",
-    "LocalizedString": ""
+    "LocalizedString": "Наша исследовательская группа была отправлена для реагирования…"
   },
   {
     "Namespace": "",
     "Key": "273B812A4A854C2ECC09459368930CC2",
     "Hash": 3230767344,
     "SourceString": "A large, natural cavity housed the structure: ",
-    "LocalizedString": ""
+    "LocalizedString": "Структура располагалась в большой естественной полости: "
   },
   {
     "Namespace": "",
     "Key": "894934574C6DCB3B769433BACF9078F0",
     "Hash": 809275954,
     "SourceString": "The structure is composed of a shiny red, seemingly organic material. The consistency is solid, dense and “waxy” to the touch…",
-    "LocalizedString": ""
+    "LocalizedString": "Структура состоит из блестящего красного, на вид органического материала. Консистенция твердая, плотная и «восковая» на ощупь…"
   },
   {
     "Namespace": "",
     "Key": "644CB44644F140C2E73B009BE85C5A54",
     "Hash": 2035660700,
     "SourceString": "Our team collected a small sample from the structure to send back to Lab E-206 for further analysis… ",
-    "LocalizedString": ""
+    "LocalizedString": "Наша команда взяла небольшой образец структуры для отправки в лабораторию E-206 для дальнейшего анализа… "
   },
   {
     "Namespace": "",
     "Key": "85B429BA412E948FDE56A3B2A2D3618B",
     "Hash": 4071978551,
     "SourceString": "Further details pending…",
-    "LocalizedString": ""
+    "LocalizedString": "Дальнейшие подробности ожидаются…"
   },
   {
     "Namespace": "",
@@ -200,7 +200,7 @@
     "Key": "56DB27E047E0C008B0D633B06729A45B",
     "Hash": 1459348346,
     "SourceString": "END OF TAPE",
-    "LocalizedString": ""
+    "LocalizedString": "КОНЕЦ ПЛЁНКИ"
   },
   {
     "Namespace": "",
@@ -221,49 +221,49 @@
     "Key": "E50806C34B10819EA36156A109518210",
     "Hash": 3004888090,
     "SourceString": "::DISTRESS SIGNAL::",
-    "LocalizedString": ""
+    "LocalizedString": "::СИГНАЛ БЕДСТВИЯ::"
   },
   {
     "Namespace": "",
     "Key": "9E3B8A1346714339B4ED40BA1C24098A",
     "Hash": 3045677574,
     "SourceString": "::MAYDAY MAYDAY::",
-    "LocalizedString": ""
+    "LocalizedString": "::MAYDAY MAYDAY::"
   },
   {
     "Namespace": "",
     "Key": "05EB0D0243F67AF0A802A182EEA43FE2",
     "Hash": 354626740,
     "SourceString": "::FLIGHT AF-902 DOWN::",
-    "LocalizedString": ""
+    "LocalizedString": "::РЕЙС AF-902 СБИТ::"
   },
   {
     "Namespace": "",
     "Key": "6D3068F84D94E0B20F881BAC26E87A72",
     "Hash": 1745541306,
     "SourceString": "::CRASH LANDING ON CLIFF OVERLOOKING NORTH SHORE OF LAKE BELLOWS::",
-    "LocalizedString": ""
+    "LocalizedString": "::АВАРИЙНАЯ ПОСАДКА НА СКАЛЕ С ВИДОМ НА СЕВЕРНЫЙ БЕРЕГ ОЗЕРА БЕЛЛОУС::"
   },
   {
     "Namespace": "",
     "Key": "F9DAC97B4A4F320A62C36B94A8161BF5",
     "Hash": 3977140469,
     "SourceString": "::SOUTH-EAST OF OBSERVATORY::",
-    "LocalizedString": ""
+    "LocalizedString": "::ЮГО-ВОСТОЧНЕЕ ОБСЕРВАТОРИИ::"
   },
   {
     "Namespace": "",
     "Key": "70DD1EA0498DB0A84A1E0CA225FE26E0",
     "Hash": 668214861,
     "SourceString": "::REQUESTING CAS-EVAC::",
-    "LocalizedString": ""
+    "LocalizedString": "::ЗАПРАШИВАЮ ЭВАКУАЦИЮ ПОСТРАДАВШИХ::"
   },
   {
     "Namespace": "",
     "Key": "DDED534E465B4424B2AB18A9001B522E",
     "Hash": 3045677574,
     "SourceString": "::MAYDAY MAYDAY::",
-    "LocalizedString": ""
+    "LocalizedString": "::MAYDAY MAYDAY::"
   },
   {
     "Namespace": "",
@@ -277,70 +277,70 @@
     "Key": "D992F87E4A479CAD4B2979BA38481DE0",
     "Hash": 207476996,
     "SourceString": "9 Week Study",
-    "LocalizedString": ""
+    "LocalizedString": "9 Недельное Исследование"
   },
   {
     "Namespace": "",
     "Key": "209CDEE640F54B1C8E1313B0992BD73E",
     "Hash": 4266767785,
     "SourceString": "Eather Ground Saturation:",
-    "LocalizedString": ""
+    "LocalizedString": "Насыщение почвы эфиром:"
   },
   {
     "Namespace": "",
     "Key": "5E83ADF2476C53186D3F549A8EE5A69D",
     "Hash": 1688445004,
     "SourceString": "For the first several weeks we saw nominal growth in saturation rates...",
-    "LocalizedString": ""
+    "LocalizedString": "В течение первых нескольких недель мы наблюдали номинальный рост темпов насыщения..."
   },
   {
     "Namespace": "",
     "Key": "7C3D1D15445C841806ABD2B5408935D5",
     "Hash": 801675876,
     "SourceString": "It was at week 5 when we realized saturation was accelerating.",
-    "LocalizedString": ""
+    "LocalizedString": "На 5-й неделе мы поняли, что насыщение ускоряется."
   },
   {
     "Namespace": "",
     "Key": "04BA79D3479B3E88DC25C486BFE58CB6",
     "Hash": 3037933923,
     "SourceString": "By week 7 the local readings had crossed the critical boundary.",
-    "LocalizedString": ""
+    "LocalizedString": "К 7-й неделе местные показания превысили критический порог."
   },
   {
     "Namespace": "",
     "Key": "E67B92504184A668A8C468B3EAB26A4E",
     "Hash": 770102817,
     "SourceString": "This was alarming, but not unexpected...",
-    "LocalizedString": ""
+    "LocalizedString": "Это было тревожно, но не неожиданно..."
   },
   {
     "Namespace": "",
     "Key": "9F12B8EB42C260286882E7819C073996",
     "Hash": 1931922673,
     "SourceString": "However, by week 9 it was clear that this acceleration was climbing exponentially.",
-    "LocalizedString": ""
+    "LocalizedString": "Однако к 9-й неделе стало ясно, что это ускорение растет в геометрической прогрессии."
   },
   {
     "Namespace": "",
     "Key": "69C508864D4D120E2F292D8C5749D606",
     "Hash": 3460082353,
     "SourceString": "It is clear now that Dr. Mosby's fears were founded.",
-    "LocalizedString": ""
+    "LocalizedString": "Теперь ясно, что опасения Доктора Мосби были обоснованы."
   },
   {
     "Namespace": "",
     "Key": "CA27DF7540ECD8B50C41FDADA7FC33B1",
     "Hash": 3576806221,
     "SourceString": "The Eather drill is active and increasing its production.",
-    "LocalizedString": ""
+    "LocalizedString": "Эфирный бур активен и увеличивает свою производительность."
   },
   {
     "Namespace": "",
     "Key": "C8FAB3FD48C3C8F294C854BC0FCC33CA",
     "Hash": 1459348346,
     "SourceString": "END OF TAPE",
-    "LocalizedString": ""
+    "LocalizedString": "КОНЕЦ ПЛЁНКИ"
   },
   {
     "Namespace": "",
@@ -375,76 +375,76 @@
     "Key": "85EF26154BBD998E1E9388B0A321A0D3",
     "Hash": 1138125654,
     "SourceString": "Ground Eather Pump Status:",
-    "LocalizedString": ""
+    "LocalizedString": "Состояние наземного эфирного насоса:"
   },
   {
     "Namespace": "",
     "Key": "E20DF2BF4435B3DA2EEC0E9E5CBCBD06",
     "Hash": 372896828,
     "SourceString": "UNIT STATUS",
-    "LocalizedString": ""
+    "LocalizedString": "СТАТУС УСТРОЙСТВА"
   },
   {
     "Namespace": "",
     "Key": "4FEEF6F942AAAD14B7251E976A331850",
     "Hash": 3531314155,
     "SourceString": "Eather ground pump sys:",
-    "LocalizedString": ""
+    "LocalizedString": "Система эфирных насосов:"
   },
   {
     "Namespace": "",
     "Key": "1578266C49B83FF2660D06B9F8E03A4C",
     "Hash": 4265803950,
     "SourceString": "ONLINE",
-    "LocalizedString": ""
+    "LocalizedString": "В СЕТИ"
   },
   {
     "Namespace": "",
     "Key": "2F0C87444318CCFD0A067C89721A239C",
     "Hash": 418862985,
     "SourceString": "Beauly Mill 03",
-    "LocalizedString": ""
+    "LocalizedString": "Комбинат Бьюли 03"
   },
   {
     "Namespace": "",
     "Key": "3BB16C8B456A7634A7B07DA63F3C714C",
     "Hash": 707121133,
     "SourceString": "M35-01",
-    "LocalizedString": ""
+    "LocalizedString": "M35-01"
   },
   {
     "Namespace": "",
     "Key": "228FB0DB4E67EF31B0210C842402B82A",
     "Hash": 2105183455,
     "SourceString": "MW-05",
-    "LocalizedString": ""
+    "LocalizedString": "MW-05"
   },
   {
     "Namespace": "",
     "Key": "1F051930424F6ABB7651ECA171E54A4D",
     "Hash": 139165466,
     "SourceString": "Port Rale EW-02",
-    "LocalizedString": ""
+    "LocalizedString": "Порт-Рейл EW-02"
   },
   {
     "Namespace": "",
     "Key": "2229D0284CF12305831F978AB7102F09",
     "Hash": 2010672823,
     "SourceString": "OFFLINE",
-    "LocalizedString": ""
+    "LocalizedString": "НЕ В СЕТИ"
   },
   {
     "Namespace": "",
     "Key": "9A60D8B24689FC3E82413A9A79786554",
     "Hash": 3055374741,
     "SourceString": "Fort Leto North:",
-    "LocalizedString": ""
+    "LocalizedString": "Форт Лето-Север:"
   },
   {
     "Namespace": "",
     "Key": "A65A9EB84FD423F9C40FC7B61563DB44",
     "Hash": 175805510,
     "SourceString": "Trns Depot 06:",
-    "LocalizedString": ""
+    "LocalizedString": "Транспортное депо 06:"
   }
 ]
