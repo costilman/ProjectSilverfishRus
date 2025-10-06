@@ -4,7 +4,7 @@
     "Key": "861E974846776E35A39A0E98CB5B1921",
     "Hash": 1880546416,
     "SourceString": "Black Market Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер черного рынка"
   },
   {
     "Namespace": "",
@@ -39,13 +39,13 @@
     "Key": "DA216FE34E8B899D79E4CD85F0DEC2D3",
     "Hash": 660861463,
     "SourceString": "Black Market Shop",
-    "LocalizedString": ""
+    "LocalizedString": "Магазин черного рынка"
   },
   {
     "Namespace": "",
     "Key": "4C1FC1204DAEB0F7AA3BCFA04893C1CE",
     "Hash": 660861463,
     "SourceString": "Black Market Shop",
-    "LocalizedString": ""
+    "LocalizedString": "Магазин черного рынка"
   }
 ]

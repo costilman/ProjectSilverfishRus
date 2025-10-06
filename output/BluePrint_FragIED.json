@@ -4,20 +4,20 @@
     "Key": "E85A00344A731A4E10ECEF8DC3A8B9D1",
     "Hash": 673345105,
     "SourceString": "Blueprint: Fragmentation IED",
-    "LocalizedString": ""
+    "LocalizedString": "Чертеж: Осколочное СВУ"
   },
   {
     "Namespace": "",
     "Key": "1E576DF5454CE902AC8A12943097EF23",
     "Hash": 2317189210,
     "SourceString": "Similar devices can be crafted using Thermobaric Rockets as well.",
-    "LocalizedString": ""
+    "LocalizedString": "Подобные устройства также можно создавать с использованием термобарических ракет."
   },
   {
     "Namespace": "",
     "Key": "C53329B644E8917514FF649132D4579F",
     "Hash": 540649678,
     "SourceString": "A set of Blueprints describing how to craft a Fragmentation IED.",
-    "LocalizedString": ""
+    "LocalizedString": "Набор чертежей, описывающих, как создать осколочное СВУ."
   }
 ]

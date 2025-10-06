@@ -4,14 +4,14 @@
     "Key": "43E3DF7440A495F6B8495AB507F2F08F",
     "Hash": 2765908563,
     "SourceString": "Meet the Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Встреча с Брокером"
   },
   {
     "Namespace": "",
     "Key": "232C116E4538A7BCB659FE89942A68DA",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
@@ -25,21 +25,21 @@
     "Key": "1657A3D9400E6048A4F22C80F4EE9D3A",
     "Hash": 3582630858,
     "SourceString": "Meet the Black Market Broker at the docks on Black Lake.",
-    "LocalizedString": ""
+    "LocalizedString": "Встретьтесь с брокером черного рынка в доках на Черном озере."
   },
   {
     "Namespace": "",
     "Key": "286F9C9140D2A6CE4E88968BE4857124",
     "Hash": 4096729121,
     "SourceString": "Hey, we're looking for new mercs to run some odd jobs out here. We got plenty of clients paying good, gooood hard cash for some \"hands on\" work. \r\n\r\nAnyone who stops by our place of business to show they're serious may receive a complimentary reward as a show of good faith...\r\n\r\nWe're set up at Dock A on Black Lake. Warehouse on the lower deck.\r\n\r\nSerious applicants only!",
-    "LocalizedString": ""
+    "LocalizedString": "Мы ищем новых наемников для выполнения кое-какой работенки. У нас полно клиентов, которые платят хорошие, ооочень хорошие деньги за работу, требующую \"ручного труда\". \r\n\r\nЛюбой, кто заглянет к нам в офис, чтобы продемонстрировать серьезность своих намерений, получит бесплатное вознаграждение в знак доброй воли...\r\n\r\nМы находимся в доке А на западном берегу Черного озера. Склад на нижней палубе.\r\n\r\nТолько серьезные кандидаты!\r\n\r\n-Брокер"
   },
   {
     "Namespace": "",
     "Key": "C9657FDA4B078AB1D892A38AB9B1FC8F",
     "Hash": 1699534866,
     "SourceString": "Collect Depot Documents",
-    "LocalizedString": ""
+    "LocalizedString": "Сбор документов Депо"
   },
   {
     "Namespace": "",
@@ -60,28 +60,28 @@
     "Key": "67F7A566431EFEA70C11F9BC4BE803E2",
     "Hash": 3797589774,
     "SourceString": "Retrieve official railway company documents.",
-    "LocalizedString": ""
+    "LocalizedString": "Найти официальные документы железнодорожной компании."
   },
   {
     "Namespace": "",
     "Key": "24665F95425631B8C3A08ABF4073D4AA",
     "Hash": 1232944819,
     "SourceString": "I'm looking for any info that can be found about the local railway and its operations. I'll pay a good price for any official documents containing that kind of info...",
-    "LocalizedString": ""
+    "LocalizedString": "Я ищу любую информацию о местной железнодорожной компании и ее деятельности. Я хорошо заплачу за любые официальные документы, содержащие такую информацию..."
   },
   {
     "Namespace": "",
     "Key": "2A420B9B48F9D2CCB627479E506EAB12",
     "Hash": 345531159,
     "SourceString": "There is an office building in the middle of the Depot. Maybe its Records Department would be a good place to start.",
-    "LocalizedString": ""
+    "LocalizedString": "В центре Депо есть офисное здание. Может быть, его архивный отдел — хорошее место для начала."
   },
   {
     "Namespace": "",
     "Key": "5918CFE14E1C9F9B2E0A0E838D9AC79D",
     "Hash": 2465372736,
     "SourceString": "Turn the documents in to the Black Market Broker at Dock A.",
-    "LocalizedString": ""
+    "LocalizedString": "Сдайте документы Брокеру на чёрном рынке в Доке А."
   },
   {
     "Namespace": "",
@@ -123,28 +123,28 @@
     "Key": "612B22D34554B1BDDE21749F28EC532C",
     "Hash": 2856193540,
     "SourceString": "That son-of-a-bitch Lenny joined up with the Insurrection just long enough to make off with one of their LMGs and a heavy set of armor. Now he's shacked up in some bombed-out shithole, armed to the teeth. \r\n\r\nRaid his hideout and make off with the goods before his \"old friends\" find him. Put the bastard down while you're at it. \r\n\r\nHe might be in his safe-house, one of the old worker dorms at the West end of the Depot...",
-    "LocalizedString": ""
+    "LocalizedString": "Этот сукин сын Ленни присоединился к Повстанцам ровно на столько, чтобы сбежать с одним из их пулеметов и тяжелым комплектом брони. Теперь он засел в какой-то разбомбленной дыре, вооруженный до зубов. \r\n\r\nНападите на его убежище и заберите его добро, пока его \"старые друзья\" его не нашли. Заодно прикончите этого ублюдка. \r\n\r\nОн может быть в своем убежище, одном из старых рабочих общежитий на западной окраине Депо..."
   },
   {
     "Namespace": "",
     "Key": "0F2EF7474CE5F9680D9C3182A58A3ECF",
     "Hash": 6775752,
     "SourceString": "Trust me, Lenny's a cold-blooded killer who's made A LOT of enemies for a LOT of reasons. We'd all be better off with him gone.",
-    "LocalizedString": ""
+    "LocalizedString": "Поверь мне, Ленни — хладнокровный убийца, который нажил МНОГО врагов по МНОЖЕСТВУ причин. Нам всем будет лучше без него."
   },
   {
     "Namespace": "",
     "Key": "59C88F0D412F34EAD84718BD9D219227",
     "Hash": 2020966038,
     "SourceString": "Flooded Village Dead Drop",
-    "LocalizedString": ""
+    "LocalizedString": "Тайник в Затопленной Деревне"
   },
   {
     "Namespace": "",
     "Key": "B7FBC17B45E03DAB5688E48A19AC2D3A",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
@@ -158,35 +158,35 @@
     "Key": "209AE3EB455CBA6F55956D9508C8A233",
     "Hash": 1489350306,
     "SourceString": "Pick up the Dead-Drop in the flooded village.",
-    "LocalizedString": ""
+    "LocalizedString": "Заберите тайник в затопленной деревне."
   },
   {
     "Namespace": "",
     "Key": "4A41E19340182542E43A45BF3429E0B2",
     "Hash": 828558534,
     "SourceString": "Got a dead-drop being left for me in the flooded village. (I think it used to be called Beauly.)\r\n\r\nThe Drop can be found in an old Cafe.\r\n\r\nSmall reward for whoever brings the bag back here to Dock A at Black Lake.\r\n\r\nI'll KNOW if you open it.",
-    "LocalizedString": ""
+    "LocalizedString": "Для меня оставили тайник в затопленной деревне. (Кажется, раньше она называлась Бьюли.)\r\n\r\nТайник можно найти в старом кафе.\r\n\r\nНебольшая награда тому, кто принесет сумку сюда, в Док А на Чёрном Озере.\r\n\r\nЯ УЗНАЮ, если ты ее откроешь."
   },
   {
     "Namespace": "",
     "Key": "DAA118BC40A6C071AAEDADAD28598805",
     "Hash": 3191072831,
     "SourceString": "(The bag doesn't get placed until someone accepts the contract.)\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "(Сумка не появится, пока кто-нибудь не примет контракт.)\r\n"
   },
   {
     "Namespace": "",
     "Key": "F56C7F1840588A929E1052B2C66033F7",
     "Hash": 1993351247,
     "SourceString": "Metro Dead Drop",
-    "LocalizedString": ""
+    "LocalizedString": "Тайник в Метрополе"
   },
   {
     "Namespace": "",
     "Key": "FDD5845647D182F2563F87822D6C4CE1",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
@@ -200,28 +200,28 @@
     "Key": "3B6964584CB5FC690F638C921D0D463E",
     "Hash": 2723490486,
     "SourceString": "Pick up the Dead-Drop in Metropol.",
-    "LocalizedString": ""
+    "LocalizedString": "Заберите тайник в Метрополе."
   },
   {
     "Namespace": "",
     "Key": "D8AE98214C17DAC19549C5813317EB8E",
     "Hash": 3424330949,
     "SourceString": "Got another dead-drop being left for me in the Police Station in Metropol.\r\n\r\nSmall reward for whoever brings the bag back here to Dock A at Black Lake.\r\n\r\nI'll KNOW if you open it.",
-    "LocalizedString": ""
+    "LocalizedString": "Для меня оставили ещё один тайник в полицейском участке в Метрополе.\r\n\r\nНебольшая награда тому, кто принесет сумку сюда, в Док А на Чёрном Озере.\r\n\r\nЯ УЗНАЮ, если ты её откроешь."
   },
   {
     "Namespace": "",
     "Key": "8EDC1D9F4BE3648B806586BABF4BB3CD",
     "Hash": 3191072831,
     "SourceString": "(The bag doesn't get placed until someone accepts the contract.)\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "(Сумка не появится, пока кто-нибудь не примет контракт.)\r\n"
   },
   {
     "Namespace": "",
     "Key": "CA91191C4CB4D70504E1D5833C7EBE13",
     "Hash": 2345998042,
     "SourceString": "CrossRoads Dead Drop",
-    "LocalizedString": ""
+    "LocalizedString": "Тайник на Перекрестке"
   },
   {
     "Namespace": "",
@@ -235,28 +235,28 @@
     "Key": "C4AD4D6F4E04CC2BA24E709931366E81",
     "Hash": 1277388878,
     "SourceString": "Pick up the Dead-Drop in Crossroads.",
-    "LocalizedString": ""
+    "LocalizedString": "Заберите тайник на Перекрестке."
   },
   {
     "Namespace": "",
     "Key": "387D4BE84C78441A934194A7997C59F2",
     "Hash": 525586617,
     "SourceString": "I have a dead-drop left for me in Crossroads. My guy hid it near the water lock in the south-east.\r\n\r\nSmall reward for whoever brings the bag back here to Dock A at Black Lake.\r\n\r\nI'll KNOW if you open it.",
-    "LocalizedString": ""
+    "LocalizedString": "Для меня меня оставили тайник на Перекрестке. Мой человек спрятал его возле шлюза на юго-востоке.\r\n\r\nНебольшая награда тому, кто принесет сумку сюда, в Док А на Чёрном Озере.\r\n\r\nЯ УЗНАЮ, если ты её откроешь."
   },
   {
     "Namespace": "",
     "Key": "16A3EA1A4DE99038C19E6BB2EECD230D",
     "Hash": 3904659301,
     "SourceString": "Missing Contact",
-    "LocalizedString": ""
+    "LocalizedString": "Пропавший связной"
   },
   {
     "Namespace": "",
     "Key": "9DB85EF04A9B96385C144B85BAD0442C",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
@@ -270,42 +270,42 @@
     "Key": "9F435E0841E736AD0020DCA6EC2D1C4A",
     "Hash": 1151476313,
     "SourceString": "Find anything the Broker's missing contact might have left.",
-    "LocalizedString": ""
+    "LocalizedString": "Найдите всё, что мог оставить пропавший связной Брокера."
   },
   {
     "Namespace": "",
     "Key": "B2D8FBF54CCABD5138DE78BF5F490BB8",
     "Hash": 492648784,
     "SourceString": "A contact of mine has gone weeks without communication.",
-    "LocalizedString": ""
+    "LocalizedString": "Один мой связной не выходил на связь несколько недель."
   },
   {
     "Namespace": "",
     "Key": "62E4433A41373120F32FDAAD6B32278A",
     "Hash": 2412593087,
     "SourceString": "He used to shack up in an abandoned farm house in Cross Roads.",
-    "LocalizedString": ""
+    "LocalizedString": "Он обычно жил в заброшенном фермерском доме на Перекрестке."
   },
   {
     "Namespace": "",
     "Key": "1D732104480FFAED83BB8182029AF1B1",
     "Hash": 3312786236,
     "SourceString": "See if he left anything explaining what happened to him.",
-    "LocalizedString": ""
+    "LocalizedString": "Посмотри, не оставил ли он что-нибудь, объясняющее, что с ним случилось."
   },
   {
     "Namespace": "",
     "Key": "AEE89680418A3912EB9CB287FAA92ECE",
     "Hash": 2489561784,
     "SourceString": "Lab E-206 Tape",
-    "LocalizedString": ""
+    "LocalizedString": "Кассета из лаборатории E-206"
   },
   {
     "Namespace": "",
     "Key": "6A7468FB436FEB32719A71B86F1A7AFF",
     "Hash": 673154708,
     "SourceString": "Dr. Mosby",
-    "LocalizedString": ""
+    "LocalizedString": "Доктор Мосби"
   },
   {
     "Namespace": "",
@@ -319,49 +319,49 @@
     "Key": "0D0B83AD431A150049B43CB8F55426D7",
     "Hash": 2931399474,
     "SourceString": "Retrieve a data tape on an experiment conducted in Lab E-206.",
-    "LocalizedString": ""
+    "LocalizedString": "Найти кассету с данными об эксперименте, проведённом в лаборатории E-206."
   },
   {
     "Namespace": "",
     "Key": "99ACC1D848B055F79910DDA6E9026C5B",
     "Hash": 2657956790,
     "SourceString": "There's an abandoned laboratory in the basement of the railway offices in Depot.",
-    "LocalizedString": ""
+    "LocalizedString": "В подвале железнодорожных офисов в Депо есть заброшенная лаборатория."
   },
   {
     "Namespace": "",
     "Key": "67C9ADA5441D626AF7DB939EBB13D31F",
     "Hash": 3400608005,
     "SourceString": "Bring me a tape containing data on any experiments that were conducted in that lab. ",
-    "LocalizedString": ""
+    "LocalizedString": "Принесите мне кассету с данными о любых экспериментах, которые проводились в этой лаборатории. "
   },
   {
     "Namespace": "",
     "Key": "7619185E4F6C10BBBEB3C5B9B7BE3A74",
     "Hash": 3622317455,
     "SourceString": "This lab is likely very dangerous and full of hazardous materials; I'd recommend bringing protective gear...",
-    "LocalizedString": ""
+    "LocalizedString": "Эта лаборатория, скорее всего, очень опасна и полна опасных материалов; я бы рекомендовал взять защитное снаряжение..."
   },
   {
     "Namespace": "",
     "Key": "9B22850842F60BED0A42F6BF55886CA9",
     "Hash": 4079023549,
     "SourceString": "You can find my lab in the facility in the south-west corner of the Flood Plains. Door labeled \"RG WEST\".",
-    "LocalizedString": ""
+    "LocalizedString": "Вы можете найти мою лабораторию в комплексе в юго-западном углу Затопленных Равнин. Дверь с надписью \"RG WEST\"."
   },
   {
     "Namespace": "",
     "Key": "E29C73764C871875D1DFD3B289C9FA40",
     "Hash": 2428876239,
     "SourceString": "Counter Sniper",
-    "LocalizedString": ""
+    "LocalizedString": "Контр-снайпер"
   },
   {
     "Namespace": "",
     "Key": "67610D5A4195E2612AA4FFBD007D27C7",
     "Hash": 1028115194,
     "SourceString": "Mamma Roach",
-    "LocalizedString": ""
+    "LocalizedString": "Мама Роуч"
   },
   {
     "Namespace": "",
@@ -375,42 +375,42 @@
     "Key": "9CE34F334F986A6B652DB4AB1E9E00E7",
     "Hash": 247406754,
     "SourceString": "Take out the Insurrection Sniper in Flood Plains.",
-    "LocalizedString": ""
+    "LocalizedString": "Уничтожить снайпера Повстанцев на Затопленных равнинах."
   },
   {
     "Namespace": "",
     "Key": "5A320DE242159E19AA8926978F905533",
     "Hash": 883485524,
     "SourceString": "The Sniper is down; report to Mamma Roach at the Borough to claim your reward. ",
-    "LocalizedString": ""
+    "LocalizedString": "Снайпер уничтожен; доложите Маме Роуч в Боро, чтобы получить награду. "
   },
   {
     "Namespace": "",
     "Key": "27E512C645BCA7412361E8B4DC2AA306",
     "Hash": 1709198759,
     "SourceString": "One of the Insurrection's top marksmen is wreaking havoc in the Flood Plains. Scouts say he's posted up atop the tower overlooking the Mill, west of Beauly.",
-    "LocalizedString": ""
+    "LocalizedString": "Один из лучших стрелков Повстанцев сеет хаос на Затопленных Равнинах. Разведчики говорят, что он занял позицию на вершине башни с видом на Мельницу, к западу от Бьюли."
   },
   {
     "Namespace": "",
     "Key": "5FBBD674488AABC0E9891D8BF3081412",
     "Hash": 3971456281,
     "SourceString": "Anyone who takes him out will be doing the Revolution a massive service, and will be rewarded so.",
-    "LocalizedString": ""
+    "LocalizedString": "Любой, кто его уничтожит, окажет Революции огромную услугу и будет за это вознагражден."
   },
   {
     "Namespace": "",
     "Key": "659267224D2195AA5581139A09DA5AF0",
     "Hash": 523626916,
     "SourceString": "Kill Spratt",
-    "LocalizedString": ""
+    "LocalizedString": "Убить Спратта"
   },
   {
     "Namespace": "",
     "Key": "41937AEB4FCB00BD839352829304BBB4",
     "Hash": 3684172133,
     "SourceString": "Krieg",
-    "LocalizedString": ""
+    "LocalizedString": "Криг"
   },
   {
     "Namespace": "",
@@ -424,21 +424,21 @@
     "Key": "7380A58E4DE423D283EA479963C24E8C",
     "Hash": 2289873322,
     "SourceString": "Take out a Loner named Spratt.",
-    "LocalizedString": ""
+    "LocalizedString": "Уничтожить одиночку по имени Спратт."
   },
   {
     "Namespace": "",
     "Key": "F457696849C39330E63C069A2D31AC42",
     "Hash": 536334300,
     "SourceString": "Target is down. Redeem this contract at any bounty board. ",
-    "LocalizedString": ""
+    "LocalizedString": "Цель уничтожена. Получите вознаграждение за контракт на любой доске объявлений. "
   },
   {
     "Namespace": "",
     "Key": "F5FB29624E5ACAA029A81FA14B191482",
     "Hash": 345943076,
     "SourceString": "This little shit-heel going by the name 'Spratt' has been stirring up all kinds of trouble.\r\n\r\nSome contacts of mine will pay a good little penny to see him dead.\r\n\r\nWe have no idea where he is, but he's been seen going in and out of the old hotel in the Slums; might be able to find a lead there.\r\n\r\nYou'll know him by the ballistic face mask and cut-down shotgun he runs with...",
-    "LocalizedString": ""
+    "LocalizedString": "Этот мелкий ублюдок по кличке 'Спратт' создает кучу проблем.\r\n\r\nКое-кто из моих контактов заплатит кругленькую сумму, чтобы увидеть его мертвым.\r\n\r\nМы понятия не имеем, где он, но его видели входящим и выходящим из старого отеля в Трущобах; возможно, там удастся найти зацепку.\r\n\r\nВы узнаете его по баллистической маске и обрезу, с которым он бегает..."
   },
   {
     "Namespace": "",
@@ -487,14 +487,14 @@
     "Key": "7AE9EFB4492A866A198AA39A3242B7A4",
     "Hash": 552450216,
     "SourceString": "Get Molasses",
-    "LocalizedString": ""
+    "LocalizedString": "Достать патоку"
   },
   {
     "Namespace": "",
     "Key": "E54DB7A94A351C2F25C77BAA7DBB194D",
     "Hash": 2829606937,
     "SourceString": "Shop Keep",
-    "LocalizedString": ""
+    "LocalizedString": "Торговец"
   },
   {
     "Namespace": "",
@@ -508,28 +508,28 @@
     "Key": "AA36DDF949770928C3F18E90543E94B2",
     "Hash": 2780996722,
     "SourceString": "Collect a can of Molasses for Shop Keep.",
-    "LocalizedString": ""
+    "LocalizedString": "Собрать банку патоки для Торговца."
   },
   {
     "Namespace": "",
     "Key": "E06856504708EE39AD5855B8D9E39FF7",
     "Hash": 3586029522,
     "SourceString": "Oh you want to do jobs for me now?\r\n\r\nFine, go get me groceries; I'm out of Molasses.\r\n\r\nDo not disappoint me! ",
-    "LocalizedString": ""
+    "LocalizedString": "О, так ты теперь хочешь на меня работать?\r\n\r\nЛадно, сходи принеси мне продуктов; у меня закончилась патока.\r\n\r\nНе разочаруй меня! "
   },
   {
     "Namespace": "",
     "Key": "A958872D411603F09498E3B308E9ABD5",
     "Hash": 991218834,
     "SourceString": "Root Source",
-    "LocalizedString": ""
+    "LocalizedString": "Источник корня"
   },
   {
     "Namespace": "",
     "Key": "F376314740C5BD14E28BA58186C22788",
     "Hash": 673154708,
     "SourceString": "Dr. Mosby",
-    "LocalizedString": ""
+    "LocalizedString": "Доктор Мосби"
   },
   {
     "Namespace": "",
@@ -543,21 +543,21 @@
     "Key": "4612AFE64C9FAA7BBCE52093CBF7D006",
     "Hash": 1225354544,
     "SourceString": "Collect a small sample of the Red Root Anomaly for Dr. Mosby.",
-    "LocalizedString": ""
+    "LocalizedString": "Собрать небольшой образец аномалии «Красный корень» для доктора Мосби."
   },
   {
     "Namespace": "",
     "Key": "A8D9A84B4F45AE528617BCA4790AC0D7",
     "Hash": 3133679157,
     "SourceString": "The tape from Lab E-206 describes some sort of unique anomaly discovered during an underground construction project.",
-    "LocalizedString": ""
+    "LocalizedString": "На кассете из лаборатории E-206 описывается некая уникальная аномалия, обнаруженная во время подземных строительных работ."
   },
   {
     "Namespace": "",
     "Key": "CC64F09940B13AC5E08446948ADFCFB3",
     "Hash": 3198503302,
     "SourceString": "See if you can track down a sample and bring it back to our lab.",
-    "LocalizedString": ""
+    "LocalizedString": "Посмотрите, сможете ли вы найти образец и принести его в нашу лабораторию."
   },
   {
     "Namespace": "",
@@ -592,7 +592,7 @@
     "Key": "A6FB5C2845867569B32E09AA43C7A0C9",
     "Hash": 1313659182,
     "SourceString": "Turn this contract in at any bounty board.",
-    "LocalizedString": ""
+    "LocalizedString": "Сдайте этот контракт на любой доске объявлений."
   },
   {
     "Namespace": "",
@@ -634,7 +634,7 @@
     "Key": "FAC451F9476C6BF4D9933B9B96739BB4",
     "Hash": 3563014409,
     "SourceString": "Turn this contract in at Dr. Mosby's Lab.",
-    "LocalizedString": ""
+    "LocalizedString": "Сдайте этот контракт в лаборатории доктора Мосби."
   },
   {
     "Namespace": "",
@@ -676,7 +676,7 @@
     "Key": "135CC6074FE1617D699680A0F9B0498B",
     "Hash": 1825112385,
     "SourceString": "Turn this contract in to the Broker at Dock A.",
-    "LocalizedString": ""
+    "LocalizedString": "Сдайте этот контракт Брокеру в Доке А."
   },
   {
     "Namespace": "",
@@ -690,14 +690,14 @@
     "Key": "6EE460814BFAC0BAB4FDAA805CBB5E08",
     "Hash": 140983554,
     "SourceString": "Flood Control",
-    "LocalizedString": ""
+    "LocalizedString": "Контроль наводнения"
   },
   {
     "Namespace": "",
     "Key": "972A145D4C669B685186FCBFCA0F92BC",
     "Hash": 1028115194,
     "SourceString": "Mamma Roach",
-    "LocalizedString": ""
+    "LocalizedString": "Мама Роуч"
   },
   {
     "Namespace": "",
@@ -711,21 +711,21 @@
     "Key": "103C7DB34DFA5B1136472482E85ECF2B",
     "Hash": 483327147,
     "SourceString": "Disable the Flow-Control Valve causing the Subway Tunnels to flood.",
-    "LocalizedString": ""
+    "LocalizedString": "Отключить клапан управления потоком, вызывающий затопление туннелей метро."
   },
   {
     "Namespace": "",
     "Key": "52DAA76C44617B085449E8BD6A2D5043",
     "Hash": 893802819,
     "SourceString": "Task complete: Report back to Mamma Roach.",
-    "LocalizedString": ""
+    "LocalizedString": "Задание выполнено: доложите Маме Роуч."
   },
   {
     "Namespace": "",
     "Key": "3A7E18FB4A5EF23C083E9D942A8BBB31",
     "Hash": 3287828742,
     "SourceString": "A main sewer line is leaking toxic water into the subway tunnels under Metropol. \r\n\r\nWe desperately need someone to go down there, find the flow-control valve and shut it off!",
-    "LocalizedString": ""
+    "LocalizedString": "Основная канализационная линия протекает, и токсичная вода попадает в туннели метро под Метрополем. \r\n\r\nНам отчаянно нужен кто-то, кто спустится туда, найдет клапан управления потоком и перекроет его!"
   },
   {
     "Namespace": "",
@@ -802,14 +802,14 @@
     "Key": "342DCF144DD96B7D63E109AB1882DDC5",
     "Hash": 639656117,
     "SourceString": "Retake The Safe-House",
-    "LocalizedString": ""
+    "LocalizedString": "Отбить убежище"
   },
   {
     "Namespace": "",
     "Key": "988592764635382B5DBE64A0D28A4F83",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
@@ -823,21 +823,21 @@
     "Key": "48A7FFFE4BE91B0DE741D282C2016F09",
     "Hash": 4035092657,
     "SourceString": "Clear out the Safe-House at Black Lake.",
-    "LocalizedString": ""
+    "LocalizedString": "Зачистить убежище на Черном озере."
   },
   {
     "Namespace": "",
     "Key": "4646A787471979D3C778DD8A5AECC555",
     "Hash": 3538523406,
     "SourceString": "Safe-House secured. Report back to the Broker.",
-    "LocalizedString": ""
+    "LocalizedString": "Убежище зачищено. Доложите Брокеру."
   },
   {
     "Namespace": "",
     "Key": "E2EEBB79466CE265BB81AE8D6415FCAC",
     "Hash": 2647756562,
     "SourceString": "A band of Insurrectionists have shacked up in one of our old safe-houses; the floating cabin on the east shore of Black Lake.\r\n\r\nI'm not ceding my territory to those jack-boot dipshits.\r\n\r\nWhoever murks these fuckers is free to use the safe-house to their own ends. Plus a small reward... ",
-    "LocalizedString": ""
+    "LocalizedString": "Банда повстанцев засела в одном из наших старых убежищ; плавучей хижине на восточном берегу Чёрного Озера.\r\n\r\nЯ не собираюсь уступать свою территорию этим придуркам.\r\n\r\nТот, кто прикончит этих ублюдков, сможет использовать убежище в своих целях. Плюс небольшая награда... "
   },
   {
     "Namespace": "",
@@ -907,7 +907,7 @@
     "Key": "96A967F64D5DFA123B6FD8BEE8F2E88F",
     "Hash": 846684510,
     "SourceString": "Egg-Head is no more. Turn in at a bounty board.",
-    "LocalizedString": ""
+    "LocalizedString": "Яйцеголового больше нет. Сдайте этот контракт на любой доске объявлений."
   },
   {
     "Namespace": "",
@@ -956,14 +956,14 @@
     "Key": "C69557ED4B964E564C4432AB8518FDCD",
     "Hash": 1670594657,
     "SourceString": "Stone Maze Readings",
-    "LocalizedString": ""
+    "LocalizedString": "Показания из Каменного лабиринта"
   },
   {
     "Namespace": "",
     "Key": "FE0A460A4E52AB5E9C3EEB883E372FE9",
     "Hash": 673154708,
     "SourceString": "Dr. Mosby",
-    "LocalizedString": ""
+    "LocalizedString": "Доктор Мосби"
   },
   {
     "Namespace": "",
@@ -977,28 +977,28 @@
     "Key": "E11E526642638D4289863F88E3B98CD8",
     "Hash": 357450400,
     "SourceString": "Retrieve the Eather ground saturation readings from Stone Maze.",
-    "LocalizedString": ""
+    "LocalizedString": "Получить показания насыщения почвы эфиром из Каменного лабиринта."
   },
   {
     "Namespace": "",
     "Key": "121C607E4D01D24D7FA686A7D34D4BBF",
     "Hash": 2477956668,
     "SourceString": "I sent a small research team up to Stone Maze to measure the ground saturation of Eather in the northern zone.\r\n\r\nThey were only meant to be out for a few weeks; but I've yet to hear any word back from them.\r\n\r\nSee if you can find any readings they may have gathered and record it onto a Data Tape.\r\n\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Я отправил небольшую исследовательскую группу в Каменный лабиринт, чтобы измерить насыщение почвы эфиром в северной зоне.\r\n\r\nОни должны были отсутствовать всего несколько недель; но я до сих пор не получил от них никаких известий.\r\n\r\nПосмотрите, сможете ли вы найти какие-либо показания, которые они могли собрать, и записать их на кассету с данными.\r\n\r\n"
   },
   {
     "Namespace": "",
     "Key": "83495AD24DAFEF061FE7D7B016FE04DE",
     "Hash": 1658452491,
     "SourceString": "The Northern Zone is not an easy place to access. You will need to find a suitable route through the military perimeter; the best one may not be obvious. \r\n\r\nYou should also ensure you are prepared and well equipped for the dangers you will face there...",
-    "LocalizedString": ""
+    "LocalizedString": "В Северную зону не так-то просто попасть. Вам нужно будет найти подходящий маршрут через военный периметр; лучший может быть не очевиден. \r\n\r\nВы также должны убедиться, что хорошо подготовлены и оснащены для опасностей, с которыми столкнетесь там..."
   },
   {
     "Namespace": "",
     "Key": "26BE9A0048EDC888331E95ACA7B511CE",
     "Hash": 3748807110,
     "SourceString": "Operation: Gold Tooth",
-    "LocalizedString": ""
+    "LocalizedString": "Операция: Золотой зуб"
   },
   {
     "Namespace": "",
@@ -1019,35 +1019,35 @@
     "Key": "C69C9CB241B1B75846E1AFA712EE6D80",
     "Hash": 3254405681,
     "SourceString": "Eliminate the Insurrection officer stationed at Goldwood Forest.",
-    "LocalizedString": ""
+    "LocalizedString": "Уничтожить офицера Повстанцев, дислоцированного в лесу Голдвуд."
   },
   {
     "Namespace": "",
     "Key": "1AEBFDBD41B7B7D503E740AF1F4B55A1",
     "Hash": 4060674007,
     "SourceString": "Target eliminated. Return to base!",
-    "LocalizedString": ""
+    "LocalizedString": "Цель уничтожена. Возвращайтесь на базу!"
   },
   {
     "Namespace": "",
     "Key": "B8343DEC4DD1F9A35BA768AA959620A8",
     "Hash": 602916330,
     "SourceString": "A high-ranking officer of the Insurrection has been identified.\r\n\r\nHe currently commands a small FOB in the south east sector of the exclusion zone.\r\n\r\nFind and eliminate the target!",
-    "LocalizedString": ""
+    "LocalizedString": "Выявлен высокопоставленный офицер Повстанцев.\r\n\r\nВ настоящее время он командует небольшой передовой базой в юго-восточном секторе зоны отчуждения.\r\n\r\nНайти и уничтожить цель!"
   },
   {
     "Namespace": "",
     "Key": "5C9CE5F74D25225611F46C8FFE1EE557",
     "Hash": 3732401277,
     "SourceString": "Stolen Goods",
-    "LocalizedString": ""
+    "LocalizedString": "Украденные товары"
   },
   {
     "Namespace": "",
     "Key": "8C24298247EC2F5C460CA186CF788DFF",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
@@ -1061,112 +1061,112 @@
     "Key": "35FAC14848D2E64C94E0D8A7AE9352BC",
     "Hash": 183287399,
     "SourceString": "Retrieve the Broker's stolen shipment from the Insurrection.",
-    "LocalizedString": ""
+    "LocalizedString": "Вернуть украденный груз Брокера который украли Повстанцы."
   },
   {
     "Namespace": "",
     "Key": "D2FEBCD24D2B2E3684E488917B87336D",
     "Hash": 1596762048,
     "SourceString": "Don't get it twisted, the only reason I stopped doing business with the Insurrection is because they keep ripping me off. \r\nI guess all that talk about \"supporting domestic enterprise\" doesn't extend to us Fae.\r\n\r\nThey're still holding on to my last shipment. Green duffle bag with a Yellow Stag patch.\r\n\r\nFind it and bring it back to me; any blood you spill along the way is considered 'interest'.",
-    "LocalizedString": ""
+    "LocalizedString": "Не поймите меня неправильно, единственная причина, по которой я перестал иметь дела с Повстанцами, — это то, что они постоянно меня кидают. \r\nПолагаю, все эти разговоры о \"поддержке отечественного предпринимательства\" не распространяются на нас, Фэйри.\r\n\r\nОни все еще держат мой последний груз. Зеленая вещевая сумка с нашивкой «Желтый Олень».\r\n\r\nНайдите ее и принесите мне; любая кровь, которую вы прольете по пути, будет считаться 'процентами'."
   },
   {
     "Namespace": "",
     "Key": "1C61648D45F6502F313E63A4E868F984",
     "Hash": 3012000024,
     "SourceString": "Operation: Piggy Bank",
-    "LocalizedString": ""
+    "LocalizedString": "Операция: Копилка"
   },
   {
     "Namespace": "",
     "Key": "A87F98444B1286161AD1CC8F849EC909",
     "Hash": 2099942951,
     "SourceString": "Locate and eliminate the Black Market Broker.",
-    "LocalizedString": ""
+    "LocalizedString": "Найти и уничтожить брокера черного рынка."
   },
   {
     "Namespace": "",
     "Key": "D7FBB78844037B546B5C648ACC788DC4",
     "Hash": 3487718172,
     "SourceString": "A high value target known as \"The Broker\" has been reported to be operating an illegal black market in the exclusion zone.\r\n\r\nHis exact location is currently unknown, however intel suggests he's operating somewhere in the southern Zone.\r\n\r\nFind and eliminate the target!",
-    "LocalizedString": ""
+    "LocalizedString": "Сообщается, что высокоценная цель, известная как \"Брокер\", управляет нелегальным чёрным рынком в зоне отчуждения.\r\n\r\nЕго точное местонахождение в настоящее время неизвестно, однако разведданные предполагают, что он действует где-то в южной Зоне.\r\n\r\nНайти и уничтожить цель!"
   },
   {
     "Namespace": "",
     "Key": "C1CBECA84C3A829151A406BC77845229",
     "Hash": 149803718,
     "SourceString": "Operation: Heat Coil",
-    "LocalizedString": ""
+    "LocalizedString": "Операция: Нагревательная спираль"
   },
   {
     "Namespace": "",
     "Key": "8230FA304C8584E9D2CCA0B7DE01B692",
     "Hash": 3590973039,
     "SourceString": "Infiltrate the E-206 Laboratory and collect data on their research.",
-    "LocalizedString": ""
+    "LocalizedString": "Проникнуть в лабораторию E-206 и собрать данные об их исследованиях."
   },
   {
     "Namespace": "",
     "Key": "25B6CC194934416F6E8333B88824BA3B",
     "Hash": 1123434343,
     "SourceString": "Intel suggests that a pre-threshold laboratory known as E-206 may have data referring to early anomalies in the Exclusion Zone. \r\n\r\nThis installation is believed to be housed within disused railway tunnels below the outskirts of Port Rale.\r\n\r\nInfiltrate the lab and retrieve any relevant data you may discover.",
-    "LocalizedString": ""
+    "LocalizedString": "Разведданные предполагают, что в до-пороговой лаборатории, известной как E-206, могут быть данные, относящиеся к ранним аномалиям в Зоне отчуждения. \r\n\r\nСчитается, что этот объект расположен в заброшенных железнодорожных туннелях под окраинами Порт-Рэйла.\r\n\r\nПроникните в лабораторию и извлеките любые релевантные данные, которые сможете обнаружить."
   },
   {
     "Namespace": "",
     "Key": "7106118E4B436B9EDDC8EC9772647ED6",
     "Hash": 4030624937,
     "SourceString": "Operation: Laundry Day",
-    "LocalizedString": ""
+    "LocalizedString": "Операция: Прачечная"
   },
   {
     "Namespace": "",
     "Key": "A77F2F16429808AEFD4947A5D8CD7BFC",
     "Hash": 20220073,
     "SourceString": "Retrieve Kempt's financial records from the Port Rale Bank.",
-    "LocalizedString": ""
+    "LocalizedString": "Получить финансовые отчеты Кемпта из банка Порт-Рэйла."
   },
   {
     "Namespace": "",
     "Key": "12CF5AED4E6C190A15BDE9BD2856E013",
     "Hash": 2927521441,
     "SourceString": "The leader of the Insurrection, Dillard Kempt, has scrubbed all of his public financial records during his previous term as NFTA Chairmen.\r\n\r\nIntel suggests that the bank offices in Port Rale may still hold some copies of his financial record. They may even elucidate as to where the Insurrection is securing their funding...\r\n\r\nSearch the bank offices and recover any intel relevant to Dillard Kempt.",
-    "LocalizedString": ""
+    "LocalizedString": "Лидер Повстанцев, Диллард Кемпт, удалил все свои публичные финансовые отчеты во время своего предыдущего срока на посту председателя NFTA.\r\n\r\nРазведданные предполагают, что в банковских офисах в Порт-Рэйле все еще могут храниться некоторые копии его финансовых отчетов. Они могут даже прояснить, откуда Повстанцы получают финансирование...\r\n\r\nОбыщите банковские офисы и найдите любую информацию, имеющую отношение к Дилларду Кемпту."
   },
   {
     "Namespace": "",
     "Key": "8B05DFF2466DA6AF2CB43488AC67E2F7",
     "Hash": 3214915123,
     "SourceString": "Operation: Rock Wall",
-    "LocalizedString": ""
+    "LocalizedString": "Операция: Каменная стена"
   },
   {
     "Namespace": "",
     "Key": "C929363C44E1CDA2678F2292685E4812",
     "Hash": 1859019545,
     "SourceString": "Retrieve data collected by Dr. Mosby's research team.",
-    "LocalizedString": ""
+    "LocalizedString": "Получить данные, собранные исследовательской группой доктора Мосби."
   },
   {
     "Namespace": "",
     "Key": "47FE5BB440DE483E3A6EBBB80325359A",
     "Hash": 871676757,
     "SourceString": "Person of interest, Dr. Mosby, is known to be cooperating with left-wing terrorists in the southern zone.\r\n\r\nIntel reports that he has sent a research team to Stone Maze to conduct some sort of recon mission. \r\n\r\nFind and eliminate this team, and retrieve any data they may have collected.",
-    "LocalizedString": ""
+    "LocalizedString": "Объект интереса, Доктор Мосби, как известно, сотрудничает с левыми террористами в южной зоне.\r\n\r\nРазведка докладывает, что он отправил исследовательскую группу в Каменный лабиринт для проведения некой разведывательной миссии. \r\n\r\nНайдите и уничтожьте эту группу и получите любые данные, которые они могли собрать."
   },
   {
     "Namespace": "",
     "Key": "EF2ED8BF426375DD43D6128FA1C13015",
     "Hash": 663026513,
     "SourceString": "Refinery Raid",
-    "LocalizedString": ""
+    "LocalizedString": "Рейд на НПЗ"
   },
   {
     "Namespace": "",
     "Key": "330420504A93F9F38C757F97A96D31FA",
     "Hash": 1028115194,
     "SourceString": "Mamma Roach",
-    "LocalizedString": ""
+    "LocalizedString": "Мама Роуч"
   },
   {
     "Namespace": "",
@@ -1180,63 +1180,63 @@
     "Key": "0B6345D64C6BB7EA85E82E99A9B123ED",
     "Hash": 1349206284,
     "SourceString": "Destroy the Refinery's Eather Core.",
-    "LocalizedString": ""
+    "LocalizedString": "Уничтожить эфирное ядро НПЗ."
   },
   {
     "Namespace": "",
     "Key": "D92F7BF1455AFE3F3B7AAE9FA5F6C2A1",
     "Hash": 2024669977,
     "SourceString": "Refinery offline: Report back to Mamma Roach. ",
-    "LocalizedString": ""
+    "LocalizedString": "НПЗ отключен: доложите Маме Роуч. "
   },
   {
     "Namespace": "",
     "Key": "823B32EA400F6D8C9DDF8892CD24D620",
     "Hash": 3632410934,
     "SourceString": "The NFTA Military's main objective in the Zone is to secure and maintain Eather mining and refinement infrastructure.\r\nOur objective is to stop them.\r\n\r\nRecently, NFTA has been working to bring the West Pier Refinery back to working order, implying that they possess a working Eather reification core.\r\n\r\nThese are rare and irreplaceable pieces of pre-threshold equipment; each one we destroy is a permanent death-knell to their regime.\r\n\r\nYour mission: Raid the West Pier Eather Refinery and destroy that core by whatever means necessary!",
-    "LocalizedString": ""
+    "LocalizedString": "Главная цель военных NFTA в Зоне — обеспечить безопасность и поддерживать инфраструктуру добычи и переработки эфира.\r\nНаша цель — остановить их.\r\n\r\nНедавно NFTA работала над восстановлением Западного пирса НПЗ, что подразумевает наличие у них работающего ядра реификации эфира.\r\n\r\nЭто редкое и незаменимое до-пороговое оборудование; каждое уничтоженное нами ядро — это окончательный смертный приговор их режиму.\r\n\r\nВаша миссия: совершить налет на Западный пирс НПЗ и уничтожить это ядро любыми необходимыми средствами!"
   },
   {
     "Namespace": "",
     "Key": "427E64EC44ADED4D5AC03AA090DB49EA",
     "Hash": 2695555638,
     "SourceString": "Buried Treasure",
-    "LocalizedString": ""
+    "LocalizedString": "Зарытое сокровище"
   },
   {
     "Namespace": "",
     "Key": "0BCC1F8A42338656F608658A36B0D601",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
     "Key": "3CF4EF0E46809231D176F48874AC1255",
     "Hash": 1734785888,
     "SourceString": "Retrieve the Broker's lost artifact shipment.",
-    "LocalizedString": ""
+    "LocalizedString": "Вернуть потерянный груз артефактов Брокера."
   },
   {
     "Namespace": "",
     "Key": "4389B7A04E5C12A18E640F87E2A5CCF8",
     "Hash": 1433289489,
     "SourceString": "Another one of my artifact shipments went missing, no sign of the courier in weeks. \r\n\r\nI've known him to shack up in the slums when shit goes south; he has a safe-room in \"The Blue House\".\r\nThis is the center of scav territory. \r\nHe says he has an \"understanding\" with the scavs, but if they knew what he was carrying I'm sure they wouldn't hesitate. \r\n\r\nI don't really care what happened to this idiot; find my artifacts and bring them to me.",
-    "LocalizedString": ""
+    "LocalizedString": "Еще одна моя партия артефактов пропала, от курьера ни слуху ни духу уже несколько недель. \r\n\r\nЯ знаю, что он прячется в трущобах, когда дела идут плохо; у него есть убежище в \"Синем доме\".\r\nЭто центр территории мародеров. \r\nОн говорит, что у него \"понимание\" с мародерами, но если бы они знали, что он несет, я уверен, они бы не колебались. \r\n\r\nМне все равно, что случилось с этим идиотом; найдите мои артефакты и принесите их мне."
   },
   {
     "Namespace": "",
     "Key": "07D467CD42292D6769F6DDA0B6EE767B",
     "Hash": 2253972345,
     "SourceString": "Modial Interaction",
-    "LocalizedString": ""
+    "LocalizedString": "Модальное взаимодействие"
   },
   {
     "Namespace": "",
     "Key": "99663A6E4938F683E7F8E5A76EAC2684",
     "Hash": 673154708,
     "SourceString": "Dr. Mosby",
-    "LocalizedString": ""
+    "LocalizedString": "Доктор Мосби"
   },
   {
     "Namespace": "",
@@ -1250,35 +1250,35 @@
     "Key": "F78C4C2E45394EDBCD9AAC8F84EA80B1",
     "Hash": 2241880588,
     "SourceString": "Install the new Turbo Incabulator in the RG East machine room.",
-    "LocalizedString": ""
+    "LocalizedString": "Установить новый турбоинкабулятор в машинном зале RG East."
   },
   {
     "Namespace": "",
     "Key": "365F5B494DDC731409B80EAE618937D3",
     "Hash": 2506974300,
     "SourceString": "Turbo Incabulator installed: Report back to Dr. Mosby.",
-    "LocalizedString": ""
+    "LocalizedString": "Турбоинкабулятор установлен: доложите Доктору Мосби."
   },
   {
     "Namespace": "",
     "Key": "4D952ED04C484966E2A004BF687976B5",
     "Hash": 3761642086,
     "SourceString": "Currently my laboratory is only working at partial capacity. I need someone to re-install the Turbo Encabulator in RG East.\r\n\r\nA working Encabulator has been left at the entrance from my lab in RG East. Someone needs to bring it to the main machine room and install it into the control socket. ",
-    "LocalizedString": ""
+    "LocalizedString": "В настоящее время моя лаборатория работает лишь частично. Мне нужен кто-то, кто переустановит турбоэнкабулятор в RG East.\r\n\r\nРабочий энкабулятор оставлен у входа из моей лаборатории в RG East. Кто-то должен принести его в главный машинный зал и установить в гнездо управления. "
   },
   {
     "Namespace": "",
     "Key": "D6AAA73A4EA310FFA98209877B0FD7FE",
     "Hash": 59200073,
     "SourceString": "Fan The Flames",
-    "LocalizedString": ""
+    "LocalizedString": "Раздуть пламя"
   },
   {
     "Namespace": "",
     "Key": "D4296B784337304721BDEA92E8DE6FFB",
     "Hash": 1028115194,
     "SourceString": "Mamma Roach",
-    "LocalizedString": ""
+    "LocalizedString": "Мама Роуч"
   },
   {
     "Namespace": "",
@@ -1292,91 +1292,91 @@
     "Key": "34CAB1CD442C2C87CB45E39995D84D94",
     "Hash": 1620155925,
     "SourceString": "Destroy at least 6 Fuel Tanks in GoldWood Forest.\r\n0/6 Fuel Tanks Destroyed. ",
-    "LocalizedString": ""
+    "LocalizedString": "Уничтожить не менее 6 топливных баков в лесу Голдвуд.\r\n0/6 топливных баков уничтожено. "
   },
   {
     "Namespace": "",
     "Key": "441FCCCE44A9D950222B998068E49DE5",
     "Hash": 1674890711,
     "SourceString": "1/6 Fuel Tanks Destroyed. ",
-    "LocalizedString": ""
+    "LocalizedString": "1/6 топливных баков уничтожено. "
   },
   {
     "Namespace": "",
     "Key": "E0842DF7454DC1644BB021B19D087700",
     "Hash": 1981254880,
     "SourceString": "2/6 Fuel Tanks Destroyed. ",
-    "LocalizedString": ""
+    "LocalizedString": "2/6 топливных бака уничтожено. "
   },
   {
     "Namespace": "",
     "Key": "8F57D5B744D354247CF9C5BFDDBFC316",
     "Hash": 2057915405,
     "SourceString": "3/6 Fuel Tanks Destroyed. ",
-    "LocalizedString": ""
+    "LocalizedString": "3/6 топливных бака уничтожено. "
   },
   {
     "Namespace": "",
     "Key": "DBA80E134FE964501FD30AB168D99A7F",
     "Hash": 1569787534,
     "SourceString": "4/6 Fuel Tanks Destroyed. ",
-    "LocalizedString": ""
+    "LocalizedString": "4/6 топливных бака уничтожено. "
   },
   {
     "Namespace": "",
     "Key": "388D3DA84733F26A80467C990D1094EE",
     "Hash": 1362087523,
     "SourceString": "5/6 Fuel Tanks Destroyed. ",
-    "LocalizedString": ""
+    "LocalizedString": "5/6 топливных баков уничтожено. "
   },
   {
     "Namespace": "",
     "Key": "49966CB2438ADC33DCFFEDABE8B369C6",
     "Hash": 42513329,
     "SourceString": "6/6 Fuel Tanks destroyed! Redeem with Mamma Roach.",
-    "LocalizedString": ""
+    "LocalizedString": "6/6 топливных баков уничтожено! Получите вознаграждение у Мамы Роуч."
   },
   {
     "Namespace": "",
     "Key": "0C491CC44986E573FFEBB183D2F4C17D",
     "Hash": 3370550157,
     "SourceString": "The Insurrection has two major fuel reserves hidden in GoldWood Forest. \r\n\r\nSabotaging this supply line could set their plans back by weeks.\r\n\r\nDestroy at least 6 fuel tanks and we'll make it worth your trouble...",
-    "LocalizedString": ""
+    "LocalizedString": "У Повстанцев есть два крупных топливных резерва, спрятанных в лесу Голдвуд. \r\n\r\nСаботаж этой линии снабжения может отбросить их планы на недели назад.\r\n\r\nУничтожьте не менее 6 топливных баков, и мы сделаем так, чтобы ваши усилия окупились..."
   },
   {
     "Namespace": "",
     "Key": "27B10C0244902B48439E7E985F6A2EF0",
     "Hash": 4158951580,
     "SourceString": "Prototype Drill",
-    "LocalizedString": ""
+    "LocalizedString": "Прототип бура"
   },
   {
     "Namespace": "",
     "Key": "731F09544FF6CA68A7C24788D3FD2FBB",
     "Hash": 185717907,
     "SourceString": "Retrieve a Prototype Drill Head for Dr. Mosby.",
-    "LocalizedString": ""
+    "LocalizedString": "Достать прототип головки бура для доктора Мосби."
   },
   {
     "Namespace": "",
     "Key": "98DDD5824883F9F3AACC63A46149C74D",
     "Hash": 762003949,
     "SourceString": "My memory from before the Threshold is fuzzy, but I know for a fact my lab wasn't the only place near Port Rale that was testing prototype drills. \r\n\r\nExplore any other research installations you can pry your way into; find a lead...",
-    "LocalizedString": ""
+    "LocalizedString": "Моя память о временах до Порога туманна, но я точно знаю, что моя лаборатория была не единственным местом возле Порт-Рэйла, где испытывали прототипы буров. \r\n\r\nИсследуйте любые другие исследовательские установки, в которые сможете проникнуть; найдите зацепку..."
   },
   {
     "Namespace": "",
     "Key": "EDAB8C8142B2FF783315A8AF9192A719",
     "Hash": 1423059054,
     "SourceString": "Reverse Order",
-    "LocalizedString": ""
+    "LocalizedString": "Обратный приказ"
   },
   {
     "Namespace": "",
     "Key": "065E4E0B448C6DBD9DE723A52121C5BA",
     "Hash": 673154708,
     "SourceString": "Dr. Mosby",
-    "LocalizedString": ""
+    "LocalizedString": "Доктор Мосби"
   },
   {
     "Namespace": "",
@@ -1390,56 +1390,56 @@
     "Key": "9E9DC64A4AE449CFA3A009A742277352",
     "Hash": 3615834579,
     "SourceString": "Reverse the Eather Drill.",
-    "LocalizedString": ""
+    "LocalizedString": "Реверсировать эфирный бур."
   },
   {
     "Namespace": "",
     "Key": "388FB06449C5F2B5F4071E8FFB11C717",
     "Hash": 812100369,
     "SourceString": "[ATTENTION! This quest will not be completable until a later update!]",
-    "LocalizedString": ""
+    "LocalizedString": "[ВНИМАНИЕ! Этот квест нельзя будет завершить до следующего обновления!]"
   },
   {
     "Namespace": "",
     "Key": "151CC07D4DB765750FEE5BABF7513324",
     "Hash": 2343103028,
     "SourceString": "It doesn't matter how, the Eather Drill must be reversed one way or another. \r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Неважно как, эфирный бур должен быть реверсирован так или иначе. \r\n"
   },
   {
     "Namespace": "",
     "Key": "EF5B7E2448A5AC1F150DD7BC71334753",
     "Hash": 814620115,
     "SourceString": "I've uploaded our experiment results to the public terminal. Use a data tape to load them into a powerful computer to generate the reverse instructions for the drill.\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Я загрузил результаты нашего эксперимента на общедоступный терминал. Используйте ленту с данными, чтобы загрузить их в мощный компьютер для генерации инструкций по реверсу для бура.\r\n"
   },
   {
     "Namespace": "",
     "Key": "29D272D54DE65349E304EC8C2F64947F",
     "Hash": 3303047663,
     "SourceString": "If you can't find a computer powerful enough, you may still be able to reverse the drill manually, but that's incredibly risky...\r\n",
-    "LocalizedString": ""
+    "LocalizedString": "Если вы не можете найти достаточно мощный компьютер, вы все еще можете попытаться реверсировать бур вручную, но это невероятно рискованно...\r\n"
   },
   {
     "Namespace": "",
     "Key": "45A0698148C7C70F96A121A1814FDD53",
     "Hash": 2750442304,
     "SourceString": "Either way, you must get to the drill and reverse it as soon as possible! ",
-    "LocalizedString": ""
+    "LocalizedString": "В любом случае, вы должны добраться до бура и реверсировать его как можно скорее! "
   },
   {
     "Namespace": "",
     "Key": "0D6612ED4D898D463012E2B7C0880E80",
     "Hash": 3275082126,
     "SourceString": "Second Bidder",
-    "LocalizedString": ""
+    "LocalizedString": "Второй претендент"
   },
   {
     "Namespace": "",
     "Key": "9CCA2725414D747622323FBC8AE17ACD",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
@@ -1453,28 +1453,28 @@
     "Key": "5A32EBD64504D4B1D2B418BD7CFD4C35",
     "Hash": 516752583,
     "SourceString": "Deliver the Drill Head to the Broker.",
-    "LocalizedString": ""
+    "LocalizedString": "Доставить головку бура Брокеру."
   },
   {
     "Namespace": "",
     "Key": "6F761D23401B5B0C19339F93EEE7779C",
     "Hash": 1674286573,
     "SourceString": "Secure me that prototype drill-head and I will pay off $2,000,000 of your debts.\r\n\r\n[Warning: Completing this quest will be seen as a betrayal to the Revolution!]",
-    "LocalizedString": ""
+    "LocalizedString": "Достаньте мне эту головку-прототип бура, и я спишу $2,000,000 ваших долгов.\r\n\r\n[Предупреждение: Выполнение этого квеста будет расценено как предательство Революции!]"
   },
   {
     "Namespace": "",
     "Key": "E17EF66C470A70BEA7766F82DF3B7517",
     "Hash": 26335482,
     "SourceString": "Scorched Earth",
-    "LocalizedString": ""
+    "LocalizedString": "Выжженная земля"
   },
   {
     "Namespace": "",
     "Key": "F3061BF74CFE98EC6F09068BAFF3A441",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
@@ -1488,28 +1488,28 @@
     "Key": "C723509B420C38D00C523487C5E680E0",
     "Hash": 3312728051,
     "SourceString": "Retrieve a 'Scorcher' weapon for the Broker.",
-    "LocalizedString": ""
+    "LocalizedString": "Найти оружие 'Выжигатель' для Брокера."
   },
   {
     "Namespace": "",
     "Key": "A69BC4714C20DB2427AE219E1493B56D",
     "Hash": 4175636107,
     "SourceString": "Rumor tells of strange humanoids being spotted wielding Eather-based weapons that shoot twirling bolts of flame.\r\n\r\nBring me back one of these 'Scorcher' guns and I'll make it worth the effort. \r\n\r\nMost recently they've been spotted in some sort of heavy industrial facility off M35...",
-    "LocalizedString": ""
+    "LocalizedString": "Ходят слухи о странных гуманоидах, владеющих оружием на основе эфира, которое стреляет вращающимися огненными болтами.\r\n\r\nПринесите мне один из этих 'Выжигателей', и я сделаю это стоящим усилий. \r\n\r\nПоследний раз их видели на каком-то тяжелом промышленном объекте недалеко от M35..."
   },
   {
     "Namespace": "",
     "Key": "13742A314AF9BC89A09212B27C9D7041",
     "Hash": 1615350696,
     "SourceString": "Guerrilla Warfare",
-    "LocalizedString": ""
+    "LocalizedString": "Партизанская война"
   },
   {
     "Namespace": "",
     "Key": "DE76D051422126FE83426DBA40A0A404",
     "Hash": 1028115194,
     "SourceString": "Mamma Roach",
-    "LocalizedString": ""
+    "LocalizedString": "Мама Роуч"
   },
   {
     "Namespace": "",
@@ -1523,28 +1523,28 @@
     "Key": "12B67C604588BCA6751778861987C0E5",
     "Hash": 2443086264,
     "SourceString": "Assassinate the NFTA Field Officer visiting Dead Bridge.",
-    "LocalizedString": ""
+    "LocalizedString": "Убить полевого офицера NFTA, посетившего Мертвый Мост."
   },
   {
     "Namespace": "",
     "Key": "99ACF8A349DC921609C799AA5BC1A706",
     "Hash": 905243804,
     "SourceString": "Target KIA: Report back to a bounty board.",
-    "LocalizedString": ""
+    "LocalizedString": "Цель уничтожена. Получите вознаграждение за контракт на любой доске объявлений."
   },
   {
     "Namespace": "",
     "Key": "08C453A744C9890B6CE7A3AFA2C23B96",
     "Hash": 2803759914,
     "SourceString": "A high-ranking NFTA field officer is visiting the military checkpoint at Dead Bridge.\r\n\r\nHe's one of their more competent and loyal men, so taking him out will strike a major blow to soldier moral and set back their logistics by weeks.\r\n\r\nYou don't need to be sneaky about this, in fact feel free to make it messy!",
-    "LocalizedString": ""
+    "LocalizedString": "Высокопоставленный полевой офицер NFTA прибывает с визитом на военный блокпост у Мертвого Моста.\r\n\r\n Он один из их самых компетентных и верных людей, так что его устранение нанесет серьезный удар по боевому духу солдат и отбросит их логистику на недели назад.\r\n\r\n Действовать скрытно не обязательно. Напротив, не стесняйся устроить там знатную заварушку!"
   },
   {
     "Namespace": "",
     "Key": "BF5299874EEF4554EC4A728C67405397",
     "Hash": 423623877,
     "SourceString": "Fine Vintage",
-    "LocalizedString": ""
+    "LocalizedString": "Отличное марочное"
   },
   {
     "Namespace": "",
@@ -1558,28 +1558,28 @@
     "Key": "10F63A524578D2286F0D8192956AA030",
     "Hash": 770975330,
     "SourceString": "Collect a rare bottle of Paladin Brandy.",
-    "LocalizedString": ""
+    "LocalizedString": "Добудьте редкую бутылку бренди «Паладин»."
   },
   {
     "Namespace": "",
     "Key": "32802D48433E2D16E539128F703E10B7",
     "Hash": 1849193440,
     "SourceString": "Some old Baron used to live in Port Rale; he was famous for his collection of rare, fine vintage wines.\r\n\r\nA client of mine is particularly keen on a most illusive bottle of Paladin Brandy. He'll be willing to pay very well if one was to procure a sealed bottle.\r\n\r\nDeliver it to the Broker; he will see the rest through. ",
-    "LocalizedString": ""
+    "LocalizedString": "В Порт-Рейле когда-то жил один старый барон, он славился своей коллекцией редких, изысканных марочных вин.\r\n\r\nОдин мой клиент особенно жаждет заполучить неуловимую бутылку бренди «Паладин». Он готов щедро заплатить тому, кто добудет для него запечатанную бутылку.\r\n\r\nДоставьте ее Брокеру, а он позаботится об остальном."
   },
   {
     "Namespace": "",
     "Key": "6BE2AFA046DCF8253A4F0F99C42D7174",
     "Hash": 1407643467,
     "SourceString": "Pump Room",
-    "LocalizedString": ""
+    "LocalizedString": "Насосная"
   },
   {
     "Namespace": "",
     "Key": "D9FAC27348C1DA6E8AAFF9B0032E1251",
     "Hash": 1187360228,
     "SourceString": "The Broker",
-    "LocalizedString": ""
+    "LocalizedString": "Брокер"
   },
   {
     "Namespace": "",
@@ -1593,13 +1593,13 @@
     "Key": "CE1DA5CE452E2835169D4CB072A6D8D8",
     "Hash": 4280091566,
     "SourceString": "Bring Broker a Tape containing Eather infrastructure data.",
-    "LocalizedString": ""
+    "LocalizedString": "Принесите Брокеру кассету с данными об эфирной инфраструктуре."
   },
   {
     "Namespace": "",
     "Key": "24DD641A438635CF4CF329B08E0EF478",
     "Hash": 185616413,
     "SourceString": "A client of mine is looking for p-to-date information about the Eather ground-pump infrastructure around Port Rale.\r\n\r\nThere's an old Standard Eather Co. office in Haldee, might be a good lead on where to find a control station.\r\n\r\nIf you do find a control station, bring back a data tape with whatever you can dig up.",
-    "LocalizedString": ""
+    "LocalizedString": "Один мой клиент ищет актуальную информацию об инфраструктуре эфирных насосов в районе Порт-Рейла.\r\n\r\nВ Халди есть старый офис компании «Стандарт Эфир», это может стать хорошей наводкой на то, где искать станцию управления.\r\n\r\nЕсли найдешь такую станцию, принеси кассету с данными — со всем, что сможешь там раскопать."
   }
 ]

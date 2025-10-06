@@ -4,7 +4,7 @@
     "Key": "88CF586C426CF0AB003B5DB44D269A34",
     "Hash": 2555659477,
     "SourceString": "SQUAD VIEWER",
-    "LocalizedString": ""
+    "LocalizedString": "ПРОСМОТР ОТРЯДА"
   },
   {
     "Namespace": "",
@@ -18,28 +18,28 @@
     "Key": "B1DF2BCB4C999676FD835993E3EFE406",
     "Hash": 2140056844,
     "SourceString": "GIVE $1000",
-    "LocalizedString": ""
+    "LocalizedString": "ДАТЬ $1000"
   },
   {
     "Namespace": "",
     "Key": "29DAB023457F95A545AA22AF143D9BBD",
     "Hash": 2822785959,
     "SourceString": "CONFIRM",
-    "LocalizedString": ""
+    "LocalizedString": "ПОДТВЕРДИТЬ"
   },
   {
     "Namespace": "",
     "Key": "E5C1A4894351CF6C834BD89CAABF3C42",
     "Hash": 1550694582,
     "SourceString": "FREE CAM",
-    "LocalizedString": ""
+    "LocalizedString": "СВОБОДНАЯ КАМЕРА"
   },
   {
     "Namespace": "",
     "Key": "E2A0C97E4619E2257EA041AFB21199B5",
     "Hash": 1534775515,
     "SourceString": "GIVE BASIC GEAR",
-    "LocalizedString": ""
+    "LocalizedString": "ДАТЬ БАЗОВОЕ СНАРЯЖЕНИЕ"
   },
   {
     "Namespace": "",
@@ -53,56 +53,56 @@
     "Key": "58B7E30743AA694024FE11B5C0C89843",
     "Hash": 1421082397,
     "SourceString": "FORWARD TIME",
-    "LocalizedString": ""
+    "LocalizedString": "ПЕРЕМОТАТЬ ВРЕМЯ"
   },
   {
     "Namespace": "",
     "Key": "C48F01A743A93C7EA0C3ACBE20FBBF71",
     "Hash": 3072226293,
     "SourceString": "KILL ALL NPCs",
-    "LocalizedString": ""
+    "LocalizedString": "УБИТЬ ВСЕХ NPC"
   },
   {
     "Namespace": "",
     "Key": "91EE1B2744B656614546DA9AE616F7FA",
     "Hash": 1729239195,
     "SourceString": "TEST MAP",
-    "LocalizedString": ""
+    "LocalizedString": "ТЕСТОВАЯ КАРТА"
   },
   {
     "Namespace": "",
     "Key": "BE9CE1A7480BCA7FFE7180816AF3A7A0",
     "Hash": 1572545594,
     "SourceString": "GIVE STARTING GEAR",
-    "LocalizedString": ""
+    "LocalizedString": "ДАТЬ СТАРТОВОЕ СНАРЯЖЕНИЕ"
   },
   {
     "Namespace": "",
     "Key": "DA61E96F46D98A3F53E75E8B3DFCC92C",
     "Hash": 1948404912,
     "SourceString": "CANCEL",
-    "LocalizedString": ""
+    "LocalizedString": "ОТМЕНА"
   },
   {
     "Namespace": "",
     "Key": "1D69F76D488D736F79E6778471B97AA3",
     "Hash": 2521254185,
     "SourceString": "CONTRACTS",
-    "LocalizedString": ""
+    "LocalizedString": "КОНТРАКТЫ"
   },
   {
     "Namespace": "",
     "Key": "75D45E1042C0E615AABFDFA88BB0C96B",
     "Hash": 1393248818,
     "SourceString": "SET FLAG",
-    "LocalizedString": ""
+    "LocalizedString": "УСТАНОВИТЬ ФЛАГ"
   },
   {
     "Namespace": "",
     "Key": "FDA9EE0741FEA3D102A86A9E5081B784",
     "Hash": 1840595404,
     "SourceString": "SHOW FPS",
-    "LocalizedString": ""
+    "LocalizedString": "ПОКАЗАТЬ FPS"
   },
   {
     "Namespace": "",
@@ -116,42 +116,42 @@
     "Key": "8CE091D7434DFF120E1689AD2779AA11",
     "Hash": 774998359,
     "SourceString": "MAX REP ALL",
-    "LocalizedString": ""
+    "LocalizedString": "МАКС.РЕП У ВСЕХ"
   },
   {
     "Namespace": "",
     "Key": "5F1969B44871F909A8E088B0C1BC0C3F",
     "Hash": 2132207230,
     "SourceString": "EDIT PASSIVES",
-    "LocalizedString": ""
+    "LocalizedString": "РЕДАКТИРОВАТЬ ПАССИВКИ"
   },
   {
     "Namespace": "",
     "Key": "E69F1F6B4F953355A0B6ED992294214F",
     "Hash": 3130363201,
     "SourceString": "CHEAT SHOP",
-    "LocalizedString": ""
+    "LocalizedString": "ЧИТ-МАГАЗИН"
   },
   {
     "Namespace": "",
     "Key": "B77C59D9469FCAC39358D8BFBA97DB25",
     "Hash": 3867694406,
     "SourceString": "TOGGLE WATERMARK",
-    "LocalizedString": ""
+    "LocalizedString": "ПЕРЕКЛЮЧИТЬ ВОДЯНОЙ ЗНАК"
   },
   {
     "Namespace": "",
     "Key": "B64DCDB9486EA51E30F493BF8BBF4BFD",
     "Hash": 509501680,
     "SourceString": "Flag Name",
-    "LocalizedString": ""
+    "LocalizedString": "Имя флага"
   },
   {
     "Namespace": "",
     "Key": "7BBEFC354967BCA1F08448AC2A4D8236",
     "Hash": 2805549248,
     "SourceString": "Flag Value",
-    "LocalizedString": ""
+    "LocalizedString": "Значение флага"
   },
   {
     "Namespace": "",
@@ -179,21 +179,21 @@
     "Key": "E77A7EC841013DC2B945748B0731B8CC",
     "Hash": 2071239458,
     "SourceString": "USING THIS MENU IN ANY WAY\r\nIS CHEATING!\r\n\r\nTHERE IS NO LORE HERE!\r\n\r\nDO NOT REPORT ANY \"BUGS\"\r\nYOU SEE IN THIS MENU!",
-    "LocalizedString": ""
+    "LocalizedString": "ЛЮБОЕ ИСПОЛЬЗОВАНИЕ ЭТОГО МЕНЮ\r\nЯВЛЯЕТСЯ ЧИТЕРСТВОМ!\r\n\r\nЗДЕСЬ НЕТ НИКАКОГО ЛОРА!\r\n\r\nНЕ СООБЩАЙТЕ О \\\"БАГАХ\\\",\r\nКОТОРЫЕ ВЫ ВИДИТЕ В ЭТОМ МЕНЮ!"
   },
   {
     "Namespace": "",
     "Key": "DA9F4712497678120C16D6876B092395",
     "Hash": 2754051535,
     "SourceString": "[ESC TO EXIT]",
-    "LocalizedString": ""
+    "LocalizedString": "[ESC ДЛЯ ВЫХОДА]"
   },
   {
     "Namespace": "",
     "Key": "4E7D03084EB1D011472ACB86FCF170C3",
     "Hash": 1396452044,
     "SourceString": "FLAGS:",
-    "LocalizedString": ""
+    "LocalizedString": "ФЛАГИ:"
   },
   {
     "Namespace": "",
@@ -207,6 +207,6 @@
     "Key": "5D099DB540DF276BE7B170963B098B10",
     "Hash": 4265884649,
     "SourceString": "PASSIVES",
-    "LocalizedString": ""
+    "LocalizedString": "ПАССИВНЫЕ НАВЫКИ"
   }
 ]

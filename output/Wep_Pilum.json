@@ -4,13 +4,13 @@
     "Key": "EC6B73A34502884AA76A9EA06087442E",
     "Hash": 625270558,
     "SourceString": "Full Auto 50 caliber mini-cannon.",
-    "LocalizedString": ""
+    "LocalizedString": "Автоматическая мини-пушка 50 калибра."
   },
   {
     "Namespace": "",
     "Key": "6BEF742C4A6D7A1F70AD01A94354B9C1",
     "Hash": 3007135672,
     "SourceString": "Press :WepToggle: to toggle on and off you Laser.",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить лазер."
   }
 ]

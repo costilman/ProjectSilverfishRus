@@ -25,13 +25,13 @@
     "Key": "95577A024C031AAD3E3785B1D5C4CA45",
     "Hash": 3827769218,
     "SourceString": "Lone Wolf Saloon",
-    "LocalizedString": ""
+    "LocalizedString": "Салун «Одинокий волк»"
   },
   {
     "Namespace": "",
     "Key": "5BB500974CE908C02ACDE59AEA99CA59",
     "Hash": 2208626745,
     "SourceString": "Raven's Shop",
-    "LocalizedString": ""
+    "LocalizedString": "Магазин Ворона"
   }
 ]

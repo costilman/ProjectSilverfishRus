@@ -4,13 +4,13 @@
     "Key": "0AF93783486D3191FCBE258624DB693A",
     "Hash": 2944489367,
     "SourceString": "9mm Carbine with stock removed. Equipped with a tac light and suppressor. ",
-    "LocalizedString": ""
+    "LocalizedString": "9-мм карабин со снятым прикладом. Оснащен тактическим фонарем и глушителем."
   },
   {
     "Namespace": "",
     "Key": "81F857124B6ED4F2F5204982B42F224A",
     "Hash": 1939585557,
     "SourceString": "Press :WepToggle: to toggle on and off your Tac Light.",
-    "LocalizedString": ""
+    "LocalizedString": "Нажмите :WepToggle:, чтобы включить или выключить тактический фонарь."
   }
 ]
