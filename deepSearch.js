@@ -1,8 +1,8 @@
-const fs = require('fs')
+const fs = require('node:fs')
 const path = require('path')
+const cliProgress = require('cli-progress');
 
-function to_uint32(n)
-{
+function to_uint32(n){
     return n >>> 0;
 }
 
@@ -115,14 +115,24 @@ const recursiveSearch = function (json, predicate) {
   return objects;
 }
 
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
+
 const deepSearch = async function (folderPath, outputFolder, endOfLine) {
+  const progressBar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
+  
   const files = await getFiles(path.join(__dirname, `./${folderPath}`))
   
-  files.forEach(async (file, idx) => {
+  progressBar.start(files.length, 0);
+  
+  const globalUniqMap = {}
+
+  for (let idx = 0; idx < files.length; idx++) {
+    const file = files[idx]
     try {
+      const fileData = await fs.promises.readFile(file, 'utf8')
       const fileName = `${file.split('\\').reverse()[0].split('.')[0]}`
-      const json = JSON.parse(await fs.readFileSync(file, 'utf8'))
-      const res = recursiveSearch(json, obj => obj.Key !== undefined && obj.SourceString !== undefined).map(obj => {
+      const json = JSON.parse(fileData)
+      const parsedData = recursiveSearch(json, obj => obj.Key !== undefined && obj.SourceString !== undefined).map(obj => {
         return {
           Namespace: obj['Namespace'],
           Key: obj['Key'],
@@ -132,30 +142,58 @@ const deepSearch = async function (folderPath, outputFolder, endOfLine) {
         }
       });
 
-      // remove duplicates
-      const uniqMap = {}
+      const localUniqMap = {}
 
-      res.forEach(obj => {
-        uniqMap[`${obj.Namespace}/${obj.Key}/${obj.Hash}`] = obj
+      parsedData.forEach(obj => {
+        if (!globalUniqMap[`${obj.Namespace}/${obj.Key}/${obj.Hash}`]) {
+          localUniqMap[`${obj.Namespace}/${obj.Key}/${obj.Hash}`] = obj
+          globalUniqMap[`${obj.Namespace}/${obj.Key}/${obj.Hash}`] = obj
+        }
       })
 
-      const uniqMapValues = Object.values(uniqMap)
+      const uniqMapValues = Object.values(localUniqMap)
 
       if (uniqMapValues.length) {
-        fs.writeFile(`./${outputFolder}/${fileName}.json`, JSON.stringify(uniqMapValues, null, 2), 'utf8', (err) => {
-          if (err) throw err
-        });
-        console.log(`complete deepSearch in ${file}`)
+        await fs.promises.writeFile(`./${outputFolder}/${fileName}.json`, JSON.stringify(uniqMapValues, null, 2), 'utf8');
       }
     } catch (err) {
-      console.log(file)
+      console.error('Error writing file:', err);
     }
-  })
+    progressBar.update(idx + 1);
+  }
+
+  progressBar.stop();
+}
+
+const moveInAllFilesInDir = async function(from, to) {
+  const progressBar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
+  
+  const files = await getFiles(path.join(__dirname, `./${from}`))
+  
+  progressBar.start(files.length, 0);
+  
+  for (let idx = 0; idx < files.length; idx++) {
+    try {
+      const file = files[idx]
+      const fileName = `${file.split('\\').reverse()[0].split('.')[0]}`
+      const fileExtension = `${file.split('\\').reverse()[0].split('.')[1]}`
+      await fs.promises.rename(file, `./${to}/${fileName}.${fileExtension}`, function (err) {
+        if (err) throw err
+      })
+    } catch (err) {
+      console.error('Error writing file:', err);
+    }
+    progressBar.update(idx + 1);
+  }
+
+  progressBar.stop();
 }
 
 
 const main = async function () {
-  await deepSearch('SilverFishJsonFiles', 'output_new', 'lf')
+  // await moveInAllFilesInDir('SilverFishJsonFiles/SilverFish', 'SilverFishJsonFiles')
+  // await deepSearch('SilverFishJsonFiles', 'output_new', 'lf')
+  // await deepSearch('test', 'output_new', 'lf')
 }
 
 main()
