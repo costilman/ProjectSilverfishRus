@@ -9,8 +9,8 @@
   {
     "Namespace": "",
     "Key": "4297FBE14833AF63753D2F87D9BEB770",
-    "Hash": 743617698,
-    "SourceString": "Request a squad of Freelancer mercs to follow you in this area. ",
+    "Hash": 2730284733,
+    "SourceString": "Request a squad of Freelancer mercs to follow and assist you.",
     "LocalizedString": ""
   },
   {
@@ -30,15 +30,15 @@
   {
     "Namespace": "",
     "Key": "7E16F02B4DC78D5547BC20B5C1347A02",
-    "Hash": 319446943,
-    "SourceString": "I need some reinforcements!",
+    "Hash": 1211863830,
+    "SourceString": "I need an escort squad.",
     "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "08E89C224E8194EC5BBF38B31B213A30",
-    "Hash": 3322639206,
-    "SourceString": "Request a squad of Revolutionaries to support you in this area.",
+    "Hash": 3172182638,
+    "SourceString": "Request a squad of Revolutionaries to follow and assist you.",
     "LocalizedString": ""
   },
   {

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "C7C8F13A43D1795FE2440299F642EAEA",
+    "Hash": 2622144307,
+    "SourceString": "Tactical variant of the DRAK-V 57 Fitted with Night-Vis Scope.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F72ADB884072B3BDE86BC1B194F37157",
+    "Hash": 4082483807,
+    "SourceString": "Press :WepToggle: to toggle Night-Vision Scope.",
+    "LocalizedString": "Нажмите :WepToggle: для включения/выключения прицела ночного видения."
+  }
+]

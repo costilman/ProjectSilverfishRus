@@ -68,5 +68,19 @@
     "Hash": 2682956532,
     "SourceString": "Neutral",
     "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FE6E01F74FA61CFBFC1EE8B1BBED78A9",
+    "Hash": 3607000239,
+    "SourceString": "Magpie",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CC6634BA4351B3390D49D4830856BC24",
+    "Hash": 433628370,
+    "SourceString": "Big Iron",
+    "LocalizedString": ""
   }
 ]

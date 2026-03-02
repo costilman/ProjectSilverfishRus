@@ -1,6 +1,13 @@
 [
   {
     "Namespace": "",
+    "Key": "DA0F698D40E7F88C98FA72BB9E2C67DE",
+    "Hash": 3406914444,
+    "SourceString": "Job Board",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "46D96A4745D8E2B2A8B53D929DE6CDAA",
     "Hash": 4032171384,
     "SourceString": "EXIT",

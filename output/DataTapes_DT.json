@@ -324,9 +324,9 @@
   {
     "Namespace": "",
     "Key": "69C508864D4D120E2F292D8C5749D606",
-    "Hash": 3460082353,
-    "SourceString": "It is clear now that Dr. Mosby's fears were founded.",
-    "LocalizedString": "Теперь ясно, что опасения Доктора Мосби были обоснованы."
+    "Hash": 3712984719,
+    "SourceString": "It is clear now that Dr. Mosby's fears were not unfounded.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -446,5 +446,124 @@
     "Hash": 175805510,
     "SourceString": "Trns Depot 06:",
     "LocalizedString": "Транспортное депо 06:"
+  },
+  {
+    "Namespace": "",
+    "Key": "D852D1FD4E1206952C7FEBB4CAFD7B00",
+    "Hash": 496824039,
+    "SourceString": "NFTA PSA",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2DCDF76141122F456549C8901E9102A7",
+    "Hash": 3744703999,
+    "SourceString": "Citizens of Port Rale",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C984157B4B2236878F2FFA9E51EEDE2C",
+    "Hash": 2522619986,
+    "SourceString": "!!! ATTENTION !!!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C3EE77E94DA7FCF64EBB7CB9C3BA2947",
+    "Hash": 2554826172,
+    "SourceString": "You are safe!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5C9C93034E82338B4E436D90E0D62748",
+    "Hash": 186034835,
+    "SourceString": "There is no cause for alarm!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "11E5573245D53DF4FAEBE6BF964E8EEF",
+    "Hash": 2106350900,
+    "SourceString": "Return to your homes!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C5458B4942CCEB156235F2BA9DB093E3",
+    "Hash": 1569604709,
+    "SourceString": "!!! DO NOT EVACUATE THE CITY !!!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C26AA96A4F47B5E38BC933AE857C47EE",
+    "Hash": 3774209108,
+    "SourceString": "In the night sky.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A15815BE446EA3124066B0B66D4F128A",
+    "Hash": 3715813242,
+    "SourceString": "THERE IS NO DANGER",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "835461284EFD08C4ACD7CAA9C301D856",
+    "Hash": 3982173977,
+    "SourceString": "Return to your work.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "953580B24AB71BCA3197B69647730C61",
+    "Hash": 2468177840,
+    "SourceString": "DO NOT EVACUATE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C1CF2AB54854AA0DF136F481713DF0B3",
+    "Hash": 3872914273,
+    "SourceString": "It is better to die as a patriot-",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7B4E94DC4A546F24C8804F8CC7B5049A",
+    "Hash": 2698236801,
+    "SourceString": "WEST CARCOSA IS SAFE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FD59A28445A5B52D155DA2A0B406CA23",
+    "Hash": 473557145,
+    "SourceString": "Than to live as a coward.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CB96EFE5444AAF62A9C80481121E363C",
+    "Hash": 704121974,
+    "SourceString": "THE WEST STANDS UNITED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A84944FC4E41A2B46C8EF3B1F2250D1D",
+    "Hash": 2671957047,
+    "SourceString": "IN POLARIS WE TRUST",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "051877B34C9C6CF3B06AB1A8D06347E8",
+    "Hash": 4079736632,
+    "SourceString": "No quarter for treason.",
+    "LocalizedString": ""
   }
 ]

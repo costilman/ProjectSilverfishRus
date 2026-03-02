@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "5CBF35414138C8E60ECCA19474ABEDFD",
+    "Hash": 3855022530,
+    "SourceString": "PROCEED",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AD56ABAA48406F4CFC25B4A2ADD75A36",
+    "Hash": 1067696512,
+    "SourceString": "Inventory Controls;Left Click: Take/Place Item\r\n\r\nRight Click: Item Context Menu\r\n\r\nMiddle Click: Split Item Stack\r\n\r\nShift+Left Click: Quick Use/Transfer Item\r\n\r\nCtrl+Left Click: Stash Item\r\n\r\nCtrl+Middle Click: Stash Half of Stack",
+    "LocalizedString": "Управление инвентарём;ЛКМ: Взять/положить предмет\r\n\r\nПКМ: Контекстное меню предмета\r\n\r\nСКМ: Разделить стопку\r\n\r\nShift+ЛКМ: Быстрое использование/перемещение\r\n\r\nCtrl+ЛКМ: Положить в тайник\r\n\r\nCtrl+СКМ: Положить в тайник половину стопки"
+  },
+  {
+    "Namespace": "",
+    "Key": "9C30A4EE40685E0E8C1B8EAB5084E19B",
+    "Hash": 4143384732,
+    "SourceString": "LOOSE ITEMS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2810F548417DB16DCCD948BAF716D2E2",
+    "Hash": 890702992,
+    "SourceString": "ITEMS FOUND IN TRANSITION AREA",
+    "LocalizedString": ""
+  }
+]

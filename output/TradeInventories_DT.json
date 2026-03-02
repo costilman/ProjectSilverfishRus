@@ -1,20 +1,6 @@
 [
   {
     "Namespace": "",
-    "Key": "327E59D24ED93AF7252FA0B59958754A",
-    "Hash": 1898187111,
-    "SourceString": "TRADE",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "14A6DD34485D9449DD7E098544B2718D",
-    "Hash": 1898187111,
-    "SourceString": "TRADE",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "68DDB96344FB3C30F0D4A28F88E167F0",
     "Hash": 1619391898,
     "SourceString": "Lab E-206 Research Database",
@@ -32,6 +18,13 @@
     "Key": "A6BB0D984C1CDAD279E3D1AB6EDD134C",
     "Hash": 661546122,
     "SourceString": "Trade",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0EBCA86D49C3CBA63DBEF4AD9F5D1873",
+    "Hash": 1500788747,
+    "SourceString": "FRIEND",
     "LocalizedString": ""
   },
   {
@@ -148,6 +141,20 @@
   },
   {
     "Namespace": "",
+    "Key": "075F93A54EF62986B75BD28B18F95339",
+    "Hash": 3659936598,
+    "SourceString": "CRAFT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36F6A11D44A4C70B1DB40E81208BAF59",
+    "Hash": 3659936598,
+    "SourceString": "CRAFT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "59D488B947EDB84612076E83B6C4ACBF",
     "Hash": 3659936598,
     "SourceString": "CRAFT",
@@ -246,6 +253,13 @@
   },
   {
     "Namespace": "",
+    "Key": "AC72190044E87C7665B3E98BCECC1C6F",
+    "Hash": 3659936598,
+    "SourceString": "CRAFT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "4BD9C8E94352C99A1A1EE3B3FDE30072",
     "Hash": 2666595819,
     "SourceString": "GUNSMITH",
@@ -254,6 +268,13 @@
   {
     "Namespace": "",
     "Key": "9B1D71A94B4E7B6C628B228760CA9BCA",
+    "Hash": 2568690077,
+    "SourceString": "UPGRADE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "01C78C1B425B2CDF93E7BB88CA343A39",
     "Hash": 2568690077,
     "SourceString": "UPGRADE",
     "LocalizedString": ""

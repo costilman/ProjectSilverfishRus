@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "61AF323547A73F187DDAF8A842B431B8",
+    "Hash": 2407231864,
+    "SourceString": "AnyTime",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D15DDD07442005CC298D128D359A7D85",
+    "Hash": 2578444990,
+    "SourceString": "OnlyDay",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "48D4A2064489C093816F03890A6EB19D",
+    "Hash": 1201625856,
+    "SourceString": "OnlyNight",
+    "LocalizedString": ""
+  }
+]

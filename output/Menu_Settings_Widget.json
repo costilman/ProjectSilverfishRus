@@ -29,10 +29,45 @@
   },
   {
     "Namespace": "",
+    "Key": "C0081E224C9D73E5E610F7AE43A241AB",
+    "Hash": 3404369581,
+    "SourceString": "MUSIC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EA95D8164DD291C7031A1CB52A546B5C",
+    "Hash": 595044389,
+    "SourceString": "Add custom music for in-game radios to play.\r\n\r\n[.wav files only]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD1F14774A95EE423B1E13A1079F5B81",
+    "Hash": 1017314594,
+    "SourceString": "VIDEO",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9B2219FE4E5FDCF9303F938450F3B0E7",
+    "Hash": 4192678597,
+    "SourceString": "Add custom video for in-game TVs to play.\r\n\r\n[.mov and .mp4 files only]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "7475697443106A934DC2EFBB7C0CE20A",
     "Hash": 347257845,
     "SourceString": "GAMEPLAY",
     "LocalizedString": "ИГРОВОЙ ПРОЦЕСС"
+  },
+  {
+    "Namespace": "",
+    "Key": "398FADD74CA4876DCBBB4AAD3E7888E5",
+    "Hash": 3479397254,
+    "SourceString": "ACCESSIBILITY",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -78,6 +113,13 @@
   },
   {
     "Namespace": "",
+    "Key": "5E084A84498E81160F41C1B7B39753F8",
+    "Hash": 151674185,
+    "SourceString": "If Enabled: The primary fire button can be held down to continuously fire semi-automatic and burst fire weapons.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "AC1865534E9F6BFF33B4C688CC28320C",
     "Hash": 3141199670,
     "SourceString": "Enables Volumetric Fog.\r\n\r\nNOTICE: This feature is experimental and may cause minor visual bugs in some locations.\r\n\r\nThis setting is turned off by default as it can be very resource intensive on older hardware.",
@@ -96,6 +138,48 @@
     "Hash": 100071944,
     "SourceString": "Enables Virtual Shadow Maps: \r\nCreates sharper, more detailed real-time shadows.\r\n\r\nNOTICE: This feature is experimental and may cause poor performance, especially in proximity to dense foliage. These issues may vary with hardware.",
     "LocalizedString": "Включает виртуальные карты теней: \r\nСоздаёт более чёткие и детализированные тени в реальном времени.\r\n\r\nВНИМАНИЕ: Эта функция экспериментальная и может вызывать низкую производительность, особенно вблизи густой растительности. Эти проблемы могут различаться в зависимости от оборудования."
+  },
+  {
+    "Namespace": "",
+    "Key": "C814988446420D7E56D64D9531BF1B1B",
+    "Hash": 2647183231,
+    "SourceString": "If Enabled: Road flares will emit white light instead of red in order to better assist those who are color-blind.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6471E2074F6A8F72924BAEABB79B11BB",
+    "Hash": 3624928313,
+    "SourceString": "Hold",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "90B229974DD19087A3DD479B13C274CC",
+    "Hash": 3542422395,
+    "SourceString": "Toggle",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "90E8EF9C4068C2A2E317FE9384623B3D",
+    "Hash": 2602279653,
+    "SourceString": "Auto",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A2CC328B4BD4E0A21E86D8BFBB1379FC",
+    "Hash": 3280059324,
+    "SourceString": "Aim Behavior:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E5E6588D46A84B5E2DCB78BB31A5D605",
+    "Hash": 2250984817,
+    "SourceString": "Hold: Aim as long as the button is held.\r\n\r\nToggle: Tap the button to toggle the Aiming state.\r\n\r\nAuto: Tap the button for toggle behavior. Hold the button down for hold behavior.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -187,6 +271,20 @@
     "Hash": 3017932984,
     "SourceString": "OFF: Deactivates Anti-Aliasing entirely. \r\n\r\nFXAA: A fast but low fidelity approximation. \r\n\r\nTAA: Standard method for UE5.\r\n\r\nTSR: Uses Upscaling instead of Anti-Aliasing. Recommended that you use a lower AA Quality level, especially on resolutions above 1080.",
     "LocalizedString": "ВЫКЛ: Полностью отключает сглаживание. \r\n\r\nFXAA: Быстрый, но низкокачественный метод. \r\n\r\nTAA: Стандартный метод для UE5.\r\n\r\nTSR: Использует масштабирование вместо сглаживания. Рекомендуется использовать более низкий уровень качества сглаживания, особенно при разрешении выше 1080."
+  },
+  {
+    "Namespace": "",
+    "Key": "0DD05DCD48636B6F1C896B92C3E8EA76",
+    "Hash": 1447288719,
+    "SourceString": "Crouch Behavior:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "445D925342B932DA73388BB70A00E886",
+    "Hash": 2275607797,
+    "SourceString": "Hold: Crouch as long as the button is held.\r\n\r\nToggle: Tap the button to toggle the crouching state.\r\n\r\nAuto: Tap the button for toggle behavior. Hold the button down for hold behavior.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -344,6 +442,20 @@
   },
   {
     "Namespace": "",
+    "Key": "97876B504223A337A8B70C8B19D8AABB",
+    "Hash": 774851901,
+    "SourceString": "Lean Behavior:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "16BEA1D243BF349E5619D09BBB842352",
+    "Hash": 521538820,
+    "SourceString": "Hold: Lean as long as the button is held.\r\n\r\nToggle: Tap the button to toggle the Leaning state.\r\n\r\nAuto: Tap the button for toggle behavior. Hold the button down for hold behavior.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "95BD65DD41E22C0F300AD68E617E3902",
     "Hash": 3906722628,
     "SourceString": "LOW",
@@ -422,23 +534,30 @@
   {
     "Namespace": "",
     "Key": "82BB37634CCD416FBC0BF1B1A7BBF0CD",
-    "Hash": 926731589,
-    "SourceString": "Normal",
-    "LocalizedString": "Обычный"
+    "Hash": 940523119,
+    "SourceString": "Default",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "34E642424B1CF5C643631A9F8E78D6C6",
-    "Hash": 92186970,
-    "SourceString": "Hidden",
-    "LocalizedString": "Скрытый"
+    "Hash": 3764575808,
+    "SourceString": "Always Visible",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "447737644CC21713CB2D4782EF5B3F9C",
-    "Hash": 1855793715,
-    "SourceString": "Always Show",
-    "LocalizedString": "Показывать всегда"
+    "Hash": 2848646374,
+    "SourceString": "Never Visible",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A11EF3C443602DDCDF765DAD64005B32",
+    "Hash": 551405103,
+    "SourceString": "Interaction Only",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -450,9 +569,9 @@
   {
     "Namespace": "",
     "Key": "8A8D3F2B441840C51F91D8A794634D2F",
-    "Hash": 3552916745,
-    "SourceString": "Normal: Reticle will appear when you are looking at an up close surface.\r\n\r\nHidden: Reticle will always be hidden.\r\n\r\nAlways Show: Reticle will always be visible, however it will not account for weapon sway or recoil when firing from the hip.",
-    "LocalizedString": "Обычный: Прицел появляется, когда вы смотрите на близкую поверхность.\r\n\r\nСкрытый: Прицел всегда будет скрыт.\r\n\r\nПоказывать всегда: Прицел всегда будет виден, однако он не будет учитывать качание оружия или отдачу при стрельбе от бедра."
+    "Hash": 605511815,
+    "SourceString": "Default: Reticle will appear when you are looking at an up close surface.\r\n\r\nAlways Visible: Reticle will always be visible, however it will not account for weapon sway or recoil when firing from the hip.\r\n\r\nNever Visible: Reticle will always be hidden.\r\n\r\nInteraction Only: Reticle will always be hidden but the interaction indicator will still appear.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -530,6 +649,20 @@
     "Hash": 1382218861,
     "SourceString": "Lowering this setting can greatly improve performance on some hardware!",
     "LocalizedString": "Снижение этой настройки может значительно улучшить производительность на некотором оборудовании!"
+  },
+  {
+    "Namespace": "",
+    "Key": "4D504725497E972300D7999AEE610218",
+    "Hash": 3171326962,
+    "SourceString": "Sprint Behavior:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2474C3FE43FDB236BECF968327588993",
+    "Hash": 3460561880,
+    "SourceString": "Hold: Sprint as long as the button is held.\r\n\r\nToggle: Tap the button to toggle the Sprinting state.\r\n\r\nAuto: Tap the button for toggle behavior. Hold the button down for hold behavior.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -709,8 +842,8 @@
   {
     "Namespace": "",
     "Key": "9D3465F440164966E710E8B19385CC05",
-    "Hash": 2392500918,
-    "SourceString": "ADS Sensitivity:",
+    "Hash": 2822595285,
+    "SourceString": "Aim Sensitivity:",
     "LocalizedString": ""
   },
   {
@@ -726,6 +859,20 @@
     "Hash": 1740849452,
     "SourceString": "MOUSE SENSITIVITY:",
     "LocalizedString": "ЧУВСТВИТЕЛЬНОСТЬ МЫШИ:"
+  },
+  {
+    "Namespace": "",
+    "Key": "25B8858F41E5E988944B0187F62F8E4B",
+    "Hash": 335815501,
+    "SourceString": "Strafe Lean Amount:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3DA492AF44C73EE606E2B58846E0343C",
+    "Hash": 938811603,
+    "SourceString": "Adjusts amount of camera roll when the character moves sideways. ",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -792,6 +939,13 @@
   },
   {
     "Namespace": "",
+    "Key": "BC350BF444E6431B9A2C398040F637E8",
+    "Hash": 840308806,
+    "SourceString": "Radio VOL:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "801222544D0EFA7CBB4D39B75581ECD7",
     "Hash": 1655685530,
     "SourceString": "EFFECTS VOL:",
@@ -841,6 +995,13 @@
   },
   {
     "Namespace": "",
+    "Key": "17F052EE484EF4EE48DC77ADE5217F0F",
+    "Hash": 1806565855,
+    "SourceString": "HIGHLIGHT NEW ITEMS:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "EF2876D04CBAA5CEC1C0C28D0C05783E",
     "Hash": 316376657,
     "SourceString": "INVERT Y AXIS:",
@@ -862,24 +1023,24 @@
   },
   {
     "Namespace": "",
-    "Key": "F66DE16343961CD1B22E629292809572",
-    "Hash": 3842650881,
-    "SourceString": "TOGGLE CROUCH:",
-    "LocalizedString": "ПРИСЕДАНИЕ (ПЕРЕКЛ.):"
+    "Key": "22EAA49D4837E451041E82BDF9E77CFB",
+    "Hash": 1003588469,
+    "SourceString": "SEMI-AUTO ASSIST:",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
-    "Key": "D7C3684C4EE2732CA3855CB34949CB5A",
-    "Hash": 3747457800,
-    "SourceString": "TOGGLE AIMING:",
-    "LocalizedString": "ПРИЦЕЛИВАНИЕ (ПЕРЕКЛ.):"
+    "Key": "0D7DC8BF489F03B88276718E1AAADD5C",
+    "Hash": 3252968235,
+    "SourceString": "CUSTOM MEDIA FOLDERS:",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
-    "Key": "BF4D4BC542808B3F5366478C3937856B",
-    "Hash": 2236042122,
-    "SourceString": "TOGGLE SPRINT:",
-    "LocalizedString": "БЕГ (ПЕРЕКЛ.):"
+    "Key": "A7998B1A4816C0260B1BAFAF4A876612",
+    "Hash": 445194674,
+    "SourceString": "WHITE FLARES:",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",

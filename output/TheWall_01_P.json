@@ -1,9 +1,156 @@
 [
   {
     "Namespace": "",
+    "Key": "A058878C4198AFF04B5967A6FE2A5122",
+    "Hash": 1462008965,
+    "SourceString": "D501",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "70EA432948680C16EDE6D6B51A0F8694",
+    "Hash": 1167184747,
+    "SourceString": "D502",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "239A279C47FE330BA2E89DACB5E20802",
+    "Hash": 4247630862,
+    "SourceString": "D503",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D1DD5DB0456FBEA2D1BAB68311DB54E9",
+    "Hash": 1627032759,
+    "SourceString": "D504",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "786CF7F34F60227E15224A92ACFDE171",
+    "Hash": 3628526546,
+    "SourceString": "D505",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A625E9F54BD845499ABC55AE9E2F675A",
+    "Hash": 2976571979,
+    "SourceString": "Annex",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8528DD33419AC74F55FA1D84B022A3B3",
+    "Hash": 2400563123,
+    "SourceString": "C-303",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "294B94774374A4D270F0B689FE823DD4",
+    "Hash": 2936717254,
+    "SourceString": "C-602",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1725D3A64E2F9CCDEB081987B37A2491",
+    "Hash": 933873878,
+    "SourceString": "C-302",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "68673DFD4B319D6E37A9BFAF7857433A",
+    "Hash": 622618424,
+    "SourceString": "C-301",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D567553F45FD6F1A7E330FBB40D2DB77",
+    "Hash": 3199806295,
+    "SourceString": "C-201",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ACFBE6F94B48F80E8124FB99954AFEE0",
+    "Hash": 2886501561,
+    "SourceString": "C-202",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E12A352E499721D351F10CBDE7A6106D",
+    "Hash": 347136988,
+    "SourceString": "C-203",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A4CD5EBD44704F4AA0AC929F1CE2E63A",
+    "Hash": 3183415336,
+    "SourceString": "C-601",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "1B3CCDC940C89C0F4FFB17B2061BFCA7",
-    "Hash": 3523717020,
-    "SourceString": "Greywater Marsh",
+    "Hash": 216388679,
+    "SourceString": "The Wall",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9FEFFB184382322E7FBF9193C72935EE",
+    "Hash": 1409882929,
+    "SourceString": "SERVER HALL 03",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CB24FB48467161CB5E6E30811C16B9BD",
+    "Hash": 3585057020,
+    "SourceString": "Utilities K-04",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "00BAD2754F9E6FF2BD18149CAD8A4974",
+    "Hash": 2180533264,
+    "SourceString": "Control Tower",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BE4A805A4608E2FE3DA0A395695B15F2",
+    "Hash": 4107716431,
+    "SourceString": "Dispatch HALL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DD91BB8F4BFC337709065982F738EADE",
+    "Hash": 854571590,
+    "SourceString": "Terminal: Dispatch",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9D53519F40CC01A22FBE82B488DA24CB",
+    "Hash": 139780308,
+    "SourceString": "Terminal: Control Tower",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EF13164E4BD036FC28406A8A9EC81A32",
+    "Hash": 4187437668,
+    "SourceString": "Terminal: Server Hall 03",
     "LocalizedString": ""
   }
 ]

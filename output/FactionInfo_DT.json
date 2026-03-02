@@ -68,5 +68,19 @@
     "Hash": 877166412,
     "SourceString": "Often seen wearing blue and grey uniforms.",
     "LocalizedString": "Часто носят сине-серую униформу."
+  },
+  {
+    "Namespace": "",
+    "Key": "DED7C2854035908996B85BBEA97956B4",
+    "Hash": 40917586,
+    "SourceString": "Scavengers",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E0DC36014AEB684FF09E63A091DFD7E1",
+    "Hash": 2927741061,
+    "SourceString": "Often seen scavenging dungeons, wearing black and grey camo.",
+    "LocalizedString": ""
   }
 ]

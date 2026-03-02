@@ -5,5 +5,12 @@
     "Hash": 926289184,
     "SourceString": "A small tool knife. Sharp but very short reach...",
     "LocalizedString": "Маленький складной нож. Острый, но очень короткий..."
+  },
+  {
+    "Namespace": "",
+    "Key": "FDF1312345C526A9E1B989AB02B9EC81",
+    "Hash": 2172229355,
+    "SourceString": "Tap :WepToggle: to harvest dead bodies.",
+    "LocalizedString": ""
   }
 ]

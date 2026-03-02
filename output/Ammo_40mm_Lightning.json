@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "ADCDEAC24E6AD5F1F9D223B9857DA7A3",
+    "Hash": 2607246984,
+    "SourceString": "Shoot into open air to deploy bright parachute flare, illuminating a wide area.\r\n\r\nDo not fire indoors or at ground/structures! ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4C1D16C348EDEFF712CAF2831C9B1BE7",
+    "Hash": 3463824463,
+    "SourceString": "While weapon is equipped, hold the Reload key to select ammo type.",
+    "LocalizedString": "Когда оружие в руках, удерживайте клавишу перезарядки для выбора типа патронов."
+  }
+]

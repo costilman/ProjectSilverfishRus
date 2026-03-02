@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "6BA50C8E482FEAEFD1419AA77AAE8D4E",
+    "Hash": 940523119,
+    "SourceString": "Default",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2C37137D4A11E08FA1CF04A8F6581FA6",
+    "Hash": 3554482828,
+    "SourceString": "AlwaysVisible",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F3B746BF4EE948B147DF969E45D889FF",
+    "Hash": 1077083405,
+    "SourceString": "NeverVisible",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E7F418E45B6B71F3F7BAD84DA20EA98",
+    "Hash": 1394746742,
+    "SourceString": "InteractionOnly",
+    "LocalizedString": ""
+  }
+]

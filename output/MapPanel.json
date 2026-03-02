@@ -106,10 +106,52 @@
   },
   {
     "Namespace": "",
+    "Key": "9652A21440087874C6E89FBB782E7FEE",
+    "Hash": 3236134547,
+    "SourceString": "GreenLine",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A6C9612840F084C28C09459CFEDB0F4F",
+    "Hash": 2564986820,
+    "SourceString": "Factory",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "624501E244AC778E87095CAD732BDB5D",
     "Hash": 1555242097,
     "SourceString": "subway",
     "LocalizedString": "Метро"
+  },
+  {
+    "Namespace": "",
+    "Key": "62E0BC9847AA1C326A20BE9768AA1E4D",
+    "Hash": 2247728909,
+    "SourceString": "THE WALL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5126195C443AE7C10F1FC98A2854DD73",
+    "Hash": 4127280745,
+    "SourceString": "Pine Ridge",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7FDA2FA0445FA6D8E8D128B636CC4AE3",
+    "Hash": 939645742,
+    "SourceString": "Quarry",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CB8794F64CBF0CBA0FBB499888408944",
+    "Hash": 2976571979,
+    "SourceString": "Annex",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -173,6 +215,41 @@
     "Hash": 2383410434,
     "SourceString": "The Borough\r\n\r\n-Mamma Roach\r\n-Borough Shop\r\n-Trade with Revolutionaries ",
     "LocalizedString": "Боро\r\n\r\nМама Роуч\r\n-Магазин Боро\r\n-Торговля с революционерами "
+  },
+  {
+    "Namespace": "",
+    "Key": "A7735D2E453A7198E4D074987A81257A",
+    "Hash": 2564986820,
+    "SourceString": "Factory",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C58DEFF44B4E59231DFCB4BDEDA40363",
+    "Hash": 1633336533,
+    "SourceString": "Fort Leto",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1B881B6248AB11F08325488953811C03",
+    "Hash": 3742617884,
+    "SourceString": "Perdition Entrance",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "44E4E69A45E75B662E9AF89064397F11",
+    "Hash": 3850128690,
+    "SourceString": "Smuggler's Den\r\n\r\n-Smuggler's Shop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "83CB4AED4FA9CFCD180FB197310098E3",
+    "Hash": 2218337355,
+    "SourceString": "Annex Entrance",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",

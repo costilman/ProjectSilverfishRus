@@ -8,20 +8,6 @@
   },
   {
     "Namespace": "",
-    "Key": "F852BB96474A3C01BF476E814158C079",
-    "Hash": 3006832858,
-    "SourceString": "Unnamed Faction",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "7687248241C7BDB16D90ADBA825A09C3",
-    "Hash": 1516012837,
-    "SourceString": "This is a faction",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "B392AAA44D8990929D48F5AB35757812",
     "Hash": 163487953,
     "SourceString": "Advantage represents this faction's current influence and strategic capabilities. \r\n\r\nIf one faction holds a significantly higher advantage over its enemies, it may try to make a move to fulfil its final objectives...",

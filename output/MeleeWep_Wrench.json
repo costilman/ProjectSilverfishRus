@@ -5,5 +5,12 @@
     "Hash": 3090719710,
     "SourceString": "A hefty metal wrench. Could be useful as a improvised weapon.",
     "LocalizedString": "Тяжёлый металлический газовый ключ. Может пригодиться как импровизированное оружие."
+  },
+  {
+    "Namespace": "",
+    "Key": "B0AD118E4637960228CD2A88936D2C92",
+    "Hash": 381679797,
+    "SourceString": "Tap :WepToggle: to repair certain devices.",
+    "LocalizedString": ""
   }
 ]

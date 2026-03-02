@@ -37,16 +37,16 @@
   {
     "Namespace": "",
     "Key": "C9657FDA4B078AB1D892A38AB9B1FC8F",
-    "Hash": 1699534866,
-    "SourceString": "Collect Depot Documents",
-    "LocalizedString": "Сбор документов Депо"
+    "Hash": 2906159883,
+    "SourceString": "Depot Documents",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
-    "Key": "B88E88CC4E787419650BB292C0F872CF",
-    "Hash": 24652088,
-    "SourceString": "Anonymous",
-    "LocalizedString": "Аноним"
+    "Key": "16B5C00143925F725A7324A56964EDDD",
+    "Hash": 3607000239,
+    "SourceString": "Magpie",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -65,23 +65,9 @@
   {
     "Namespace": "",
     "Key": "24665F95425631B8C3A08ABF4073D4AA",
-    "Hash": 1232944819,
-    "SourceString": "I'm looking for any info that can be found about the local railway and its operations. I'll pay a good price for any official documents containing that kind of info...",
-    "LocalizedString": "Я ищу любую информацию о местной железнодорожной компании и ее деятельности. Я хорошо заплачу за любые официальные документы, содержащие такую информацию..."
-  },
-  {
-    "Namespace": "",
-    "Key": "2A420B9B48F9D2CCB627479E506EAB12",
-    "Hash": 345531159,
-    "SourceString": "There is an office building in the middle of the Depot. Maybe its Records Department would be a good place to start.",
-    "LocalizedString": "В центре Депо есть офисное здание. Может быть, его архивный отдел — хорошее место для начала."
-  },
-  {
-    "Namespace": "",
-    "Key": "5918CFE14E1C9F9B2E0A0E838D9AC79D",
-    "Hash": 2465372736,
-    "SourceString": "Turn the documents in to the Black Market Broker at Dock A.",
-    "LocalizedString": "Сдайте документы Брокеру на чёрном рынке в Доке А."
+    "Hash": 3178144191,
+    "SourceString": "I have a client looking for any info that can be found about the local railway and its operations. I'll pay a good price for any official documents containing that kind of info...\r\n\r\nThere is an office building in the middle of the Depot. Maybe its Records Department would be a good place to start.\r\n\r\nTurn the documents in to the Magpie at the Lone Wolf Saloon.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -121,16 +107,9 @@
   {
     "Namespace": "",
     "Key": "612B22D34554B1BDDE21749F28EC532C",
-    "Hash": 2856193540,
-    "SourceString": "That son-of-a-bitch Lenny joined up with the Insurrection just long enough to make off with one of their LMGs and a heavy set of armor. Now he's shacked up in some bombed-out shithole, armed to the teeth. \r\n\r\nRaid his hideout and make off with the goods before his \"old friends\" find him. Put the bastard down while you're at it. \r\n\r\nHe might be in his safe-house, one of the old worker dorms at the West end of the Depot...",
-    "LocalizedString": "Этот сукин сын Ленни присоединился к Повстанцам ровно на столько, чтобы сбежать с одним из их пулеметов и тяжелым комплектом брони. Теперь он засел в какой-то разбомбленной дыре, вооруженный до зубов. \r\n\r\nНападите на его убежище и заберите его добро, пока его \"старые друзья\" его не нашли. Заодно прикончите этого ублюдка. \r\n\r\nОн может быть в своем убежище, одном из старых рабочих общежитий на западной окраине Депо..."
-  },
-  {
-    "Namespace": "",
-    "Key": "0F2EF7474CE5F9680D9C3182A58A3ECF",
-    "Hash": 6775752,
-    "SourceString": "Trust me, Lenny's a cold-blooded killer who's made A LOT of enemies for a LOT of reasons. We'd all be better off with him gone.",
-    "LocalizedString": "Поверь мне, Ленни — хладнокровный убийца, который нажил МНОГО врагов по МНОЖЕСТВУ причин. Нам всем будет лучше без него."
+    "Hash": 717987854,
+    "SourceString": "That son-of-a-bitch Lenny joined up with the Insurrection just long enough to make off with one of their LMGs and a heavy set of armor. Now he's shacked up in some bombed-out shithole, armed to the teeth. \r\n\r\nRaid his hideout and make off with the goods before his \"old friends\" find him. Put the bastard down while you're at it. \r\n\r\nHe might be in his safe-house, one of the old worker dorms at the West end of the Depot...\r\n\r\nTrust me, Lenny's a cold-blooded killer who's made A LOT of enemies for a LOT of reasons. We'd all be better off with him gone.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -373,9 +352,9 @@
   {
     "Namespace": "",
     "Key": "9CE34F334F986A6B652DB4AB1E9E00E7",
-    "Hash": 247406754,
-    "SourceString": "Take out the Insurrection Sniper in Flood Plains.",
-    "LocalizedString": "Уничтожить снайпера Повстанцев на Затопленных равнинах."
+    "Hash": 3080513304,
+    "SourceString": "Take out the Insurrection Sniper in Skeleton Coast.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -387,16 +366,9 @@
   {
     "Namespace": "",
     "Key": "27E512C645BCA7412361E8B4DC2AA306",
-    "Hash": 1709198759,
-    "SourceString": "One of the Insurrection's top marksmen is wreaking havoc in the Flood Plains. Scouts say he's posted up atop the tower overlooking the Mill, west of Beauly.",
-    "LocalizedString": "Один из лучших стрелков Повстанцев сеет хаос на Затопленных Равнинах. Разведчики говорят, что он занял позицию на вершине башни с видом на Мельницу, к западу от Бьюли."
-  },
-  {
-    "Namespace": "",
-    "Key": "5FBBD674488AABC0E9891D8BF3081412",
-    "Hash": 3971456281,
-    "SourceString": "Anyone who takes him out will be doing the Revolution a massive service, and will be rewarded so.",
-    "LocalizedString": "Любой, кто его уничтожит, окажет Революции огромную услугу и будет за это вознагражден."
+    "Hash": 3617035121,
+    "SourceString": "One of the Insurrection's top marksmen is wreaking havoc on the Skeleton Coast. Scouts say he's posted up atop one of the old shipwrecks overlooking the beach.\r\n\r\nAnyone who takes him out will be doing the Revolution a massive service, and will be rewarded so.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -632,9 +604,9 @@
   {
     "Namespace": "",
     "Key": "FAC451F9476C6BF4D9933B9B96739BB4",
-    "Hash": 3563014409,
-    "SourceString": "Turn this contract in at Dr. Mosby's Lab.",
-    "LocalizedString": "Сдайте этот контракт в лаборатории доктора Мосби."
+    "Hash": 1313659182,
+    "SourceString": "Turn this contract in at any bounty board.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -674,9 +646,9 @@
   {
     "Namespace": "",
     "Key": "135CC6074FE1617D699680A0F9B0498B",
-    "Hash": 1825112385,
-    "SourceString": "Turn this contract in to the Broker at Dock A.",
-    "LocalizedString": "Сдайте этот контракт Брокеру в Доке А."
+    "Hash": 1313659182,
+    "SourceString": "Turn this contract in at any bounty board.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -828,9 +800,9 @@
   {
     "Namespace": "",
     "Key": "4646A787471979D3C778DD8A5AECC555",
-    "Hash": 3538523406,
-    "SourceString": "Safe-House secured. Report back to the Broker.",
-    "LocalizedString": "Убежище зачищено. Доложите Брокеру."
+    "Hash": 3497762893,
+    "SourceString": "Safe-House secured. Turn in at any bounty board.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -870,9 +842,9 @@
   {
     "Namespace": "",
     "Key": "C44EE03D42F901390133DE88D0E40BC8",
-    "Hash": 235171968,
-    "SourceString": "Shit, my wrench broke.  Can someone fetch me a replacement?\r\n\r\nLook around the large warehouse in the middle of Crossroads. There's bound to be one there.\r\n\r\nI'll pay you with a Med-Kit and a can of Beans...",
-    "LocalizedString": "Сука, мой гаечный ключ теперь в дребезги. Может кто-нибудь найти мне другой?\r\n\r\n Осмотрись на большом складе в центре Перекрёстка. Там точно должен быть один.\r\n\r\nЯ заплачу тебе аптечкой и банкой бобов..."
+    "Hash": 481510491,
+    "SourceString": "Shit, my wrench broke. Can someone fetch me a replacement?\r\n\r\nLook around the large warehouse in the middle of Crossroads. There's bound to be one there.\r\n\r\nI'll pay you with a Med-Kit and a can of Beans...",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -912,9 +884,9 @@
   {
     "Namespace": "",
     "Key": "71D69D974AD98CD81B166F903A132990",
-    "Hash": 1574879648,
-    "SourceString": "There's this local guy, goes by the name Egg-Head.\r\n\r\nHe made a bad deal with some associates of mine. He was due to produce some artifacts, but they never materialized. \r\n\r\nMy associates have exhausted their patience with him.\r\n\r\n8K on his round, pale, dome.\r\n\r\nHe was last seen snooping around \"RG-East\", the abandoned labs next to Doc Mo's place...",
-    "LocalizedString": "Есть тут местный паренёк, кличут Яйцеголовый.\r\n\r\nОн заключил несколько неудачных сделок с моими партнёрами. Он должен был принести им несколько артефактов, но он не сдержал своё поганое обещание. \r\n\r\nМои партнёры уже устали от него.\r\n\r\nОни готовы заплатить 8к за его круглую ебучую рожу.\r\n\r\nНедавно его видели шнырающим вокруг \"RG-East\", заброшенных лабораторий около места обитания Доктора Мо"
+    "Hash": 3919902338,
+    "SourceString": "There's this local guy, goes by the name Egg-Head.\r\n\r\nHe made a bad deal with some associates of mine. He was due to produce some artifacts, but they never materialized. \r\n\r\nMy associates have exhausted their patience with him.\r\n\r\n3K on his round, pale dome.\r\n\r\nHe was last seen snooping around \"RG-East\", the abandoned labs next to Doc Mo's place...",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -922,6 +894,13 @@
     "Hash": 260828085,
     "SourceString": "Hell Hunt",
     "LocalizedString": "Адская охота"
+  },
+  {
+    "Namespace": "",
+    "Key": "B88E88CC4E787419650BB292C0F872CF",
+    "Hash": 24652088,
+    "SourceString": "Anonymous",
+    "LocalizedString": "Аноним"
   },
   {
     "Namespace": "",
@@ -1248,16 +1227,16 @@
   {
     "Namespace": "",
     "Key": "F78C4C2E45394EDBCD9AAC8F84EA80B1",
-    "Hash": 2241880588,
-    "SourceString": "Install the new Turbo Incabulator in the RG East machine room.",
-    "LocalizedString": "Установить новый турбоинкабулятор в машинном зале RG East."
+    "Hash": 3380037386,
+    "SourceString": "Install the new Turbo Encabulator in the RG East machine room.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "365F5B494DDC731409B80EAE618937D3",
-    "Hash": 2506974300,
-    "SourceString": "Turbo Incabulator installed: Report back to Dr. Mosby.",
-    "LocalizedString": "Турбоинкабулятор установлен: доложите Доктору Мосби."
+    "Hash": 2371433170,
+    "SourceString": "Turbo Encabulator installed: Report back to Dr. Mosby.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -1332,9 +1311,37 @@
   {
     "Namespace": "",
     "Key": "49966CB2438ADC33DCFFEDABE8B369C6",
-    "Hash": 42513329,
-    "SourceString": "6/6 Fuel Tanks destroyed! Redeem with Mamma Roach.",
-    "LocalizedString": "6/6 топливных баков уничтожено! Получите вознаграждение у Мамы Роуч."
+    "Hash": 3235686245,
+    "SourceString": "6/6 Fuel Tanks destroyed! Redeem at any bounty board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E80B1C304CC7D674B372968A865022E6",
+    "Hash": 3235686245,
+    "SourceString": "6/6 Fuel Tanks destroyed! Redeem at any bounty board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "914908B44E46B0412CE0FE9F3F9AADB0",
+    "Hash": 3235686245,
+    "SourceString": "6/6 Fuel Tanks destroyed! Redeem at any bounty board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C0411CD14444C4610EE395903AC65694",
+    "Hash": 3235686245,
+    "SourceString": "6/6 Fuel Tanks destroyed! Redeem at any bounty board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D12F7C8947DFEFD76A1BBDBA3034A0D0",
+    "Hash": 3235686245,
+    "SourceString": "6/6 Fuel Tanks destroyed! Redeem at any bounty board.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -1535,9 +1542,9 @@
   {
     "Namespace": "",
     "Key": "08C453A744C9890B6CE7A3AFA2C23B96",
-    "Hash": 2803759914,
-    "SourceString": "A high-ranking NFTA field officer is visiting the military checkpoint at Dead Bridge.\r\n\r\nHe's one of their more competent and loyal men, so taking him out will strike a major blow to soldier moral and set back their logistics by weeks.\r\n\r\nYou don't need to be sneaky about this, in fact feel free to make it messy!",
-    "LocalizedString": "Высокопоставленный полевой офицер NFTA прибывает с визитом на военный блокпост у Мертвого Моста.\r\n\r\n Он один из их самых компетентных и верных людей, так что его устранение нанесет серьезный удар по боевому духу солдат и отбросит их логистику на недели назад.\r\n\r\n Действовать скрытно не обязательно. Напротив, не стесняйся устроить там знатную заварушку!"
+    "Hash": 1840734605,
+    "SourceString": "A high-ranking NFTA field officer is visiting the military checkpoint at Dead Bridge.\r\n\r\nHe's one of their more competent and loyal men, so taking him out will strike a major blow to soldier morale and set back their logistics by weeks.\r\n\r\nYou don't need to be sneaky about this, in fact feel free to make it messy!",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -1545,6 +1552,13 @@
     "Hash": 423623877,
     "SourceString": "Fine Vintage",
     "LocalizedString": "Отличное марочное"
+  },
+  {
+    "Namespace": "",
+    "Key": "C20828B64FA71A53F9FFFFBE912C4133",
+    "Hash": 1187360228,
+    "SourceString": "The Broker",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -1563,9 +1577,9 @@
   {
     "Namespace": "",
     "Key": "32802D48433E2D16E539128F703E10B7",
-    "Hash": 1849193440,
-    "SourceString": "Some old Baron used to live in Port Rale; he was famous for his collection of rare, fine vintage wines.\r\n\r\nA client of mine is particularly keen on a most illusive bottle of Paladin Brandy. He'll be willing to pay very well if one was to procure a sealed bottle.\r\n\r\nDeliver it to the Broker; he will see the rest through. ",
-    "LocalizedString": "В Порт-Рейле когда-то жил один старый барон, он славился своей коллекцией редких, изысканных марочных вин.\r\n\r\nОдин мой клиент особенно жаждет заполучить неуловимую бутылку бренди «Паладин». Он готов щедро заплатить тому, кто добудет для него запечатанную бутылку.\r\n\r\nДоставьте ее Брокеру, а он позаботится об остальном."
+    "Hash": 2000807325,
+    "SourceString": "Some old Baron used to live in Port Rale; he was famous for his collection of rare, fine vintage wines.\r\n\r\nA client of mine is particularly keen on a most elusive bottle of Paladin Brandy. He'll be willing to pay very well if one was to procure a sealed bottle.\r\n\r\nDeliver it to the Broker; he will see the rest through. ",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -1591,15 +1605,869 @@
   {
     "Namespace": "",
     "Key": "CE1DA5CE452E2835169D4CB072A6D8D8",
-    "Hash": 4280091566,
-    "SourceString": "Bring Broker a Tape containing Eather infrastructure data.",
-    "LocalizedString": "Принесите Брокеру кассету с данными об эфирной инфраструктуре."
+    "Hash": 3987078844,
+    "SourceString": "Bring Broker a tape containing Eather infrastructure data.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "24DD641A438635CF4CF329B08E0EF478",
-    "Hash": 185616413,
-    "SourceString": "A client of mine is looking for p-to-date information about the Eather ground-pump infrastructure around Port Rale.\r\n\r\nThere's an old Standard Eather Co. office in Haldee, might be a good lead on where to find a control station.\r\n\r\nIf you do find a control station, bring back a data tape with whatever you can dig up.",
-    "LocalizedString": "Один мой клиент ищет актуальную информацию об инфраструктуре эфирных насосов в районе Порт-Рейла.\r\n\r\nВ Халди есть старый офис компании «Стандарт Эфир», это может стать хорошей наводкой на то, где искать станцию управления.\r\n\r\nЕсли найдешь такую станцию, принеси кассету с данными — со всем, что сможешь там раскопать."
+    "Hash": 2674517353,
+    "SourceString": "A client of mine is looking for up-to-date information about the Eather ground-pump infrastructure around Port Rale.\r\n\r\nThere's an old Standard Eather Co. office in Haldee, might be a good lead on where to find a control station.\r\n\r\nIf you do find a control station, bring back a data tape with whatever you can dig up.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A9D29F444618489C926746AA650F5EF5",
+    "Hash": 386828653,
+    "SourceString": "Seven Meat Special",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3B065B1446878E82453C77A625B5C5AB",
+    "Hash": 2829606937,
+    "SourceString": "Shop Keep",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "68754C374675FAA8B0E5E2B2E1D9E858",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "117D9314427D07A21F4FF3AC386B7B6F",
+    "Hash": 2114041862,
+    "SourceString": "Collect 7 types of meat for the Shop Keep.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F94ED24A4BC22BD2D153FF9E56BDC159",
+    "Hash": 2108646147,
+    "SourceString": "Need someone to pick up groceries for me!\r\n\r\nI want to try out an old family recipe: The Seven-Meat-Special.\r\n\r\nIt calls for:\r\n-1 rack of pork ribs\r\n-1 reclaimed sausage\r\n-1 can of beef mince\r\n-1 can of candied tuna\r\n-A cut of venison\r\n-A cut of \"not-venison\"\r\n-And round it out with some dog meat.\r\n\r\nI will let you have some leftovers!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1FC07A1A49392383CD8A199A71098EB1",
+    "Hash": 2583926063,
+    "SourceString": "Catalyst",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7B101CB7408E612A4B8BA0B400ACBE48",
+    "Hash": 673154708,
+    "SourceString": "Dr. Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7CE8B26049496E6AC526ABADA53C97E5",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B31259ED4C8A4CE1EDBC0DA2D99C6045",
+    "Hash": 3397498266,
+    "SourceString": "Investigate potential Cultist activity in M35 tunnels.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3F06ADBE43187B98D47A5A900F0C3F5D",
+    "Hash": 3926343926,
+    "SourceString": "Cultist Altar destroyed: Report to any bounty board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "130156334CB3264DE7CE2F983A63E679",
+    "Hash": 500391948,
+    "SourceString": "We've had several reports from allied Stalkers of suspicious Cultist activity in some of the old utility tunnels off of M35.\r\n\r\nI fear the Cult may be attempting to further destabilize Eather ground-saturation in that area.\r\n\r\nI need someone willing to investigate those tunnels and find out what they're doing. If you discover anything strange, destroy it. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "558A32CD48DD3686C4725C9E8AC48646",
+    "Hash": 4124633178,
+    "SourceString": "Northern Passage",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2F1E1A1145D065DF70C900BD28A4E3BA",
+    "Hash": 1028115194,
+    "SourceString": "Mamma Roach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E71B43BE4E53004BE487E182634A1AE6",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "350EB6C4461CCA23A6F609B55130F14E",
+    "Hash": 785229362,
+    "SourceString": "Secure intel on the Insurrection's progress at the \"Dead End\".",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0E2A97204DC75269A81B889F777F991B",
+    "Hash": 3443605933,
+    "SourceString": "Our Scouts have reported that the Insurrection have recently set up a new outpost on the Black River, north of M35.\r\n\r\nWe suspect that they may be trying to secure a supply line to support their forces in the far northern zone. \r\n\r\nI'm putting a cash bounty for any intel that could shed a better light on their progress. We need to know how close they are to finding a northern route.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9B57228A4675B679A6AC318C118F2E42",
+    "Hash": 1699507873,
+    "SourceString": "Brown Out",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7BE36DDF48F1F017858324B6D9A1CB7B",
+    "Hash": 19170223,
+    "SourceString": "Destroy all 4 Power Boxes in the Factory Complex.\r\n0/4 Power Boxes Destroyed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "13F2215A411A64B78E965DB693A8F814",
+    "Hash": 4221131300,
+    "SourceString": "1/4 Power Boxes Destroyed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C971E4154E39F60F5B7147872FC0688F",
+    "Hash": 1781996973,
+    "SourceString": "2/4 Power Boxes Destroyed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A980B86F43B3A2CA3AAFFB91723073D4",
+    "Hash": 2893929749,
+    "SourceString": "3/4 Power Boxes Destroyed. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "75A21EA74B299AC7150E61B23416298E",
+    "Hash": 1352999196,
+    "SourceString": "4/4 Power Boxes destroyed! Redeem with Mamma Roach.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6E7074614B7314B30A5C0AA1BD4AFD8C",
+    "Hash": 3640761587,
+    "SourceString": "NFTA army engineers are trying to restore some manufacturing infrastructure up North of the Refinery.\r\n\r\nI'm putting up a cash bounty for any stalker willing to break a few of their toys.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F55B7C7D4E0666F2212281A78CEE68A4",
+    "Hash": 3315741794,
+    "SourceString": "Gold Rush",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "06CC7F6746E27077A0D874971A99EB20",
+    "Hash": 3684172133,
+    "SourceString": "Krieg",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1F630D4B4330E9DD97B0AF8A9D3E3848",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F00D6DEC4AD4DD300F80CAB57F048978",
+    "Hash": 3888295242,
+    "SourceString": "Deliver the bag from Magpie to Big Iron.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7E6CB2E04C9980AB9AB6B088DD32A666",
+    "Hash": 4278067098,
+    "SourceString": "The bartender at the Lone Wolf Saloon has a duffle bag containing a payment for my client. \r\n\r\nThe bag needs to be transported to Big Iron's gun shop in Trinsdal.\r\n\r\nBe warned, Magpie runs with some pretty sketchy characters and he's terrible at keeping secrets, so watch your back.\r\n\r\nAlso don't get any ideas yourself; my clients are not the forgiving types...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "96F279AD429B2CD83ADFA0801CC73194",
+    "Hash": 1882666941,
+    "SourceString": "Pocket Watch",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "611B69C3410E17A1FD0A828433E1FD41",
+    "Hash": 3607000239,
+    "SourceString": "Magpie",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9922789045BC5A372AD88BB2EB072849",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F298B83A4AC359826412BEB94A0F7A23",
+    "Hash": 612151010,
+    "SourceString": "Retrieve a golden pocket watch for Magpie.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6F93B6554CDD6B1CC8DDDBA25581EA2E",
+    "Hash": 910736631,
+    "SourceString": "One of my runners spotted a shiny gold pocket watch in the cabin near the farm in Crossroads.\r\nGot spooked by an Innie patrol before he could pick the lock.\r\n\r\nI'll make it worth it to any scav who can fetch it for me.\r\nI'm at the Lone Wolf Saloon, between the Docks And the Slums in Port Rale.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36A783D74ADEBD0AFC1926B2BEC4ACFA",
+    "Hash": 3725880384,
+    "SourceString": "Evil Eye",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F8BDFF2B4369F2F04A6635BA3D496DC5",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A1FB461C451687D2894551AE266A9438",
+    "Hash": 353038375,
+    "SourceString": "Retrieve a Homunculus Eye for Magpie.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E7C0A4A34D2FF4CB9269FEB8DD80AD4E",
+    "Hash": 4063908098,
+    "SourceString": "A friend of mine wants to... try something out. \r\nPutting out a reward on anyone who can fetch me a fresh, intact Homunculus Eye.\r\n\r\nDon't ask any questions; my friend is a very private person with.. odd tastes...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D0A75A484700E50FD37077BADD7602D1",
+    "Hash": 4168754904,
+    "SourceString": "Eye for an Eye",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BE348D5543F4416E466324859C44A06D",
+    "Hash": 2829606937,
+    "SourceString": "Shop Keep",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "68F88E6E44ADC31B5569CAB99043A7C3",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "77A9EE3A43A2D35EDAEC69A40E066035",
+    "Hash": 3975840255,
+    "SourceString": "Retrieve a Homunculus Eye for Shop Keep.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4A959A7B454FCAD136C9DEA1024F0BE7",
+    "Hash": 4167355611,
+    "SourceString": "The bartender has put out job to find Homunculus Eye? Those come in pairs yes?\r\n\r\nBring me the other one; I'll pay you more!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CF39AD704511ED3EB39630B848FFC5B5",
+    "Hash": 382930932,
+    "SourceString": "Standard Issue",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7E30352A42D5213324188483AFAC107E",
+    "Hash": 433628370,
+    "SourceString": "Big Iron",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3D252A374EA2743BB7CB3686200B733B",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "184D33904E72DB55B93662B6A7743DF5",
+    "Hash": 1294852675,
+    "SourceString": "Retrieve NFTA weapons for Big Iron.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "19CFEBB14C9485159F77A9BF8AEC9746",
+    "Hash": 1408940100,
+    "SourceString": "I'm interested in getting my hands on some examples of NFTA military standard issue weapons.\r\n\r\nBounty for anyone who can bring me one of each of the following:\r\n-Type 15 SMG\r\n-Type 18 Assault Rifle\r\n-M-TR14 Carbine\r\n\r\nMy shop is down in Trinsdal on the South Bend.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9BD30BFC4C2F61E957393EB61AEF03FC",
+    "Hash": 4187579939,
+    "SourceString": "Blind Eye",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6558FBBC4E376EC691C5259474E48397",
+    "Hash": 910115601,
+    "SourceString": "Insurrection",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5F5B0C634347DCCD9B263AAE512CDF33",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6663ED384F7BC9A53FF1DC8C5A6ECA28",
+    "Hash": 2934160259,
+    "SourceString": "Assassinate Simmi for the Insurrection.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EDE6DF814104FA30AC7A1381FF354A44",
+    "Hash": 240372246,
+    "SourceString": "Target KIA; return to base.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BF332B234DC9CAE953CCFD958CB36BB2",
+    "Hash": 203273359,
+    "SourceString": "The Freelancers run an information gathering operation in a place called \"The Observatory\".\r\nSome little snitch going by Simmi runs this little spy game. \r\n\r\nObviously this is a major liability to our operations in the Southern Zone.\r\nKill everyone at this installation.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F027EE23493F1AA22B11A893278B34F3",
+    "Hash": 3739144890,
+    "SourceString": "Bad Medicine",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8821307349F0EA51A51C5DBA3BDFBA27",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FA800A5442F9D818AD0F6AB17AD2256E",
+    "Hash": 52940495,
+    "SourceString": "Assassinate Dr. Mosby for the Insurrection.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "281F58724CFA01D6C3171BB5D4817961",
+    "Hash": 1916341214,
+    "SourceString": "Get this: A post-human is working with the pinkos. \r\nNot just any posty, a big time scientist who used to work on Eather tech before the threshold.\r\n\r\nHe's known as Dr. Mosby, and he knows far too much to be let loose working with those terrorists. \r\n\r\nHe could jeopardize everything we've been working for if someone doesn't ice him ASAP!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DC61CFDC4378A1C9AE38F2AE06CF3A23",
+    "Hash": 3561514035,
+    "SourceString": "Clean the Streets",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D84540BC468C9CB8836C288D3D298F7B",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DBB40AD040E26991464F34B5C3829693",
+    "Hash": 1581998409,
+    "SourceString": "Assassinate the Broker for the Insurrection.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D496D6164CB00541538DBD92365D25E2",
+    "Hash": 35222004,
+    "SourceString": "Local Fae crime-boss called the Broker, runs the black market here in the Zone.\r\nHe's long outlived his usefulness, and with him gone, the Freelancers are history. \r\n\r\nBesides, the only good fae is a dead fae.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F2C63027451E191FA0586F96892A2A6E",
+    "Hash": 1843506551,
+    "SourceString": "Test of Loyalty",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AC50F26C4E11801DB503FBB568D8A1CA",
+    "Hash": 910115601,
+    "SourceString": "Insurrection",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DB7FACAB483850B8ED4A00B6208569A5",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "48D49C31439649ED8920F58F4276414A",
+    "Hash": 4158115911,
+    "SourceString": "Kill the rocket sentry guarding the Borough.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C80745544BCCB1C00A4B77A7A3E3B0A2",
+    "Hash": 2673491276,
+    "SourceString": "There's an enemy hold-out north of the Metropol. \r\nTake out the sentry overlooking the street, wielding a rocket launcher.\r\n\r\nCome back alive, and prove you're more than just some dreg.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3780ED50479E11C6D60935A32C3FDB9E",
+    "Hash": 3352236101,
+    "SourceString": "Guard Duty: M35",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B4E05921444EA464553EC28F2608F5C3",
+    "Hash": 910115601,
+    "SourceString": "Insurrection",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9654084E4FE218027B007A9DB8D705C6",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6BDCD74A46CB26664AEA8D8AB07DE365",
+    "Hash": 4037048305,
+    "SourceString": "Guard The Traffic Tower on M35.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F971E384EC279DB54DFE187BFC99530",
+    "Hash": 1383505633,
+    "SourceString": "Guard shift complete; return to base.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9031A0364D4825C24055ACA0D0970471",
+    "Hash": 408795675,
+    "SourceString": "Guard Duty on M35.\r\n\r\nHold position on the loading dock on M35 and over-look the street.\r\n\r\nKill anything that isn't wearing our patch.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F95804EF4D6E7CDFBE8CA185514D3494",
+    "Hash": 1570402464,
+    "SourceString": "Secure Crossroads Warehouse",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D1F5A0AA4824744E5D0C12B0B2451B94",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "04F3D367421B77B9957225BE1F8F5E68",
+    "Hash": 3689107935,
+    "SourceString": "Secure and hold the large warehouse in Crossroads.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BABE06004D63CFB02120618323B5887F",
+    "Hash": 253026882,
+    "SourceString": "Target secured; return to base.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B563BE9549E8AF227983099AFB1D5A5B",
+    "Hash": 2521760127,
+    "SourceString": "There's a large warehouse on the west side of Crossroads.\r\n\r\nThis structure has been deemed a strategically useful staging area for our harassment campaign in the southern Zone.\r\n\r\nSecure and hold this installation, eliminating any and all opposition. A squad of reinforcements will follow you to help maintain this target.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "87DEBE6D440FB304661A0BB5D9EEAABD",
+    "Hash": 1487479734,
+    "SourceString": "Secure Metropol Eatherworks",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "34F368CA43DEB81D83DB5DA4924832A1",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ED006F88405EA8B56EAD1EB2E8795635",
+    "Hash": 1442577258,
+    "SourceString": "Secure and hold the Eatherworks in Metropol.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3932882D4174629233CECABB1C8115C9",
+    "Hash": 3272716849,
+    "SourceString": "There's a Standard Eather Co. plant on the canal in the east side of Metropol.\r\n\r\nThis Eatherworks is still functional and could prove to be a valuable asset in our fight to conquer the zone!\r\n\r\nSecure and hold this installation, eliminating any and all opposition. A squad of reinforcements will follow you to help maintain this target.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "041A1B184079F61BB673DFB259D0620A",
+    "Hash": 4273928745,
+    "SourceString": "Secure Depot Station",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BBFE53B64471A48BAE8E98A271628D64",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4F2347B542F9C590DC3A9E959363C7C9",
+    "Hash": 3051280567,
+    "SourceString": "Secure and hold the Station in Depot.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D8CCCEAE412041B0B6C70FA8998AF5D3",
+    "Hash": 3542688858,
+    "SourceString": "We're making a push deeper into enemy territory!\r\n\r\nWe need a forward unit to secure and hold the station complex in the center of Depot!\r\n\r\nSecure and hold this installation, eliminating any and all opposition. A squad of reinforcements will follow you to help maintain this target.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EAAFD18A4B679E4BE20385BA4905520E",
+    "Hash": 2729391600,
+    "SourceString": "Get rid of orange guy!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "594AE5254DE989E71C42A29ED580CD1F",
+    "Hash": 2829606937,
+    "SourceString": "Shop Keep",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1908AF4243529C61608139BA32874C30",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EA62DBCC4458DA79990B3D9FA8523C2F",
+    "Hash": 3228070775,
+    "SourceString": "Get Rid of the Sawmill Commander.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8552F9247FDF7EDBAD43AA17E01DC4A",
+    "Hash": 1633637998,
+    "SourceString": "Target gone, redeem at any bounty board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "690C9CF64CFF6273348725A3BF0611ED",
+    "Hash": 3763129401,
+    "SourceString": "That jackass at the sawmill keeps sending his dogs to harass my customers!\r\n\r\nMake him go away! \r\nI'll give you the good jelly!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EFAE8CC349A84A24874726A5316D5D55",
+    "Hash": 3135007219,
+    "SourceString": "Guard Duty: Black Lake",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "06BCB468405D0A145D2FFE8AF6B2DB08",
+    "Hash": 2187695607,
+    "SourceString": "Guard The Floating Cabin on Black Lake.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "80AD684C40ED8951BB984081606604CE",
+    "Hash": 2460270051,
+    "SourceString": "Guard Duty on the floating cabin overlooking Black Lake.\r\n\r\nHold position on the landmass and watch over the roads below.\r\n\r\nKill anything that isn't wearing our patch. And no sleeping on the job!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "31C6CB4744F7DCB1BF34F4AFE09CF106",
+    "Hash": 1665545023,
+    "SourceString": "Triangulation",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "952106D54E06C9CE9FB0F1B107C31F01",
+    "Hash": 709180968,
+    "SourceString": "Simmi",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B35F85294C27B864175DA2811AEF6483",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "81B29D7B43FF667E3BD760910C6A9594",
+    "Hash": 675412595,
+    "SourceString": "Repair 3 radio relays in the Northern Zone.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AACE976841B1002AD9833FB6E42281A0",
+    "Hash": 4206216582,
+    "SourceString": "1/3 relays repaired.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4DF7BB974E5003FA9EBD59B086C1B176",
+    "Hash": 3739053497,
+    "SourceString": "2/3 relays repaired.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "836AE2C0469B58AA89B39C8FC21297D3",
+    "Hash": 4201873483,
+    "SourceString": "All relays repaired, return to Simmi.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B968ABE64446FC14E088E5B9769C2D2A",
+    "Hash": 4171190641,
+    "SourceString": "I need to get eyes on the Northern Zone. There are 3 downed radio relays that need to be repaired for that to happen.\r\n\r\nLocate and repair all 3 radio relays and I'll make it worth it.\r\n\r\nYou'll need a good wrench and some electronic scrap for this task.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E749B51349B3DC7A71799D87B053B8F0",
+    "Hash": 2939525992,
+    "SourceString": "Proxy Upload",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "03ACFEE84DE8D8B8882F51AB5218D83E",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D2B6753A4C52282B4249B493A6AE721E",
+    "Hash": 3379926737,
+    "SourceString": "Upload the military file to The Wall terminal.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3C14164F42AC1CD5D021108E4A6E1663",
+    "Hash": 120814961,
+    "SourceString": "Files uploaded, report to Magpie.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "78EE317849005D3B71AF078A497E102B",
+    "Hash": 3382496334,
+    "SourceString": "There's a top-secret set of encrypted NFTA files labeled \"F-COM LX-0977\".\r\n\r\nFind a military secure terminal somewhere in the Zone and download these files to a data tape.\r\n\r\nYou will then need to bring the data tape to an upload terminal in the #2 Control Tower at 'The Wall'.\r\n\r\nUpload the files and consider your debt paid.\r\n\r\nReport the upload to Magpie at the Lone Wolf Saloon and then make your own exit from the Zone.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "73E652294082636C2CAC2AB9339A8144",
+    "Hash": 1982082329,
+    "SourceString": "High Value Goods",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B06DC1534A296A12845A3AB6EF404189",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FBC16DB9402FDA0F4B162AAB58A0C3E6",
+    "Hash": 290058878,
+    "SourceString": "Retrieve several rare items and bring them to Magpie.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6C8C22054B59479C7092C4BFC60CD106",
+    "Hash": 4057023226,
+    "SourceString": "There are several, high-value pieces of pre-threshold equipment that can only be found in this exclusion zone.\r\n\r\n-A Mk. 7 Prototype Eather Drill Laser Head.\r\n\r\n-A stable form of \"programmable matter\" known as Eather Resin.\r\n\r\n-And durable refillable Eather Canisters.\r\n\r\nOur organization is attempting to reverse engineer these technologies and will require at least one example of each.\r\n\r\nOnce secured, deliver these goods to the Smuggler known as Magpie, he will forward the cargo to us, and in return we will make sure all of your standing debts are forgiven.\r\n\r\nOnce the job is done, make your own path out of the zone.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A537BE71474E87400E7E8A8C199202C1",
+    "Hash": 3885899139,
+    "SourceString": "Idle Hands",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E0309F234D90FA2F8717AFA18DF86BB9",
+    "Hash": 1006903127,
+    "SourceString": "[This quest is below its minimum step!]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F527812D49E9013074A62C89AAFE75D2",
+    "Hash": 2247155668,
+    "SourceString": "Find and eliminate the Craftsman.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A4AC44544CF8C75CCB0F7E902D9FBAED",
+    "Hash": 4021696813,
+    "SourceString": "Target KIA, report to Magpie.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C7836858489971FA21649E8405DBE061",
+    "Hash": 3664266815,
+    "SourceString": "A former State Artificer turned religious terrorist is known to be hiding somewhere in the Northern Exclusion Zone.\r\n\r\nHe's known locally as \"The Craftsman\".\r\n\r\nHe holds dangerous knowledge about Eather-based weapons technology and is using it to facilitate the goals of a dangerous death cult operating in the area.\r\n\r\nThe NFTA wants absolutely zero connection to this operation, so do not expect any cooperation from local military forces.\r\n\r\nDiscreetly eliminate the target and report the code-word to the smuggler at the Lone Wolf Bar. We will wire your debt relief forms upon mission completion.\r\n\r\nExfiltrate from the zone by your own means afterwards. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "891853D94E3E442F121C2C8C27289FF4",
+    "Hash": 2296678122,
+    "SourceString": "Data Breach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F649B17C4203605F7A75508B8D01D35B",
+    "Hash": 1708656216,
+    "SourceString": "Record 5 data tapes with the requested information.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E5F34944378DCB20EA9AB97D4428FCD",
+    "Hash": 2545913481,
+    "SourceString": "It has come to our attention that there exists a good deal of sensitive data floating around in the exclusion zone. Our organization is very interested in potentially acquiring a few examples. Bring us tapes containing copies of the following:\r\n\r\n-NFTA active distress signal recording. Ping seems to be coming from a radio station in the eastern sector.\r\n\r\n-Lab E-206 research reports.\r\n\r\n-Southern Eather pump data.\r\n\r\n-Northern Eather ground saturation data.\r\n\r\n-Anything you can find in the abandoned NFTA Seaport: Fort Leto. We don't care if it's encrypted, we can crack it.\r\n\r\nDeliver these tapes to the bartender at the Saloon near the docks. Once he gives us the word, we will forward your debt payment.\r\n\r\nFind your own way out of the zone.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7AC2CB81489D9D76464AFFB753278D37",
+    "Hash": 2393898456,
+    "SourceString": "Thor's Hammer",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CBE73D744089952D1AF7A1819A8CA741",
+    "Hash": 1821167673,
+    "SourceString": "Craft the \"Mjolnir\" Enchanted Revolver.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8E7A5A354A83FE05F20C97BA15282DBD",
+    "Hash": 3449510534,
+    "SourceString": "A former State Artificer is known to be hiding somewhere in the Northern Exclusion Zone.\r\nThey call him \"The Craftsman\".\r\n\r\nHe specializes in Eather-based weapons technology and is said to be able to craft powerful Enchanted Weapons.\r\n\r\nWe are specifically looking for one of his most renowned designs: The Mjolnir. Bring back a working example to the smuggler known as Magpie, and we will make sure your debts disappear.\r\n\r\nEscape from the zone by your own means afterwards. ",
+    "LocalizedString": ""
   }
 ]

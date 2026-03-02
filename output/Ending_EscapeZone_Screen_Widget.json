@@ -1,0 +1,107 @@
+[
+  {
+    "Namespace": "",
+    "Key": "09DF51F7487A1E83F1338DBF64DD332A",
+    "Hash": 2244806427,
+    "SourceString": "CONTINUE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "87436B58475DA5E2A6CAB6B7ED6A0202",
+    "Hash": 1132679797,
+    "SourceString": "DEBUG CAM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0A1F401C4FE95DA1835BEE8A05A0C7DA",
+    "Hash": 3666064218,
+    "SourceString": "[FOR PLAYTESTING ONLY]\r\n\r\nEnter Free-Cam mode.\r\n\r\nWARNING: Your death may not apply correctly to your save! Only use this option for debug purposes!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9772B1804F09E08C63C379B1E9FE16C1",
+    "Hash": 4075221388,
+    "SourceString": "FINANCES:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6DF8208E433873A1B76E4BAAA9CDF540",
+    "Hash": 1151189699,
+    "SourceString": "ESCAPED THE ZONE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3613CA1F479B757F55EC25B5A9214AC4",
+    "Hash": 1870461558,
+    "SourceString": "DAY: 12",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "14C5D31E430845B4930D409ED668DECA",
+    "Hash": 2522629456,
+    "SourceString": "$3000000",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "05581BC84198F54265B83FABC29DCBD8",
+    "Hash": 3668533161,
+    "SourceString": "-DEBT:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "48A0DC384387356F0CAF7F9CA23C0437",
+    "Hash": 1400189002,
+    "SourceString": "-CASH:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "99270A6A4BA7FCA028A2D7AA9A0B5E10",
+    "Hash": 936171048,
+    "SourceString": "-SELL GEAR:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ECE0F69C4D3FB155795421AE9E86BFC2",
+    "Hash": 45638637,
+    "SourceString": "-FINAL BALANCE:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E451A6364D5B730CD93888BF5F65AA20",
+    "Hash": 3897797121,
+    "SourceString": "+$3000000",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5EB9B8A24713CD770B0E4E82E57B0C8D",
+    "Hash": 1636840794,
+    "SourceString": "-You took 100 lives in the Zone...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E7FD6F1249DBE9F767A220834598A2D2",
+    "Hash": 1570031271,
+    "SourceString": "-On the run.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "121280254854AA81DF0106A4F3774C86",
+    "Hash": 2626699849,
+    "SourceString": "POLITICAL STATUS:",
+    "LocalizedString": ""
+  }
+]

@@ -85,6 +85,13 @@
   },
   {
     "Namespace": "",
+    "Key": "0507B5C34BE7E26655BB98BD95A05C6A",
+    "Hash": 3272116764,
+    "SourceString": "NFTA Shield",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "FD25F0AE40F86BCABD6BFB83A95B1BE5",
     "Hash": 559737319,
     "SourceString": "Red Dragon",
@@ -120,6 +127,13 @@
   },
   {
     "Namespace": "",
+    "Key": "5E5C629E4A8999223F63AA8166022BD0",
+    "Hash": 613380685,
+    "SourceString": "Cultist",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "FDB5A1394DBA3F792533B9A6822B038D",
     "Hash": 1394073490,
     "SourceString": "Demon",
@@ -144,6 +158,13 @@
     "Key": "0E7ACE784AFA5B40D4EA5C8D0B4AA655",
     "Hash": 2238922995,
     "SourceString": "Inverted Oak",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A030338546092989B0D335850DE3B7D2",
+    "Hash": 910115601,
+    "SourceString": "Insurrection",
     "LocalizedString": ""
   },
   {
@@ -326,6 +347,83 @@
     "Key": "E5B44CF14D93FAB646D73E8399B5F13B",
     "Hash": 1871706413,
     "SourceString": "Pride",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5419C20D49CD051A8BD2E78875BBA96B",
+    "Hash": 3537908587,
+    "SourceString": "Aces",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "15BA9DC7453109B7021578A40C50C760",
+    "Hash": 1958923655,
+    "SourceString": "Eyes Over Agria",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "774050B14872BB080E35DDB46DA8EC2D",
+    "Hash": 391407359,
+    "SourceString": "Froggy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "12BF46C7479E032CB4994793C97668A9",
+    "Hash": 931644897,
+    "SourceString": "KaBOOM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "26E214144611BB0119269D9ADCDE8FCA",
+    "Hash": 680224318,
+    "SourceString": "Black Knight",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "33C2E3A74C4C58FCE6F4338D4EBCE20A",
+    "Hash": 34068909,
+    "SourceString": "Medic",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EFEFDF284825857EA319A2801FD48CC0",
+    "Hash": 2847975103,
+    "SourceString": "Perry",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FD8ED5804A6A136ABB1DC8A417637F00",
+    "Hash": 572755070,
+    "SourceString": "Republika Iot",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8F45494432C7A1570CC6FBDEFB4C347",
+    "Hash": 1903494784,
+    "SourceString": "Ghost Hunter",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0691954D4DFF822617176D89DEE59118",
+    "Hash": 2705952837,
+    "SourceString": "Target",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "85516D8A48EC6A2A3A90EEA9440CC781",
+    "Hash": 4099769258,
+    "SourceString": "War Dogs",
     "LocalizedString": ""
   }
 ]

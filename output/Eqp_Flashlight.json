@@ -5,5 +5,12 @@
     "Hash": 1144596124,
     "SourceString": "Illuminates an area directly ahead of you.\r\n\r\nEnemies can see this beam and discern your exact location from it.",
     "LocalizedString": "Освещает область прямо перед вами.\r\n\r\nВраги могут видеть его луч и по нему определять ваше точное местоположение."
+  },
+  {
+    "Namespace": "",
+    "Key": "1EB049F740EACEA4C1B20B8A8AD5363C",
+    "Hash": 2215929154,
+    "SourceString": "If equipped: While using a one-handed weapon you can hold :WepToggle: to hold in the offhand.",
+    "LocalizedString": ""
   }
 ]

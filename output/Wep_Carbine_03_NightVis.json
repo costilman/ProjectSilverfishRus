@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "7AB81FDA4264AB54C04B3E81304FEEFE",
+    "Hash": 3503629221,
+    "SourceString": "A compact, bullpup AR that fires a 2 round burst at extreme fire rates. Fitted with Night-Vis Scope.",
+    "LocalizedString": "Компактная Булл-пап AR винтовка, стреляющая 2-зарядными очередями с экстремальной скоростью. Оснащен прицелом ночного видения."
+  },
+  {
+    "Namespace": "",
+    "Key": "5670DDDE47A8446711E3A2AB78A27FE7",
+    "Hash": 4082483807,
+    "SourceString": "Press :WepToggle: to toggle Night-Vision Scope.",
+    "LocalizedString": "Нажмите :WepToggle: для включения/выключения прицела ночного видения."
+  }
+]

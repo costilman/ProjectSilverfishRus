@@ -29,6 +29,13 @@
   },
   {
     "Namespace": "",
+    "Key": "8E6CC13C4E99600FCAEDE9B233962BA0",
+    "Hash": 2459849087,
+    "SourceString": "Data Hoard",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "943C73FE4A39B221D02174BC0539DE8F",
     "Hash": 979607551,
     "SourceString": "This is a SAFE ZONE:\r\n\r\nYou can lower your weapon by holding down the :Grab: Key",

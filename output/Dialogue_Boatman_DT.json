@@ -29,6 +29,13 @@
   },
   {
     "Namespace": "",
+    "Key": "F9EF4B794AC1A63DC759D5B6FB7A893E",
+    "Hash": 425206733,
+    "SourceString": "I need you to take me out of the Zone...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "25F0750444A8FDB2E4ED1E85A1833064",
     "Hash": 4101124802,
     "SourceString": "What’s the Observatory?",
@@ -114,9 +121,9 @@
   {
     "Namespace": "",
     "Key": "7DC66DED41A7DF41C0DFEF855C26564F",
-    "Hash": 891163036,
-    "SourceString": "But don’t be expecting them to have your back if yall get in a fight. I learned that the hard way…",
-    "LocalizedString": "Но не рассчитывай, что они прикроют тебя в бою. Я усвоил это на собственном опыте…"
+    "Hash": 1496303935,
+    "SourceString": "But don’t be expecting them to have your back if y'all get in a fight. I learned that the hard way…",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -222,5 +229,54 @@
     "Hash": 1388607976,
     "SourceString": "*HISS*",
     "LocalizedString": "«Шшшшшшш…»"
+  },
+  {
+    "Namespace": "",
+    "Key": "8F48236A493A6A056743CC8E7DEF483F",
+    "Hash": 2079469737,
+    "SourceString": "Are you sure? You finished all your business here, paid all your debts? ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4AD556F14225F86264AF79A52269144B",
+    "Hash": 1214754911,
+    "SourceString": "Because this is my last visit to the Zone; I ain't bringing no one back here after this.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B0DD098A4A81EF43F2853788C7A80EC9",
+    "Hash": 4125612152,
+    "SourceString": "On second thought, there's something else I need to get to first...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B54B913A4A643909D4D48E9BCAF6584B",
+    "Hash": 4106697731,
+    "SourceString": "I'm ready, get me the hell out of here.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "54E7884A42011E074B5E7C91AE20589E",
+    "Hash": 1753992314,
+    "SourceString": "Now wait just a minute; I can't take you back with all that contraband!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B5FEBB8D47C3AF35605CCEA519548E4A",
+    "Hash": 1057983128,
+    "SourceString": "You can bring cash and your clothes, but everything else gotta be sold or left behind.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A3182E174AB579061EE59B9E6501BC9A",
+    "Hash": 650405600,
+    "SourceString": "...",
+    "LocalizedString": ""
   }
 ]

@@ -159,5 +159,61 @@
     "Hash": 2010721043,
     "SourceString": "What the hell’s wrong with your bathroom?",
     "LocalizedString": "Что, чёрт возьми, у тебя с туалетом?"
+  },
+  {
+    "Namespace": "",
+    "Key": "69C3D76C4CFBB87DD6F19A99EC192A43",
+    "Hash": 3766996293,
+    "SourceString": "Hey, you! Why are you standing out in front of my store and scaring away customers?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2DDF9A784BEBEEE77B26F1BF05C3E841",
+    "Hash": 2704852287,
+    "SourceString": "Are you trying to destroy my business?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EF338CDD4C1C4FA562CEAC892DB37C18",
+    "Hash": 4004861979,
+    "SourceString": "What? No, I was just following orders..",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD1D82BC45A8A508133FBFAC9CFE3C2C",
+    "Hash": 3884119418,
+    "SourceString": "Oh? Orders? Are you a dog?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1AFA1BB1443F6A11B4982D8F6E921C5A",
+    "Hash": 2782936590,
+    "SourceString": "Loyal butt-sniffing doggy who does what they are told!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "95C8FDCD4E044E017DC80089319C92F8",
+    "Hash": 3062681011,
+    "SourceString": "Go back to your owner and tell him I am not pet-sitter!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "79EB72714EEFF2BFFD60B89E664BF0A4",
+    "Hash": 2000622633,
+    "SourceString": "And stop barking at customers!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F0D3480C4CC0B5B84F08CD8C42086444",
+    "Hash": 650405600,
+    "SourceString": "...",
+    "LocalizedString": ""
   }
 ]

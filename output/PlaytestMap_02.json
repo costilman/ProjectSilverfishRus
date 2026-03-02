@@ -1,0 +1,443 @@
+[
+  {
+    "Namespace": "",
+    "Key": "9269A3E44C3CCE1E6D6FC7955CBCFBF2",
+    "Hash": 2118919604,
+    "SourceString": "Global Board",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1B9E25F64CE5900313CF3D861B85F06E",
+    "Hash": 673903815,
+    "SourceString": "Contracts",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "21BD54BB460BE090C3FF289CAC2482D1",
+    "Hash": 3406914444,
+    "SourceString": "Job Board",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4D68B7DA4DA3223409225798856E514C",
+    "Hash": 3406914444,
+    "SourceString": "Job Board",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "848AA7CA478E7B27C589578EC0796486",
+    "Hash": 3320986939,
+    "SourceString": "Missions",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4145B605493D711FF81993A4FC0BDC64",
+    "Hash": 3406914444,
+    "SourceString": "Job Board",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "178DD432484EF73F05D278B54BA2EB3A",
+    "Hash": 3406914444,
+    "SourceString": "Job Board",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2B168FB04D86C0C9568906B2647D0F51",
+    "Hash": 3555855790,
+    "SourceString": "150M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "28461BEC4FA638FC7740C6A03A3B8AF0",
+    "Hash": 2808800289,
+    "SourceString": "120M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3BD3CD5C4BB40B79BE9D63B07F1CAD45",
+    "Hash": 1654246988,
+    "SourceString": "200M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D929A5D443E048120AF54593D1C812D0",
+    "Hash": 1869921641,
+    "SourceString": "20M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C409055542A1E291CC8F5CB3301C1F14",
+    "Hash": 418017177,
+    "SourceString": "10M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "916C43AF4742BE3EEE0007BD8BDDE1C3",
+    "Hash": 468473062,
+    "SourceString": "50M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "72F53A4A4137D1146EA420980C83C947",
+    "Hash": 4107399430,
+    "SourceString": "30M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BC3564B04F8A35626818DC93DC5ADD7B",
+    "Hash": 1263631038,
+    "SourceString": "100M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "636E05EA4034FF21C0A5F8A182B1F9A1",
+    "Hash": 4158114425,
+    "SourceString": "70M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6F45FEAB4E8D4FC998190498D84909E0",
+    "Hash": 2808800289,
+    "SourceString": "120M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C11695B24AA12CBB804936B2CE1DB1ED",
+    "Hash": 3555855790,
+    "SourceString": "150M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4DB7E3E44E8E93BE6131F7ABE12FAC44",
+    "Hash": 1654246988,
+    "SourceString": "200M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9CD4002646EC62725537B0A2AED40A49",
+    "Hash": 3438370781,
+    "SourceString": "300M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A5145AC042492156179C8DBC8E61309D",
+    "Hash": 1869921641,
+    "SourceString": "20M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5C4FABC64170F4885884FFA38B271873",
+    "Hash": 3438370781,
+    "SourceString": "300M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FC39CB5A4BCF26F5CA54C780CE6585BC",
+    "Hash": 2673882681,
+    "SourceString": "500M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A6CAEEFC4A31AB27B5513196DDAC55CC",
+    "Hash": 2673882681,
+    "SourceString": "500M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1FEC89134A05052463A503974E9F8411",
+    "Hash": 2567633823,
+    "SourceString": "1000M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "28605B8349C9891D088456B1EEAB068C",
+    "Hash": 2567633823,
+    "SourceString": "1000M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C6AE7DB744A0657E34C322BDE6CB1659",
+    "Hash": 418017177,
+    "SourceString": "10M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "261C48504F5AA540DA7764AB1F2667FC",
+    "Hash": 468473062,
+    "SourceString": "50M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "91C7BD77436A60CCDD4505BD186E094A",
+    "Hash": 4107399430,
+    "SourceString": "30M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2150EC944CB63287B7873A780B56203",
+    "Hash": 1263631038,
+    "SourceString": "100M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2E3809E47541F055EDB86BE15D8CB55",
+    "Hash": 4158114425,
+    "SourceString": "70M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C84AB99D44B518EC05E2C5B00C7E7896",
+    "Hash": 3555855790,
+    "SourceString": "150M",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7585A5CF47C2B35D6ACEFE88465D6B01",
+    "Hash": 2341832161,
+    "SourceString": "Test Level",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "280C37EF4CC2F93BBBBEA286831172C1",
+    "Hash": 281598240,
+    "SourceString": "Cheat Shop",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "145B8A1D4123E1D4192854A3F82C6314",
+    "Hash": 173716849,
+    "SourceString": "Test Shop With a Name That is very long",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DE962E5B45A272C82BC5A994492FAC26",
+    "Hash": 1028115194,
+    "SourceString": "Mamma Roach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B9BE51BE4797A1B0DCD044AA82A3F118",
+    "Hash": 1447312032,
+    "SourceString": "Global",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "139E289D40D6B02582E85CACD2F87806",
+    "Hash": 4001117533,
+    "SourceString": "Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "634C28174A18B05D492AD384FACAE090",
+    "Hash": 673154708,
+    "SourceString": "Dr. Mosby",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6E6273BA4F71BCF4DAB29D89EA6D4FFE",
+    "Hash": 3487406960,
+    "SourceString": "NFTA",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A3EC918C42B28D8417DEF1BB66F2D475",
+    "Hash": 433628370,
+    "SourceString": "Big Iron",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "31A959E440577942AF8E42AC9C0E1324",
+    "Hash": 2325671312,
+    "SourceString": "Lone Wolf",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E4E6AB0B49688A14FFD88AA1DED12678",
+    "Hash": 2788997242,
+    "SourceString": "CHOPPER",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "456A3E5345357C4740C4A284B87B96E4",
+    "Hash": 2788997242,
+    "SourceString": "CHOPPER",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1FCBB2214FF8BEE7EA0DA990B0547079",
+    "Hash": 722942922,
+    "SourceString": "TANK",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "516208C04D109F818AA675922F2B6232",
+    "Hash": 722942922,
+    "SourceString": "TANK",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2C7AFF774216BA29FCED0980E6428970",
+    "Hash": 2989133612,
+    "SourceString": "SALOON",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6DA5F32D4E4221568123E4B6010F4D15",
+    "Hash": 4001117533,
+    "SourceString": "Broker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "06595A9E4BBC8922261EE79E63DCA7F8",
+    "Hash": 1383598394,
+    "SourceString": "DROPSHIP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "18AB522247BFD61BF157408B606548C9",
+    "Hash": 151495467,
+    "SourceString": "Lab RG West",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6C0A267C4007FD6BDE9B5AA8E50955B2",
+    "Hash": 3681461478,
+    "SourceString": "DeadBridge",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "920039E4415F3292FC5BDFB5CA629B3F",
+    "Hash": 4287201846,
+    "SourceString": "Borough",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FF5EC6C34260B6C50F053C9361589988",
+    "Hash": 433628370,
+    "SourceString": "Big Iron",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0D9C346B4195FA9E1765178C1E3664F3",
+    "Hash": 3830229836,
+    "SourceString": "LoneWolf",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7680071145E3175062FB7DBE27395059",
+    "Hash": 1383598394,
+    "SourceString": "DROPSHIP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F2BAA5354EFD8DD08B54F5B4BFF06150",
+    "Hash": 1927731263,
+    "SourceString": "NAV TEST",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "01D86D414D5A346DB211C48062144270",
+    "Hash": 722942922,
+    "SourceString": "TANK",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BB61BC0646F69F125D5E1EB07E2B08BA",
+    "Hash": 2397072060,
+    "SourceString": "CROSSROAD",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "634AB31B47C273A27DDDDBB16D13560B",
+    "Hash": 62835199,
+    "SourceString": "BUG TEST",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3280501E451084EFAE7707ACD0FEABB6",
+    "Hash": 720703838,
+    "SourceString": "RESET",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "33115BB9479EED927C814CB7C055906F",
+    "Hash": 722942922,
+    "SourceString": "TANK",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EC90C0784F7DA62B2F6067A7A1D1CA42",
+    "Hash": 2402730256,
+    "SourceString": "0451",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "34AA82BA44C97D9307E0B3823224F25F",
+    "Hash": 1070730452,
+    "SourceString": "1234",
+    "LocalizedString": ""
+  }
+]

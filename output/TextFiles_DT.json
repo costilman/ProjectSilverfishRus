@@ -93,9 +93,9 @@
   {
     "Namespace": "",
     "Key": "645C3AC24771A069CF9990976CBFED07",
-    "Hash": 3528019061,
-    "SourceString": "Small village on the Redrook River, south-east of Port Rale, West Carcaso. \r\nLocation of the Beauly Chemical Mill.",
-    "LocalizedString": "Небольшая деревня на реке Редрок, к юго-востоку от Порт-Рэйла, Западная Каркоза. \r\nМестонахождение химического завода Бьюли.\r\n"
+    "Hash": 3643975101,
+    "SourceString": "Small village on the Redrook River, south-east of Port Rale, West Carcosa. \r\nLocation of the Beauly Chemical Mill.",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -243,5 +243,124 @@
     "Hash": 2050663869,
     "SourceString": "Chemical storage and processing facility west of the village of Beauly, on the Redrook River. \r\nJointly owned and operated by Standard Eather Company and Savlo Industries. \r\nStores and processes Eather-derivatives and other associated materials. \r\n",
     "LocalizedString": "Химический склад и перерабатывающий завод к западу от деревни Бьюли, на реке Редрук. \r\nСовместно принадлежит и управляется Standard Eather Company и Savlo Industries. \r\nХранит и перерабатывает производные эфира и другие сопутствующие материалы. \r\n"
+  },
+  {
+    "Namespace": "",
+    "Key": "05F52F0A48C8D21F16CF5599ECDF1B38",
+    "Hash": 926517490,
+    "SourceString": "Code: KR-332\r\n\r\nLocation: SERVER HALL 03\r\n\r\nTerminals:\r\n\r\n-Server Hall 03\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "92DC05DB4B04AF68B494BFB192A63108",
+    "Hash": 1226182080,
+    "SourceString": "Code: HG-821\r\n\r\nLocation: SERVER HALL 03\r\n\r\nTerminals:\r\n\r\n-Dispatch Hall, West Wing\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2F1D0F474020FBCAE13979897EDCF0FE",
+    "Hash": 71837674,
+    "SourceString": "Code: PT-009\r\n\r\nLocation: SERVER HALL 03\r\n\r\nTerminals:\r\n\r\n-Control Tower\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C472252A4EF0AF3FD556059496ED9A4B",
+    "Hash": 1156028170,
+    "SourceString": "Code: QA-656\r\n\r\nLocation: Dispatch Hall, East Wing\r\n\r\nTerminals:\r\n\r\n-Control Tower\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BDEE06154299BCACC1256EB5BFF2289C",
+    "Hash": 162681888,
+    "SourceString": "Code: JJ-915\r\n\r\nLocation: Dispatch Hall, West Wing\r\n\r\nTerminals:\r\n\r\n-Server Hall 03\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5D9263B945B7436F09591EB75C3CA291",
+    "Hash": 1582599682,
+    "SourceString": "Code: PF-777\r\n\r\nLocation: Dispatch Hall, West Atrium\r\n\r\nTerminals:\r\n\r\n-Control Tower\r\n\r\n-Server Hall 03\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "26BD07424962E6D1BAA4609C96D0FE47",
+    "Hash": 3673817309,
+    "SourceString": "Code: MH-004\r\n\r\nLocation: Utilities K-04\r\n\r\nTerminals:\r\n\r\n-Dispatch Hall, West Wing\r\n\r\n-Control Tower\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4AF1D0194ED7C5F035271B956FF97B57",
+    "Hash": 1167102427,
+    "SourceString": "Code: AD-403\r\n\r\nLocation: Utilities K-04\r\n\r\nTerminals:\r\n\r\n-Dispatch Hall, West Wing\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DE1A082C4F8E687A2F18C2AD4329EB43",
+    "Hash": 1797950079,
+    "SourceString": "/// CPU CORE ERROR ///\r\n\r\nCPU CAPACITY: 23.6% \r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5C41B6774D6D7DC2741F6CA35280AF5D",
+    "Hash": 2373256663,
+    "SourceString": "[DATA ERASED]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F7A0E1924F8F54BC533787ACCC502EA0",
+    "Hash": 2373256663,
+    "SourceString": "[DATA ERASED]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B51D092347A4354D50090C9DE1CF2ADC",
+    "Hash": 2373256663,
+    "SourceString": "[DATA ERASED]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "717187714A3C9BABA57F779390FAB4B4",
+    "Hash": 2373256663,
+    "SourceString": "[DATA ERASED]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "87F42314414B8418E014D5BC3C95AA48",
+    "Hash": 2649677653,
+    "SourceString": "He was sitting, naked on the stone floor, in the center of the chamber.\r\nSurrounding him were seven red candles arranged in a circle.\r\n\r\nUpon my approach, he stood and faced me.\r\nHe held his left hand flat, palm forward with the thumb extended.\r\nHis right hand pointed with two fingers toward the ground.\r\n\r\n\r\nFor a moment he stood like that, shivering and croaking.\r\nUntil, with a raspy and long unused voice, he finally shouted:\r\n\r\n\"\r\nMak'iale! Mak'iale!\r\nDeliver us to that highest peak\r\nWhere all things are unhidden!\r\nGrant our eyes to see the forbidden light!\r\n\r\nMak'iale! Mak'iale!\r\nLend us the truth so that we may leave the dark!\r\nLet us drink the wine!\r\nLet us die in wisdom!\r\n\r\nMak'iale! Mak'iale!\r\nDeliver us from the dark!\r\nLet it be unhidden!\r\nLet the truth destroy us!\r\n\"\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DD6B90D14CE4A09EA7DA0DA7BBD92A89",
+    "Hash": 2373256663,
+    "SourceString": "[DATA ERASED]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5527647E4953E18D72E52E878A9F9098",
+    "Hash": 2373256663,
+    "SourceString": "[DATA ERASED]",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "64628C574C4E27D2F4B3D2A65B87D929",
+    "Hash": 2373256663,
+    "SourceString": "[DATA ERASED]",
+    "LocalizedString": ""
   }
 ]

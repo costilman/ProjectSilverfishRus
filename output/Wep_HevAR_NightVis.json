@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "3E0945BE41F5BBB816B2848AE9994E78",
+    "Hash": 2474720532,
+    "SourceString": "A modernized version of the PK-46 fitted with Bakelite furniture and Night Vis Scope. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FD578FDA4D065AD3FE1127974615BD63",
+    "Hash": 4082483807,
+    "SourceString": "Press :WepToggle: to toggle Night-Vision Scope.",
+    "LocalizedString": "Нажмите :WepToggle: для включения/выключения прицела ночного видения."
+  }
+]

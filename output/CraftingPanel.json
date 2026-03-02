@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "4C83E4AC4F7CF9DC3E26E2A0C4147913",
+    "Hash": 2696345315,
+    "SourceString": "Search...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "390D43E04C5AE48D0A97BC8D7EB7F78C",
+    "Hash": 4116865719,
+    "SourceString": "CRAFT x1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BF234A6E4F6F7A830F43CBB18C87207B",
+    "Hash": 2612631557,
+    "SourceString": "<",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "50CE1EF94584A23B76966998AFD96A61",
+    "Hash": 833638542,
+    "SourceString": ">",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A74774094A1074A1385522BA59C141F5",
+    "Hash": 3252858063,
+    "SourceString": "Item Name",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9CE833094D3AE5BB5AD10FAC61AAE07D",
+    "Hash": 1311952408,
+    "SourceString": "x99",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0BC14F114CB572D58B6D5F837CED98C4",
+    "Hash": 1299157396,
+    "SourceString": "CRAFTING",
+    "LocalizedString": ""
+  }
+]

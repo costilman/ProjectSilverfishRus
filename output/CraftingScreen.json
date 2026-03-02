@@ -1,0 +1,9 @@
+[
+  {
+    "Namespace": "",
+    "Key": "C6A7391C493FB804492757AACE47FF47",
+    "Hash": 1067696512,
+    "SourceString": "Inventory Controls;Left Click: Take/Place Item\r\n\r\nRight Click: Item Context Menu\r\n\r\nMiddle Click: Split Item Stack\r\n\r\nShift+Left Click: Quick Use/Transfer Item\r\n\r\nCtrl+Left Click: Stash Item\r\n\r\nCtrl+Middle Click: Stash Half of Stack",
+    "LocalizedString": "Управление инвентарём;ЛКМ: Взять/положить предмет\r\n\r\nПКМ: Контекстное меню предмета\r\n\r\nСКМ: Разделить стопку\r\n\r\nShift+ЛКМ: Быстрое использование/перемещение\r\n\r\nCtrl+ЛКМ: Положить в тайник\r\n\r\nCtrl+СКМ: Положить в тайник половину стопки"
+  }
+]

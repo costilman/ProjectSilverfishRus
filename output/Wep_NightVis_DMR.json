@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "AFE25C764EEF4C4A191EAE923EB479E9",
+    "Hash": 2924990696,
+    "SourceString": "A modified BR-61 fitted with a Night Vision scope.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3159C67B45C4B153C46E2A897D36C6B9",
+    "Hash": 4082483807,
+    "SourceString": "Press :WepToggle: to toggle Night-Vision Scope.",
+    "LocalizedString": "Нажмите :WepToggle: для включения/выключения прицела ночного видения."
+  }
+]

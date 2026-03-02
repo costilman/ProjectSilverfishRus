@@ -383,5 +383,964 @@
     "Hash": 1549864831,
     "SourceString": "Alyx",
     "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "716AEB664D081AB7E7C0E4896E4C21F0",
+    "Hash": 82457921,
+    "SourceString": "a farmer",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9B7C00D345DFCF7B33440FBAA47A5F52",
+    "Hash": 2999542525,
+    "SourceString": "a postal worker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DC3AA75B40FF1D3F3F7CF5A7879AB33A",
+    "Hash": 109448101,
+    "SourceString": "an activist",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FC24647B46E305208BACF7993A43E8BF",
+    "Hash": 4222877534,
+    "SourceString": "a student",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "31F7F83B423E0858345EADB2E1DA65DA",
+    "Hash": 2417751834,
+    "SourceString": "a fishmonger",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3BB5036B496270840836EA819F8F5B31",
+    "Hash": 4146185182,
+    "SourceString": "a vagrant",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B496EA604E3FEC62DF7551B0CFEC4920",
+    "Hash": 1885395596,
+    "SourceString": "a failed actor",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B9D52B56440316DB8AC218A14F0E86AC",
+    "Hash": 3925830501,
+    "SourceString": "a wanted felon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B4B98B4C4E7C1FE0002D81A3D33BD5E9",
+    "Hash": 2496303028,
+    "SourceString": "a wealthy fail child",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5AD69EEA4C92EDDB23E60EA5056C4A61",
+    "Hash": 1137378026,
+    "SourceString": "a dumb kid",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0318304745BAB82EBDE5A7BF3DB51BBA",
+    "Hash": 1456276519,
+    "SourceString": "a baker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "04CFAAC34A8121E8604C5A8CD02E9E84",
+    "Hash": 2287151423,
+    "SourceString": "a drunk",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "69D8023242E3971D8FCD45B8A6FCB294",
+    "Hash": 1469376478,
+    "SourceString": "a veteran",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3FB1EF214C4D6EF88DDEE982A178339B",
+    "Hash": 1411379789,
+    "SourceString": "a scientist",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "013E3D1D4B2DCFBA43A64ABB289857B5",
+    "Hash": 3141142057,
+    "SourceString": "a spy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6E61FE1A4AA383D1E27BE4BB4343D2A3",
+    "Hash": 2067848658,
+    "SourceString": "a famed bounty hunter",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6525AB074B822AC7CF89AD8911D8AA55",
+    "Hash": 1283276882,
+    "SourceString": "some asshole",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9576E32641B94F9492CDBBAF6A06F163",
+    "Hash": 26732952,
+    "SourceString": "a retail worker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "08AC0CDF4EAF0E1DC9585295EF3D08C8",
+    "Hash": 3950495899,
+    "SourceString": "an aspiring mime",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "957D45C94B40D8DB30D2E58908661A26",
+    "Hash": 1933261291,
+    "SourceString": "some creep",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CB732E6240121597FAB8D288BA521C02",
+    "Hash": 2850403738,
+    "SourceString": "some loser",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "60F3CBD7422903B7F12ABA8365C8D129",
+    "Hash": 2401617861,
+    "SourceString": "some guy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4C72936E464D89FA34E7DF84E720F09B",
+    "Hash": 1966777110,
+    "SourceString": "some stoner",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C07EC9A44C6A375C041B2E9642AD05A7",
+    "Hash": 3871453882,
+    "SourceString": "some goon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C4D39DDA446994AED8B80D89E4EC0105",
+    "Hash": 2246660520,
+    "SourceString": "a little goober",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3542BC3E431D3315A8976488AC8B2BEC",
+    "Hash": 269705145,
+    "SourceString": "some gal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7571E49D4F2F8A729EABB9B74A5426A2",
+    "Hash": 1056558613,
+    "SourceString": "a young woman",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C62A08594E329E8C3212E8A910CA6425",
+    "Hash": 997017961,
+    "SourceString": "a young man",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2A4166D84E41A88CB986B39D5D68C59E",
+    "Hash": 317516249,
+    "SourceString": "some young fool",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A829B0B048F494C3FFA210B678D1C137",
+    "Hash": 222923943,
+    "SourceString": "a little coward",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C2C587BF4443DF195FE3E88E1D67548F",
+    "Hash": 3257616612,
+    "SourceString": "a little freak",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CBE1FAF44C2B24500DF1FA8F62E512A1",
+    "Hash": 2076490170,
+    "SourceString": "a lonesome drifter",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C9406DF14F4EA3E3FB4882BBE0B25D05",
+    "Hash": 1792412415,
+    "SourceString": "a tiny, frail thing",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4C8F7D4E4B026E2C13AFDDA0FBB51F0D",
+    "Hash": 3868822072,
+    "SourceString": "a roving troubadour",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C0D80A6949F4F8A894E632895162CE77",
+    "Hash": 3762585952,
+    "SourceString": "some punk",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE7B92254D9EEC0EB7736C8F88D9C5BB",
+    "Hash": 738438018,
+    "SourceString": "some troublemaker",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "15B0495E412C09234568B09F590FC366",
+    "Hash": 1155609533,
+    "SourceString": "a rabble-rouser",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F90B6ED94B6425A958139E88D3CBCE7E",
+    "Hash": 1114379461,
+    "SourceString": "a pickpocket",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B7FC4E3447F0C43907A597913A5CCEC8",
+    "Hash": 4212648567,
+    "SourceString": "a marine biologist",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "14AB7D4F4479774F0AF293B3C7CF4E2B",
+    "Hash": 2871006239,
+    "SourceString": "a marriage counselor",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "487E8848475DD5C1F5FA52B5DAAF55B4",
+    "Hash": 3692257886,
+    "SourceString": "a thief",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0993DB22480D12598800828DA8F52F11",
+    "Hash": 136882711,
+    "SourceString": "a washed-up sports star",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "222AC2024CD3D05595D4ACA8371BC56C",
+    "Hash": 1933032969,
+    "SourceString": "a mystic",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "824D322A422AAE584B77D6955011EBB2",
+    "Hash": 3421975471,
+    "SourceString": "a washed-up detective",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "017E8054461024C73FA1A3BE33CF9FB1",
+    "Hash": 2803460504,
+    "SourceString": "a complete ninny",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E56D76EC480B12A863AAC7BCE1D105DC",
+    "Hash": 4020999174,
+    "SourceString": "a washed-up celebrity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F8384D9846528C7BC4DA739F31F6BA8F",
+    "Hash": 4147238815,
+    "SourceString": "a disgraced doctor",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2257829143C144AEAD716C86F313FDD6",
+    "Hash": 844647964,
+    "SourceString": "the Cartesian Islands",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EC1D6516437BDADC6839E9B362F7B52E",
+    "Hash": 2508533815,
+    "SourceString": "an EDP member state",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8D504DE848A6A9B373EE768F8AA71944",
+    "Hash": 4040269713,
+    "SourceString": "a land far to the east",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "17B83DC74386C81478474E87C5F3475A",
+    "Hash": 2454765331,
+    "SourceString": "a land far to the west",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E2A4D197424331D505BAB0AB72062494",
+    "Hash": 1704955764,
+    "SourceString": "a sleepy coastal town",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1630618E423361541BF29BBD5CCF93E5",
+    "Hash": 969109547,
+    "SourceString": "a large port city",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7C673F6241E61241608C198CBEF233B0",
+    "Hash": 1787163738,
+    "SourceString": "a frigid wasteland in the north",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AF7B23A64A326FA747EF57833394493A",
+    "Hash": 3939629683,
+    "SourceString": "a western university",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B1E7D7B84EC24D0FCCE8A09FAD725D43",
+    "Hash": 3229958712,
+    "SourceString": "around these parts",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4F8E6F934FEFF4E3A21F39B9E78142C9",
+    "Hash": 2940182859,
+    "SourceString": "Propsat",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "659DC71E4B8CCF5715542E9788E47338",
+    "Hash": 1153019897,
+    "SourceString": "St. DeShan",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD0F28804289C874BE87D5B085070621",
+    "Hash": 3664033350,
+    "SourceString": "the capital",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3C018FF04ECF518E8C74F795895523E4",
+    "Hash": 105903041,
+    "SourceString": "a small village in the hills",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "27C5346E4D9B70F881EFE1BD63B3FA5A",
+    "Hash": 2978757670,
+    "SourceString": "a nearby mill town",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3C5EE5A746F059B8E86B1282FD6B0E34",
+    "Hash": 4064592323,
+    "SourceString": "a dying mining town",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F98DDD3D406E0C4F46C304A0C01320C2",
+    "Hash": 2978960880,
+    "SourceString": "Tycondaroga",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DA90B16A4C0E390A953E7C950403EAEC",
+    "Hash": 2592093242,
+    "SourceString": "the fucking ocean",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B79F66BB409BC46961737BB8E78B9972",
+    "Hash": 268736978,
+    "SourceString": "that hole over there",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C29DB03B4AC20CD9D4686FB621E05E17",
+    "Hash": 4264219657,
+    "SourceString": "another world",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A03C4EB74EFB8C20D71D72A3228F7AAA",
+    "Hash": 916630635,
+    "SourceString": "some shit-hole down south",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DCBB23494A00D351FB54BE930D6A12B9",
+    "Hash": 3416132183,
+    "SourceString": "bear country",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F531CE3466897ABE40D1F8413F04337",
+    "Hash": 752789853,
+    "SourceString": "the forest",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F7519922468E44177D807EA99EA4DF7C",
+    "Hash": 2712690697,
+    "SourceString": "a dumpster behind a burger joint",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FF3D30C0495C8A3D98F730B6D1D7973A",
+    "Hash": 3308381573,
+    "SourceString": "a very dark cave",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C7FAEF754534F384A12B7B8797A9BD44",
+    "Hash": 1278070400,
+    "SourceString": "a place of strange sights and sounds",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "223ACE87467895FDCB60B0BB7473C057",
+    "Hash": 3180881428,
+    "SourceString": "the sewer",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "181D347343434A5B4DF8E4882EA8D503",
+    "Hash": 3537283724,
+    "SourceString": "a miserable pile of broken dreams",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DC0530AF4D8E62D51B9578A214DC7F04",
+    "Hash": 161312775,
+    "SourceString": "a shattered commune",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "49F5DFF74E71D4F4FCD379A5CA7333D7",
+    "Hash": 3391111619,
+    "SourceString": "the hospital",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "27557C604A4CEC96121C1183B5EAE958",
+    "Hash": 4198163104,
+    "SourceString": "the cavern",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A2EAF48D4CDFF55804AE01A7A93D9086",
+    "Hash": 1833782766,
+    "SourceString": "the taiga",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B49331D143E94DF28431D3ACC066B911",
+    "Hash": 1729917836,
+    "SourceString": "the rolling steppes",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "864788B640DA39ECE981B1A49D2FE286",
+    "Hash": 3552121907,
+    "SourceString": "a desert country",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "63400B214139899D63C0DF8C8A877C26",
+    "Hash": 2427133273,
+    "SourceString": "a failed squat",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9A00EDBF4F22AABB550F50B8EB765E3F",
+    "Hash": 431664108,
+    "SourceString": "nowhere that's anyone's business",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "991086BB4141867C8AD77AA309C010F5",
+    "Hash": 3221643283,
+    "SourceString": "the jungle",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F975DEE44CC979CA66E827B829365417",
+    "Hash": 789902186,
+    "SourceString": "an unmarked settlement",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F7E6478347A825EA681448A0D29E3C6A",
+    "Hash": 3621638665,
+    "SourceString": "a commune in the swamps",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2E6E82CD4604A6DE16E2A994952A148F",
+    "Hash": 2861880787,
+    "SourceString": "an Eastern country",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A18B03EA4E23EAA697CDAD9E8A07F151",
+    "Hash": 3785320353,
+    "SourceString": "nowhere in particular",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "30E784DA49BA2755E221D7AECDB91028",
+    "Hash": 742460285,
+    "SourceString": "a sinister small town with many secrets",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B29DCF6F4B31C6C1D11EADB8ED9B1933",
+    "Hash": 3471117627,
+    "SourceString": "pay off your student loans.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "023D23134D13FFD1A0CEF79150F27708",
+    "Hash": 3917478267,
+    "SourceString": "pay off your gambling debts.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FEB7E1974BB9C9DB682DD497C4920F7E",
+    "Hash": 144412850,
+    "SourceString": "find valuable artifacts to sell for profit.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FB83A9F847FE66EAC5B606B53D67738C",
+    "Hash": 3673748141,
+    "SourceString": "kill some fascists!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "028FC052432FC2040378A3ADCF66AF8B",
+    "Hash": 481366782,
+    "SourceString": "find some cool radioactive junk.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D8E024254C62B4A174E04E8BF5653042",
+    "Hash": 1926689837,
+    "SourceString": "escape your past.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B0230C854BB51376A5CD5C8E5AD699CA",
+    "Hash": 3954853561,
+    "SourceString": "look for trouble.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CCEC3FAE4101B52DD655D8AE9CCCE8F5",
+    "Hash": 3223826574,
+    "SourceString": "build a fortune for yourself.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "65814EE4460291D5D62A1BA3816FA543",
+    "Hash": 3185167113,
+    "SourceString": "make money to send back home to your family.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E3A8145F4CE26B44280DBFB2B68ED900",
+    "Hash": 571751846,
+    "SourceString": "escape a life of poverty.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F9991C2F41B138B9BD931F9A0681AE64",
+    "Hash": 4241912658,
+    "SourceString": "earn money for your sick sister.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "194CDC9E47F7493D5AF142B5AA499FB5",
+    "Hash": 2628725452,
+    "SourceString": "pay off a debt you owe the mob.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "00E3F18E48DE89A2C85A93831F6A7B8A",
+    "Hash": 1629517110,
+    "SourceString": "fuck around and find out.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "280646BA4129640D95150786AC96C11E",
+    "Hash": 4000938785,
+    "SourceString": "steal shit.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8427CD184A9444C2607DC8B39A46F107",
+    "Hash": 757324148,
+    "SourceString": "find your real father.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B1F229C94DD3DD50629830B009B9E807",
+    "Hash": 660919559,
+    "SourceString": "find a date? Ok, good luck I guess...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6D586D3B4889AFA194069C92457FC0FC",
+    "Hash": 2412956486,
+    "SourceString": "sample the local cuisine. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F720718F45341BD308BEB2AE6E8BCB01",
+    "Hash": 4021212815,
+    "SourceString": "get your stupid ass kicked...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4F2D97C74F959BA4CE5F2A9F4D6EDC3F",
+    "Hash": 1150060180,
+    "SourceString": "exact your revenge on the man who killed your father! You have no idea who or where he is...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "97E720E14B36791A4A5CF4801FAFBBD6",
+    "Hash": 481366782,
+    "SourceString": "find some cool radioactive junk.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EE86F7B94200C773B16A1F9EC31637A3",
+    "Hash": 1333303047,
+    "SourceString": "discover yourself.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2F41878C433DCCBBCD680FA5BF4FB97E",
+    "Hash": 2469546752,
+    "SourceString": "kill the Strelok...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "76D9D52041A333BE71F36B81C327C082",
+    "Hash": 4199324012,
+    "SourceString": "die in a ditch.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8A79DEE14B1BFFDC04D401B68BBBE277",
+    "Hash": 2597829741,
+    "SourceString": "get eaten by some monster probably...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4E9DD1D3440B6C27D511679DBBD96C70",
+    "Hash": 3954853561,
+    "SourceString": "look for trouble.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CBE89C1D463AF96AED8B4280F590346E",
+    "Hash": 967445690,
+    "SourceString": "do some bird watching.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D4B76EFA4763C1A339ACDF97454432E4",
+    "Hash": 1219399487,
+    "SourceString": "find a cool rock!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F61F27645034F741CDAAB83E23E5112",
+    "Hash": 987079336,
+    "SourceString": "find love.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1FA4694349B0111CBF3A13B8A345F832",
+    "Hash": 172889737,
+    "SourceString": "find exotic drugs.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4B7F965A471133BCEBF98F8E0A1E3622",
+    "Hash": 976682388,
+    "SourceString": "find your lost dog.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AB6669684599342B7044E48611DDB186",
+    "Hash": 4238990657,
+    "SourceString": "catalogue the unique flora and fauna.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D38BDE1045AFDF345D9855999B6E020E",
+    "Hash": 328228091,
+    "SourceString": "start some fires.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "49A30B54405E1DE22395C5AE15E78A69",
+    "Hash": 1340290958,
+    "SourceString": "find that shining something you thought you'd lost long ago.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "806B6D6D4A6B0AB6800580AB42AC1102",
+    "Hash": 2330549705,
+    "SourceString": "earn money for a better life.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "12E6EC82456E562CAA2BD1BCE9BD6703",
+    "Hash": 880907034,
+    "SourceString": "find cool old shit.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2877CF9F42A0566443B06EB9A65F4025",
+    "Hash": 2048992413,
+    "SourceString": "do urbex photography.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6EA692A644768A0D6252A4A922C8AD4E",
+    "Hash": 3243225974,
+    "SourceString": "steal spark plugs.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "056BDDC445E4AF03120B738C40A6135E",
+    "Hash": 3909463168,
+    "SourceString": "follow up on a job.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "91C7D9C942728462EAA1DFB1F376CD8F",
+    "Hash": 1228856916,
+    "SourceString": "escape the law.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "13C247EA4D7F604FAB3E9AA018C7E45B",
+    "Hash": 2029898853,
+    "SourceString": "avoid your in-laws.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "55813FD54F4A369DD225A4935513EFE7",
+    "Hash": 737323199,
+    "SourceString": "find inner peace.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E43F11F24876EC942B5E549D5AD63181",
+    "Hash": 3655782615,
+    "SourceString": "become enlightened.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DF2537ED4348E40195061EA106F08535",
+    "Hash": 4280884846,
+    "SourceString": "live a life of adventure.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ECF98021419E5645E7B70D9A61AB6CF0",
+    "Hash": 2354677329,
+    "SourceString": "flee an unwanted marriage.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9F4351764339F2E7DFCFA2A99EBF396E",
+    "Hash": 3228413915,
+    "SourceString": "prove yourself.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1C7009F64FE2E864B9657E92622EA8E6",
+    "Hash": 2143807889,
+    "SourceString": "complete the final ritual!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "10600A0846EA3BE846F41C80D9C8D0D2",
+    "Hash": 3144147158,
+    "SourceString": "escape the price on your head.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "08016E454E94A3F0ED8C53AE77184226",
+    "Hash": 2223294950,
+    "SourceString": "start a band.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C4D6C4ED47782B5CAA9200AD95CF8967",
+    "Hash": 2026219499,
+    "SourceString": "find out what the numbers mean.",
+    "LocalizedString": ""
   }
 ]

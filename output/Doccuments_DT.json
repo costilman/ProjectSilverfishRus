@@ -254,9 +254,9 @@
   {
     "Namespace": "",
     "Key": "A06241954778B110BECF6D85C2DC0551",
-    "Hash": 2627912894,
-    "SourceString": "My contemporaries have failed me. The east falls to the animals. Eather itself proves finite. \r\n\r\nDuring my most recent term as Executive Chairman, I took charge of a radical but necessary initiative. My aim was the complete dedication of all Eather infrastructure towards my sacred project: re establishing mankind’s former greatness. It was already well known among the elite that the mining of Eather steadily eroded the very fabric of reality. There was only so much that could be taken before a second, much more catastrophic, threshold would be opened. \r\n",
-    "LocalizedString": "Мои современники подвели меня. Восток падает к животным. Сам Эфир оказался конечным.\r\n\r\nВо время моего последнего срока на посту Исполнительного председателя я возглавил радикальную, но необходимую инициативу. Моей целью было полное подчинение всей инфраструктуры Эфира моему священному проекту: восстановлению былого величия человечества. Среди элиты уже было хорошо известно, что добыча Эфира постепенно разъедает саму ткань реальности. Был лишь вопрос времени, когда изъятое превысит предел и откроется второй, куда более катастрофический, Порог.\r\n"
+    "Hash": 2319696167,
+    "SourceString": "My contemporaries have failed me. The east falls to the animals. Eather itself proves finite. \r\n\r\nDuring my most recent term as Executive Chairman, I took charge of a radical but necessary initiative. My aim was the complete dedication of all Eather infrastructure towards my sacred project: re-establishing mankind’s former greatness. It was already well known among the elite that the mining of Eather steadily eroded the very fabric of reality. There was only so much that could be taken before a second, much more catastrophic, threshold would be opened. \r\n",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -674,9 +674,9 @@
   {
     "Namespace": "",
     "Key": "653308B040F7CE43E917B8BD766DB982",
-    "Hash": 3641600200,
-    "SourceString": "Upon the Primary:",
-    "LocalizedString": "На главном:"
+    "Hash": 3153176144,
+    "SourceString": "Upon the Strand:",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -695,37 +695,30 @@
   {
     "Namespace": "",
     "Key": "369E208F4ED5043DF46E32ADAD14D946",
-    "Hash": 3413771576,
-    "SourceString": "Things taken from the Primary, remain taken.\r\n\r\nThings forsaken to this terrace, remain upon the strand.\r\n\r\nThe dreamer can not linger.\r\n\r\nOne must return from the dream.\r\n",
-    "LocalizedString": "Вещи, взятые с Главного, остаются взятыми.\r\n\r\nВещи, оставленные на этом ярусе, остаются на нити.\r\n\r\nСновидец не может задерживаться.\r\n\r\nНужно вернуться из сна.\r\n"
-  },
-  {
-    "Namespace": "",
-    "Key": "294770CA41F60A5190717CA0287E8F21",
-    "Hash": 983617791,
-    "SourceString": "   ",
-    "LocalizedString": "   "
+    "Hash": 1154800564,
+    "SourceString": "Things taken from the Strand, remain taken.\r\n\r\nThings forsaken to this terrace, remain upon the strand.\r\n\r\nThe dreamer can not linger.\r\n\r\nOne must return from the dream.\r\n",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "269513C3471BF06CB7370CAC9983B959",
-    "Hash": 2354354139,
-    "SourceString": "Upon the Secondary",
-    "LocalizedString": "На Втором"
+    "Hash": 3408816449,
+    "SourceString": "Upon the Lattice",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "B738B26E46A32003B7F867A755483F31",
-    "Hash": 1148007483,
-    "SourceString": "To imbibe deeper into the dream is sin.\r\n\r\nShades lurk among the secondary.\r\n\r\nGrave icons carve themselves into the dark slate.\r\n\r\nOnly fog hangs below the grey sun.\r\n",
-    "LocalizedString": "Углубляться в сон — значит грешить.\r\n\r\nВо Втором таятся тени.\r\n\r\nПогребальные знаки сами высеклись на чёрной плите.\r\n\r\nПод серым солнцем колышется лишь туман.\r\n"
+    "Hash": 752526374,
+    "SourceString": "To imbibe deeper into the dream is sin.\r\n\r\nShades lurk among the Lattice.\r\n\r\nGrave icons carve themselves into the dark slate.\r\n\r\nOnly fog hangs below the grey sun.\r\n",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
     "Key": "0384B63643EA7274839554B738841C97",
-    "Hash": 2585080660,
-    "SourceString": "The dreamer is forsaken within this terrace. \r\n\r\nDeath feasts above and below the lattice. \r\n\r\nNo treasures are to be claimed here; what is abducted is forfeit.\r\n\r\nNo truth can be observed in the secondary.\r\n",
-    "LocalizedString": "Сновидец оставлен в этом ярусе.\r\n\r\nСмерть пирует и сверху, и снизу решётки.\r\n\r\nНет здесь сокровищ; всё похищенное обращается в утрату.\r\n\r\nВо Втором истина не открывается.\r\n"
+    "Hash": 724243901,
+    "SourceString": "The dreamer is forsaken within this terrace. \r\n\r\nDeath feasts above and below the stoney web. \r\n\r\nNo treasures are to be claimed here; what is abducted is forfeit.\r\n\r\nNo truth can be observed in the Lattice.\r\n",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -736,17 +729,10 @@
   },
   {
     "Namespace": "",
-    "Key": "86D158704405DDC3E5BBB5A021B634CD",
-    "Hash": 983617791,
-    "SourceString": "   ",
-    "LocalizedString": "   "
-  },
-  {
-    "Namespace": "",
     "Key": "10BA1DA048B28E67D135F9A1386D3289",
-    "Hash": 2257500125,
-    "SourceString": "Upon the Tertiary",
-    "LocalizedString": "На Третьем"
+    "Hash": 2494011014,
+    "SourceString": "Upon the Deep",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -758,9 +744,9 @@
   {
     "Namespace": "",
     "Key": "FEBB50054D33750B3A0F5D990F5F065D",
-    "Hash": 2383130997,
-    "SourceString": "At the very focal point, a single sentinel stands, submerged to mere inches, suspended in perfect stillness.\r\n\r\nThe body is held by no footing and tied by no yoke. \r\n\r\nNo current sways its perfect tranquility. \r\n\r\nIt stands silent and fixed, like all else in the tertiary.\r\n",
-    "LocalizedString": "В самом центре стоит единый Страж, погружённый лишь на несколько пальцев, висящий в совершенной тишине.\r\n\r\nЕго тело не держит опора и не стесняет ярмо.\r\n\r\nНи одно течение не колышет его безупречного покоя.\r\n\r\nОн стоит молчаливый и недвижный — как всё на Третьем.\r\n"
+    "Hash": 695529482,
+    "SourceString": "At the very focal point, a single sentinel stands, submerged to mere inches, suspended in perfect stillness.\r\n\r\nThe body is held by no footing and tied by no yoke. \r\n\r\nNo current sways its perfect tranquility. \r\n\r\nIt stands silent and fixed, like all else in the Deep.\r\n",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -775,13 +761,6 @@
     "Hash": 2088528333,
     "SourceString": "To hold it is to know all the suffering of the earth.\r\n\r\nIt may never depart the dreamer's grasp.\r\n\r\nOne will be blind to the light of Polaris.\r\n",
     "LocalizedString": "Держать его — значит узреть всё страдание земли.\r\n\r\nОн навеки останется в руках сновидца.\r\n\r\nИ тот ослепнет для света Полярной звезды.\r\n"
-  },
-  {
-    "Namespace": "",
-    "Key": "99461316438E906DFEAF22BBF19020BB",
-    "Hash": 1130604139,
-    "SourceString": "     ",
-    "LocalizedString": "     "
   },
   {
     "Namespace": "",
@@ -810,13 +789,6 @@
     "Hash": 324634647,
     "SourceString": "Among this wellspring, there are exotic gems.\r\n\r\nTheir luster possess the holy light of stars. \r\n\r\nThey can be ground into a fine powder.\r\n\r\nWhen imbibed, one may venture into waking dreams.\r\n",
     "LocalizedString": "В Первоисточнике рождаются дивные камни.\r\n\r\nИх сияние несёт священный свет звёзд.\r\n\r\nИх толкут в тонкий порошок.\r\n\r\nПриняв его, человек может войти в сны наяву.\r\n"
-  },
-  {
-    "Namespace": "",
-    "Key": "760D7FC64AE4D524DA309192C69645F4",
-    "Hash": 983617791,
-    "SourceString": "   ",
-    "LocalizedString": "   "
   },
   {
     "Namespace": "",
@@ -912,9 +884,9 @@
   {
     "Namespace": "",
     "Key": "AAC0EF70413BCD1F0C6E3A94BE139867",
-    "Hash": 2438646481,
-    "SourceString": "XI The Obelisk:\r\n\r\nUnmoving, permanent, unchangeable, ever-present.\r\n\r\nThe Obelisk is older than time, and will stand long after the stars go dark.\r\n\r\n\r\n\r\nXII The WellSpring:\r\n\r\nLife, creation, beginning, source.\r\n\r\nAll things were born from The WellSpring. From it flows the lifeblood of creation.\r\n",
-    "LocalizedString": "XI Обелиск:\r\n\r\nНеподвижный, вечный, неизменный, вечно сущий.\r\n\r\nОбелиск древнее самого времени и простоит до времён, когда звёзды погаснут.\r\n\r\n\r\nXII Первоисточник:\r\n\r\nЖизнь, творение, начало, исток.\r\n\r\nВсё произошло из Первоисточника. Из него льётся сама жизненная кровь мироздания.\r\n"
+    "Hash": 2320030480,
+    "SourceString": "XI The Obelisk:\r\n\r\nUnmoving, permanent, unchangeable, ever-present.\r\n\r\nThe Obelisk is older than time, and will stand long after the stars go dark.\r\n\r\n\r\n\r\nXII The Wellspring:\r\n\r\nLife, creation, beginning, source.\r\n\r\nAll things were born from The Wellspring. From it flows the lifeblood of creation.\r\n",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -1146,5 +1118,145 @@
     "Hash": 3756973129,
     "SourceString": "Additionally: Our campaign in the north is stretching our resources thin. It is imperative that our elite troops be properly equipped in order to carry out our main objective. \r\nTherefore, our more expendable forces will have to make do with what can be scraped together on short notice. \r\n\r\nHave faith that any true patriot should be perfectly capable of persevering through these difficult conditions!\r\n\r\nTERRA REDDITA!",
     "LocalizedString": "Дополнительно: Наша кампания на севере растягивает ресурсы до предела. Крайне важно, чтобы наши элитные войска были должным образом оснащены для выполнения главной задачи.\r\nПоэтому более расходные силы придётся снабжать тем, что удастся собрать в кратчайшие сроки.\r\n\r\nИмейте веру: любой настоящий патриот способен выдержать эти тяжёлые условия!\r\n\r\nTERRA REDDITA!"
+  },
+  {
+    "Namespace": "",
+    "Key": "B719A3C1469BA11E40FCD980D310CA3C",
+    "Hash": 3170362580,
+    "SourceString": "Dead End Field Report",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E5A76187449BCB64AFF0B28A12EDA240",
+    "Hash": 3649813780,
+    "SourceString": "Field Report:\r\nMaster Sgt. G. Remby\r\n\r\n\"Dead End\" Outpost\r\n\r\n\r\nStatus update on operation Golden Needle:\r\n\r\nThe tunnel that was believed to lead to the northern zone has been discovered. However, it appears to have been long ago sabotaged by NFTA forces, likely during the initial containment attempt of the Exclusion Zone.\r\n\r\nThe tunnel entrance has been caved in using explosives, and is blocked completely by several meters of debris. Attempts to excavate the tunnel have been fruitless, resulting in 2 casualties so far. \r\n\r\nThe debris closing off the tunnel is particularly unstable and can not be safely excavated without sophisticated equipment. \r\n\r\nTo this end, I am requesting a supply of mining explosives and power tools to be delivered to this outpost. \r\n\r\nAs well as some more experienced engineers if possible.\r\n\r\nTERRA REDDITA!\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "10EED10C4E2C545CEDBEF083327BF2F3",
+    "Hash": 464247902,
+    "SourceString": "Terminal Security",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A793228B44B102DA395076B3BEAA321F",
+    "Hash": 1743421126,
+    "SourceString": "Lieutenant,\r\n\r\nIt is your duty to rotate the admin terminal password every 3 months.\r\n\r\nCommand has demanded that you ensure the password is secure and contains at least 20 digits.\r\n\r\nThis means you may not just swap between 1234 and 4321 each time.\r\n\r\nDo not let us have this conversation again.\r\n\r\n-Central Office, Commander J. Kelso.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51F5E322434B5175931D519C0067E89E",
+    "Hash": 410112147,
+    "SourceString": "Case File: Proxy Upload",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2662D26450B2A743C5EE38B3394AA6F",
+    "Hash": 3382496334,
+    "SourceString": "There's a top-secret set of encrypted NFTA files labeled \"F-COM LX-0977\".\r\n\r\nFind a military secure terminal somewhere in the Zone and download these files to a data tape.\r\n\r\nYou will then need to bring the data tape to an upload terminal in the #2 Control Tower at 'The Wall'.\r\n\r\nUpload the files and consider your debt paid.\r\n\r\nReport the upload to Magpie at the Lone Wolf Saloon and then make your own exit from the Zone.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6AD847D1441E39F83A567C8AAA6A2695",
+    "Hash": 88967983,
+    "SourceString": "Case File: Idle Hands",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6CC4DA8744E393C8D9E458A1CF7BE4FE",
+    "Hash": 3664266815,
+    "SourceString": "A former State Artificer turned religious terrorist is known to be hiding somewhere in the Northern Exclusion Zone.\r\n\r\nHe's known locally as \"The Craftsman\".\r\n\r\nHe holds dangerous knowledge about Eather-based weapons technology and is using it to facilitate the goals of a dangerous death cult operating in the area.\r\n\r\nThe NFTA wants absolutely zero connection to this operation, so do not expect any cooperation from local military forces.\r\n\r\nDiscreetly eliminate the target and report the code-word to the smuggler at the Lone Wolf Bar. We will wire your debt relief forms upon mission completion.\r\n\r\nExfiltrate from the zone by your own means afterwards. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "705E38DB4797CE22526E3DA1CD1DCCC7",
+    "Hash": 958280512,
+    "SourceString": "Case File: High Value Goods",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FC03ED4F459867ABEBE1F5B81488157A",
+    "Hash": 3066946700,
+    "SourceString": "There are several, high-value pieces of pre-threshold equipment that can only be found in this exclusion zone.\r\n\r\n-A Mk. 7 Prototype Eather Drill Laser Head.\r\n\r\n-A stable form of \"programmable matter\" known as Eather Resin.\r\n\r\n-And durable refillable Eather Canisters.\r\n\r\nOur organization is attempting to reverse engineer these technologies and will require at least one example of each.\r\n\r\nOnce secured, deliver these good to the Smuggler known as Magpie, he will forward the cargo to us, and in return we will make sure all of your standing debts are forgiven.\r\n\r\nOnce the job is done, make your own path out of the zone.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6AD5CA864B86B277BB413795FB0DDA9F",
+    "Hash": 2296678122,
+    "SourceString": "Data Breach",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CB1286864A8010A6CC2101BD59D462D6",
+    "Hash": 1662008098,
+    "SourceString": "It has come to our attention that there exists a good deal of sensitive data floating around in the exclusion zone. Our organization is very interested in potentially acquiring a few examples. Bring us tapes containing copies of the following:\r\n\r\n-NFTA active distress signal recording. Ping seems to be coming from a radio station in the eastern sector.\r\n\r\n-Lab E-206 research reports.\r\n\r\n-Southern Eather pump data.\r\n\r\n-Northern Eather ground saturation data.\r\n\r\n-Anything you can find in the abandoned NFTA Seaport: Fort Leto. We don't care if its encrypted, we can crack it.\r\n\r\nDeliver these tapes to the bartender at the Saloon near the docks. Once he gives us the word, we will forward your debt payment.\r\n\r\nFind your own way out of the zone.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7C9AE9F8431600106029029B1BB441C2",
+    "Hash": 2393898456,
+    "SourceString": "Thor's Hammer",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "96E882CF4F401779C78495A4DB7F1A89",
+    "Hash": 3449510534,
+    "SourceString": "A former State Artificer is known to be hiding somewhere in the Northern Exclusion Zone.\r\nThey call him \"The Craftsman\".\r\n\r\nHe specializes in Eather-based weapons technology and is said to be able to craft powerful Enchanted Weapons.\r\n\r\nWe are specifically looking for one of his most renowned designs: The Mjolnir. Bring back a working example to the smuggler known as Magpie, and we will make sure your debts disappear.\r\n\r\nEscape from the zone by your own means afterwards. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C41AD4DD4176DE87CDDB11A7D5084F51",
+    "Hash": 3803974058,
+    "SourceString": "NFTA Navi Office of Strategic Command: Aug 0087.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "750D2A0043169D8DD2F83F8CD54A5B16",
+    "Hash": 3470122973,
+    "SourceString": "Arcana Angelica",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "497AC28342B50D29D9612B9AF5025BA9",
+    "Hash": 4225372357,
+    "SourceString": "The Duties of the Angels: ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "071AEF53487144B53BD62D9040954384",
+    "Hash": 3044702925,
+    "SourceString": "He has one thousand eyes that do not see,\r\nOne thousand ears that do not hear,\r\nOne thousand mouths that do not speak,\r\nOne single hand, whose solitary, outstretched finger reaches down like lighting.\r\nIts touch is as wicked as it is random.\r\n\r\nOnly when the angels have fulfilled their duty and made the final world in harmony with him, \r\nonly then will he see, \r\nonly then will he hear, \r\nonly then will he speak, \r\nonly then when he has touched the earth will he know his name.\r\n",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7A382F0D4629829A00B6CD8A6F0A85A7",
+    "Hash": 99944994,
+    "SourceString": "In the final days, the Angels will come to walk the earth and pass judgment on all things:\r\nAll men, all mountains and rivers, every stone and pebble, even minor deities and concepts.\r\nThey will pass judgment on things like greed, death and suffering, light and darkness, life itself.\r\n\r\nWhen they have audited all of creation they will wipe the slate again clean, and draw upon it a new reality with new, refined laws. Casting aside all things that do not have the right to exist.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E187F8D9466477D424CD78B24718E52C",
+    "Hash": 3702848187,
+    "SourceString": "They have done this myriads of times, billions of cycles iterating the universe until it is complete and harmonious with Him.\r\n\r\nA world that he may see, \r\na world that he may hear, \r\na world that he may speak to, \r\na world that he may touch. \r\n\r\nThen when he is in harmony with the perfect reality, he may be named.\r\n\r\nOurs is the penultimate world. We stand on the edge of the final iteration. When it is done, he will touch the earth and all will be in perfect harmony.\r\n",
+    "LocalizedString": ""
   }
 ]

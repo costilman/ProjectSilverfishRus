@@ -43,41 +43,6 @@
   },
   {
     "Namespace": "",
-    "Key": "2869F96045C50E815A45DFBC77205409",
-    "Hash": 3116713639,
-    "SourceString": "Debtor",
-    "LocalizedString": "Должник"
-  },
-  {
-    "Namespace": "",
-    "Key": "87843A354B41291476754F9CDC5EA094",
-    "Hash": 1469398287,
-    "SourceString": "Kal",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "88ED2145460AF78606FC7792B3F3C74A",
-    "Hash": 3994327081,
-    "SourceString": "Stalker",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "43432B5342D0A244DD8FB386D822CF89",
-    "Hash": 3597405662,
-    "SourceString": "Stranger",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "651275B34F189AB321F1CB8357EDC5A6",
-    "Hash": 3474428774,
-    "SourceString": "Default player character. Starts with no gear or special attributes. ",
-    "LocalizedString": "Стандартный персонаж игрока. Начинает без снаряжения и особых атрибутов."
-  },
-  {
-    "Namespace": "",
     "Key": "48B75AD148D44FA38BD5E5B704E41E33",
     "Hash": 3450464498,
     "SourceString": "Guy",
@@ -470,48 +435,6 @@
   },
   {
     "Namespace": "",
-    "Key": "81242BC64DED4AB8CA666CA4AD5D021B",
-    "Hash": 2127106313,
-    "SourceString": "If True: \r\nCertain contracts will count as being failed if you die while they are active. Some will even penalize you for failure.",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "7CAD135D495FE21BC34F788BB0A7BE14",
-    "Hash": 3873397567,
-    "SourceString": "If True: \r\nYou will always save to the save slot you originally began your save file on.\r\n\r\nIf False: \r\nWhile saving at beds, you will be given the option to save your progress to any save slot.",
-    "LocalizedString": "Если включено: \r\nВы всегда будете сохраняться в тот же слот, в котором начали игру.\r\n\r\nЕсли выключено: \r\nПри сохранении у кровати у вас будет возможность сохранить прогресс в любой слот."
-  },
-  {
-    "Namespace": "",
-    "Key": "36EE7B6F493B53BE9EB7D5A077F86255",
-    "Hash": 2688305325,
-    "SourceString": "If True: \r\nEvery time you die, you will lose one Item Slot for the next time you respawn in 'Extraction' mode.\r\n\r\nIf False: \r\nYou will retain the same number of slots no matter how many times you die.",
-    "LocalizedString": "Если включено: \r\nКаждый раз, когда вы умираете, вы будете терять один слот для предметов при следующем возрождении в режиме 'Эвакуация'.\r\n\r\nЕсли выключено: \r\nВы сохраните то же количество слотов, независимо от того, сколько раз умрёте."
-  },
-  {
-    "Namespace": "",
-    "Key": "BCDE956A4283BF411124C09E8DD1ADB5",
-    "Hash": 2353742052,
-    "SourceString": "If True: \r\nLootable containers will be replenished slowly over time.\r\n\r\nIf False: \r\nNo loot will ever replenish. \r\n\r\n[Note: certain loot spawns will never replenish under any circumstance.]",
-    "LocalizedString": "Если включено: \r\nСодержимое контейнеров будет медленно пополняться со временем.\r\n\r\nЕсли выключено: \r\nПредметы никогда не будут пополняться. \r\n\r\n[Примечание: некоторые предметы никогда не пополняются ни при каких обстоятельствах.]"
-  },
-  {
-    "Namespace": "",
-    "Key": "B5E7841E4C43E3734119EB9859CDEB34",
-    "Hash": 1956219025,
-    "SourceString": "If True in 'Load Save' mode: \r\nYour save file is immediately wiped upon death.\r\n\r\nIf True in 'Extraction' mode: \r\nIf your number of 'Kept Items on Death' is zero, your save file is immediately wiped upon death. \r\n\r\nNOTE: For this feature to work in 'Extraction' mode, either 'Keep items on Death' must be set to Zero, or 'Lose Item Slot Each Death' must be set to True!",
-    "LocalizedString": "Если включено в режиме 'Загрузка сохранения': \r\nВаш файл сохранения немедленно удаляется после смерти.\r\n\r\nЕсли включено в режиме 'Эвакуация': \r\nЕсли количество 'Сохраняемых предметов после смерти' равно нулю, ваш файл сохранения немедленно удаляется после смерти. \r\n\r\nПРИМЕЧАНИЕ: Чтобы эта функция работала в режиме 'Эвакуация', 'Сохранять предметы после смерти' должно быть установлено 0, либо 'Терять слот для предметов при каждой смерти' должно быть установлено на Включено!"
-  },
-  {
-    "Namespace": "",
-    "Key": "6A87798546439EE80478EEA6934534D5",
-    "Hash": 1308905976,
-    "SourceString": "If True: \r\nThe game will auto-save every time you transition between levels. \r\n\r\nIf False: \r\nYou can only save your progress by sleeping in a bed.",
-    "LocalizedString": "Если включено: \r\nИгра будет автоматически сохраняться при каждом переходе между уровнями. \r\n\r\nЕсли выключено: \r\nВы можете сохранить свой прогресс, только поспав в кровати."
-  },
-  {
-    "Namespace": "",
     "Key": "A3F8B5714FDB5B4069AF07B3282E09F9",
     "Hash": 3022911026,
     "SourceString": "If True: \r\nShops will have limited inventories for all items. (These refresh each in-game day.)\r\n\r\nIf False: \r\nShops will have infinite stock for certain common items.",
@@ -551,118 +474,6 @@
     "Hash": 1485149679,
     "SourceString": "Class:",
     "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "D6EA6344498F94776E68DE81653C3C7A",
-    "Hash": 3513722813,
-    "SourceString": "0",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "9244DFC7403595A2689379A6851477D6",
-    "Hash": 1775452376,
-    "SourceString": "1",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "A4A648924E0368F1FEFC3DA5CA7C3C0F",
-    "Hash": 2070343478,
-    "SourceString": "2",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "9217D21E429BF9798811AC8520071241",
-    "Hash": 3285878867,
-    "SourceString": "3",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "EAFE16D848ABD5A8EE7BCAABE5AC4B5E",
-    "Hash": 1577955562,
-    "SourceString": "4",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "26FEE1FE4AB61CCBC4910A9C5CAAF52F",
-    "Hash": 3870414735,
-    "SourceString": "5",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "BBFEF7FF4DC443FA1CC1F0B78E0B41F0",
-    "Hash": 4093933665,
-    "SourceString": "6",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "4EE9428E4DEC093DA53A7E85B04C2643",
-    "Hash": 1287134980,
-    "SourceString": "7",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "DA85208A4E00E9BF3F9D908B485DEC52",
-    "Hash": 349900626,
-    "SourceString": "8",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "E569736E4260392C49FD08BDBF34031F",
-    "Hash": 2892458039,
-    "SourceString": "9",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "36A5CA234D5560BC1FF4D59550C92558",
-    "Hash": 3698226219,
-    "SourceString": "10",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "86FF4B8C4B379B5E33EB2AB612A7CA77",
-    "Hash": 3006200103,
-    "SourceString": "KEEP ITEMS ON DEATH:",
-    "LocalizedString": "СОХРАНЯТЬ ПРЕДМЕТЫ ПОСЛЕ СМЕРТИ:"
-  },
-  {
-    "Namespace": "",
-    "Key": "492C55B447B8A84D2D613AB9438B4F5B",
-    "Hash": 4206551330,
-    "SourceString": "The number of Items you will be allowed to choose to respawn with after dying on 'Extraction Mode'.",
-    "LocalizedString": "Количество предметов, которые вы сможете выбрать для возрождения после смерти в режиме 'Эвакуация'."
-  },
-  {
-    "Namespace": "",
-    "Key": "3678DE644BA55859CE71C8B6D83462A0",
-    "Hash": 1937577984,
-    "SourceString": "LOAD SAVE",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "DB1F80C34EC63B8BB2D0BBAAC2FAA0BB",
-    "Hash": 2461095898,
-    "SourceString": "RESPAWN MODE:",
-    "LocalizedString": "РЕЖИМ ВОЗРОЖДЕНИЯ:"
-  },
-  {
-    "Namespace": "",
-    "Key": "3277976443E9DAFD4362BB9B2892E804",
-    "Hash": 438492620,
-    "SourceString": "What happens when you die:\r\n\r\nLoad Save: \r\nImmediately Respawn at your last save point.\r\n\r\nExtraction: \r\nSelect a predetermined number of items you can respawn with.",
-    "LocalizedString": "Что происходит, когда вы умираете:\r\n\r\nЗагрузка сохранения: \r\nМгновенно возрождаетесь в последней точке сохранения.\r\n\r\nЭвакуация: \r\nВыбираете предопределённое количество предметов, с которыми вы можете возродиться."
   },
   {
     "Namespace": "",
@@ -757,41 +568,6 @@
   },
   {
     "Namespace": "",
-    "Key": "B05A6087478C833C5DAC85AF5659F5ED",
-    "Hash": 2562122788,
-    "SourceString": "SAVE ON LEVEL TRANSITION:",
-    "LocalizedString": "СОХРАНЕНИЕ ПРИ ПЕРЕХОДЕ УРОВНЯ:"
-  },
-  {
-    "Namespace": "",
-    "Key": "BD48E94445536166037A6297BC7D2616",
-    "Hash": 1515644051,
-    "SourceString": "FAIL CONTRACTS ON DEATH:",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "11233BDB468283619B628FA30A7BF661",
-    "Hash": 3159856015,
-    "SourceString": "LOCK SAVE SLOT:",
-    "LocalizedString": "БЛОКИРОВКА СЛОТА СОХРАНЕНИЯ:"
-  },
-  {
-    "Namespace": "",
-    "Key": "A9CE3F2C42A5105D64F94588188A882C",
-    "Hash": 1304471866,
-    "SourceString": "LOSE ITEM SLOT EACH DEATH:",
-    "LocalizedString": "ТЕРЯТЬ СЛОТ ПРЕДМЕТА ПРИ КАЖДОЙ СМЕРТИ:"
-  },
-  {
-    "Namespace": "",
-    "Key": "C0661EF84D7E15A1F0F3D7BD6A15C927",
-    "Hash": 2417650635,
-    "SourceString": "REPLENISH LOOT:",
-    "LocalizedString": "ПОПОЛНЕНИЕ ДОБЫЧИ:"
-  },
-  {
-    "Namespace": "",
     "Key": "1D6A943F4F948E191321A9B3BDE86672",
     "Hash": 1895901752,
     "SourceString": "FINITE SHOP INVENTORY:",
@@ -803,27 +579,6 @@
     "Hash": 855683746,
     "SourceString": "EXTRACTION SETTINGS:",
     "LocalizedString": "НАСТРОЙКИ ЭВАКУАЦИИ:"
-  },
-  {
-    "Namespace": "",
-    "Key": "4805B676474C630295A2ABB7D9B8416E",
-    "Hash": 708250561,
-    "SourceString": "The following settings are only relevant to 'Extraction' mode:",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
-    "Key": "8DFD01B14654E7C38C65C6AF1163E5EB",
-    "Hash": 842539686,
-    "SourceString": "PERMA-DEATH:",
-    "LocalizedString": "МГНОВЕННАЯ СМЕРТЬ:"
-  },
-  {
-    "Namespace": "",
-    "Key": "B9F83AC54B7F7B6A424FF59F8C5DA14C",
-    "Hash": 4256109628,
-    "SourceString": "DROP REMAINING LOOT:",
-    "LocalizedString": "ВЫБРОСИТЬ ОСТАВШУЮСЯ ДОБЫЧУ:"
   },
   {
     "Namespace": "",

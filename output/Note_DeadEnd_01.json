@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "8A9D10254F465BFEDE6F2BBE030227BE",
+    "Hash": 969545543,
+    "SourceString": "!",
+    "LocalizedString": "!"
+  },
+  {
+    "Namespace": "",
+    "Key": "CFC180AA4067F299EEA5258BBA71906F",
+    "Hash": 3174452049,
+    "SourceString": "To all staff: \r\n\r\nIf you need to get into the company Records office, you'll need to get Mr. Sheffield's assistance. \r\nAfter the recent layoffs, he is currently the only employee who has a key. \r\n\r\nThank you!",
+    "LocalizedString": "Всем сотрудникам: \r\n\r\nЕсли вам нужно попасть в архив компании, обратитесь за помощью к мистеру Шеффилду. \r\nПосле недавних увольнений он является единственным сотрудником, у которого есть ключ. \r\n\r\nСпасибо!"
+  },
+  {
+    "Namespace": "",
+    "Key": "C99FF5FC4C02497CA59040BF941D23B5",
+    "Hash": 4045805605,
+    "SourceString": "A Field Report from the Insurrection's 'Dead End' Outpost.",
+    "LocalizedString": "Полевой отчет с передового поста «Тупик» повстанческого движения."
+  }
+]

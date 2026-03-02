@@ -768,5 +768,47 @@
     "Hash": 3677922494,
     "SourceString": "Feral dogs won't attack you.",
     "LocalizedString": "Дикие собаки больше не атакуют вас."
+  },
+  {
+    "Namespace": "",
+    "Key": "435BDD3D49F93EBB8BE84083319C3A69",
+    "Hash": 4218949053,
+    "SourceString": "Solid Posture",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "260EB49D48727A44E4FA25BE7803F37D",
+    "Hash": 1802193857,
+    "SourceString": "You are immune to being stunned.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7E44EC434638C4C84F977FB14BFC4A3A",
+    "Hash": 1671375292,
+    "SourceString": "Iron Gut",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FBAEA0A3470807CECB1667A24969C033",
+    "Hash": 2971458649,
+    "SourceString": "You won't get sick from eating bad food.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A5C26D7E47F933B438908EA5270808A6",
+    "Hash": 3679099990,
+    "SourceString": "Flat Footed",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "024D02864CA8D45E5EE064B5F01DC312",
+    "Hash": 1345938957,
+    "SourceString": "Your footsteps are louder.",
+    "LocalizedString": ""
   }
 ]

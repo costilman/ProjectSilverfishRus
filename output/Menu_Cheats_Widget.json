@@ -8,6 +8,13 @@
   },
   {
     "Namespace": "",
+    "Key": "DA61E96F46D98A3F53E75E8B3DFCC92C",
+    "Hash": 1948404912,
+    "SourceString": "CANCEL",
+    "LocalizedString": "ОТМЕНА"
+  },
+  {
+    "Namespace": "",
     "Key": "6E4D547448A69D1949A8448DAA276630",
     "Hash": 692856776,
     "SourceString": "CLOSE",
@@ -78,13 +85,6 @@
   },
   {
     "Namespace": "",
-    "Key": "DA61E96F46D98A3F53E75E8B3DFCC92C",
-    "Hash": 1948404912,
-    "SourceString": "CANCEL",
-    "LocalizedString": "ОТМЕНА"
-  },
-  {
-    "Namespace": "",
     "Key": "1D69F76D488D736F79E6778471B97AA3",
     "Hash": 2521254185,
     "SourceString": "CONTRACTS",
@@ -134,6 +134,27 @@
   },
   {
     "Namespace": "",
+    "Key": "70ADAC294EE3A87DED882FB7B79AE512",
+    "Hash": 2160113608,
+    "SourceString": "RESET STATS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D05148E84F5E6BA2817173AADFCA8BEC",
+    "Hash": 2373068625,
+    "SourceString": "Reset all meta-progression stats. \r\n\r\nTHIS CAN NOT BE UNDONE!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "629AC26E4EB90B9C73810FB738F3B883",
+    "Hash": 2659502640,
+    "SourceString": "SPAWN STORM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "B77C59D9469FCAC39358D8BFBA97DB25",
     "Hash": 3867694406,
     "SourceString": "TOGGLE WATERMARK",
@@ -162,13 +183,6 @@
   },
   {
     "Namespace": "",
-    "Key": "A75500AB44C7FD35A000C2A96B2085FE",
-    "Hash": 4263930740,
-    "SourceString": "CHEATS:",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "6678B3C3499B97C0AE4106B8D7C37D1D",
     "Hash": 3895806820,
     "SourceString": "$0",
@@ -190,23 +204,30 @@
   },
   {
     "Namespace": "",
-    "Key": "4E7D03084EB1D011472ACB86FCF170C3",
-    "Hash": 1396452044,
-    "SourceString": "FLAGS:",
-    "LocalizedString": "ФЛАГИ:"
-  },
-  {
-    "Namespace": "",
-    "Key": "5E834C704084772D78FE588750A0AAB5",
-    "Hash": 1251345815,
-    "SourceString": "Flag: 1",
-    "LocalizedString": ""
-  },
-  {
-    "Namespace": "",
     "Key": "5D099DB540DF276BE7B170963B098B10",
     "Hash": 4265884649,
     "SourceString": "PASSIVES",
     "LocalizedString": "ПАССИВНЫЕ НАВЫКИ"
+  },
+  {
+    "Namespace": "",
+    "Key": "5C3D5C7143174F6CF7AB4EBCACD338C0",
+    "Hash": 575612105,
+    "SourceString": "STORMS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36CE26994341CF2F6D208D83571CEC07",
+    "Hash": 2182439450,
+    "SourceString": "CHEATS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "438833744314DBF02E3D30821E04892B",
+    "Hash": 1718883163,
+    "SourceString": "FLAGS",
+    "LocalizedString": ""
   }
 ]

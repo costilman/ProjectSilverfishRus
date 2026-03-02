@@ -89,5 +89,33 @@
     "Hash": 3935463792,
     "SourceString": "PROJECT\r\nSILVERFISH",
     "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE7B7AF6464FC85DE77BAFA4D9736803",
+    "Hash": 2052196349,
+    "SourceString": "PERMA-DEATH VICTORIES:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5E284A274AA3C149D2DFD6BDB54B0F2C",
+    "Hash": 3170902897,
+    "SourceString": "MONEY EXTRACTED:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "717140ED4441619A5225678CF1367BD6",
+    "Hash": 1316675959,
+    "SourceString": "$000",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F32AA0794D9326AACA97588CBB747644",
+    "Hash": 437935031,
+    "SourceString": "000",
+    "LocalizedString": ""
   }
 ]

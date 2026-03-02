@@ -15,13 +15,6 @@
   },
   {
     "Namespace": "",
-    "Key": "FA5F178349CD4B05BD14008D12F262FC",
-    "Hash": 59667158,
-    "SourceString": "Goodbye.",
-    "LocalizedString": "До свидания."
-  },
-  {
-    "Namespace": "",
     "Key": "53A4A1E641D0CE0A25D3D98C2931B1E1",
     "Hash": 580700881,
     "SourceString": "It looks like its working so far...",
@@ -47,6 +40,13 @@
     "Hash": 3051054560,
     "SourceString": "I'm hungry, can I have some food?",
     "LocalizedString": "Я голоден, можно мне еды?"
+  },
+  {
+    "Namespace": "",
+    "Key": "8A15561E4860EFD2B6C5D0B123BFDFC8",
+    "Hash": 1059477639,
+    "SourceString": "Test Ending",
+    "LocalizedString": ""
   },
   {
     "Namespace": "",
@@ -82,5 +82,19 @@
     "Hash": 2285803162,
     "SourceString": "Thanks! Goodbye.",
     "LocalizedString": "Спасибо! До свидания."
+  },
+  {
+    "Namespace": "",
+    "Key": "BA528A064791356CE1FCBEBBC05320D3",
+    "Hash": 439974863,
+    "SourceString": "I have no way of safely navigating the NFTA patrols along the coast...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B7B391374A5375704D0770BE3FDB2A51",
+    "Hash": 650405600,
+    "SourceString": "...",
+    "LocalizedString": ""
   }
 ]

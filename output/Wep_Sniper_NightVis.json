@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "53FEAA0C4102CD660EFAC491F49E4AD6",
+    "Hash": 2173602865,
+    "SourceString": "Heavy, modern, bolt-action Combat Sniper with Night-Vis Scope. ",
+    "LocalizedString": "Тяжелая, современная боевая снайперская винтовка с болтовым затвором и прицелом ночного видения. "
+  },
+  {
+    "Namespace": "",
+    "Key": "F499E34A4945148965DE37AAF452EB23",
+    "Hash": 4082483807,
+    "SourceString": "Press :WepToggle: to toggle Night-Vision Scope.",
+    "LocalizedString": "Нажмите :WepToggle: для включения/выключения прицела ночного видения."
+  }
+]

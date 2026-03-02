@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "772DCFB84EF3AB099C69BD8B47937A03",
+    "Hash": 4226425955,
+    "SourceString": "Blueprint: Homebrew Medicine",
+    "LocalizedString": "Чертеж: Домашнее лекарство"
+  },
+  {
+    "Namespace": "",
+    "Key": "E24E601A4559C0B4CAA833A1BC787B23",
+    "Hash": 1935184676,
+    "SourceString": "A set of Blueprints describing how to craft Homebrew Medicine.",
+    "LocalizedString": "Набор чертежей, описывающих, как изготовить домашнее лекарство."
+  }
+]

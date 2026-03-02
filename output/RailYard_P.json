@@ -316,6 +316,13 @@
   },
   {
     "Namespace": "",
+    "Key": "4E5A6E1C4E8E88A12D14AA8B0669582E",
+    "Hash": 689281414,
+    "SourceString": "Territory Held! Reinforcements en route!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "957AB1824994B708E66BE78407B966E9",
     "Hash": 4261708923,
     "SourceString": "Depot",

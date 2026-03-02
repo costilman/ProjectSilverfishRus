@@ -246,6 +246,20 @@
   },
   {
     "Namespace": "",
+    "Key": "024E3C054394370FCC7E0C844B420719",
+    "Hash": 433628370,
+    "SourceString": "Big Iron",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1872C26744BA1FFF532B25B2FA7BC3A3",
+    "Hash": 2325671312,
+    "SourceString": "Lone Wolf",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
     "Key": "9475787D49F9FB4842BB5394713A43F8",
     "Hash": 2788997242,
     "SourceString": "CHOPPER",
@@ -298,6 +312,20 @@
     "Key": "4401FBD24A33275FA4B8DABAE5070F93",
     "Hash": 4287201846,
     "SourceString": "Borough",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "48B73FCA44714008823905B9B7B04F4C",
+    "Hash": 433628370,
+    "SourceString": "Big Iron",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A78CCE9C4B434A5C33768DBB56EDF1F5",
+    "Hash": 3830229836,
+    "SourceString": "LoneWolf",
     "LocalizedString": ""
   },
   {

@@ -341,5 +341,61 @@
     "Hash": 2463243123,
     "SourceString": "Thanks.",
     "LocalizedString": "Спасибо."
+  },
+  {
+    "Namespace": "",
+    "Key": "058147264CB001EAB0D5CA8170242B32",
+    "Hash": 615793276,
+    "SourceString": "Looking for something?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C445FE7940D7EB1E70545E9570E235F7",
+    "Hash": 1387908963,
+    "SourceString": "Not right now..",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "95968DEF4451A0B6D68F82BF91B84F8B",
+    "Hash": 3478420739,
+    "SourceString": "What do you got?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "79B7AE3E4039C537DE0B83967DC59E11",
+    "Hash": 2647375190,
+    "SourceString": "What's your story?",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F901B4C14718E6E0BBB7F893CA266F7D",
+    "Hash": 3772703523,
+    "SourceString": "After I washed up here in the Zone, Simmi took me on board.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3CE61A344A5F69FAE1C54188A378476F",
+    "Hash": 808586614,
+    "SourceString": "I've been helping her chart points of interest and track down documents and data caches. ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "84BD2B5C47A42F76D33D248A7F197724",
+    "Hash": 1759757798,
+    "SourceString": "You might find what I have rather useful, if you got the cash for it...",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3506137E4EDCBAD947F1399B6E489E9B",
+    "Hash": 2917564049,
+    "SourceString": "I see...",
+    "LocalizedString": ""
   }
 ]

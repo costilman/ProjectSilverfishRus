@@ -40,5 +40,19 @@
     "Hash": 3598429424,
     "SourceString": "SHOP NAME",
     "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6353DC6B4F0871F90F0FF5B8EF8F0735",
+    "Hash": 2211483448,
+    "SourceString": "SHOP CASH:",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E2E25CFC4629A89A7D499C89CFB442CB",
+    "Hash": 2486370204,
+    "SourceString": "$20000",
+    "LocalizedString": ""
   }
 ]

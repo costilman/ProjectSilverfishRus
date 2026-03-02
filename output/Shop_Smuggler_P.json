@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "0FDB79544B3C29CD252034AB4522C3F1",
+    "Hash": 16066862,
+    "SourceString": "SHOP",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C45C074841E33D03FC763DB626D82C47",
+    "Hash": 4032171384,
+    "SourceString": "EXIT",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BEAFFEE5412CE616778E4997F0696B55",
+    "Hash": 1820137617,
+    "SourceString": "Smuggler's Den",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E2F05BB544001A7F64228A95382F4153",
+    "Hash": 3405571802,
+    "SourceString": "Smuggler's Shop",
+    "LocalizedString": ""
+  }
+]
